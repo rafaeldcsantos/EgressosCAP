@@ -9,6 +9,7 @@ const resultado = document.querySelector("#resultado");
 const botaoMais = document.querySelector("#carregar-mais");
 const botaoReset = document.querySelector("#restaurar-padrao");
 const botoesOrdem = [...document.querySelectorAll("[data-campo][data-direcao]")];
+const FOTO_PENDENTE = "assets/photos/foto-pendente.svg";
 let egressos = [];
 let limite = POR_PAGINA;
 let grade;
@@ -50,13 +51,13 @@ function criarCard(egresso) {
   const card = fragmento.querySelector(".card-egresso");
   const foto = card.querySelector(".foto");
   card.__egresso = egresso;
-  foto.src = egresso.lattes_id ? `assets/fotos/${egresso.lattes_id}.jpg` : "assets/fotos/sem-foto.jpg";
+  foto.src = egresso.lattes_id ? `assets/photos/${egresso.lattes_id}.jpg` : FOTO_PENDENTE;
   foto.onerror = () => {
     foto.onerror = null;
-    foto.src = "assets/fotos/sem-foto.jpg";
-    foto.alt = `Foto de ${egresso.nome} ainda não informada`;
+    foto.src = FOTO_PENDENTE;
+    foto.alt = `Foto de ${egresso.nome} ainda pendente de busca`;
   };
-  foto.alt = egresso.lattes_id ? `Retrato de ${egresso.nome}` : `Foto de ${egresso.nome} ainda não informada`;
+  foto.alt = egresso.lattes_id ? `Retrato de ${egresso.nome}` : `Foto de ${egresso.nome} ainda pendente de busca`;
   card.querySelector(".nivel").textContent = egresso.nivel;
   card.querySelector("h2").textContent = egresso.nome;
   card.querySelector(".conclusao").textContent = `Conclusão · ${egresso.ano_conclusao}`;
