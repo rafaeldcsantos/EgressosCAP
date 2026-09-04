@@ -69,6 +69,11 @@ h1 {
 .filtros span { color: #52676f; font-size: .65rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
 .filtros input, .filtros select { height: 36px; padding: 0 10px; color: var(--azul-profundo); background: #fff; border: 1px solid #c7d1d0; border-radius: 0; font: inherit; font-size: .83rem; }
 .filtros input { width: 270px; }
+.ordenacao { display: grid; gap: 6px; }
+.ordenacao > span { color: #52676f; font-size: .65rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.botoes-ordem { display: flex; gap: 3px; }
+.botoes-ordem button { height: 36px; padding: 0 8px; color: var(--azul-profundo); background: #fff; border: 1px solid #c7d1d0; border-radius: 0; font: inherit; font-size: .72rem; font-weight: 700; cursor: pointer; }
+.botoes-ordem button:hover, .botoes-ordem button.ativo { color: #fff; border-color: var(--azul); background: var(--azul); }
 .resultado { margin: 0 0 9px auto; color: var(--azul-profundo); font-size: .8rem; font-weight: 700; }
 
 .galeria {

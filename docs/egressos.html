@@ -27,6 +27,15 @@
         <label><span>Buscar por nome</span><input id="busca-nome" type="search" placeholder="Digite um nome" autocomplete="off"></label>
         <label><span>Nível</span><select id="filtro-nivel"><option value="">Todos</option><option value="Mestrado">Mestrado</option><option value="Doutorado">Doutorado</option></select></label>
         <label><span>Ano de conclusão</span><select id="filtro-ano"><option value="">Todos</option></select></label>
+        <div class="ordenacao" aria-label="Ordenar resultados">
+          <span>Ordenar</span>
+          <div class="botoes-ordem">
+            <button type="button" data-campo="nome" data-direcao="crescente" class="ativo">Nome ↑</button>
+            <button type="button" data-campo="nome" data-direcao="decrescente">Nome ↓</button>
+            <button type="button" data-campo="ano_conclusao" data-direcao="crescente">Ano ↑</button>
+            <button type="button" data-campo="ano_conclusao" data-direcao="decrescente">Ano ↓</button>
+          </div>
+        </div>
         <p class="resultado" id="resultado" aria-live="polite"></p>
       </section>
       <section class="galeria" aria-label="Galeria de egressos" id="lista-egressos"></section>

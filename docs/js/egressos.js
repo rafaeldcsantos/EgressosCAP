@@ -8,9 +8,12 @@ const filtroNivel = document.querySelector("#filtro-nivel");
 const filtroAno = document.querySelector("#filtro-ano");
 const resultado = document.querySelector("#resultado");
 const botaoMais = document.querySelector("#carregar-mais");
+const botoesOrdem = [...document.querySelectorAll("[data-campo][data-direcao]")];
 let egressos = [];
 let limite = POR_PAGINA;
 let grade;
+let campoOrdem = "nome";
+let direcaoOrdem = "crescente";
 
 const normalizar = (texto) => texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase("pt-BR");
 
@@ -27,6 +30,13 @@ function corresponde(egresso) {
   return (!termo || normalizar(egresso.nome).includes(termo)) &&
     (!filtroNivel.value || egresso.nivel === filtroNivel.value) &&
     (!filtroAno.value || String(egresso.ano_conclusao) === filtroAno.value);
+}
+
+function comparar(a, b) {
+  const primeiro = campoOrdem === "nome" ? normalizar(a.nome) : a.ano_conclusao;
+  const segundo = campoOrdem === "nome" ? normalizar(b.nome) : b.ano_conclusao;
+  const resultadoComparacao = primeiro < segundo ? -1 : primeiro > segundo ? 1 : normalizar(a.nome).localeCompare(normalizar(b.nome), "pt-BR");
+  return direcaoOrdem === "crescente" ? resultadoComparacao : -resultadoComparacao;
 }
 
 function criarCard(egresso) {
@@ -58,7 +68,7 @@ function criarCard(egresso) {
 }
 
 function aplicarFiltros() {
-  const encontrados = egressos.filter(corresponde);
+  const encontrados = egressos.filter(corresponde).sort(comparar);
   const visiveis = encontrados.slice(0, limite);
   const fragmento = document.createDocumentFragment();
   visiveis.forEach((egresso) => fragmento.append(criarCard(egresso)));
@@ -95,4 +105,10 @@ async function iniciar() {
 ].forEach((evento) => busca.addEventListener(evento, reiniciarFiltro));
 [filtroNivel, filtroAno].forEach((controle) => controle.addEventListener("change", reiniciarFiltro));
 botaoMais.addEventListener("click", () => { limite += POR_PAGINA; aplicarFiltros(); });
+botoesOrdem.forEach((botao) => botao.addEventListener("click", () => {
+  campoOrdem = botao.dataset.campo;
+  direcaoOrdem = botao.dataset.direcao;
+  botoesOrdem.forEach((outro) => outro.classList.toggle("ativo", outro === botao));
+  reiniciarFiltro();
+}));
 iniciar().catch((erro) => { resultado.textContent = erro.message; console.error(erro); });
