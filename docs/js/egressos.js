@@ -11,13 +11,15 @@ const botaoMais = document.querySelector("#carregar-mais");
 let egressos = [];
 let limite = POR_PAGINA;
 let grade;
+let cards = [];
 
 const normalizar = (texto) => texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase("pt-BR");
 
 const links = (egresso) => [
-  ["CV", "Lattes", egresso.lattes_id && `https://lattes.cnpq.br/${egresso.lattes_id}`],
-  ["@", "E-mail", egresso.email && `mailto:${egresso.email}`],
-  ["IG", "Instagram", egresso.instagram && `https://instagram.com/${egresso.instagram}`],
+  ["L", "Currículo Lattes", egresso.lattes_id && `https://lattes.cnpq.br/${egresso.lattes_id}`],
+  ["✉", "E-mail principal", egresso.email && `mailto:${egresso.email}`],
+  ["✉+", "E-mail alternativo", egresso.email_alternativo && `mailto:${egresso.email_alternativo}`],
+  ["◎", "Instagram", egresso.instagram && `https://instagram.com/${egresso.instagram}`],
   ["in", "LinkedIn", egresso.linkedin && `https://www.linkedin.com/in/${egresso.linkedin}`]
 ];
 
@@ -59,13 +61,11 @@ function criarCard(egresso) {
 function aplicarFiltros() {
   const total = egressos.filter(corresponde).length;
   let exibidos = 0;
-  grade.arrange({
-    filter: function () {
-      if (!corresponde(this.__egresso)) return false;
-      exibidos += 1;
-      return exibidos <= limite;
-    }
+  cards.forEach((card) => {
+    const mostrar = corresponde(card.__egresso) && ++exibidos <= limite;
+    card.classList.toggle("visivel", mostrar);
   });
+  grade.arrange({ filter: ".visivel" });
   resultado.textContent = `${total} ${total === 1 ? "egresso encontrado" : "egressos encontrados"}`;
   botaoMais.hidden = limite >= total;
 }
@@ -82,6 +82,7 @@ async function iniciar() {
   const fragmento = document.createDocumentFragment();
   egressos.forEach((egresso) => fragmento.append(criarCard(egresso)));
   lista.replaceChildren(fragmento);
+  cards = [...lista.querySelectorAll(".card-egresso")];
   [...new Set(egressos.map((egresso) => egresso.ano_conclusao))]
     .sort((a, b) => b - a)
     .forEach((ano) => filtroAno.add(new Option(ano, ano)));
