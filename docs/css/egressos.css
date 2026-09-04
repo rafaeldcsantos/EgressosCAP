@@ -12,7 +12,7 @@
 
 body {
   margin: 0;
-  min-width: 980px;
+  min-width: 1700px;
   color: var(--texto);
   background: var(--creme);
   font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
@@ -23,7 +23,7 @@ body {
   align-items: center;
   justify-content: space-between;
   height: 76px;
-  padding: 0 7vw;
+  padding: 0 56px;
   color: #fff;
   background: var(--azul-profundo);
 }
@@ -38,7 +38,7 @@ body {
 .marca span { color: var(--laranja); }
 .topo p { margin: 0; color: #b5c9d1; font-size: .8rem; }
 
-.conteudo { max-width: 1440px; margin: 0 auto; padding: 78px 7vw 92px; }
+.conteudo { max-width: 1700px; margin: 0 auto; padding: 58px 56px 80px; }
 
 .apresentacao { max-width: 675px; margin-bottom: 46px; }
 
@@ -56,7 +56,7 @@ h1, h2 { font-family: Georgia, "Times New Roman", serif; }
 h1 {
   margin: 0;
   color: var(--azul-profundo);
-  font-size: clamp(2.9rem, 5.2vw, 5.1rem);
+  font-size: 4.5rem;
   font-weight: 400;
   letter-spacing: -.05em;
   line-height: .98;
@@ -66,13 +66,14 @@ h1 {
 
 .galeria {
   display: grid;
-  grid-template-columns: repeat(4, minmax(205px, 1fr));
-  gap: 22px;
+  grid-template-columns: repeat(8, 180px);
+  gap: 16px;
 }
 
 .card-egresso {
   overflow: hidden;
-  min-width: 0;
+  width: 180px;
+  height: 372px;
   background: #fff;
   border: 1px solid var(--linha);
   box-shadow: 0 9px 22px rgba(18, 45, 56, .06);
@@ -84,28 +85,34 @@ h1 {
 .foto {
   display: block;
   width: 100%;
-  aspect-ratio: 3 / 4;
+  height: 240px;
   object-fit: cover;
   object-position: center top;
   background: #dce3df;
 }
 
-.card-corpo { padding: 20px 19px 18px; }
-.nivel { margin: 0 0 8px; color: var(--azul); font-size: .72rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+.card-corpo { height: 132px; padding: 13px 13px 11px; }
+.nivel { margin: 0 0 6px; color: var(--azul); font-size: .64rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
 
-h2 { min-height: 2.4em; margin: 0; color: var(--azul-profundo); font-size: 1.52rem; font-weight: 400; line-height: 1.12; }
-.conclusao { margin: 10px 0 20px; color: #66767d; font-size: .87rem; }
+h2 { min-height: 2.35em; margin: 0; overflow: hidden; color: var(--azul-profundo); font-size: 1.05rem; font-weight: 400; line-height: 1.17; }
+.conclusao { margin: 7px 0 9px; color: #66767d; font-size: .7rem; }
 
-.contatos { display: flex; flex-wrap: wrap; gap: 7px; }
-.contatos a {
-  padding: 7px 9px;
+.contatos { display: flex; gap: 4px; }
+.contatos a, .contatos .indisponivel {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 31px;
+  height: 23px;
+  padding: 0;
   color: var(--azul-profundo);
   border: 1px solid #b8c8cd;
   border-radius: 2px;
-  font-size: .7rem;
+  font-size: .59rem;
   font-weight: 750;
   letter-spacing: .06em;
   text-decoration: none;
   text-transform: uppercase;
 }
 .contatos a:hover { color: #fff; border-color: var(--azul); background: var(--azul); }
+.contatos .indisponivel { color: #a9b2b4; border-color: #d8dedd; cursor: default; }
