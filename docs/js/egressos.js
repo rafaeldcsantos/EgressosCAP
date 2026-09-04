@@ -1,4 +1,3 @@
-const FOTO_DE_MOCKUP = "0000000000000000";
 const POR_PAGINA = 48;
 
 const lista = document.querySelector("#lista-egressos");
@@ -22,9 +21,15 @@ const links = (egresso) => [
   ["L", "Currículo Lattes", egresso.lattes_id && `https://lattes.cnpq.br/${egresso.lattes_id}`],
   ["✉", "E-mail principal", egresso.email && `mailto:${egresso.email}`],
   ["✉+", "E-mail alternativo", egresso.email_alternativo && `mailto:${egresso.email_alternativo}`],
-  ["◎", "Instagram", egresso.instagram && `https://instagram.com/${egresso.instagram}`],
-  ["in", "LinkedIn", egresso.linkedin && `https://www.linkedin.com/in/${egresso.linkedin}`]
+  ["◎", "Instagram", socialUrl(egresso.instagram, "https://instagram.com/")],
+  ["in", "LinkedIn", socialUrl(egresso.linkedin, "https://www.linkedin.com/in/")]
 ];
+
+function socialUrl(value, prefix) {
+  const cleaned = (value || "").trim();
+  if (!cleaned) return "";
+  return /^https?:\/\//i.test(cleaned) ? cleaned : `${prefix}${cleaned.replace(/^@/, "")}`;
+}
 
 function corresponde(egresso) {
   const termo = normalizar(busca.value.trim());
@@ -45,7 +50,12 @@ function criarCard(egresso) {
   const card = fragmento.querySelector(".card-egresso");
   const foto = card.querySelector(".foto");
   card.__egresso = egresso;
-  foto.src = `assets/fotos/${egresso.lattes_id || FOTO_DE_MOCKUP}.jpg`;
+  foto.src = egresso.lattes_id ? `assets/fotos/${egresso.lattes_id}.jpg` : "assets/fotos/sem-foto.jpg";
+  foto.onerror = () => {
+    foto.onerror = null;
+    foto.src = "assets/fotos/sem-foto.jpg";
+    foto.alt = `Foto de ${egresso.nome} ainda não informada`;
+  };
   foto.alt = egresso.lattes_id ? `Retrato de ${egresso.nome}` : `Foto de ${egresso.nome} ainda não informada`;
   card.querySelector(".nivel").textContent = egresso.nivel;
   card.querySelector("h2").textContent = egresso.nome;
