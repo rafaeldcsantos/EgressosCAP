@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Mock-up da galeria de egressos da PGCAP.">
+    <title>PGCAP — Egressos</title>
+    <link rel="stylesheet" href="css/egressos.css">
+  </head>
+  <body>
+    <header class="topo">
+      <a class="marca" href="index.html">PGCAP <span>·</span> Acervo de trajetórias</a>
+      <p>Mock-up · dados ilustrativos</p>
+    </header>
+
+    <main class="conteudo">
+      <section class="apresentacao" aria-labelledby="titulo">
+        <p class="rotulo">Egressos</p>
+        <h1 id="titulo">Trajetórias que seguem em movimento.</h1>
+        <p class="texto-intro">Cada cartão reúne as informações acadêmicas e os caminhos públicos indicados pela pessoa egressa.</p>
+      </section>
+
+      <section class="galeria" aria-label="Galeria de egressos" id="lista-egressos"></section>
+    </main>
+
+    <template id="modelo-card">
+      <article class="card-egresso">
+        <img class="foto" alt="">
+        <div class="card-corpo">
+          <p class="nivel"></p>
+          <h2></h2>
+          <p class="conclusao"></p>
+          <nav class="contatos" aria-label="Links públicos"></nav>
+        </div>
+      </article>
+    </template>
+
+    <script src="js/egressos.js"></script>
+  </body>
+</html>
