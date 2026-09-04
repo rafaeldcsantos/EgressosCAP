@@ -20,7 +20,14 @@
         <p class="texto-intro">Cada cartão reúne as informações acadêmicas e os caminhos públicos indicados pela pessoa egressa.</p>
       </section>
 
+      <section class="filtros" aria-label="Filtrar egressos">
+        <label><span>Buscar por nome</span><input id="busca-nome" type="search" placeholder="Digite um nome" autocomplete="off"></label>
+        <label><span>Nível</span><select id="filtro-nivel"><option value="">Todos</option><option value="Mestrado">Mestrado</option><option value="Doutorado">Doutorado</option></select></label>
+        <label><span>Ano de conclusão</span><select id="filtro-ano"><option value="">Todos</option></select></label>
+        <p class="resultado" id="resultado" aria-live="polite"></p>
+      </section>
       <section class="galeria" aria-label="Galeria de egressos" id="lista-egressos"></section>
+      <button class="carregar-mais" id="carregar-mais" type="button">Mostrar mais egressos</button>
     </main>
 
     <template id="modelo-card">
