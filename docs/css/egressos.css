@@ -98,6 +98,7 @@ h1 {
 
 .card-egresso:hover { transform: translateY(-5px); box-shadow: 0 16px 30px rgba(18, 45, 56, .13); }
 
+.area-foto { position: relative; width: 100%; height: 240px; background: #dce3df; }
 .foto {
   display: block;
   width: 100%;
@@ -106,6 +107,12 @@ h1 {
   object-position: center top;
   background: #dce3df;
 }
+.foto-placeholder { display: flex; align-items: center; justify-content: center; flex-direction: column; width: 100%; height: 100%; padding: 18px; text-align: center; }
+.foto-placeholder[hidden] { display: none; }
+.iniciais { display: grid; place-items: center; width: 98px; height: 98px; margin-bottom: 20px; color: #f8fbfa; background: #176a82; border-radius: 50%; font-family: Georgia, "Times New Roman", serif; font-size: 2.15rem; letter-spacing: .05em; }
+.aviso-foto { color: #52676f; font-size: .62rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+.foto-placeholder.sem-foto { background: #eaedec; }
+.foto-placeholder.sem-foto .iniciais { color: #f7f8f7; background: #849295; }
 
 .card-corpo { display: grid; grid-template-rows: 13px 40px 17px 23px; row-gap: 5px; height: 132px; padding: 13px 13px 11px; }
 .nivel { margin: 0; color: var(--azul); font-size: .64rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }

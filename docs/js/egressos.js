@@ -9,7 +9,6 @@ const resultado = document.querySelector("#resultado");
 const botaoMais = document.querySelector("#carregar-mais");
 const botaoReset = document.querySelector("#restaurar-padrao");
 const botoesOrdem = [...document.querySelectorAll("[data-campo][data-direcao]")];
-const FOTO_PENDENTE = "assets/photos/foto-pendente.svg";
 let egressos = [];
 let limite = POR_PAGINA;
 let grade;
@@ -46,18 +45,32 @@ function comparar(a, b) {
   return direcaoOrdem === "crescente" ? resultadoComparacao : -resultadoComparacao;
 }
 
+function iniciais(nome) {
+  const partes = nome.trim().split(/\s+/).filter(Boolean);
+  return (partes[0]?.[0] || "?") + (partes.length > 1 ? partes.at(-1)[0] : "");
+}
+
+function mostrarPlaceholder(foto, placeholder, egresso, tipo) {
+  foto.hidden = true;
+  placeholder.hidden = false;
+  placeholder.classList.toggle("sem-foto", tipo === "sem_foto");
+  placeholder.querySelector(".iniciais").textContent = iniciais(egresso.nome).toLocaleUpperCase("pt-BR");
+  placeholder.querySelector(".aviso-foto").textContent = tipo === "sem_foto" ? "Sem foto disponível" : "Foto pendente";
+}
+
 function criarCard(egresso) {
   const fragmento = modelo.content.cloneNode(true);
   const card = fragmento.querySelector(".card-egresso");
   const foto = card.querySelector(".foto");
+  const placeholder = card.querySelector(".foto-placeholder");
   card.__egresso = egresso;
-  foto.src = egresso.lattes_id ? `assets/photos/${egresso.lattes_id}.jpg` : FOTO_PENDENTE;
-  foto.onerror = () => {
-    foto.onerror = null;
-    foto.src = FOTO_PENDENTE;
-    foto.alt = `Foto de ${egresso.nome} ainda pendente de busca`;
-  };
-  foto.alt = egresso.lattes_id ? `Retrato de ${egresso.nome}` : `Foto de ${egresso.nome} ainda pendente de busca`;
+  if (egresso.foto_tipo === "real") {
+    foto.src = `assets/photos/${egresso.lattes_id}.jpg`;
+    foto.alt = `Retrato de ${egresso.nome}`;
+    foto.onerror = () => mostrarPlaceholder(foto, placeholder, egresso, "pendente");
+  } else {
+    mostrarPlaceholder(foto, placeholder, egresso, egresso.foto_tipo);
+  }
   card.querySelector(".nivel").textContent = egresso.nivel;
   card.querySelector("h2").textContent = egresso.nome;
   card.querySelector(".conclusao").textContent = `Conclusão · ${egresso.ano_conclusao}`;
