@@ -73,7 +73,6 @@ function aplicarFiltros() {
   const fragmento = document.createDocumentFragment();
   visiveis.forEach((egresso) => fragmento.append(criarCard(egresso)));
   lista.replaceChildren(fragmento);
-  lista.style.width = `${Math.max(1, Math.min(8, visiveis.length)) * 196}px`;
   grade.reloadItems();
   grade.arrange({ filter: "*" });
   const total = encontrados.length;

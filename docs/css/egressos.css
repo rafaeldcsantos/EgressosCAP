@@ -1,4 +1,5 @@
 :root {
+  --largura-grade: 1568px;
   --azul-profundo: #0b253e;
   --azul: #176a82;
   --areia: #f4f0e7;
@@ -64,12 +65,12 @@ h1 {
 
 .texto-intro { max-width: 525px; margin: 25px 0 0; font-size: 1.05rem; line-height: 1.65; }
 
-.filtros { display: flex; align-items: end; width: 1568px; margin: 0 auto 30px; padding: 18px 20px; background: #e9eeeb; border-left: 4px solid var(--laranja); }
+.filtros { display: flex; align-items: end; width: var(--largura-grade); margin: 0 auto 30px; padding: 18px 20px; background: #e9eeeb; border-left: 4px solid var(--laranja); }
 .filtros label { display: grid; gap: 6px; }
 .filtros span { color: #52676f; font-size: .65rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
 .filtros input, .filtros select { height: 36px; padding: 0 10px; color: var(--azul-profundo); background: #fff; border: 1px solid #c7d1d0; border-radius: 0; font: inherit; font-size: .83rem; }
 .filtros input { width: 270px; }
-.ordenacao { display: grid; gap: 6px; }
+.ordenacao { display: grid; gap: 6px; margin-left: 38px; }
 .ordenacao > span { color: #52676f; font-size: .65rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
 .botoes-ordem { display: flex; gap: 3px; }
 .botoes-ordem button { height: 36px; padding: 0 8px; color: var(--azul-profundo); background: #fff; border: 1px solid #c7d1d0; border-radius: 0; font: inherit; font-size: .72rem; font-weight: 700; cursor: pointer; }
@@ -77,7 +78,8 @@ h1 {
 .resultado { margin: 0 0 9px auto; color: var(--azul-profundo); font-size: .8rem; font-weight: 700; }
 
 .galeria {
-  max-width: 1568px;
+  width: var(--largura-grade) !important;
+  max-width: none;
   margin: 0 auto;
 }
 
