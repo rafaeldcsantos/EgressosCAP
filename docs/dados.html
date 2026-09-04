@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Acompanhamento dos dados públicos dos egressos da PGCAP.">
+    <meta name="theme-color" content="#0b253e">
+    <title>PGCAP — Dados de egressos</title>
+    <link rel="icon" href="assets/images/favicon.ico" sizes="any">
+    <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
+    <link rel="stylesheet" href="css/dados.css">
+  </head>
+  <body>
+    <header class="topo">
+      <a class="marca" href="index.html">PGCAP <span>·</span> Acompanhamento de Egressos</a>
+      <a class="voltar" href="egressos.html">Ver cartões</a>
+    </header>
+    <main>
+      <section class="cabecalho">
+        <div><p class="rotulo">Base de dados</p><h1>Completude dos registros</h1></div>
+        <p id="resumo" aria-live="polite"></p>
+      </section>
+      <section class="controles" aria-label="Filtrar registros">
+        <label>Buscar por nome <input id="busca" type="search" placeholder="Digite um nome" autocomplete="off"></label>
+        <label class="pendencias"><input id="apenas-pendentes" type="checkbox"> Mostrar apenas registros com pendências</label>
+      </section>
+      <div class="tabela-wrap">
+        <table>
+          <thead><tr><th scope="col">Nome</th><th scope="col">Nível</th><th scope="col">Conclusão</th><th scope="col">ID Lattes</th><th scope="col">E-mail</th><th scope="col">E-mail alt.</th><th scope="col">Instagram</th><th scope="col">LinkedIn</th><th scope="col">Faltam</th></tr></thead>
+          <tbody id="registros"></tbody>
+        </table>
+      </div>
+    </main>
+    <template id="linha-registro">
+      <tr><th class="nome" scope="row"></th><td class="nivel"></td><td class="ano"></td><td class="lattes"></td><td class="email"></td><td class="email-alternativo"></td><td class="instagram"></td><td class="linkedin"></td><td class="faltam"></td></tr>
+    </template>
+    <script src="js/dados.js"></script>
+  </body>
+</html>
