@@ -121,8 +121,7 @@ h2 { display: -webkit-box; height: 40px; margin: 0; overflow: hidden; color: var
   width: 27px;
   height: 23px;
   padding: 0;
-  color: var(--azul-profundo);
-  border: 1px solid #b8c8cd;
+  border: 1px solid currentColor;
   border-radius: 2px;
   font-size: .78rem;
   font-weight: 750;
@@ -130,8 +129,14 @@ h2 { display: -webkit-box; height: 40px; margin: 0; overflow: hidden; color: var
   text-decoration: none;
   text-transform: uppercase;
 }
-.contatos a:hover { color: #fff; border-color: var(--azul); background: var(--azul); }
-.contatos .indisponivel { color: #a9b2b4; border-color: #d8dedd; cursor: default; }
+.contatos .tem-dado { background: #fff; }
+.contatos .tem-dado:hover { color: #fff; border-color: var(--azul-profundo); background: var(--azul-profundo); }
+.contatos .icone-lattes { color: #b45a24; }
+.contatos .icone-email { color: #16718c; }
+.contatos .icone-email-alternativo { color: #4d7b57; }
+.contatos .icone-instagram { color: #a13477; }
+.contatos .icone-linkedin { color: #1666a3; font-weight: 800; }
+.contatos .indisponivel { color: #b9c1c3; border-color: #d8dedd; cursor: default; }
 
 .carregar-mais { display: block; margin: 30px auto 0; padding: 12px 22px; color: #fff; background: var(--azul); border: 0; font: inherit; font-size: .76rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; cursor: pointer; }
 .carregar-mais:hover { background: var(--azul-profundo); }
