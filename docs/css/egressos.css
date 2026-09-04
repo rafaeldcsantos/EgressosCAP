@@ -75,6 +75,8 @@ h1 {
 .botoes-ordem { display: flex; gap: 3px; }
 .botoes-ordem button { height: 36px; padding: 0 8px; color: var(--azul-profundo); background: #fff; border: 1px solid #c7d1d0; border-radius: 0; font: inherit; font-size: .72rem; font-weight: 700; cursor: pointer; }
 .botoes-ordem button:hover, .botoes-ordem button.ativo { color: #fff; border-color: var(--azul); background: var(--azul); }
+.botao-reset { height: 36px; margin-bottom: 0; padding: 0 12px; color: var(--azul-profundo); background: transparent; border: 1px solid #8fa6aa; border-radius: 0; font: inherit; font-size: .72rem; font-weight: 700; cursor: pointer; }
+.botao-reset:hover { color: #fff; border-color: var(--azul-profundo); background: var(--azul-profundo); }
 .resultado { margin: 0 0 9px auto; color: var(--azul-profundo); font-size: .8rem; font-weight: 700; }
 
 .galeria {

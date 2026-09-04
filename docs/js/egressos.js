@@ -8,6 +8,7 @@ const filtroNivel = document.querySelector("#filtro-nivel");
 const filtroAno = document.querySelector("#filtro-ano");
 const resultado = document.querySelector("#resultado");
 const botaoMais = document.querySelector("#carregar-mais");
+const botaoReset = document.querySelector("#restaurar-padrao");
 const botoesOrdem = [...document.querySelectorAll("[data-campo][data-direcao]")];
 let egressos = [];
 let limite = POR_PAGINA;
@@ -110,4 +111,13 @@ botoesOrdem.forEach((botao) => botao.addEventListener("click", () => {
   botoesOrdem.forEach((outro) => outro.classList.toggle("ativo", outro === botao));
   reiniciarFiltro();
 }));
+botaoReset.addEventListener("click", () => {
+  busca.value = "";
+  filtroNivel.value = "";
+  filtroAno.value = "";
+  campoOrdem = "nome";
+  direcaoOrdem = "crescente";
+  botoesOrdem.forEach((botao) => botao.classList.toggle("ativo", botao.dataset.campo === "nome" && botao.dataset.direcao === "crescente"));
+  reiniciarFiltro();
+});
 iniciar().catch((erro) => { resultado.textContent = erro.message; console.error(erro); });
