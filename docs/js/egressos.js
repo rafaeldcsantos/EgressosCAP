@@ -18,11 +18,11 @@ let direcaoOrdem = "crescente";
 const normalizar = (texto) => texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase("pt-BR");
 
 const links = (egresso) => [
-  ["ℒ", "Currículo Lattes", egresso.lattes_id && `http://lattes.cnpq.br/${egresso.lattes_id}`, "lattes"],
-  ["✉", "E-mail principal", egresso.email && `mailto:${egresso.email}`, "email"],
-  ["✉+", "E-mail alternativo", egresso.email_alternativo && `mailto:${egresso.email_alternativo}`, "email-alternativo"],
-  ["◎", "Instagram", socialUrl(egresso.instagram, "https://instagram.com/"), "instagram"],
-  ["in", "LinkedIn", socialUrl(egresso.linkedin, "https://www.linkedin.com/in/"), "linkedin"]
+  ["Currículo Lattes", egresso.lattes_id && `http://lattes.cnpq.br/${egresso.lattes_id}`, "lattes"],
+  ["E-mail principal", egresso.email && `mailto:${egresso.email}`, "email"],
+  ["E-mail alternativo", egresso.email_alternativo && `mailto:${egresso.email_alternativo}`, "email-alternativo"],
+  ["Instagram", socialUrl(egresso.instagram, "https://instagram.com/"), "instagram"],
+  ["LinkedIn", socialUrl(egresso.linkedin, "https://www.linkedin.com/in/"), "linkedin"]
 ];
 
 function socialUrl(value, prefix) {
@@ -61,9 +61,8 @@ function criarCard(egresso) {
   card.querySelector("h2").textContent = egresso.nome;
   card.querySelector(".conclusao").textContent = `Conclusão · ${egresso.ano_conclusao}`;
   const contatos = card.querySelector(".contatos");
-  links(egresso).forEach(([rotulo, descricao, url, tipo]) => {
+  links(egresso).forEach(([descricao, url, tipo]) => {
     const elemento = document.createElement(url ? "a" : "span");
-    elemento.textContent = rotulo;
     elemento.title = url ? descricao : `${descricao} ainda não informado`;
     elemento.className = `icone-${tipo} ${url ? "tem-dado" : "indisponivel"}`;
     if (url) {
@@ -71,6 +70,9 @@ function criarCard(egresso) {
       elemento.target = "_blank";
       elemento.rel = "noreferrer";
       elemento.setAttribute("aria-label", descricao);
+    } else {
+      elemento.setAttribute("aria-label", `${descricao} ainda não informado`);
+      elemento.setAttribute("role", "img");
     }
     contatos.append(elemento);
   });
