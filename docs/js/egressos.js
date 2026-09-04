@@ -11,7 +11,6 @@ const botaoMais = document.querySelector("#carregar-mais");
 let egressos = [];
 let limite = POR_PAGINA;
 let grade;
-let cards = [];
 
 const normalizar = (texto) => texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase("pt-BR");
 
@@ -59,13 +58,14 @@ function criarCard(egresso) {
 }
 
 function aplicarFiltros() {
-  const total = egressos.filter(corresponde).length;
-  let exibidos = 0;
-  cards.forEach((card) => {
-    const mostrar = corresponde(card.__egresso) && ++exibidos <= limite;
-    card.classList.toggle("visivel", mostrar);
-  });
-  grade.arrange({ filter: ".visivel" });
+  const encontrados = egressos.filter(corresponde);
+  const visiveis = encontrados.slice(0, limite);
+  const fragmento = document.createDocumentFragment();
+  visiveis.forEach((egresso) => fragmento.append(criarCard(egresso)));
+  lista.replaceChildren(fragmento);
+  grade.reloadItems();
+  grade.arrange({ filter: "*" });
+  const total = encontrados.length;
   resultado.textContent = `${total} ${total === 1 ? "egresso encontrado" : "egressos encontrados"}`;
   botaoMais.hidden = limite >= total;
 }
@@ -79,10 +79,6 @@ async function iniciar() {
   const resposta = await fetch("data/egressos.json");
   if (!resposta.ok) throw new Error("Não foi possível carregar a lista de egressos.");
   egressos = await resposta.json();
-  const fragmento = document.createDocumentFragment();
-  egressos.forEach((egresso) => fragmento.append(criarCard(egresso)));
-  lista.replaceChildren(fragmento);
-  cards = [...lista.querySelectorAll(".card-egresso")];
   [...new Set(egressos.map((egresso) => egresso.ano_conclusao))]
     .sort((a, b) => b - a)
     .forEach((ano) => filtroAno.add(new Option(ano, ano)));
@@ -90,7 +86,12 @@ async function iniciar() {
   aplicarFiltros();
 }
 
-busca.addEventListener("input", reiniciarFiltro);
+[
+  "input",
+  "change",
+  "search",
+  "keyup"
+].forEach((evento) => busca.addEventListener(evento, reiniciarFiltro));
 [filtroNivel, filtroAno].forEach((controle) => controle.addEventListener("change", reiniciarFiltro));
 botaoMais.addEventListener("click", () => { limite += POR_PAGINA; aplicarFiltros(); });
 iniciar().catch((erro) => { resultado.textContent = erro.message; console.error(erro); });
