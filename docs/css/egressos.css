@@ -70,7 +70,7 @@ h1 {
 .filtros span { color: #52676f; font-size: .65rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
 .filtros input, .filtros select { height: 36px; padding: 0 10px; color: var(--azul-profundo); background: #fff; border: 1px solid #c7d1d0; border-radius: 0; font: inherit; font-size: .83rem; }
 .filtros input { width: 270px; }
-.ordenacao { display: grid; gap: 6px; margin-left: 38px; }
+.ordenacao { display: grid; gap: 6px; margin-left: 114px; }
 .ordenacao > span { color: #52676f; font-size: .65rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
 .botoes-ordem { display: flex; gap: 3px; }
 .botoes-ordem button { height: 36px; padding: 0 8px; color: var(--azul-profundo); background: #fff; border: 1px solid #c7d1d0; border-radius: 0; font: inherit; font-size: .72rem; font-weight: 700; cursor: pointer; }
@@ -87,7 +87,7 @@ h1 {
   overflow: hidden;
   width: 180px;
   height: 372px;
-  margin: 0 16px 16px 0;
+  margin: 0 8px 16px;
   background: #fff;
   border: 1px solid var(--linha);
   box-shadow: 0 9px 22px rgba(18, 45, 56, .06);
