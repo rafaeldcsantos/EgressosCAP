@@ -12,12 +12,11 @@ const socialUrl = (value, prefix) => /^https?:\/\//i.test(value) ? value : `${pr
 function pendencias(egresso) { return CAMPOS.filter(([campo]) => !egresso[campo]).map(([, rotulo]) => rotulo); }
 function marcar(celula, valor, url = "", texto = valor) {
   if (valor && url) { const link = document.createElement("a"); link.href = url; link.target = "_blank"; link.rel = "noreferrer"; link.textContent = texto; celula.append(link); }
-  else { celula.textContent = valor ? "✓" : "—"; celula.classList.add(valor ? "presente" : "ausente"); }
+  else { celula.textContent = valor ? "✓" : "FALTA"; celula.classList.add(valor ? "presente" : "ausente"); }
 }
 function criarLinha(egresso) {
   const fragmento = modelo.content.cloneNode(true);
   const linha = fragmento.querySelector("tr");
-  const faltam = pendencias(egresso);
   linha.querySelector(".nome").textContent = egresso.nome;
   linha.querySelector(".nivel").textContent = egresso.nivel === "Mestrado" ? "M" : "D";
   linha.querySelector(".ano").textContent = egresso.ano_conclusao;
@@ -26,9 +25,6 @@ function criarLinha(egresso) {
   marcar(linha.querySelector(".email-alternativo"), egresso.email_alternativo, egresso.email_alternativo && `mailto:${egresso.email_alternativo}`, "✓");
   marcar(linha.querySelector(".instagram"), egresso.instagram, egresso.instagram && socialUrl(egresso.instagram, "https://instagram.com/"), "✓");
   marcar(linha.querySelector(".linkedin"), egresso.linkedin, egresso.linkedin && socialUrl(egresso.linkedin, "https://www.linkedin.com/in/"), "✓");
-  const celulaFaltam = linha.querySelector(".faltam");
-  celulaFaltam.textContent = faltam.length ? faltam.join(", ") : "Completo";
-  if (!faltam.length) celulaFaltam.classList.add("completo");
   return linha;
 }
 function atualizar() {

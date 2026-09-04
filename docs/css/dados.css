@@ -27,11 +27,9 @@ tbody tr:last-child th, tbody tr:last-child td { border-bottom: 0; }
 .nivel { color: #52676f; }
 .ano { text-align: center; color: #52676f; }
 .presente { color: #24745d; font-weight: 750; }
-.ausente { color: #a6afb0; }
+.ausente { color: #bd2f2f; font-size: .64rem; font-weight: 800; letter-spacing: .04em; }
 td a { color: #24745d; font-weight: 750; text-decoration: none; }
 td a:hover { text-decoration: underline; }
 .lattes a { color: #985020; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .68rem; text-decoration: none; }
 .lattes a:hover { text-decoration: underline; }
-.faltam { max-width: 235px; color: #9a5c35; white-space: normal; }
-.completo { color: #24745d; font-weight: 700; }
 @media (max-width: 760px) { .topo { padding: 0 18px; } main { padding: 22px 18px 42px; } .cabecalho { align-items: start; flex-direction: column; gap: 8px; } .controles { align-items: start; flex-direction: column; gap: 9px; } }
