@@ -94,7 +94,7 @@ h1 {
 .card-corpo { height: 132px; padding: 13px 13px 11px; }
 .nivel { margin: 0 0 6px; color: var(--azul); font-size: .64rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
 
-h2 { min-height: 2.35em; margin: 0; overflow: hidden; color: var(--azul-profundo); font-size: 1.05rem; font-weight: 400; line-height: 1.17; }
+h2 { height: 2.35em; margin: 0; overflow: hidden; color: var(--azul-profundo); font-size: 1.05rem; font-weight: 400; line-height: 1.17; }
 .conclusao { margin: 7px 0 9px; color: #66767d; font-size: .7rem; }
 
 .contatos { display: flex; gap: 4px; }
