@@ -22,17 +22,32 @@
       </section>
       <section class="controles" aria-label="Filtrar registros">
         <label>Buscar por nome <input id="busca" type="search" placeholder="Digite um nome" autocomplete="off"></label>
+        <label>Ano de conclusão <select id="filtro-ano"><option value="">Todos</option></select></label>
         <label class="pendencias"><input id="apenas-pendentes" type="checkbox"> Mostrar apenas registros com pendências</label>
+        <a class="ir-resumo" href="#resumo-colunas" aria-label="Ir para o resumo das colunas" title="Ir para o resumo das colunas">▼</a>
       </section>
       <div class="tabela-wrap">
         <table>
-          <thead><tr><th scope="col">Nome</th><th scope="col">Nível</th><th scope="col">Conclusão</th><th scope="col">ID Lattes</th><th scope="col">E-mail</th><th scope="col">E-mail alt.</th><th scope="col">Instagram</th><th scope="col">LinkedIn</th></tr></thead>
+          <thead><tr>
+            <th scope="col" aria-sort="ascending"><button class="ordenar" type="button" data-campo="nome">Nome</button></th>
+            <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="nivel">Nível</button></th>
+            <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="ano_conclusao">Conclusão</button></th>
+            <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="foto_tipo">Foto</button></th>
+            <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="lattes_id">ID Lattes</button></th>
+            <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="email">E-mail</button></th>
+            <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="email_alternativo">E-mail alt.</button></th>
+            <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="instagram">Instagram</button></th>
+            <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="linkedin">LinkedIn</button></th>
+          </tr></thead>
           <tbody id="registros"></tbody>
+          <tfoot id="resumo-colunas"><tr>
+            <th id="total-nome" scope="row"></th><td id="total-nivel"></td><td id="total-ano"></td><td id="total-foto"></td><td id="total-lattes"></td><td id="total-email"></td><td id="total-email-alternativo"></td><td id="total-instagram"></td><td id="total-linkedin"></td>
+          </tr></tfoot>
         </table>
       </div>
     </main>
     <template id="linha-registro">
-      <tr><th class="nome" scope="row"></th><td class="nivel"></td><td class="ano"></td><td class="lattes"></td><td class="email"></td><td class="email-alternativo"></td><td class="instagram"></td><td class="linkedin"></td></tr>
+      <tr><th class="nome" scope="row"></th><td class="nivel"></td><td class="ano"></td><td class="foto-status"></td><td class="lattes"></td><td class="email"></td><td class="email-alternativo"></td><td class="instagram"></td><td class="linkedin"></td></tr>
     </template>
     <script src="js/dados.js"></script>
   </body>

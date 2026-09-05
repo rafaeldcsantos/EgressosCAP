@@ -15,7 +15,7 @@
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
     "lattes_id": "4219153654306371",
-    "foto_tipo": "pendente",
+    "foto_tipo": "sem_foto",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -26,7 +26,7 @@
     "nivel": "Mestrado",
     "ano_conclusao": 1982,
     "lattes_id": "9823540184752853",
-    "foto_tipo": "pendente",
+    "foto_tipo": "sem_foto",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -42,17 +42,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2009
-  },
-  {
-    "nome": "Adair Santa Catarina",
-    "nivel": "D",
-    "ano_conclusao": 2009,
-    "lattes_id": "7041836941307184",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Adeline Marinho Maciel",
@@ -75,17 +64,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2008
-  },
-  {
-    "nome": "Ademar Muraro Júnior",
-    "nivel": "D",
-    "ano_conclusao": 2008,
-    "lattes_id": "3352469933652327",
-    "foto_tipo": "sem_foto",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Adenilson Roberto Carvalho",
@@ -154,17 +132,6 @@
     "ano_conclusao": 2004
   },
   {
-    "nome": "Adriana Cursino Thomé",
-    "nivel": "D",
-    "ano_conclusao": 2004,
-    "lattes_id": "7449255451182360",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Adriana Prest Mattedi",
     "nivel": "Doutorado",
     "lattes_id": "6337740924268263",
@@ -174,17 +141,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2005
-  },
-  {
-    "nome": "Adriana Prest Mattedi",
-    "nivel": "D",
-    "ano_conclusao": 2005,
-    "lattes_id": "6337740924268263",
-    "foto_tipo": "sem_foto",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Adriana Silva Nakahara",
@@ -254,7 +210,7 @@
   },
   {
     "nome": "Alejandro Cesar Frery Orbambide",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 1993,
     "lattes_id": "6935433850568144",
     "foto_tipo": "real",
@@ -341,17 +297,6 @@
     "ano_conclusao": 2014
   },
   {
-    "nome": "Alex Sandro Aguiar Pessoa",
-    "nivel": "D",
-    "ano_conclusao": 2014,
-    "lattes_id": "2681016875171472",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Alexandre Copertino Jardim",
     "nivel": "Mestrado",
     "lattes_id": "3808235682713305",
@@ -374,17 +319,6 @@
     "ano_conclusao": 2017
   },
   {
-    "nome": "Alexandre Copertino Jardim",
-    "nivel": "D",
-    "ano_conclusao": 2017,
-    "lattes_id": "3808235682713305",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Alexandre César Muniz de Oliveira",
     "nivel": "Doutorado",
     "lattes_id": "5225588855422632",
@@ -394,17 +328,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2004
-  },
-  {
-    "nome": "Alexandre César Muniz de Oliveira",
-    "nivel": "D",
-    "ano_conclusao": 2004,
-    "lattes_id": "5225588855422632",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Alexandre Donizeti Alves",
@@ -421,7 +344,7 @@
     "nome": "Alexandre Franco de Magalhães",
     "nivel": "Mestrado",
     "lattes_id": "9352779706217366",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -440,17 +363,6 @@
     "ano_conclusao": 2001
   },
   {
-    "nome": "Alexandre Guirland Nowosad",
-    "nivel": "D",
-    "ano_conclusao": 2001,
-    "lattes_id": "0504720587589323",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Alexandre Linhares",
     "nivel": "Doutorado",
     "lattes_id": "7478644810461246",
@@ -460,17 +372,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2001
-  },
-  {
-    "nome": "Alexandre Linhares",
-    "nivel": "D",
-    "ano_conclusao": 2001,
-    "lattes_id": "7478644810461246",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Alexandre Magno Gonzaga da Silva",
@@ -572,37 +473,15 @@
     "ano_conclusao": 2012
   },
   {
-    "nome": "Aline Cristina Soterroni",
-    "nivel": "D",
-    "ano_conclusao": 2012,
-    "lattes_id": "8083779845939712",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Amarisio da Silva Araujo",
     "nivel": "Doutorado",
     "lattes_id": "9203454048400403",
-    "foto_tipo": "pendente",
+    "foto_tipo": "sem_foto",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2014
-  },
-  {
-    "nome": "Amarísio da Silva Araújo",
-    "nivel": "D",
-    "ano_conclusao": 2014,
-    "lattes_id": "9203454048400403",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Amita Muralikrishna",
@@ -682,17 +561,6 @@
     "ano_conclusao": 1997
   },
   {
-    "nome": "Ana Lúcia Bezerra Candeias",
-    "nivel": "D",
-    "ano_conclusao": 1997,
-    "lattes_id": "4950530398212920",
-    "foto_tipo": "real",
-    "email": "ana.candeias@ufpe.br",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Ana Maria Ambrosio",
     "nivel": "Doutorado",
     "lattes_id": "6217509029802638",
@@ -702,17 +570,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2005
-  },
-  {
-    "nome": "Ana Maria Ambrosio",
-    "nivel": "D",
-    "ano_conclusao": 2005,
-    "lattes_id": "6217509029802638",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Ana Paula Abrantes de Castro",
@@ -735,17 +592,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2009
-  },
-  {
-    "nome": "Ana Paula Abrantes de Castro",
-    "nivel": "D",
-    "ano_conclusao": 2009,
-    "lattes_id": "9162672829956114",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Ana Silvia Martins Serra do Amaral",
@@ -902,17 +748,6 @@
     "ano_conclusao": 2000
   },
   {
-    "nome": "Andréia Carniello",
-    "nivel": "D",
-    "ano_conclusao": 2009,
-    "lattes_id": "7238676641856131",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Anna Karina Fontes Gomes",
     "nivel": "Mestrado",
     "lattes_id": "2240834435918735",
@@ -1012,17 +847,6 @@
     "ano_conclusao": 2009
   },
   {
-    "nome": "Antônio Augusto Chaves",
-    "nivel": "D",
-    "ano_conclusao": 2009,
-    "lattes_id": "4973949421738244",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Antônio Miguel Vieira Monteiro",
     "nivel": "Mestrado",
     "ano_conclusao": 1988,
@@ -1078,17 +902,6 @@
     "ano_conclusao": 2005
   },
   {
-    "nome": "Arley Ferreira de Souza",
-    "nivel": "D",
-    "ano_conclusao": 2005,
-    "lattes_id": "3013376353724630",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Arnildo Ananias de Oliveira",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -1112,7 +925,7 @@
   },
   {
     "nome": "Arthur Tórgo Gómes",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 1996,
     "lattes_id": "",
     "foto_tipo": "pendente",
@@ -1125,7 +938,7 @@
     "nome": "Arthur Tórgo Gómez",
     "nivel": "Doutorado",
     "lattes_id": "3090969413342098",
-    "foto_tipo": "pendente",
+    "foto_tipo": "sem_foto",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -1159,7 +972,7 @@
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
     "lattes_id": "5456488901320272",
-    "foto_tipo": "pendente",
+    "foto_tipo": "sem_foto",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -1235,23 +1048,12 @@
     "nome": "Bianca Maria Pedrosa",
     "nivel": "Doutorado",
     "lattes_id": "5512756726602398",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2003
-  },
-  {
-    "nome": "Bianca Maria Pedrosa",
-    "nivel": "D",
-    "ano_conclusao": 2003,
-    "lattes_id": "5512756726602398",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Bolis Rodrigues Petrusanis",
@@ -1353,17 +1155,6 @@
     "ano_conclusao": 1990
   },
   {
-    "nome": "Carlos Alberto de Oliveira",
-    "nivel": "D",
-    "ano_conclusao": 1990,
-    "lattes_id": "3647793721071645",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Carlos Alberto Felgueiras",
     "nivel": "Doutorado",
     "lattes_id": "2916855460918534",
@@ -1373,17 +1164,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 1999
-  },
-  {
-    "nome": "Carlos Alberto Felgueiras",
-    "nivel": "D",
-    "ano_conclusao": 1999,
-    "lattes_id": "2916855460918534",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Carlos Antonio Marques Nogueira",
@@ -1563,7 +1343,7 @@
   },
   {
     "nome": "Celso Bernardo Nobrega Freitas",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 2017,
     "lattes_id": "6677187050655324",
     "foto_tipo": "real",
@@ -1604,17 +1384,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2013
-  },
-  {
-    "nome": "Cesar Strauss",
-    "nivel": "D",
-    "ano_conclusao": 2013,
-    "lattes_id": "1228313832666346",
-    "foto_tipo": "sem_foto",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Cintia Pereira de Freitas",
@@ -1661,17 +1430,6 @@
     "ano_conclusao": 2013
   },
   {
-    "nome": "Claudinei Walker da Silva",
-    "nivel": "D",
-    "ano_conclusao": 2013,
-    "lattes_id": "2782183585992593",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Clovis Perin Filho",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -1687,17 +1445,6 @@
     "nivel": "Mestrado",
     "ano_conclusao": 1983,
     "lattes_id": "6635354260645535",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
-    "nome": "Cláudia Robbi",
-    "nivel": "D",
-    "ano_conclusao": 2000,
-    "lattes_id": "7467359757638128",
     "foto_tipo": "pendente",
     "email": "",
     "email_alternativo": "",
@@ -1760,17 +1507,6 @@
     "ano_conclusao": 2006
   },
   {
-    "nome": "Cláudio Faria",
-    "nivel": "D",
-    "ano_conclusao": 2006,
-    "lattes_id": "8435311517599740",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Corina da Costa Freitas Yanasse",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -1826,17 +1562,6 @@
     "ano_conclusao": 2008
   },
   {
-    "nome": "Cristine Hoepers",
-    "nivel": "D",
-    "ano_conclusao": 2008,
-    "lattes_id": "2215364890309488",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "César Antonio Gonçalves",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -1890,17 +1615,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2006
-  },
-  {
-    "nome": "Daniel Massaru Katsurayama",
-    "nivel": "D",
-    "ano_conclusao": 2006,
-    "lattes_id": "3723124745578916",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Daniel Merli Lamosa",
@@ -2113,7 +1827,7 @@
   },
   {
     "nome": "Edson Luiz França Senne",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 1987,
     "lattes_id": "1338008237590056",
     "foto_tipo": "pendente",
@@ -2178,17 +1892,6 @@
     "ano_conclusao": 2012
   },
   {
-    "nome": "Eduardo Fávero Pacheco da Luz",
-    "nivel": "D",
-    "ano_conclusao": 2012,
-    "lattes_id": "6485164320743340",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Eduardo Gomes de Barros",
     "nivel": "Mestrado",
     "lattes_id": "4950959042542211",
@@ -2211,17 +1914,6 @@
     "ano_conclusao": 2010
   },
   {
-    "nome": "Eduardo Gomes de Barros",
-    "nivel": "D",
-    "ano_conclusao": 2010,
-    "lattes_id": "4950959042542211",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Eduardo Hidenori Enari",
     "nivel": "Mestrado",
     "lattes_id": "1599509809687079",
@@ -2242,17 +1934,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2003
-  },
-  {
-    "nome": "Eduardo Hidenori Enari",
-    "nivel": "D",
-    "ano_conclusao": 2003,
-    "lattes_id": "1599509809687079",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Eduardo Lessa Bonelli",
@@ -2354,17 +2035,6 @@
     "ano_conclusao": 2007
   },
   {
-    "nome": "Elcio Hideiti Shiguemori",
-    "nivel": "D",
-    "ano_conclusao": 2007,
-    "lattes_id": "7243145638158319",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Elcio Pasqualucci",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -2396,17 +2066,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2012
-  },
-  {
-    "nome": "Eliana Pantaleão",
-    "nivel": "D",
-    "ano_conclusao": 2012,
-    "lattes_id": "9522811596351113",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Eliane D'Ippolito",
@@ -2451,17 +2110,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2009
-  },
-  {
-    "nome": "Elias Canhadas Genvigir",
-    "nivel": "D",
-    "ano_conclusao": 2009,
-    "lattes_id": "6084795630657031",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Elizabeth Schutzer",
@@ -2541,17 +2189,6 @@
     "ano_conclusao": 2003
   },
   {
-    "nome": "Erico Luiz Rempel",
-    "nivel": "D",
-    "ano_conclusao": 2003,
-    "lattes_id": "2490233702308461",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Erwin Doescher",
     "nivel": "Doutorado",
     "lattes_id": "9388430460339927",
@@ -2563,17 +2200,6 @@
     "ano_conclusao": 2002
   },
   {
-    "nome": "Erwin Doescher",
-    "nivel": "D",
-    "ano_conclusao": 2002,
-    "lattes_id": "9388430460339927",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Eugênio Sper de Almeida",
     "nivel": "Doutorado",
     "lattes_id": "0676191681641372",
@@ -2583,17 +2209,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2007
-  },
-  {
-    "nome": "Eugênio Sper de Almeida",
-    "nivel": "D",
-    "ano_conclusao": 2007,
-    "lattes_id": "0676191681641372",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Eunice Gomes de Siqueira",
@@ -2638,17 +2253,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2009
-  },
-  {
-    "nome": "Evaldinolia Gilbertoni Moreira",
-    "nivel": "D",
-    "ano_conclusao": 2009,
-    "lattes_id": "8545196200418432",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Evaldo Santos Pinheiro",
@@ -2706,28 +2310,6 @@
     "ano_conclusao": 2002
   },
   {
-    "nome": "Fabiano Luis de Sousa",
-    "nivel": "D",
-    "ano_conclusao": 2002,
-    "lattes_id": "4675810813756485",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
-    "nome": "Fabio Dall Cortivo",
-    "nivel": "D",
-    "ano_conclusao": 2013,
-    "lattes_id": "2843177061335707",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Fabio Dall' Cortivo",
     "nivel": "Doutorado",
     "lattes_id": "2843177061335707",
@@ -2772,17 +2354,6 @@
     "ano_conclusao": 2004
   },
   {
-    "nome": "Fabrício Pereira Härter",
-    "nivel": "D",
-    "ano_conclusao": 2004,
-    "lattes_id": "9865056179221557",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Felipe Carvalho de Souza",
     "nivel": "Mestrado",
     "lattes_id": "1585234010491395",
@@ -2814,17 +2385,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2002
-  },
-  {
-    "nome": "Felipe Leonardo Lobo Medeiros",
-    "nivel": "D",
-    "ano_conclusao": 2012,
-    "lattes_id": "8148486577673949",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Felipe Leonardo Lôbo Medeiros",
@@ -2937,17 +2497,6 @@
     "ano_conclusao": 2006
   },
   {
-    "nome": "Fernando Renier Gibotti da Silva",
-    "nivel": "D",
-    "ano_conclusao": 2006,
-    "lattes_id": "0677942900182928",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Feruccio Bilich",
     "nivel": "Mestrado",
     "ano_conclusao": 1971,
@@ -2979,17 +2528,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 1998
-  },
-  {
-    "nome": "Flávia Beatriz Rodrigues Prisco da Cunha",
-    "nivel": "D",
-    "ano_conclusao": 2003,
-    "lattes_id": "2361344348370916",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Flávia Beatriz Vasconcellos Rodrigues",
@@ -3037,7 +2575,7 @@
   },
   {
     "nome": "Flávio Roberto Dias Velasco",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 1977,
     "lattes_id": "",
     "foto_tipo": "pendente",
@@ -3050,23 +2588,12 @@
     "nome": "Francisca Joamila Brito do Nascimento",
     "nivel": "Mestrado",
     "lattes_id": "3758802395321354",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2019
-  },
-  {
-    "nome": "Francisco de Assis Correa",
-    "nivel": "D",
-    "ano_conclusao": 2008,
-    "lattes_id": "9163304064337159",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Francisco de Assis Corrêa",
@@ -3091,17 +2618,6 @@
     "ano_conclusao": 1998
   },
   {
-    "nome": "Francisco de Assis Tavares Ferreira da Silva",
-    "nivel": "D",
-    "ano_conclusao": 1998,
-    "lattes_id": "0504582828060516",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Francisco Eduardo de Carvalho Viola",
     "nivel": "Mestrado",
     "ano_conclusao": 1980,
@@ -3122,17 +2638,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2012
-  },
-  {
-    "nome": "Francisco Javier Tipan Salazar",
-    "nivel": "D",
-    "ano_conclusao": 2012,
-    "lattes_id": "3909705457793101",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Francisco Luís Pompéia Gioielli",
@@ -3322,17 +2827,6 @@
     "ano_conclusao": 2000
   },
   {
-    "nome": "Geraldo Ribeiro Filho",
-    "nivel": "D",
-    "ano_conclusao": 2000,
-    "lattes_id": "2354662228633167",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Germano de Souza Kienbaum",
     "nivel": "Mestrado",
     "ano_conclusao": 1989,
@@ -3369,7 +2863,7 @@
     "nome": "Gerson de Oliveira Barbosa",
     "nivel": "Mestrado",
     "lattes_id": "5531252237682065",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -3389,7 +2883,7 @@
   },
   {
     "nome": "Giane Carla Ito",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 2007,
     "lattes_id": "",
     "foto_tipo": "pendente",
@@ -3421,17 +2915,6 @@
     "ano_conclusao": 1995
   },
   {
-    "nome": "Gilberto Câmara Neto",
-    "nivel": "D",
-    "ano_conclusao": 1995,
-    "lattes_id": "0333390666972274",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Gilberto Ribeiro de Queiroz",
     "nivel": "Mestrado",
     "lattes_id": "9981634193003068",
@@ -3452,17 +2935,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2012
-  },
-  {
-    "nome": "Gilberto Ribeiro de Queiroz",
-    "nivel": "D",
-    "ano_conclusao": 2012,
-    "lattes_id": "9981634193003068",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Gilberto Ribeiro Queiroz",
@@ -3509,17 +2981,6 @@
     "ano_conclusao": 2007
   },
   {
-    "nome": "Glaydston Mattos Ribeiro",
-    "nivel": "D",
-    "ano_conclusao": 2007,
-    "lattes_id": "5401369683892150",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Gleber Nelson Marques",
     "nivel": "Doutorado",
     "lattes_id": "5222086307573756",
@@ -3529,17 +2990,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2008
-  },
-  {
-    "nome": "Gleber Nelson Marques",
-    "nivel": "D",
-    "ano_conclusao": 2008,
-    "lattes_id": "5222086307573756",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Gonçalo Renildo Lima Cerqueira",
@@ -3562,17 +3012,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 1998
-  },
-  {
-    "nome": "Griselda Esther Jara de Garrido",
-    "nivel": "D",
-    "ano_conclusao": 1998,
-    "lattes_id": "0232526330657129",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Guaraci José Erthal",
@@ -3708,7 +3147,7 @@
   },
   {
     "nome": "Helaine Cristina Morais Furtado",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 2012,
     "lattes_id": "1700545931391495",
     "foto_tipo": "pendente",
@@ -3727,17 +3166,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2006
-  },
-  {
-    "nome": "Helcio Francisco Villa Nova",
-    "nivel": "D",
-    "ano_conclusao": 2006,
-    "lattes_id": "9771201880886942",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Heloisa Galvão Villela Santos Borges",
@@ -3831,7 +3259,7 @@
     "nome": "Henrique Niwa",
     "nivel": "Mestrado",
     "lattes_id": "1398960120056570",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -3971,17 +3399,6 @@
     "ano_conclusao": 2007
   },
   {
-    "nome": "Iris Fabiana de Barcelos Tronto",
-    "nivel": "D",
-    "ano_conclusao": 2007,
-    "lattes_id": "8235957717242486",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Isabela Neves Drummond",
     "nivel": "Mestrado",
     "lattes_id": "2799879318334876",
@@ -4002,17 +3419,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2007
-  },
-  {
-    "nome": "Isabela Neves Drummond",
-    "nivel": "D",
-    "ano_conclusao": 2007,
-    "lattes_id": "2799879318334876",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Isolete Teresinha Dzendzik",
@@ -4062,7 +3468,7 @@
     "nome": "Ivo Paixão de Medeiros",
     "nivel": "Doutorado",
     "lattes_id": "2701626369862194",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -4117,7 +3523,7 @@
     "nome": "Jefferson Gonçalves de Souza",
     "nivel": "Mestrado",
     "lattes_id": "3622347983126578",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -4203,7 +3609,7 @@
   },
   {
     "nome": "Joice Selene Mota",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 2009,
     "lattes_id": "7777714279933344",
     "foto_tipo": "pendente",
@@ -4335,7 +3741,7 @@
   },
   {
     "nome": "José Antonio Gonçalves Pereira",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 1982,
     "lattes_id": "",
     "foto_tipo": "pendente",
@@ -4400,28 +3806,6 @@
     "ano_conclusao": 2005
   },
   {
-    "nome": "José Carlos Lombardi",
-    "nivel": "D",
-    "ano_conclusao": 2005,
-    "lattes_id": "5920524861628819",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
-    "nome": "José Claudio Mura",
-    "nivel": "D",
-    "ano_conclusao": 2000,
-    "lattes_id": "8981152353948408",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "José Cláudio Mura",
     "nivel": "Doutorado",
     "lattes_id": "8981152353948408",
@@ -4442,17 +3826,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 1999
-  },
-  {
-    "nome": "José Demísio Simões da Silva",
-    "nivel": "D",
-    "ano_conclusao": 1999,
-    "lattes_id": "3256284655278061",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "José do Patrocínio Morais de Souza",
@@ -4486,17 +3859,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2006
-  },
-  {
-    "nome": "José Ernesto de Araújo Filho",
-    "nivel": "D",
-    "ano_conclusao": 2006,
-    "lattes_id": "2039900917750691",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "José Fernandes da Nóbrega",
@@ -4607,17 +3969,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2004
-  },
-  {
-    "nome": "José Olímpio Ferreira",
-    "nivel": "D",
-    "ano_conclusao": 2004,
-    "lattes_id": "4219212576554236",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "José Oscar Fernandes",
@@ -4731,7 +4082,7 @@
   },
   {
     "nome": "João Bosco Schumann Cunha",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 1997,
     "lattes_id": "0292778391448792",
     "foto_tipo": "pendente",
@@ -4772,17 +4123,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 1998
-  },
-  {
-    "nome": "João Carlos Furtado",
-    "nivel": "D",
-    "ano_conclusao": 1998,
-    "lattes_id": "5916894709084624",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "João Eduardo Oliveira da Silva",
@@ -4862,17 +4202,6 @@
     "ano_conclusao": 1998
   },
   {
-    "nome": "João Ricardo de Freitas Oliveira",
-    "nivel": "D",
-    "ano_conclusao": 1998,
-    "lattes_id": "5067006506847859",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "João Victor Cal Garcia",
     "nivel": "Mestrado",
     "lattes_id": "7131920754003820",
@@ -4893,17 +4222,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2014
-  },
-  {
-    "nome": "Juliana  Aparecida Anochi",
-    "nivel": "D",
-    "ano_conclusao": 2015,
-    "lattes_id": "2720072834057575",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Juliana Aparecida Anochi",
@@ -4959,17 +4277,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2004
-  },
-  {
-    "nome": "Juliana Cristina Braga",
-    "nivel": "D",
-    "ano_conclusao": 2004,
-    "lattes_id": "7111526592323456",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Juliana de Mattos Guerra Simões",
@@ -5115,17 +4422,6 @@
     "ano_conclusao": 2005
   },
   {
-    "nome": "Kamel Bensebaa",
-    "nivel": "D",
-    "ano_conclusao": 2005,
-    "lattes_id": "5638060038239782",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Karine Reis Ferreira",
     "nivel": "Mestrado",
     "lattes_id": "1014575950191035",
@@ -5138,7 +4434,7 @@
   },
   {
     "nome": "Karine Reis Ferreira",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 2012,
     "lattes_id": "1014575950191035",
     "foto_tipo": "pendente",
@@ -5170,17 +4466,6 @@
     "ano_conclusao": 2009
   },
   {
-    "nome": "Karla Donato Fook",
-    "nivel": "D",
-    "ano_conclusao": 2009,
-    "lattes_id": "4637772374064396",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Kiyoshi Yoneda",
     "nivel": "Mestrado",
     "ano_conclusao": 1980,
@@ -5201,17 +4486,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2008
-  },
-  {
-    "nome": "Klaus Steding-Jessen",
-    "nivel": "D",
-    "ano_conclusao": 2008,
-    "lattes_id": "0432029136914154",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Kleber de Mattos Dobrowolski",
@@ -5256,17 +4530,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2013
-  },
-  {
-    "nome": "Laurita dos Santos",
-    "nivel": "D",
-    "ano_conclusao": 2013,
-    "lattes_id": "7478013493888839",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Lauro Lage Filho",
@@ -5346,19 +4609,8 @@
     "ano_conclusao": 1999
   },
   {
-    "nome": "Leila Maria Garcia Fonseca",
-    "nivel": "D",
-    "ano_conclusao": 1999,
-    "lattes_id": "5123287769635741",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Leonardo Bacelar Lima dos Santos",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 2014,
     "lattes_id": "9147853693310634",
     "foto_tipo": "pendente",
@@ -5399,17 +4651,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2005
-  },
-  {
-    "nome": "Leonardo Dagnino Chiwiacowsky",
-    "nivel": "D",
-    "ano_conclusao": 2005,
-    "lattes_id": "2945278651389111",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Leonardo de Souza Vieira",
@@ -5577,17 +4818,6 @@
     "ano_conclusao": 2015
   },
   {
-    "nome": "Luciana Brasil Rebelo dos Santos",
-    "nivel": "D",
-    "ano_conclusao": 2015,
-    "lattes_id": "4896052217878979",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Luciana de Souza Lopes",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -5633,7 +4863,7 @@
   },
   {
     "nome": "Luciano Vieira Dutra",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 1989,
     "lattes_id": "9840759640842299",
     "foto_tipo": "pendente",
@@ -5797,17 +5027,6 @@
     "ano_conclusao": 2010
   },
   {
-    "nome": "Luiz Guilherme Nadal Nunes",
-    "nivel": "D",
-    "ano_conclusao": 2010,
-    "lattes_id": "8905139393539858",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Luiz Gustavo Cunha Barbato",
     "nivel": "Mestrado",
     "lattes_id": "2826365778176260",
@@ -5833,7 +5052,7 @@
     "nome": "Luiz Gustavo Diniz de Oliveira Véras",
     "nivel": "Mestrado",
     "lattes_id": "1335485763929476",
-    "foto_tipo": "pendente",
+    "foto_tipo": "sem_foto",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -5844,7 +5063,7 @@
     "nome": "Luiz Gustavo Diniz de Oliveira Véras",
     "nivel": "Doutorado",
     "lattes_id": "1335485763929476",
-    "foto_tipo": "pendente",
+    "foto_tipo": "sem_foto",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -5940,17 +5159,6 @@
     "ano_conclusao": 2007
   },
   {
-    "nome": "Lília de Sá Silva",
-    "nivel": "D",
-    "ano_conclusao": 2007,
-    "lattes_id": "2417056565366433",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Lúbia Vinhas",
     "nivel": "Mestrado",
     "lattes_id": "6187040703676041",
@@ -5971,17 +5179,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2006
-  },
-  {
-    "nome": "Lúbia Vinhas",
-    "nivel": "D",
-    "ano_conclusao": 2006,
-    "lattes_id": "6187040703676041",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Mag Pachego",
@@ -6050,17 +5247,6 @@
     "ano_conclusao": 2005
   },
   {
-    "nome": "Manoel de Araújo Sousa Júnior",
-    "nivel": "D",
-    "ano_conclusao": 2005,
-    "lattes_id": "7229572371807677",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Marcelino Pereira dos Santos Silva",
     "nivel": "Doutorado",
     "lattes_id": "7817033448036400",
@@ -6070,17 +5256,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2006
-  },
-  {
-    "nome": "Marcelino Pereira dos Santos Silva",
-    "nivel": "D",
-    "ano_conclusao": 2006,
-    "lattes_id": "7817033448036400",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Marcelly Homem Coelho",
@@ -6114,17 +5289,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 1998
-  },
-  {
-    "nome": "Marcelo Gonçalves Narciso",
-    "nivel": "D",
-    "ano_conclusao": 1998,
-    "lattes_id": "1175679097609016",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Marcelo Henrique Peixoto Caetano Chaves",
@@ -6182,17 +5346,6 @@
     "ano_conclusao": 2003
   },
   {
-    "nome": "Marcelo Saraiva Limeira",
-    "nivel": "D",
-    "ano_conclusao": 2003,
-    "lattes_id": "6611139763553149",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Marcio Azeredo",
     "nivel": "Mestrado",
     "lattes_id": "0778787290718573",
@@ -6213,17 +5366,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2017
-  },
-  {
-    "nome": "Marcio Azeredo",
-    "nivel": "D",
-    "ano_conclusao": 2017,
-    "lattes_id": "0778787290718573",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Marcio Nogueira Barbosa",
@@ -6281,19 +5423,8 @@
     "ano_conclusao": 2005
   },
   {
-    "nome": "Marcos Antonio Pereira",
-    "nivel": "D",
-    "ano_conclusao": 2005,
-    "lattes_id": "9386730770147178",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Marcos Antônio Timbó",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 2008,
     "lattes_id": "6956968845038843",
     "foto_tipo": "pendente",
@@ -6479,17 +5610,6 @@
     "ano_conclusao": 2007
   },
   {
-    "nome": "Maria da Piedade Gomes de Oliveira",
-    "nivel": "D",
-    "ano_conclusao": 2007,
-    "lattes_id": "8355899007771241",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Maria Elenita Menezes Nascimento",
     "nivel": "Mestrado",
     "ano_conclusao": 1981,
@@ -6521,17 +5641,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2004
-  },
-  {
-    "nome": "Maria José Pinto",
-    "nivel": "D",
-    "ano_conclusao": 2004,
-    "lattes_id": "5482331342897900",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Maria Suelena Santiago Barros",
@@ -6567,17 +5676,6 @@
     "ano_conclusao": 2014
   },
   {
-    "nome": "Maria Teodora Ferreira",
-    "nivel": "D",
-    "ano_conclusao": 2014,
-    "lattes_id": "1024298618876644",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Mariana Pelissari Monteiro Aguiar Baroni",
     "nivel": "Mestrado",
     "lattes_id": "1455747602225273",
@@ -6598,17 +5696,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2009
-  },
-  {
-    "nome": "Mariana Pelissari Monteiro Aguiar Baroni",
-    "nivel": "D",
-    "ano_conclusao": 2009,
-    "lattes_id": "1455747602225273",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Marie Radi Maftoum",
@@ -6721,17 +5808,6 @@
     "ano_conclusao": 2015
   },
   {
-    "nome": "Marlon da Silva",
-    "nivel": "D",
-    "ano_conclusao": 2015,
-    "lattes_id": "9331509602982993",
-    "foto_tipo": "real",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Marluce da Cruz Scarabello",
     "nivel": "Doutorado",
     "lattes_id": "1269506050291866",
@@ -6812,7 +5888,7 @@
     "nome": "Matheus Monteiro Mariano",
     "nivel": "Mestrado",
     "lattes_id": "7074181888782869",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -6897,17 +5973,6 @@
     "ano_conclusao": 2001
   },
   {
-    "nome": "Maurício Gonçalves Vieira Ferreira",
-    "nivel": "D",
-    "ano_conclusao": 2001,
-    "lattes_id": "1304704585952173",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Maurício Marengoni",
     "nivel": "Mestrado",
     "lattes_id": "1974791787566027",
@@ -6974,17 +6039,6 @@
     "ano_conclusao": 2025
   },
   {
-    "nome": "Miriam Célia Bergue Alves",
-    "nivel": "D",
-    "ano_conclusao": 1999,
-    "lattes_id": "1824599016684063",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Mirna Felicia Ramos de Oliveira Petrusanis",
     "nivel": "Mestrado",
     "ano_conclusao": 1983,
@@ -7027,17 +6081,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2003
-  },
-  {
-    "nome": "Missae Yamamoto",
-    "nivel": "D",
-    "ano_conclusao": 2003,
-    "lattes_id": "9156355272138298",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Moacir Pereira Barros",
@@ -7084,17 +6127,6 @@
     "ano_conclusao": 2008
   },
   {
-    "nome": "Murilo da Silva Dantas",
-    "nivel": "D",
-    "ano_conclusao": 2014,
-    "lattes_id": "3188890226171961",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Márcia Aparecida Monteiro",
     "nivel": "Doutorado",
     "lattes_id": "3280285948628782",
@@ -7104,17 +6136,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 1999
-  },
-  {
-    "nome": "Márcia Aparecida Monteiro",
-    "nivel": "D",
-    "ano_conclusao": 1999,
-    "lattes_id": "3280285948628782",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Márcia Rodrigues Campos",
@@ -7183,17 +6204,6 @@
     "ano_conclusao": 1999
   },
   {
-    "nome": "Mônica Maria de Marchi",
-    "nivel": "D",
-    "ano_conclusao": 1999,
-    "lattes_id": "5134781619983724",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Múcio Roberto Dias",
     "nivel": "Mestrado",
     "ano_conclusao": 1973,
@@ -7208,7 +6218,7 @@
     "nome": "Müller Moreira Souza Lopes",
     "nivel": "Mestrado",
     "lattes_id": "3841500441111957",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -7219,7 +6229,7 @@
     "nome": "Müller Moreira Souza Lopes",
     "nivel": "Doutorado",
     "lattes_id": "3841500441111957",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -7293,17 +6303,6 @@
     "ano_conclusao": 2003
   },
   {
-    "nome": "Nei Cardoso Cardenuto",
-    "nivel": "D",
-    "ano_conclusao": 2003,
-    "lattes_id": "0566454895155610",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Nei Yoshihiro Soma",
     "nivel": "Mestrado",
     "ano_conclusao": 1985,
@@ -7324,17 +6323,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2000
-  },
-  {
-    "nome": "Nelson Pereira Filho",
-    "nivel": "D",
-    "ano_conclusao": 2000,
-    "lattes_id": "0521330062523369",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Newton Marcos Vasconcellos",
@@ -7368,17 +6356,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 1993
-  },
-  {
-    "nome": "Nilson Sant'Anna",
-    "nivel": "D",
-    "ano_conclusao": 2000,
-    "lattes_id": "4347210161034226",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Nuno César da Rocha Ferreira",
@@ -7437,7 +6414,7 @@
   },
   {
     "nome": "Orion de Oliveira Silva",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 1983,
     "lattes_id": "6165282018255889",
     "foto_tipo": "pendente",
@@ -7602,7 +6579,7 @@
   },
   {
     "nome": "Paulo Ouvera Simoni",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 1986,
     "lattes_id": "5749326908774131",
     "foto_tipo": "pendente",
@@ -7643,17 +6620,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2007
-  },
-  {
-    "nome": "Paulo Roberto Nascimento Travassos",
-    "nivel": "D",
-    "ano_conclusao": 2007,
-    "lattes_id": "6880433324654152",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Paulo Roberto Rio da Cunha",
@@ -7755,17 +6721,6 @@
     "ano_conclusao": 2010
   },
   {
-    "nome": "Pedro Ribeiro de Andrade Neto",
-    "nivel": "D",
-    "ano_conclusao": 2010,
-    "lattes_id": "3800022078311584",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Peterson Lima Sarmento",
     "nivel": "Mestrado",
     "lattes_id": "7023647412214405",
@@ -7830,17 +6785,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2011
-  },
-  {
-    "nome": "Primavera Botelho de Souza",
-    "nivel": "D",
-    "ano_conclusao": 2011,
-    "lattes_id": "7409930611743712",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Rafael Marinho de Andrade",
@@ -7909,17 +6853,6 @@
     "ano_conclusao": 2012
   },
   {
-    "nome": "Ramon Morais de Freitas",
-    "nivel": "D",
-    "ano_conclusao": 2012,
-    "lattes_id": "1332820060598155",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Raul dos Santos Barbeiro Gonçalves da Silva",
     "nivel": "Mestrado",
     "ano_conclusao": 2001,
@@ -7953,17 +6886,6 @@
     "ano_conclusao": 2002
   },
   {
-    "nome": "Reinaldo Gen Ichiro Arakaki",
-    "nivel": "D",
-    "ano_conclusao": 2002,
-    "lattes_id": "2075406788034578",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Renata Sampaio da Rocha",
     "nivel": "Mestrado",
     "lattes_id": "6593994541517752",
@@ -7976,7 +6898,7 @@
   },
   {
     "nome": "Renata Sampaio da Rocha",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 2011,
     "lattes_id": "6593994541517752",
     "foto_tipo": "pendente",
@@ -8022,7 +6944,7 @@
     "nome": "Rennan de Freitas Bezerra Marujo",
     "nivel": "Doutorado",
     "lattes_id": "1967339602343455",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -8129,17 +7051,6 @@
     "ano_conclusao": 2002
   },
   {
-    "nome": "Ricardo Rodrigues Rangel",
-    "nivel": "D",
-    "ano_conclusao": 2002,
-    "lattes_id": "6214522645498224",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Ricardo Varela Corrêa",
     "nivel": "Mestrado",
     "lattes_id": "0304491358206504",
@@ -8162,17 +7073,6 @@
     "ano_conclusao": 2005
   },
   {
-    "nome": "Ricardo Varela Corrêa",
-    "nivel": "D",
-    "ano_conclusao": 2005,
-    "lattes_id": "0304491358206504",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Rita de Cássia Meneses Rodrigues",
     "nivel": "Doutorado",
     "lattes_id": "1161682301970625",
@@ -8184,17 +7084,6 @@
     "ano_conclusao": 1998
   },
   {
-    "nome": "Rita de Cássia Meneses Rodrigues",
-    "nivel": "D",
-    "ano_conclusao": 1998,
-    "lattes_id": "1161682301970625",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Roberta Panzera Tavares",
     "nivel": "Mestrado",
     "lattes_id": "3773134767477512",
@@ -8204,17 +7093,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2007
-  },
-  {
-    "nome": "Roberto Affonso da Costa Junior",
-    "nivel": "D",
-    "ano_conclusao": 2004,
-    "lattes_id": "3592593288261517",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Roberto Affonso da Costa Júnior",
@@ -8250,17 +7128,6 @@
     "ano_conclusao": 2006
   },
   {
-    "nome": "Roberto Luiz Galski",
-    "nivel": "D",
-    "ano_conclusao": 2006,
-    "lattes_id": "8427569272485063",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Roberto Neves Salles",
     "nivel": "Doutorado",
     "lattes_id": "1079339034274017",
@@ -8281,17 +7148,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2006
-  },
-  {
-    "nome": "Roberto Pinto Souto",
-    "nivel": "D",
-    "ano_conclusao": 2006,
-    "lattes_id": "1471432563506193",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Roberto Yuji Tanaka",
@@ -8338,17 +7194,6 @@
     "ano_conclusao": 2012
   },
   {
-    "nome": "Rodolfo Maduro Almeida",
-    "nivel": "D",
-    "ano_conclusao": 2012,
-    "lattes_id": "1527651015984510",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Rodolfo Ranck Junior",
     "nivel": "Mestrado",
     "lattes_id": "8442317526564427",
@@ -8371,21 +7216,10 @@
     "ano_conclusao": 2014
   },
   {
-    "nome": "Rodolfo Ranck Júnior",
-    "nivel": "D",
-    "ano_conclusao": 2014,
-    "lattes_id": "8442317526564427",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Rodrigo Augusto Rebouças",
     "nivel": "Mestrado",
     "lattes_id": "4734945113670253",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -8493,7 +7327,7 @@
   },
   {
     "nome": "Rogério Galanti Negri",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 2013,
     "lattes_id": "8201805132981288",
     "foto_tipo": "pendente",
@@ -8547,17 +7381,6 @@
     "ano_conclusao": 1998
   },
   {
-    "nome": "Ronei Marcos de Moraes",
-    "nivel": "D",
-    "ano_conclusao": 1998,
-    "lattes_id": "7925449690046513",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Rosangela Saher Corrêa Cintra",
     "nivel": "Mestrado",
     "lattes_id": "8185155301349092",
@@ -8591,17 +7414,6 @@
     "ano_conclusao": 2011
   },
   {
-    "nome": "Rosângela Follmann Bageston",
-    "nivel": "D",
-    "ano_conclusao": 2011,
-    "lattes_id": "3001244376926346",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Rosângela Saher Corrêa Cintra",
     "nivel": "Doutorado",
     "lattes_id": "8185155301349092",
@@ -8611,17 +7423,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2010
-  },
-  {
-    "nome": "Rosângela Saher Corrêa Cintra",
-    "nivel": "D",
-    "ano_conclusao": 2010,
-    "lattes_id": "8185155301349092",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Rovedy Aparecida Busquim e Silva",
@@ -8699,17 +7500,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2014
-  },
-  {
-    "nome": "Rudinei Martins de Oliveira",
-    "nivel": "D",
-    "ano_conclusao": 2014,
-    "lattes_id": "5646106475123143",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Rui Nelson Taborda de Almeida",
@@ -8792,7 +7582,7 @@
     "nome": "Sandy Moreira Pôrto",
     "nivel": "Mestrado",
     "lattes_id": "8707473792725178",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -8803,7 +7593,7 @@
     "nome": "Sandy Moreira Pôrto",
     "nivel": "Doutorado",
     "lattes_id": "8707473792725178",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -8822,17 +7612,6 @@
     "ano_conclusao": 2015
   },
   {
-    "nome": "Saymon Henrique Santos Santana",
-    "nivel": "D",
-    "ano_conclusao": 2015,
-    "lattes_id": "0550548327276659",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Sdnei de Brito Alves",
     "nivel": "Doutorado",
     "lattes_id": "0000565598534943",
@@ -8842,17 +7621,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 1992
-  },
-  {
-    "nome": "Sdnei de Brito Alves",
-    "nivel": "D",
-    "ano_conclusao": 1992,
-    "lattes_id": "0000565598534943",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Sergio Donizete Faria",
@@ -8875,17 +7643,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2008
-  },
-  {
-    "nome": "Sergio Rosim",
-    "nivel": "D",
-    "ano_conclusao": 2008,
-    "lattes_id": "2442547278150847",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Sheila Ferreira",
@@ -8921,17 +7678,6 @@
     "ano_conclusao": 2005
   },
   {
-    "nome": "Silene Fernandes Bicudo",
-    "nivel": "D",
-    "ano_conclusao": 2005,
-    "lattes_id": "7110525234881119",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Silvely Nogueira de Almeida Salomão",
     "nivel": "Doutorado",
     "lattes_id": "1425414477166657",
@@ -8941,17 +7687,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2005
-  },
-  {
-    "nome": "Silvely Nogueira de Almeida Salomão",
-    "nivel": "D",
-    "ano_conclusao": 2005,
-    "lattes_id": "1425414477166657",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Silvia de Oliveira Barcellos",
@@ -8974,17 +7709,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2003
-  },
-  {
-    "nome": "Silvia Maria Fonseca Silveira Massruhá",
-    "nivel": "D",
-    "ano_conclusao": 2003,
-    "lattes_id": "0950718064055473",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Silvia Shizue Leonardi",
@@ -9075,17 +7799,6 @@
     "ano_conclusao": 1997
   },
   {
-    "nome": "Stephan Stephany",
-    "nivel": "D",
-    "ano_conclusao": 1997,
-    "lattes_id": "1446664587151293",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Synval Delano Motta Runha",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -9128,17 +7841,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 1997
-  },
-  {
-    "nome": "Sérgio Donizete Faria",
-    "nivel": "D",
-    "ano_conclusao": 2004,
-    "lattes_id": "4291462690681682",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Sérgio Donizetti Fischer",
@@ -9229,17 +7931,6 @@
     "ano_conclusao": 2012
   },
   {
-    "nome": "Sérgio Souza Costa",
-    "nivel": "D",
-    "ano_conclusao": 2012,
-    "lattes_id": "2073311645132958",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Sérgio Suren Kurkdjian",
     "nivel": "Mestrado",
     "ano_conclusao": 2006,
@@ -9273,17 +7964,6 @@
     "ano_conclusao": 2015
   },
   {
-    "nome": "Sóstenes Pereira Gomes",
-    "nivel": "D",
-    "ano_conclusao": 2015,
-    "lattes_id": "4804847828228300",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Sônia Mara de Souza",
     "nivel": "Mestrado",
     "lattes_id": "5744625385030859",
@@ -9315,17 +7995,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2007
-  },
-  {
-    "nome": "Taciana de Lemos Dias",
-    "nivel": "D",
-    "ano_conclusao": 2007,
-    "lattes_id": "0535178144031059",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Talita Oliveira Assis",
@@ -9438,17 +8107,6 @@
     "ano_conclusao": 2006
   },
   {
-    "nome": "Tiago Garcia de Senna Carneiro",
-    "nivel": "D",
-    "ano_conclusao": 2006,
-    "lattes_id": "4579376264162079",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Toni Roberto Gomes Pimentel",
     "nivel": "Mestrado",
     "lattes_id": "4504081896548622",
@@ -9482,17 +8140,6 @@
     "ano_conclusao": 2006
   },
   {
-    "nome": "Ubiratan Santos Freitas",
-    "nivel": "D",
-    "ano_conclusao": 2006,
-    "lattes_id": "2448913475359248",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Valdemir Silva Souza",
     "nivel": "Mestrado",
     "lattes_id": "1936928649320996",
@@ -9513,17 +8160,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2012
-  },
-  {
-    "nome": "Valdir Gil Pillat",
-    "nivel": "D",
-    "ano_conclusao": 2012,
-    "lattes_id": "1106857072073407",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Valdivino Alexandre de Santiago Júnior",
@@ -9760,7 +8396,7 @@
     "nome": "Wanderson Santos Costa",
     "nivel": "Mestrado",
     "lattes_id": "3700081997386296",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -9771,7 +8407,7 @@
     "nome": "Wanderson Santos Costa",
     "nivel": "Doutorado",
     "lattes_id": "3700081997386296",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "",
     "email_alternativo": "",
     "instagram": "",
@@ -9843,17 +8479,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2014
-  },
-  {
-    "nome": "Wesley Gomes de Almeida",
-    "nivel": "D",
-    "ano_conclusao": 2014,
-    "lattes_id": "7282418444276881",
-    "foto_tipo": "pendente",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Willian Vieira de Oliveira",
@@ -9944,17 +8569,6 @@
     "ano_conclusao": 2009
   },
   {
-    "nome": "Álvaro Augusto Neto",
-    "nivel": "D",
-    "ano_conclusao": 2009,
-    "lattes_id": "4681602743000650",
-    "foto_tipo": "sem_foto",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
     "nome": "Álvaro Luiz Fazenda",
     "nivel": "Mestrado",
     "lattes_id": "7606159905559544",
@@ -9975,17 +8589,6 @@
     "instagram": "",
     "linkedin": "",
     "ano_conclusao": 2002
-  },
-  {
-    "nome": "Álvaro Luiz Fazenda",
-    "nivel": "D",
-    "ano_conclusao": 2002,
-    "lattes_id": "7606159905559544",
-    "foto_tipo": "sem_foto",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
   },
   {
     "nome": "Émerson Jean da Silva",
@@ -10022,7 +8625,7 @@
   },
   {
     "nome": "Érica Ferreira de Souza",
-    "nivel": "D",
+    "nivel": "Doutorado",
     "ano_conclusao": 2013,
     "lattes_id": "8904855809524041",
     "foto_tipo": "pendente",
