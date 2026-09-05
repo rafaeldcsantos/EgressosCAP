@@ -55,7 +55,7 @@ function mostrarPlaceholder(foto, placeholder, egresso, tipo) {
   placeholder.hidden = false;
   placeholder.classList.toggle("sem-foto", tipo === "sem_foto");
   placeholder.querySelector(".iniciais").textContent = iniciais(egresso.nome).toLocaleUpperCase("pt-BR");
-  placeholder.querySelector(".aviso-foto").textContent = tipo === "sem_foto" ? "Busca concluída · sem foto" : "Foto ainda pendente";
+  placeholder.querySelector(".aviso-foto").textContent = tipo === "sem_foto" ? "Foto não encontrada" : "Foto pendente";
 }
 
 function criarCard(egresso) {
