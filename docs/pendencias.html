@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Acompanhamento das pendências de dados dos egressos da PGCAP.">
+    <meta name="description" content="Acompanhamento das pendências de dados dos perfis da PGCAP.">
     <meta name="theme-color" content="#0b253e">
-    <title>PGCAP — Pendências dos egressos</title>
+    <title>PGCAP — Pendências dos perfis</title>
     <link rel="icon" href="assets/images/favicon.ico" sizes="any">
     <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
     <link rel="stylesheet" href="css/dados.css">
@@ -17,23 +17,22 @@
     </header>
     <main>
       <section class="cabecalho">
-        <div><p class="rotulo">Base de dados</p><h1>Pendências dos registros</h1></div>
+        <div><p class="rotulo">Base de dados</p><h1>Pendências dos perfis</h1></div>
         <p id="resumo" aria-live="polite"></p>
       </section>
       <section class="controles" aria-label="Filtrar registros">
         <label>Buscar por nome <input id="busca" type="search" placeholder="Digite um nome" autocomplete="off"></label>
-        <label>Ano de conclusão <select id="filtro-ano"><option value="">Todos</option></select></label>
-        <label class="pendencias"><input id="apenas-pendentes" type="checkbox"> Mostrar apenas registros com pendências</label>
+        <label class="pendencias"><input id="apenas-pendentes" type="checkbox"> Mostrar apenas perfis com pendências</label>
         <a class="ir-resumo" href="#resumo-colunas" aria-label="Ir para o resumo das colunas" title="Ir para o resumo das colunas">▼</a>
       </section>
       <div class="tabela-wrap">
         <table>
           <thead><tr>
             <th scope="col" aria-sort="ascending"><button class="ordenar" type="button" data-campo="nome">Nome</button></th>
-            <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="nivel">Nível</button></th>
-            <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="ano_conclusao">Conclusão</button></th>
             <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="foto_tipo">Foto</button></th>
             <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="lattes_id">ID Lattes</button></th>
+            <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="orcid">ORCID</button></th>
+            <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="google_scholar">Google Scholar</button></th>
             <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="email">E-mail</button></th>
             <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="email_alternativo">E-mail alt.</button></th>
             <th scope="col" aria-sort="none"><button class="ordenar" type="button" data-campo="instagram">Instagram</button></th>
@@ -41,13 +40,13 @@
           </tr></thead>
           <tbody id="registros"></tbody>
           <tfoot id="resumo-colunas"><tr>
-            <th id="total-nome" scope="row"></th><td id="total-nivel"></td><td id="total-ano"></td><td id="total-foto"></td><td id="total-lattes"></td><td id="total-email"></td><td id="total-email-alternativo"></td><td id="total-instagram"></td><td id="total-linkedin"></td>
+            <th id="total-nome" scope="row"></th><td id="total-foto"></td><td id="total-lattes"></td><td id="total-orcid"></td><td id="total-google-scholar"></td><td id="total-email"></td><td id="total-email-alternativo"></td><td id="total-instagram"></td><td id="total-linkedin"></td>
           </tr></tfoot>
         </table>
       </div>
     </main>
     <template id="linha-registro">
-      <tr><th class="nome" scope="row"></th><td class="nivel"></td><td class="ano"></td><td class="foto-status"></td><td class="lattes"></td><td class="email"></td><td class="email-alternativo"></td><td class="instagram"></td><td class="linkedin"></td></tr>
+      <tr><th class="nome" scope="row"></th><td class="foto-status"></td><td class="lattes"></td><td class="orcid"></td><td class="google-scholar"></td><td class="email"></td><td class="email-alternativo"></td><td class="instagram"></td><td class="linkedin"></td></tr>
     </template>
     <script src="js/dados.js"></script>
   </body>

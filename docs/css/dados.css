@@ -21,7 +21,7 @@ h1 { margin: 0; color: var(--azul-profundo); font-family: Georgia, "Times New Ro
 .ir-resumo:hover, .ir-resumo:focus-visible { color: var(--laranja); }
 .ir-resumo:focus-visible { outline: 2px solid var(--laranja); outline-offset: 3px; }
 .tabela-wrap { overflow: auto; border: 1px solid var(--linha); background: #fff; }
-table { width: 100%; min-width: 1110px; border-collapse: collapse; font-size: .72rem; line-height: 1.2; }
+table { width: 100%; min-width: 1040px; border-collapse: collapse; font-size: .72rem; line-height: 1.2; }
 thead { position: sticky; top: 0; z-index: 1; background: #edf2f0; }
 th, td { padding: 7px 8px; border-bottom: 1px solid #e2e7e4; text-align: left; vertical-align: middle; white-space: nowrap; }
 thead th { color: #52676f; font-size: .6rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; }
