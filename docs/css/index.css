@@ -1,0 +1,17 @@
+:root { --azul-profundo: #0b253e; --azul: #176a82; --laranja: #ef7651; --creme: #fbfaf6; --texto: #18313e; --linha: #d9ddd7; }
+* { box-sizing: border-box; }
+body { min-height: 100vh; margin: 0; color: var(--texto); background: var(--creme); font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif; }
+.topo { display: flex; align-items: center; height: 76px; padding: 0 56px; color: #fff; background: var(--azul-profundo); }
+.marca { color: inherit; font-weight: 700; letter-spacing: .03em; text-decoration: none; }
+.marca span { color: var(--laranja); }
+main { display: flex; align-items: flex-start; min-height: calc(100vh - 76px); max-width: 1200px; margin: 0 auto; padding: 56px; }
+.acessos { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; width: 100%; max-width: 1080px; margin: 0 auto; }
+.acesso { display: grid; grid-template-columns: auto 1fr auto; align-items: start; min-height: 174px; gap: 20px; padding: 28px; color: var(--texto); background: #fff; border: 1px solid var(--linha); box-shadow: 0 9px 22px rgba(18, 45, 56, .06); text-decoration: none; transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease; }
+.acesso:hover { transform: translateY(-5px); border-color: var(--azul); box-shadow: 0 16px 30px rgba(18, 45, 56, .13); }
+.numero { color: var(--laranja); font-size: .68rem; font-weight: 800; letter-spacing: .12em; }
+.conteudo-acesso { display: grid; gap: 10px; }
+.conteudo-acesso strong { color: var(--azul-profundo); font-family: Georgia, "Times New Roman", serif; font-size: 2rem; font-weight: 400; }
+.conteudo-acesso small { max-width: 250px; color: #64767c; font-size: .82rem; line-height: 1.45; }
+.seta { align-self: center; color: var(--azul); font-size: 1.8rem; transition: transform .2s ease; }
+.acesso:hover .seta { transform: translateX(5px); }
+@media (max-width: 700px) { .topo { height: 62px; padding: 0 22px; } .marca { font-size: .76rem; } main { min-height: calc(100vh - 62px); padding: 40px 22px; } .acessos { grid-template-columns: 1fr; } .acesso { min-height: 150px; } }

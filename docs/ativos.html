@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Alunos atualmente matriculados na PGCAP.">
+    <meta name="theme-color" content="#0b253e">
+    <title>PGCAP — Alunos ativos</title>
+    <link rel="icon" href="assets/images/favicon.ico" sizes="any">
+    <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
+    <link rel="stylesheet" href="css/egressos.css">
+  </head>
+  <body>
+    <header class="topo"><a class="marca" href="index.html">PGCAP <span>·</span> Acompanhamento de Egressos</a></header>
+    <main class="conteudo">
+      <section class="filtros" aria-label="Filtrar alunos ativos">
+        <label><span>Buscar por nome</span><input id="busca-nome" type="search" placeholder="Digite um nome" autocomplete="off"></label>
+        <label><span>Nível</span><select id="filtro-nivel"><option value="">Todos</option><option value="Mestrado">Mestrado</option><option value="Doutorado">Doutorado</option></select></label>
+        <div class="ordenacao" aria-label="Ordenar resultados"><span>Ordenar</span><div class="botoes-ordem"><button type="button" data-direcao="crescente" class="ativo">Nome ↑</button><button type="button" data-direcao="decrescente">Nome ↓</button></div></div>
+        <button class="botao-reset" id="restaurar-padrao" type="button">Restaurar padrão</button>
+        <p class="resultado" id="resultado" aria-live="polite"></p>
+      </section>
+      <section class="galeria" aria-label="Galeria de alunos ativos" id="lista-egressos"></section>
+      <button class="carregar-mais" id="carregar-mais" type="button">Mostrar mais alunos</button>
+    </main>
+    <template id="modelo-card">
+      <article class="card-egresso"><div class="area-foto"><img class="foto" alt=""><div class="foto-placeholder" hidden aria-hidden="true"><span class="iniciais"></span><span class="aviso-foto"></span></div></div><div class="card-corpo"><p class="nivel"></p><h2></h2><p class="conclusao"></p><nav class="contatos" aria-label="Links públicos"></nav></div></article>
+    </template>
+    <script src="js/vendor/isotope.pkgd.min.js"></script>
+    <script src="js/ativos.js"></script>
+  </body>
+</html>
