@@ -19,6 +19,7 @@ const normalizar = (texto) => texto.normalize("NFD").replace(/[\u0300-\u036f]/g,
 
 const links = (egresso) => [
   ["Currículo Lattes", egresso.lattes_id && `http://lattes.cnpq.br/${egresso.lattes_id}`, "lattes"],
+  ["ORCID", socialUrl(egresso.orcid, "https://orcid.org/"), "orcid"],
   ["E-mail principal", egresso.email && `mailto:${egresso.email}`, "email"],
   ["E-mail alternativo", egresso.email_alternativo && `mailto:${egresso.email_alternativo}`, "email-alternativo"],
   ["Instagram", socialUrl(egresso.instagram, "https://instagram.com/"), "instagram"],
