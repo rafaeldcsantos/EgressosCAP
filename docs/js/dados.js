@@ -29,7 +29,13 @@ function scholarUrl(valor) {
 function criarLinha(perfil) {
   const fragmento = modelo.content.cloneNode(true);
   const linha = fragmento.querySelector("tr");
-  linha.querySelector(".nome").textContent = perfil.nome;
+  const nome = linha.querySelector(".nome");
+  const buscaGoogle = document.createElement("a");
+  buscaGoogle.href = `https://www.google.com/search?q=${encodeURIComponent(`"${perfil.nome}"`)}`;
+  buscaGoogle.target = "_blank";
+  buscaGoogle.rel = "noreferrer";
+  buscaGoogle.textContent = perfil.nome;
+  nome.append(buscaGoogle);
   const [rotuloFoto, classeFoto] = FOTOS[perfil.foto_tipo] || FOTOS.pendente;
   const foto = linha.querySelector(".foto-status");
   foto.textContent = rotuloFoto;

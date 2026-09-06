@@ -44,6 +44,8 @@ tfoot th, tfoot td { padding-top: 9px; padding-bottom: 9px; color: #405860; font
 .resumo-nao-procurada { color: #8848e2; }
 .resumo-falta { color: #d91f26; }
 .nome { min-width: 265px; color: var(--azul-profundo); font-weight: 700; white-space: normal; }
+.nome a { color: inherit; text-decoration: none; }
+.nome a:hover { color: var(--laranja); }
 .nivel { color: #52676f; }
 .ano { text-align: center; color: #52676f; }
 .foto-status { font-size: .65rem; font-weight: 800; letter-spacing: .03em; }
