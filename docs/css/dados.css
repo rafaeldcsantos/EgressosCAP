@@ -23,8 +23,8 @@ h1 { margin: 0; color: var(--azul-profundo); font-family: Georgia, "Times New Ro
 .tabela-wrap { overflow: auto; border: 1px solid var(--linha); background: #fff; }
 table { width: 100%; min-width: 1040px; border-collapse: collapse; font-size: .72rem; line-height: 1.2; }
 thead { position: sticky; top: 0; z-index: 1; background: #edf2f0; }
-th, td { padding: 7px 8px; border-bottom: 1px solid #e2e7e4; text-align: left; vertical-align: middle; white-space: nowrap; }
-thead th { color: #52676f; font-size: .6rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; }
+th, td { padding: 7px 8px; border-bottom: 1px solid #e2e7e4; font-weight: 400; text-align: left; vertical-align: middle; white-space: nowrap; }
+thead th { color: #52676f; font-size: .6rem; font-weight: 400; letter-spacing: .07em; text-transform: uppercase; }
 .ordenar { display: inline-flex; align-items: center; gap: 4px; padding: 0; color: inherit; background: transparent; border: 0; font: inherit; font-weight: inherit; letter-spacing: inherit; text-transform: inherit; cursor: pointer; }
 .ordenar::after { content: "↕"; color: #9aa9aa; font-size: .8rem; line-height: .7; }
 .ordenar.ativo::after { color: var(--laranja); content: "↑"; }
@@ -33,8 +33,8 @@ th[aria-sort="descending"] .ordenar.ativo::after { content: "↓"; }
 tbody tr:hover { background: #f6f8f6; }
 tbody tr:last-child th, tbody tr:last-child td { border-bottom: 0; }
 tfoot { background: #edf2f0; border-top: 2px solid #bfcac6; }
-tfoot th, tfoot td { padding-top: 9px; padding-bottom: 9px; color: #405860; font-size: .62rem; font-weight: 500; line-height: 1.45; vertical-align: top; }
-.rotulo-resumo { color: var(--azul); font-size: .56rem; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
+tfoot th, tfoot td { padding-top: 9px; padding-bottom: 9px; color: #405860; font-size: .62rem; font-weight: 400; line-height: 1.45; vertical-align: top; }
+.rotulo-resumo { color: var(--azul); font-size: .56rem; font-weight: 400; letter-spacing: .08em; text-transform: uppercase; }
 .dados-resumo { display: flex; align-items: center; gap: 5px; margin-top: 3px; }
 .linhas-resumo { display: grid; }
 .mini-pizza { position: relative; display: inline-block; flex: 0 0 auto; width: 24px; height: 24px; border-radius: 50%; }
@@ -42,19 +42,19 @@ tfoot th, tfoot td { padding-top: 9px; padding-bottom: 9px; color: #405860; font
 .resumo-informado { color: #008f5d; }
 .resumo-inexiste { color: #e23d3d; }
 .resumo-nao-procurada { color: #8848e2; }
-.resumo-falta { color: #d91f26; }
+.resumo-falta { color: #d91f26; font-weight: 700; }
 .nome { min-width: 265px; color: var(--azul-profundo); font-weight: 700; white-space: normal; }
 .nome a { color: inherit; text-decoration: none; }
 .nome a:hover { color: var(--laranja); }
 .nivel { color: #52676f; }
 .ano { text-align: center; color: #52676f; }
-.foto-status { font-size: .65rem; font-weight: 800; letter-spacing: .03em; }
+.foto-status { font-size: .65rem; font-weight: 400; letter-spacing: .03em; }
 .foto-existe { color: #006743; }
 .foto-inexiste { padding: 2px 4px; color: #e23d3d; background: #ffe8e8; }
 .foto-nao-procurada { color: #8848e2; }
-.presente { color: #008f5d; font-weight: 750; }
+.presente { color: #008f5d; font-weight: 400; }
 .ausente { color: #d91f26; font-size: .64rem; font-weight: 800; letter-spacing: .04em; }
-td a { color: #24745d; font-weight: 750; text-decoration: none; }
+td a { color: #24745d; font-weight: 400; text-decoration: none; }
 td a:hover { text-decoration: underline; }
 .lattes a { color: #008f5d; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .68rem; text-decoration: none; }
 .lattes a:hover { text-decoration: underline; }
