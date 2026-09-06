@@ -51,7 +51,7 @@ tfoot th, tfoot td { padding-top: 9px; padding-bottom: 9px; color: #405860; font
 .foto-status { font-size: .65rem; font-weight: 400; letter-spacing: .03em; }
 .foto-existe { color: #006743; }
 .foto-inexiste { padding: 2px 4px; color: #e23d3d; background: #ffe8e8; }
-.foto-nao-procurada { color: #8848e2; }
+.foto-nao-procurada { color: #8848e2; font-weight: 700; }
 .presente { color: #008f5d; font-weight: 400; }
 .ausente { color: #d91f26; font-size: .64rem; font-weight: 800; letter-spacing: .04em; }
 td a { color: #24745d; font-weight: 400; text-decoration: none; }
