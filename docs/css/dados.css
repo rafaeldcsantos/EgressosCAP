@@ -58,4 +58,7 @@ td a { color: #24745d; font-weight: 400; text-decoration: none; }
 td a:hover { text-decoration: underline; }
 .lattes a { color: #008f5d; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .68rem; text-decoration: none; }
 .lattes a:hover { text-decoration: underline; }
+.fluxo-cobertura { width: min(100%, 880px); margin: 32px auto 0; }
+.fluxo-cobertura h2 { margin: 0 0 8px; color: var(--azul-profundo); font-family: Georgia, "Times New Roman", serif; font-size: 1.25rem; font-weight: 400; text-align: center; }
+#grafico-sankey { min-height: 190px; }
 @media (max-width: 760px) { .topo { padding: 0 18px; } main { padding: 22px 18px 42px; } .cabecalho { align-items: start; flex-direction: column; gap: 8px; } .controles { align-items: start; flex-direction: column; gap: 9px; } }

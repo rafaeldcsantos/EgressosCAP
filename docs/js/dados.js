@@ -3,6 +3,7 @@ const modelo = document.querySelector("#linha-registro");
 const busca = document.querySelector("#busca");
 const apenasPendentes = document.querySelector("#apenas-pendentes");
 const resumo = document.querySelector("#resumo");
+const graficoSankey = document.querySelector("#grafico-sankey");
 const botoesOrdenar = [...document.querySelectorAll(".ordenar")];
 const totais = Object.fromEntries(["nome", "foto", "lattes", "orcid", "google-scholar", "email", "email-alternativo", "instagram", "linkedin"].map((campo) => [campo, document.querySelector(`#total-${campo}`)]));
 let perfis = [];
@@ -97,7 +98,7 @@ function preencherResumo(celula, titulo, linhas, segmentos = []) {
 }
 function resumoContagem(celula, titulo, valores) {
   const segmentos = Object.entries(valores).map(([rotulo, quantidade]) => ({ rotulo, quantidade }));
-  preencherResumo(celula, titulo, segmentos.filter((segmento) => segmento.quantidade).map((segmento) => ({ texto: `${segmento.rotulo} · ${segmento.quantidade}`, classe: `resumo-${normalizar(segmento.rotulo).replaceAll(" ", "-")}` })), segmentos);
+  preencherResumo(celula, titulo, segmentos.filter((segmento) => segmento.quantidade).map((segmento) => ({ texto: `${segmento.rotulo}: ${segmento.quantidade}`, classe: `resumo-${normalizar(segmento.rotulo).replaceAll(" ", "-")}` })), segmentos);
 }
 function atualizarTotais(registros) {
   preencherResumo(totais.nome, "Nome", [`Total · ${registros.length}`]);
@@ -105,6 +106,43 @@ function atualizarTotais(registros) {
   [["lattes", "lattes_id", "ID Lattes"], ["orcid", "orcid", "ORCID"], ["google-scholar", "google_scholar", "Google Scholar"], ["email", "email", "E-mail"], ["email-alternativo", "email_alternativo", "E-mail alt."], ["instagram", "instagram", "Instagram"], ["linkedin", "linkedin", "LinkedIn"]].forEach(([target, campo, titulo]) => {
     resumoContagem(totais[target], titulo, { Informado: registros.filter((item) => item[campo]).length, FALTA: registros.filter((item) => !item[campo]).length });
   });
+}
+function desenharSankey(registros) {
+  const total = registros.length;
+  const comLattes = registros.filter((perfil) => perfil.lattes_id);
+  const semLattes = total - comLattes.length;
+  const fotosExistem = registros.filter((perfil) => perfil.foto_tipo === "real").length;
+  const fotosInexistem = registros.filter((perfil) => perfil.foto_tipo === "sem_foto").length;
+  const fotosNaoProcuradas = registros.filter((perfil) => perfil.foto_tipo === "pendente").length;
+  const fotosNaoProcuradasComLattes = comLattes.filter((perfil) => perfil.foto_tipo === "pendente").length;
+  if (!window.Plotly) {
+    graficoSankey.textContent = "O gráfico não pôde ser carregado.";
+    return;
+  }
+  Plotly.newPlot(graficoSankey, [{
+    type: "sankey",
+    orientation: "h",
+    arrangement: "snap",
+    node: {
+      pad: 6,
+      thickness: 18,
+      line: { color: "#d8dfdd", width: 1 },
+      label: [`Pessoas na base<br>${total}`, `Lattes obtidos<br>${comLattes.length}`, `Lattes ausentes<br>${semLattes}`, `Foto existe<br>${fotosExistem}`, `Foto inexiste<br>${fotosInexistem}`, `Foto não procurada<br>${fotosNaoProcuradas}`],
+      color: ["#176a82", "#008f5d", "#d91f26", "#006743", "#e23d3d", "#8848e2"]
+    },
+    link: {
+      source: [0, 0, 1, 1, 1, 2],
+      target: [1, 2, 3, 4, 5, 5],
+      value: [comLattes.length, semLattes, fotosExistem, fotosInexistem, fotosNaoProcuradasComLattes, semLattes],
+      color: ["rgba(23, 106, 130, 0.28)", "rgba(217, 31, 38, 0.24)", "rgba(0, 103, 67, 0.30)", "rgba(226, 61, 61, 0.25)", "rgba(136, 72, 226, 0.25)", "rgba(136, 72, 226, 0.25)"]
+    },
+    hovertemplate: "%{value} perfis<extra></extra>"
+  }], {
+    height: 190,
+    margin: { l: 10, r: 10, t: 8, b: 8 },
+    paper_bgcolor: "rgba(0,0,0,0)",
+    font: { family: '"Avenir Next", Avenir, "Segoe UI", sans-serif', size: 12, color: "#18313e" }
+  }, { displayModeBar: false, responsive: true });
 }
 function atualizar() {
   const termo = normalizar(busca.value.trim());
@@ -120,6 +158,7 @@ async function iniciar() {
   if (!resposta.ok) throw new Error("Não foi possível carregar os perfis.");
   perfis = await resposta.json();
   atualizar();
+  desenharSankey(perfis);
 }
 busca.addEventListener("input", atualizar);
 apenasPendentes.addEventListener("change", atualizar);
