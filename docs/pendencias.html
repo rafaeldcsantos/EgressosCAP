@@ -22,6 +22,7 @@
       </section>
       <section class="controles" aria-label="Filtrar registros">
         <label>Buscar por nome <input id="busca" type="search" placeholder="Digite um nome" autocomplete="off"></label>
+        <label>Situação <select id="situacao"><option value="">Todas</option><option>Egresso</option><option>Ativo</option><option>Egresso e ativo</option></select></label>
         <label class="pendencias"><input id="apenas-pendentes" type="checkbox"> Mostrar apenas perfis com pendências</label>
         <a class="ir-resumo" href="#resumo-colunas" aria-label="Ir para o resumo das colunas" title="Ir para o resumo das colunas">▼</a>
       </section>
@@ -44,6 +45,7 @@
           </tr></tfoot>
         </table>
       </div>
+      <p id="legenda-ativos" class="legenda-ativos"></p>
       <section class="fluxo-cobertura" aria-labelledby="titulo-fluxo-cobertura">
         <h2 id="titulo-fluxo-cobertura">Cobertura da base</h2>
         <div id="grafico-sankey" role="img" aria-label="Fluxo do total de perfis para IDs Lattes informados e fotos disponíveis."></div>

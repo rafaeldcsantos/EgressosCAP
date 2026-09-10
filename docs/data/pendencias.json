@@ -1,17 +1,19 @@
 [
   {
     "nome": "Abner Ernâni dos Anjos",
+    "situacao": "Egresso e ativo",
     "lattes_id": "6255653411853439",
     "orcid": "",
     "google_scholar": "",
     "foto_tipo": "real",
-    "email": "",
+    "email": "abiner.anjos@gmail.com",
     "email_alternativo": "",
     "instagram": "",
     "linkedin": ""
   },
   {
     "nome": "Acioli Antonio de Olivo",
+    "situacao": "Egresso",
     "lattes_id": "4219153654306371",
     "orcid": "",
     "google_scholar": "",
@@ -23,6 +25,7 @@
   },
   {
     "nome": "Acácio Feliciano Neto",
+    "situacao": "Egresso",
     "lattes_id": "9823540184752853",
     "orcid": "",
     "google_scholar": "",
@@ -34,6 +37,7 @@
   },
   {
     "nome": "Adair Santa Catarina",
+    "situacao": "Egresso",
     "lattes_id": "7041836941307184",
     "orcid": "",
     "google_scholar": "",
@@ -45,6 +49,7 @@
   },
   {
     "nome": "Adeline Marinho Maciel",
+    "situacao": "Egresso",
     "lattes_id": "9198589807862587",
     "orcid": "",
     "google_scholar": "",
@@ -56,6 +61,7 @@
   },
   {
     "nome": "Ademar Muraro Júnior",
+    "situacao": "Egresso",
     "lattes_id": "3352469933652327",
     "orcid": "",
     "google_scholar": "",
@@ -67,6 +73,7 @@
   },
   {
     "nome": "Adenilson Roberto Carvalho",
+    "situacao": "Egresso",
     "lattes_id": "1524045883602172",
     "orcid": "",
     "google_scholar": "",
@@ -78,6 +85,7 @@
   },
   {
     "nome": "Adriana Carniello",
+    "situacao": "Egresso",
     "lattes_id": "1499255840548015",
     "orcid": "",
     "google_scholar": "",
@@ -89,6 +97,7 @@
   },
   {
     "nome": "Adriana Cristina Ferrari dos Santos",
+    "situacao": "Egresso",
     "lattes_id": "2262290755400077",
     "orcid": "",
     "google_scholar": "",
@@ -100,6 +109,7 @@
   },
   {
     "nome": "Adriana Cursino Thomé",
+    "situacao": "Egresso",
     "lattes_id": "7449255451182360",
     "orcid": "",
     "google_scholar": "",
@@ -111,6 +121,7 @@
   },
   {
     "nome": "Adriana Prest Mattedi",
+    "situacao": "Egresso",
     "lattes_id": "6337740924268263",
     "orcid": "",
     "google_scholar": "",
@@ -122,6 +133,7 @@
   },
   {
     "nome": "Adriana Silva Nakahara",
+    "situacao": "Egresso",
     "lattes_id": "8302163109925177",
     "orcid": "",
     "google_scholar": "",
@@ -133,6 +145,7 @@
   },
   {
     "nome": "Adriano Luiz de Paula",
+    "situacao": "Egresso",
     "lattes_id": "4208059581884620",
     "orcid": "",
     "google_scholar": "",
@@ -144,6 +157,7 @@
   },
   {
     "nome": "Adriano Pereira Almeida",
+    "situacao": "Egresso",
     "lattes_id": "7223840348193655",
     "orcid": "",
     "google_scholar": "",
@@ -155,6 +169,7 @@
   },
   {
     "nome": "Alaor Bianco Rodrigues",
+    "situacao": "Egresso",
     "lattes_id": "8488338140268180",
     "orcid": "",
     "google_scholar": "",
@@ -166,6 +181,7 @@
   },
   {
     "nome": "Alberto Frederico Maranhão",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -177,6 +193,7 @@
   },
   {
     "nome": "Alejandro Cesar Frery Orgambide",
+    "situacao": "Egresso",
     "lattes_id": "6935433850568144",
     "orcid": "",
     "google_scholar": "",
@@ -188,6 +205,7 @@
   },
   {
     "nome": "Alessandra Marli Maria Morais",
+    "situacao": "Egresso",
     "lattes_id": "1874607068493252",
     "orcid": "",
     "google_scholar": "",
@@ -199,6 +217,7 @@
   },
   {
     "nome": "Alessandro Oliveira Arantes",
+    "situacao": "Egresso",
     "lattes_id": "8987845029899480",
     "orcid": "",
     "google_scholar": "",
@@ -210,6 +229,7 @@
   },
   {
     "nome": "Alex de Almeida Fernandes",
+    "situacao": "Egresso e ativo",
     "lattes_id": "8245589012231536",
     "orcid": "",
     "google_scholar": "",
@@ -221,6 +241,7 @@
   },
   {
     "nome": "Alex Sandro Aguiar Pessoa",
+    "situacao": "Egresso",
     "lattes_id": "2681016875171472",
     "orcid": "",
     "google_scholar": "",
@@ -232,6 +253,7 @@
   },
   {
     "nome": "Alexandre Copertino Jardim",
+    "situacao": "Egresso",
     "lattes_id": "3808235682713305",
     "orcid": "",
     "google_scholar": "",
@@ -243,6 +265,7 @@
   },
   {
     "nome": "Alexandre César Muniz de Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "5225588855422632",
     "orcid": "",
     "google_scholar": "",
@@ -254,6 +277,7 @@
   },
   {
     "nome": "Alexandre Donizeti Alves",
+    "situacao": "Egresso",
     "lattes_id": "2994979403174851",
     "orcid": "",
     "google_scholar": "",
@@ -265,6 +289,7 @@
   },
   {
     "nome": "Alexandre Franco de Magalhães",
+    "situacao": "Egresso",
     "lattes_id": "9352779706217366",
     "orcid": "",
     "google_scholar": "",
@@ -276,6 +301,7 @@
   },
   {
     "nome": "Alexandre Guirland Nowosad",
+    "situacao": "Egresso",
     "lattes_id": "0504720587589323",
     "orcid": "",
     "google_scholar": "",
@@ -287,6 +313,7 @@
   },
   {
     "nome": "Alexandre Linhares",
+    "situacao": "Egresso",
     "lattes_id": "7478644810461246",
     "orcid": "",
     "google_scholar": "",
@@ -298,6 +325,7 @@
   },
   {
     "nome": "Alexandre Magno Gonzaga da Silva",
+    "situacao": "Egresso",
     "lattes_id": "8666348916725423",
     "orcid": "",
     "google_scholar": "",
@@ -309,6 +337,7 @@
   },
   {
     "nome": "Alexandre Nogueira Barbosa",
+    "situacao": "Egresso",
     "lattes_id": "0709324690400457",
     "orcid": "",
     "google_scholar": "",
@@ -320,6 +349,7 @@
   },
   {
     "nome": "Alexandre Siqueira Dias",
+    "situacao": "Egresso",
     "lattes_id": "1734704378338822",
     "orcid": "",
     "google_scholar": "",
@@ -331,6 +361,7 @@
   },
   {
     "nome": "Alexsandro Cândido de Oliveira Silva",
+    "situacao": "Egresso",
     "lattes_id": "2852334711449650",
     "orcid": "",
     "google_scholar": "",
@@ -342,6 +373,7 @@
   },
   {
     "nome": "Alfred Sitindjak",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -353,6 +385,7 @@
   },
   {
     "nome": "Aline Andrade do Nascimento",
+    "situacao": "Egresso e ativo",
     "lattes_id": "6772568452628330",
     "orcid": "",
     "google_scholar": "",
@@ -364,6 +397,7 @@
   },
   {
     "nome": "Aline Cristina Soterroni",
+    "situacao": "Egresso",
     "lattes_id": "8083779845939712",
     "orcid": "",
     "google_scholar": "",
@@ -375,6 +409,7 @@
   },
   {
     "nome": "Alvaro Augusto Neto",
+    "situacao": "Egresso",
     "lattes_id": "4681602743000650",
     "orcid": "",
     "google_scholar": "",
@@ -386,6 +421,7 @@
   },
   {
     "nome": "Amarisio da Silva Araujo",
+    "situacao": "Egresso",
     "lattes_id": "9203454048400403",
     "orcid": "",
     "google_scholar": "",
@@ -397,6 +433,7 @@
   },
   {
     "nome": "Amita Muralikrishna",
+    "situacao": "Egresso",
     "lattes_id": "0684819088538697",
     "orcid": "",
     "google_scholar": "",
@@ -408,6 +445,7 @@
   },
   {
     "nome": "Amâncio Fernando Pulchério",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -419,6 +457,7 @@
   },
   {
     "nome": "Amândio Ferreira Balcão Filho",
+    "situacao": "Egresso",
     "lattes_id": "5891652594120801",
     "orcid": "",
     "google_scholar": "",
@@ -430,6 +469,7 @@
   },
   {
     "nome": "Ana Clara da Mota",
+    "situacao": "Egresso",
     "lattes_id": "9715397329004566",
     "orcid": "",
     "google_scholar": "",
@@ -441,6 +481,7 @@
   },
   {
     "nome": "Ana Isabel Bezerra Cavalcanti",
+    "situacao": "Egresso",
     "lattes_id": "0988186893489968",
     "orcid": "",
     "google_scholar": "",
@@ -452,6 +493,7 @@
   },
   {
     "nome": "Ana Lúcia Bezerra Candeias",
+    "situacao": "Egresso",
     "lattes_id": "4950530398212920",
     "orcid": "",
     "google_scholar": "",
@@ -463,6 +505,7 @@
   },
   {
     "nome": "Ana Maria Ambrosio",
+    "situacao": "Egresso",
     "lattes_id": "6217509029802638",
     "orcid": "",
     "google_scholar": "",
@@ -474,6 +517,7 @@
   },
   {
     "nome": "Ana Paula Abrantes de Castro",
+    "situacao": "Egresso",
     "lattes_id": "9162672829956114",
     "orcid": "",
     "google_scholar": "",
@@ -485,6 +529,7 @@
   },
   {
     "nome": "Ana Silvia Martins Serra do Amaral",
+    "situacao": "Egresso",
     "lattes_id": "5820341638044556",
     "orcid": "",
     "google_scholar": "",
@@ -496,6 +541,7 @@
   },
   {
     "nome": "Andre Luiz Rosa Mayoral",
+    "situacao": "Egresso",
     "lattes_id": "5192935920266043",
     "orcid": "",
     "google_scholar": "",
@@ -507,7 +553,8 @@
   },
   {
     "nome": "Andre Nogueira Sousa",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "3984358160547137",
     "orcid": "",
     "google_scholar": "",
     "foto_tipo": "pendente",
@@ -518,6 +565,7 @@
   },
   {
     "nome": "Andreia Carniello",
+    "situacao": "Egresso",
     "lattes_id": "7238676641856131",
     "orcid": "",
     "google_scholar": "",
@@ -529,6 +577,7 @@
   },
   {
     "nome": "Andres Fernando Paredes Horna",
+    "situacao": "Egresso",
     "lattes_id": "2586571097096430",
     "orcid": "",
     "google_scholar": "",
@@ -540,6 +589,7 @@
   },
   {
     "nome": "Andreza Cristina Barbieri Serra",
+    "situacao": "Ativo",
     "lattes_id": "0579126005136959",
     "orcid": "",
     "google_scholar": "",
@@ -551,6 +601,7 @@
   },
   {
     "nome": "Andriana Susana Lopes de Oliveira Campanharo",
+    "situacao": "Egresso",
     "lattes_id": "4947092280690606",
     "orcid": "",
     "google_scholar": "",
@@ -562,6 +613,7 @@
   },
   {
     "nome": "André Chiarelli",
+    "situacao": "Egresso",
     "lattes_id": "5002279890831176",
     "orcid": "",
     "google_scholar": "",
@@ -573,6 +625,7 @@
   },
   {
     "nome": "André Ricardo Abed Grégio",
+    "situacao": "Egresso",
     "lattes_id": "2712714707900090",
     "orcid": "",
     "google_scholar": "",
@@ -584,6 +637,7 @@
   },
   {
     "nome": "André Ricardo Fazanaro Martinon",
+    "situacao": "Egresso",
     "lattes_id": "2885508157298419",
     "orcid": "",
     "google_scholar": "",
@@ -595,6 +649,7 @@
   },
   {
     "nome": "André Vilaça dos Santos",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -606,6 +661,7 @@
   },
   {
     "nome": "Andréa Marques Leão Doescher",
+    "situacao": "Egresso",
     "lattes_id": "0440854881429269",
     "orcid": "",
     "google_scholar": "",
@@ -617,6 +673,7 @@
   },
   {
     "nome": "Anibal Evaristo Fernandes",
+    "situacao": "Egresso",
     "lattes_id": "0929751972236350",
     "orcid": "",
     "google_scholar": "",
@@ -628,6 +685,7 @@
   },
   {
     "nome": "Anna Karina Fontes Gomes",
+    "situacao": "Egresso",
     "lattes_id": "2240834435918735",
     "orcid": "",
     "google_scholar": "",
@@ -639,6 +697,7 @@
   },
   {
     "nome": "Antonio Augusto da Rocha Filho",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -650,6 +709,7 @@
   },
   {
     "nome": "Antonio de Oliveira Dias",
+    "situacao": "Egresso",
     "lattes_id": "4500186215517960",
     "orcid": "",
     "google_scholar": "",
@@ -661,6 +721,7 @@
   },
   {
     "nome": "Antonio Egydio São Thiago Graça",
+    "situacao": "Egresso",
     "lattes_id": "0858832006050432",
     "orcid": "",
     "google_scholar": "",
@@ -672,6 +733,7 @@
   },
   {
     "nome": "Antonio José Ferreira Machado e Silva",
+    "situacao": "Egresso",
     "lattes_id": "9971995571813826",
     "orcid": "",
     "google_scholar": "",
@@ -683,6 +745,7 @@
   },
   {
     "nome": "Antonio Manuel Marques Guedes da Cruz",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -694,6 +757,7 @@
   },
   {
     "nome": "Antonio Mauricio Zarzur",
+    "situacao": "Egresso",
     "lattes_id": "4509195431569906",
     "orcid": "",
     "google_scholar": "",
@@ -705,6 +769,7 @@
   },
   {
     "nome": "Antônio Augusto Chaves",
+    "situacao": "Egresso",
     "lattes_id": "4973949421738244",
     "orcid": "",
     "google_scholar": "",
@@ -716,6 +781,7 @@
   },
   {
     "nome": "Antônio Miguel Vieira Monteiro",
+    "situacao": "Egresso",
     "lattes_id": "0654596992211296",
     "orcid": "",
     "google_scholar": "",
@@ -727,6 +793,7 @@
   },
   {
     "nome": "Aritana Pinheiro Falconi",
+    "situacao": "Egresso",
     "lattes_id": "0567573016503037",
     "orcid": "",
     "google_scholar": "",
@@ -738,6 +805,7 @@
   },
   {
     "nome": "Arley Ferreira de Souza",
+    "situacao": "Egresso",
     "lattes_id": "3013376353724630",
     "orcid": "",
     "google_scholar": "",
@@ -749,6 +817,7 @@
   },
   {
     "nome": "Arnildo Ananias de Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -760,6 +829,7 @@
   },
   {
     "nome": "Arry Carlos Buss Filho",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -771,6 +841,7 @@
   },
   {
     "nome": "Arthur Tórgo Gómez",
+    "situacao": "Egresso",
     "lattes_id": "3090969413342098",
     "orcid": "",
     "google_scholar": "",
@@ -782,6 +853,7 @@
   },
   {
     "nome": "Artur Aparecido Valério Coutinho",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -793,6 +865,7 @@
   },
   {
     "nome": "Artur Costa Steiner",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -804,6 +877,7 @@
   },
   {
     "nome": "Artur Milhomem Neto",
+    "situacao": "Egresso",
     "lattes_id": "5456488901320272",
     "orcid": "",
     "google_scholar": "",
@@ -815,6 +889,7 @@
   },
   {
     "nome": "Asiel Bomfin Junior",
+    "situacao": "Egresso",
     "lattes_id": "2411740023518965",
     "orcid": "",
     "google_scholar": "",
@@ -826,6 +901,7 @@
   },
   {
     "nome": "Aurelienne Aparecida Souza Jorge",
+    "situacao": "Egresso",
     "lattes_id": "4229146217472337",
     "orcid": "",
     "google_scholar": "",
@@ -837,6 +913,7 @@
   },
   {
     "nome": "Aurélio Gomes Ferreira",
+    "situacao": "Egresso",
     "lattes_id": "8602414995793386",
     "orcid": "",
     "google_scholar": "",
@@ -848,6 +925,7 @@
   },
   {
     "nome": "Baggio Luiz de Castro e Silva",
+    "situacao": "Egresso e ativo",
     "lattes_id": "4816443925174561",
     "orcid": "",
     "google_scholar": "",
@@ -859,6 +937,7 @@
   },
   {
     "nome": "Barbara Maximino da Fonseca Reis",
+    "situacao": "Egresso",
     "lattes_id": "2541435662667555",
     "orcid": "",
     "google_scholar": "",
@@ -870,6 +949,7 @@
   },
   {
     "nome": "Benicio Pereira de Carvalho Filho",
+    "situacao": "Egresso",
     "lattes_id": "2509016357866084",
     "orcid": "",
     "google_scholar": "",
@@ -881,6 +961,7 @@
   },
   {
     "nome": "Bianca Maria Pedrosa",
+    "situacao": "Egresso",
     "lattes_id": "5512756726602398",
     "orcid": "",
     "google_scholar": "",
@@ -892,6 +973,7 @@
   },
   {
     "nome": "Bolis Rodrigues Petrusanis",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -903,6 +985,7 @@
   },
   {
     "nome": "Breno Coltro da Costa",
+    "situacao": "Ativo",
     "lattes_id": "4742263062955306",
     "orcid": "",
     "google_scholar": "",
@@ -914,6 +997,7 @@
   },
   {
     "nome": "Bruno Aloís Forlin Roth",
+    "situacao": "Egresso",
     "lattes_id": "9217862594845907",
     "orcid": "",
     "google_scholar": "",
@@ -925,6 +1009,7 @@
   },
   {
     "nome": "Bruno Bustamante Ferreira Leonor",
+    "situacao": "Egresso",
     "lattes_id": "2086346145569786",
     "orcid": "",
     "google_scholar": "",
@@ -936,6 +1021,7 @@
   },
   {
     "nome": "Bruno Hideo Casillo",
+    "situacao": "Egresso",
     "lattes_id": "4171658398116695",
     "orcid": "",
     "google_scholar": "",
@@ -947,6 +1033,7 @@
   },
   {
     "nome": "Caio Eduardo Dias",
+    "situacao": "Egresso e ativo",
     "lattes_id": "0118361839591021",
     "orcid": "",
     "google_scholar": "",
@@ -958,6 +1045,7 @@
   },
   {
     "nome": "Camila Pereira Sales",
+    "situacao": "Egresso",
     "lattes_id": "6070405174226330",
     "orcid": "",
     "google_scholar": "",
@@ -969,6 +1057,7 @@
   },
   {
     "nome": "Camilo Mussi",
+    "situacao": "Egresso",
     "lattes_id": "9622764718055590",
     "orcid": "",
     "google_scholar": "",
@@ -980,6 +1069,7 @@
   },
   {
     "nome": "Carla Aparecida de Almeida Paula",
+    "situacao": "Ativo",
     "lattes_id": "2582717189489245",
     "orcid": "",
     "google_scholar": "",
@@ -991,6 +1081,7 @@
   },
   {
     "nome": "Carlos Alberto de Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "3647793721071645",
     "orcid": "",
     "google_scholar": "",
@@ -1002,6 +1093,7 @@
   },
   {
     "nome": "Carlos Alberto Felgueiras",
+    "situacao": "Egresso",
     "lattes_id": "2916855460918534",
     "orcid": "",
     "google_scholar": "",
@@ -1013,6 +1105,7 @@
   },
   {
     "nome": "Carlos Antonio Marques Nogueira",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -1024,6 +1117,7 @@
   },
   {
     "nome": "Carlos Augusto Guimarães Júnior",
+    "situacao": "Egresso",
     "lattes_id": "6476350469165378",
     "orcid": "",
     "google_scholar": "",
@@ -1035,6 +1129,7 @@
   },
   {
     "nome": "Carlos Eduardo Falandes",
+    "situacao": "Ativo",
     "lattes_id": "3579183651868833",
     "orcid": "",
     "google_scholar": "",
@@ -1046,6 +1141,7 @@
   },
   {
     "nome": "Carlos Frederico de Sá Volotão",
+    "situacao": "Egresso",
     "lattes_id": "7979345517691427",
     "orcid": "",
     "google_scholar": "",
@@ -1057,6 +1153,7 @@
   },
   {
     "nome": "Carlos Henrique Bôto Gois",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -1068,6 +1165,7 @@
   },
   {
     "nome": "Carlos Henrique Netto Lahoz",
+    "situacao": "Egresso",
     "lattes_id": "2473719255532612",
     "orcid": "",
     "google_scholar": "",
@@ -1079,6 +1177,7 @@
   },
   {
     "nome": "Carlos Henrique Peixoto Caetano Chaves",
+    "situacao": "Egresso",
     "lattes_id": "7603625174744118",
     "orcid": "",
     "google_scholar": "",
@@ -1090,6 +1189,7 @@
   },
   {
     "nome": "Carlos Ho Shih Ning",
+    "situacao": "Egresso",
     "lattes_id": "5790672400001485",
     "orcid": "",
     "google_scholar": "",
@@ -1101,6 +1201,7 @@
   },
   {
     "nome": "Carlos Renato de Souza",
+    "situacao": "Egresso e ativo",
     "lattes_id": "2349556260957146",
     "orcid": "",
     "google_scholar": "",
@@ -1112,6 +1213,7 @@
   },
   {
     "nome": "Carlos Renato Seabra de Almeida Júnior",
+    "situacao": "Egresso",
     "lattes_id": "0010283517576726",
     "orcid": "",
     "google_scholar": "",
@@ -1123,6 +1225,7 @@
   },
   {
     "nome": "Carmen Lucia Ruybal dos Santos",
+    "situacao": "Egresso",
     "lattes_id": "3387413528291619",
     "orcid": "",
     "google_scholar": "",
@@ -1134,6 +1237,7 @@
   },
   {
     "nome": "Catia Souza Do Nascimento Sepetauskas",
+    "situacao": "Egresso",
     "lattes_id": "4833115415298367",
     "orcid": "",
     "google_scholar": "",
@@ -1145,6 +1249,7 @@
   },
   {
     "nome": "Cecilia de Azevedo Castro Cesar",
+    "situacao": "Egresso",
     "lattes_id": "2229860377382126",
     "orcid": "",
     "google_scholar": "",
@@ -1156,6 +1261,7 @@
   },
   {
     "nome": "Celio Costa Vaz",
+    "situacao": "Egresso",
     "lattes_id": "0416742450183540",
     "orcid": "",
     "google_scholar": "",
@@ -1167,6 +1273,7 @@
   },
   {
     "nome": "Celso Athayde",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -1178,6 +1285,7 @@
   },
   {
     "nome": "Celso Bernardo da Nobrega de Freitas",
+    "situacao": "Egresso",
     "lattes_id": "6677187050655324",
     "orcid": "",
     "google_scholar": "",
@@ -1189,6 +1297,7 @@
   },
   {
     "nome": "Cesar Arturo Sanchez Pena",
+    "situacao": "Egresso",
     "lattes_id": "0732596313239418",
     "orcid": "",
     "google_scholar": "",
@@ -1200,6 +1309,7 @@
   },
   {
     "nome": "Cesar Augusto de Moraes Costa",
+    "situacao": "Egresso e ativo",
     "lattes_id": "7794983265465580",
     "orcid": "",
     "google_scholar": "",
@@ -1211,6 +1321,7 @@
   },
   {
     "nome": "Cesar Strauss",
+    "situacao": "Egresso",
     "lattes_id": "1228313832666346",
     "orcid": "",
     "google_scholar": "",
@@ -1222,6 +1333,7 @@
   },
   {
     "nome": "Cintia Pereira de Freitas",
+    "situacao": "Egresso",
     "lattes_id": "9232847817073786",
     "orcid": "",
     "google_scholar": "",
@@ -1233,6 +1345,7 @@
   },
   {
     "nome": "Claudia Robbi",
+    "situacao": "Egresso",
     "lattes_id": "7467359757638128",
     "orcid": "",
     "google_scholar": "",
@@ -1244,6 +1357,7 @@
   },
   {
     "nome": "Claudinei Walker da Silva",
+    "situacao": "Egresso",
     "lattes_id": "2782183585992593",
     "orcid": "",
     "google_scholar": "",
@@ -1255,6 +1369,7 @@
   },
   {
     "nome": "Claudio Correa",
+    "situacao": "Egresso",
     "lattes_id": "9931295892888889",
     "orcid": "",
     "google_scholar": "",
@@ -1266,6 +1381,7 @@
   },
   {
     "nome": "Clovis Perin Filho",
+    "situacao": "Egresso",
     "lattes_id": "1675602011974735",
     "orcid": "",
     "google_scholar": "",
@@ -1277,6 +1393,7 @@
   },
   {
     "nome": "Clovis Torres Fernandes",
+    "situacao": "Egresso",
     "lattes_id": "6635354260645535",
     "orcid": "",
     "google_scholar": "",
@@ -1288,6 +1405,7 @@
   },
   {
     "nome": "Cláudia Santos da Silva",
+    "situacao": "Egresso",
     "lattes_id": "3007794913443606",
     "orcid": "",
     "google_scholar": "",
@@ -1299,6 +1417,7 @@
   },
   {
     "nome": "Cláudia Álvares da Silva Velloso Ferreira",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -1310,6 +1429,7 @@
   },
   {
     "nome": "Cláudio Faria",
+    "situacao": "Egresso",
     "lattes_id": "8435311517599740",
     "orcid": "",
     "google_scholar": "",
@@ -1321,6 +1441,7 @@
   },
   {
     "nome": "Corina da Costa Freitas Yanasse",
+    "situacao": "Egresso",
     "lattes_id": "2549014594120288",
     "orcid": "",
     "google_scholar": "",
@@ -1332,6 +1453,7 @@
   },
   {
     "nome": "Cristiane Pires Camilo",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -1343,6 +1465,7 @@
   },
   {
     "nome": "Cristiano Emanoel Pereira Reis",
+    "situacao": "Egresso",
     "lattes_id": "0755520137064537",
     "orcid": "",
     "google_scholar": "",
@@ -1354,6 +1477,7 @@
   },
   {
     "nome": "Cristiano Strieder",
+    "situacao": "Egresso",
     "lattes_id": "5495364420117687",
     "orcid": "",
     "google_scholar": "",
@@ -1365,6 +1489,7 @@
   },
   {
     "nome": "Cristine Hoepers",
+    "situacao": "Egresso",
     "lattes_id": "2215364890309488",
     "orcid": "",
     "google_scholar": "",
@@ -1376,6 +1501,7 @@
   },
   {
     "nome": "Cândida Caroline Souza de Santana Leite",
+    "situacao": "Ativo",
     "lattes_id": "3782999174174809",
     "orcid": "",
     "google_scholar": "",
@@ -1387,6 +1513,7 @@
   },
   {
     "nome": "César Antonio Gonçalves",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -1398,6 +1525,7 @@
   },
   {
     "nome": "Dalila Ribeiro Serpa",
+    "situacao": "Egresso",
     "lattes_id": "7823015064082512",
     "orcid": "",
     "google_scholar": "",
@@ -1409,6 +1537,7 @@
   },
   {
     "nome": "Damaceno Dal Bianco",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -1420,6 +1549,7 @@
   },
   {
     "nome": "Daniel Farkat Alves Fontes",
+    "situacao": "Ativo",
     "lattes_id": "9365189948963466",
     "orcid": "",
     "google_scholar": "",
@@ -1431,10 +1561,11 @@
   },
   {
     "nome": "Daniel Fernandes Pereira",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "3036871400028170",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "daniel.f.pereira87@gmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -1442,6 +1573,7 @@
   },
   {
     "nome": "Daniel Massaru Katsurayama",
+    "situacao": "Egresso",
     "lattes_id": "3723124745578916",
     "orcid": "",
     "google_scholar": "",
@@ -1453,6 +1585,7 @@
   },
   {
     "nome": "Daniel Merli Lamosa",
+    "situacao": "Egresso",
     "lattes_id": "1255820168935649",
     "orcid": "",
     "google_scholar": "",
@@ -1464,6 +1597,7 @@
   },
   {
     "nome": "DANIEL WANDER FERREIRA MELO",
+    "situacao": "Ativo",
     "lattes_id": "5222219789076747",
     "orcid": "",
     "google_scholar": "",
@@ -1475,6 +1609,7 @@
   },
   {
     "nome": "Daniela Eloise Flôr",
+    "situacao": "Egresso",
     "lattes_id": "7560936930373791",
     "orcid": "",
     "google_scholar": "",
@@ -1486,6 +1621,7 @@
   },
   {
     "nome": "Danilo Mori Palomo",
+    "situacao": "Egresso",
     "lattes_id": "2338080285741014",
     "orcid": "",
     "google_scholar": "",
@@ -1497,6 +1633,7 @@
   },
   {
     "nome": "David de Souza França",
+    "situacao": "Egresso",
     "lattes_id": "8689438518153418",
     "orcid": "",
     "google_scholar": "",
@@ -1508,6 +1645,7 @@
   },
   {
     "nome": "Dener César Mendes",
+    "situacao": "Ativo",
     "lattes_id": "7737004124914003",
     "orcid": "",
     "google_scholar": "",
@@ -1519,6 +1657,7 @@
   },
   {
     "nome": "Denise Nunes Rotondi Azevedo",
+    "situacao": "Egresso",
     "lattes_id": "2310056530681316",
     "orcid": "",
     "google_scholar": "",
@@ -1530,6 +1669,7 @@
   },
   {
     "nome": "Deoclides Francisco de Souza Filho",
+    "situacao": "Egresso",
     "lattes_id": "3562580384516053",
     "orcid": "",
     "google_scholar": "",
@@ -1541,6 +1681,7 @@
   },
   {
     "nome": "Diego Benincasa Fernandes Cavalcanti de Almeida",
+    "situacao": "Egresso",
     "lattes_id": "8475829110502190",
     "orcid": "",
     "google_scholar": "",
@@ -1552,6 +1693,7 @@
   },
   {
     "nome": "Diego Guimarães de Brito Costa",
+    "situacao": "Egresso",
     "lattes_id": "0209870086086583",
     "orcid": "",
     "google_scholar": "",
@@ -1563,6 +1705,7 @@
   },
   {
     "nome": "Diego Herbín Stalder Díaz",
+    "situacao": "Egresso",
     "lattes_id": "3021413107688004",
     "orcid": "",
     "google_scholar": "",
@@ -1574,6 +1717,7 @@
   },
   {
     "nome": "Diego Vilela Monteiro",
+    "situacao": "Egresso",
     "lattes_id": "8945818702352385",
     "orcid": "",
     "google_scholar": "",
@@ -1585,6 +1729,7 @@
   },
   {
     "nome": "Dimítri Vladímirovitch Fédorov",
+    "situacao": "Egresso",
     "lattes_id": "5757447540249685",
     "orcid": "",
     "google_scholar": "",
@@ -1596,6 +1741,7 @@
   },
   {
     "nome": "Douglas Messias Uba",
+    "situacao": "Egresso",
     "lattes_id": "4295384125347429",
     "orcid": "",
     "google_scholar": "",
@@ -1607,6 +1753,7 @@
   },
   {
     "nome": "Douglas Rodrigues Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -1618,6 +1765,7 @@
   },
   {
     "nome": "Edgar Toshiro Yano",
+    "situacao": "Egresso",
     "lattes_id": "2698123658366199",
     "orcid": "",
     "google_scholar": "",
@@ -1629,6 +1777,7 @@
   },
   {
     "nome": "Edgard Dias Batista Junior",
+    "situacao": "Egresso",
     "lattes_id": "2916312959060605",
     "orcid": "",
     "google_scholar": "",
@@ -1640,6 +1789,7 @@
   },
   {
     "nome": "Edson Alves Ribeiro",
+    "situacao": "Egresso",
     "lattes_id": "0297755393312738",
     "orcid": "",
     "google_scholar": "",
@@ -1651,10 +1801,11 @@
   },
   {
     "nome": "Edson Cláudio Tchivango Segunda",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "6713420060890295",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "edsontchivango@gmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -1662,6 +1813,7 @@
   },
   {
     "nome": "Edson Luiz França Senne",
+    "situacao": "Egresso",
     "lattes_id": "1338008237590056",
     "orcid": "",
     "google_scholar": "",
@@ -1673,6 +1825,7 @@
   },
   {
     "nome": "Eduardo Batista de Moraes Barbosa",
+    "situacao": "Egresso",
     "lattes_id": "8920905542032636",
     "orcid": "",
     "google_scholar": "",
@@ -1684,6 +1837,7 @@
   },
   {
     "nome": "Eduardo Charles Vasconcellos",
+    "situacao": "Egresso",
     "lattes_id": "9622415604083776",
     "orcid": "",
     "google_scholar": "",
@@ -1695,6 +1849,7 @@
   },
   {
     "nome": "Eduardo Furlan Miranda",
+    "situacao": "Egresso e ativo",
     "lattes_id": "3103925764927851",
     "orcid": "",
     "google_scholar": "",
@@ -1706,6 +1861,7 @@
   },
   {
     "nome": "Eduardo Fávero Pacheco da Luz",
+    "situacao": "Egresso",
     "lattes_id": "6485164320743340",
     "orcid": "",
     "google_scholar": "",
@@ -1717,6 +1873,7 @@
   },
   {
     "nome": "Eduardo Gomes de Barros",
+    "situacao": "Egresso",
     "lattes_id": "4950959042542211",
     "orcid": "",
     "google_scholar": "",
@@ -1728,6 +1885,7 @@
   },
   {
     "nome": "Eduardo Hidenori Enari",
+    "situacao": "Egresso",
     "lattes_id": "1599509809687079",
     "orcid": "",
     "google_scholar": "",
@@ -1739,6 +1897,7 @@
   },
   {
     "nome": "Eduardo Lessa Bonelli",
+    "situacao": "Egresso",
     "lattes_id": "4850035146730325",
     "orcid": "",
     "google_scholar": "",
@@ -1750,6 +1909,7 @@
   },
   {
     "nome": "Eduardo Pereira de Sousa",
+    "situacao": "Egresso",
     "lattes_id": "1740501453922409",
     "orcid": "",
     "google_scholar": "",
@@ -1761,6 +1921,7 @@
   },
   {
     "nome": "Eduardo Quesado Filgueiras",
+    "situacao": "Egresso",
     "lattes_id": "0736007907156876",
     "orcid": "",
     "google_scholar": "",
@@ -1772,6 +1933,7 @@
   },
   {
     "nome": "Eduardo Rocha Rodrigues",
+    "situacao": "Egresso",
     "lattes_id": "8441527555085287",
     "orcid": "",
     "google_scholar": "",
@@ -1783,6 +1945,7 @@
   },
   {
     "nome": "Eduardo Rohde Eras",
+    "situacao": "Egresso",
     "lattes_id": "4404234627216005",
     "orcid": "",
     "google_scholar": "",
@@ -1794,6 +1957,7 @@
   },
   {
     "nome": "Egidio Arai",
+    "situacao": "Egresso",
     "lattes_id": "0049390900009593",
     "orcid": "",
     "google_scholar": "",
@@ -1805,6 +1969,7 @@
   },
   {
     "nome": "Elcio Hideiti Shiguemori",
+    "situacao": "Egresso",
     "lattes_id": "7243145638158319",
     "orcid": "",
     "google_scholar": "",
@@ -1816,6 +1981,7 @@
   },
   {
     "nome": "Elcio Pasqualucci",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -1827,6 +1993,7 @@
   },
   {
     "nome": "Elder Figueiredo",
+    "situacao": "Egresso",
     "lattes_id": "5322003519160429",
     "orcid": "",
     "google_scholar": "",
@@ -1838,6 +2005,7 @@
   },
   {
     "nome": "Eliana Pantaleão",
+    "situacao": "Egresso",
     "lattes_id": "9522811596351113",
     "orcid": "",
     "google_scholar": "",
@@ -1849,6 +2017,7 @@
   },
   {
     "nome": "Eliane D'Ippolito",
+    "situacao": "Egresso",
     "lattes_id": "2120215231577413",
     "orcid": "",
     "google_scholar": "",
@@ -1860,6 +2029,7 @@
   },
   {
     "nome": "Elias Bortolotto",
+    "situacao": "Egresso",
     "lattes_id": "0136489879218268",
     "orcid": "",
     "google_scholar": "",
@@ -1871,6 +2041,7 @@
   },
   {
     "nome": "Elias Canhadas Genvigir",
+    "situacao": "Egresso",
     "lattes_id": "6084795630657031",
     "orcid": "",
     "google_scholar": "",
@@ -1882,6 +2053,7 @@
   },
   {
     "nome": "Elizabeth Schutzer",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -1893,10 +2065,11 @@
   },
   {
     "nome": "Elton Oliveira Ferreira",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "6961687940003298",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "eltonof@gmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -1904,6 +2077,7 @@
   },
   {
     "nome": "Emanuel Fernandes",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -1915,6 +2089,7 @@
   },
   {
     "nome": "Emerson Magnus de Araújo Xavier",
+    "situacao": "Egresso",
     "lattes_id": "2547861136067097",
     "orcid": "",
     "google_scholar": "",
@@ -1926,6 +2101,7 @@
   },
   {
     "nome": "EMMANUEL INIOLUWA BABAJIDE",
+    "situacao": "Ativo",
     "lattes_id": "9242029201874316",
     "orcid": "",
     "google_scholar": "",
@@ -1937,6 +2113,7 @@
   },
   {
     "nome": "Eni Alvim de Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "9177158126302844",
     "orcid": "",
     "google_scholar": "",
@@ -1948,6 +2125,7 @@
   },
   {
     "nome": "Eric Silva Abreu",
+    "situacao": "Egresso",
     "lattes_id": "7434663488205538",
     "orcid": "",
     "google_scholar": "",
@@ -1959,6 +2137,7 @@
   },
   {
     "nome": "Erico Luiz Rempel",
+    "situacao": "Egresso",
     "lattes_id": "2490233702308461",
     "orcid": "",
     "google_scholar": "",
@@ -1970,6 +2149,7 @@
   },
   {
     "nome": "Erwin Doescher",
+    "situacao": "Egresso",
     "lattes_id": "9388430460339927",
     "orcid": "",
     "google_scholar": "",
@@ -1981,6 +2161,7 @@
   },
   {
     "nome": "Eugênio Sper de Almeida",
+    "situacao": "Egresso",
     "lattes_id": "0676191681641372",
     "orcid": "",
     "google_scholar": "",
@@ -1992,6 +2173,7 @@
   },
   {
     "nome": "Eunice Gomes de Siqueira",
+    "situacao": "Egresso",
     "lattes_id": "2284943947339694",
     "orcid": "",
     "google_scholar": "",
@@ -2003,6 +2185,7 @@
   },
   {
     "nome": "Eunice Kinuyo Odashima",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2014,6 +2197,7 @@
   },
   {
     "nome": "Evaldinolia Gilbertoni Moreira",
+    "situacao": "Egresso",
     "lattes_id": "8545196200418432",
     "orcid": "",
     "google_scholar": "",
@@ -2025,6 +2209,7 @@
   },
   {
     "nome": "Evaldo Santos Pinheiro",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2036,6 +2221,7 @@
   },
   {
     "nome": "Fabiana Ferreira Paes",
+    "situacao": "Egresso",
     "lattes_id": "4261792535819079",
     "orcid": "",
     "google_scholar": "",
@@ -2047,6 +2233,7 @@
   },
   {
     "nome": "Fabiana Zioti",
+    "situacao": "Egresso",
     "lattes_id": "2581104447215356",
     "orcid": "",
     "google_scholar": "",
@@ -2058,6 +2245,7 @@
   },
   {
     "nome": "Fabiano Luis de Sousa",
+    "situacao": "Egresso",
     "lattes_id": "4675810813756485",
     "orcid": "",
     "google_scholar": "",
@@ -2069,6 +2257,7 @@
   },
   {
     "nome": "Fabio Dall' Cortivo",
+    "situacao": "Egresso",
     "lattes_id": "2843177061335707",
     "orcid": "",
     "google_scholar": "",
@@ -2080,6 +2269,7 @@
   },
   {
     "nome": "Fabrício de Novaes Kucinskis",
+    "situacao": "Egresso",
     "lattes_id": "0258534785530414",
     "orcid": "",
     "google_scholar": "",
@@ -2091,6 +2281,7 @@
   },
   {
     "nome": "Fabrício Lacerda Biajoli",
+    "situacao": "Egresso",
     "lattes_id": "9437897363207909",
     "orcid": "",
     "google_scholar": "",
@@ -2102,6 +2293,7 @@
   },
   {
     "nome": "Fabrício Pereira Härter",
+    "situacao": "Egresso",
     "lattes_id": "9865056179221557",
     "orcid": "",
     "google_scholar": "",
@@ -2113,6 +2305,7 @@
   },
   {
     "nome": "Fawaz Damola Shodipo",
+    "situacao": "Ativo",
     "lattes_id": "9281513593952367",
     "orcid": "",
     "google_scholar": "",
@@ -2124,6 +2317,7 @@
   },
   {
     "nome": "Felipe Carvalho de Souza",
+    "situacao": "Egresso e ativo",
     "lattes_id": "1585234010491395",
     "orcid": "",
     "google_scholar": "",
@@ -2135,6 +2329,7 @@
   },
   {
     "nome": "Felipe Castro da Silva",
+    "situacao": "Egresso",
     "lattes_id": "8138220414943597",
     "orcid": "",
     "google_scholar": "",
@@ -2146,6 +2341,7 @@
   },
   {
     "nome": "Felipe Leonardo Lôbo Medeiros",
+    "situacao": "Egresso",
     "lattes_id": "8148486577673949",
     "orcid": "",
     "google_scholar": "",
@@ -2157,6 +2353,7 @@
   },
   {
     "nome": "Felipe Menino Carlos",
+    "situacao": "Egresso",
     "lattes_id": "1671507766861221",
     "orcid": "",
     "google_scholar": "",
@@ -2168,6 +2365,7 @@
   },
   {
     "nome": "Felipe Rodolfo Santos Corrêa",
+    "situacao": "Egresso",
     "lattes_id": "4041739735524875",
     "orcid": "",
     "google_scholar": "",
@@ -2179,6 +2377,7 @@
   },
   {
     "nome": "Fernando Antonio Araujo Mota",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2190,6 +2389,7 @@
   },
   {
     "nome": "Fernando Augusto Mitsuo Ii",
+    "situacao": "Egresso",
     "lattes_id": "7586782094459578",
     "orcid": "",
     "google_scholar": "",
@@ -2201,6 +2401,7 @@
   },
   {
     "nome": "Fernando Cossetin",
+    "situacao": "Egresso",
     "lattes_id": "1144475005201309",
     "orcid": "",
     "google_scholar": "",
@@ -2212,6 +2413,7 @@
   },
   {
     "nome": "Fernando de Oliveira Pereira",
+    "situacao": "Egresso",
     "lattes_id": "7766243015529175",
     "orcid": "",
     "google_scholar": "",
@@ -2223,6 +2425,7 @@
   },
   {
     "nome": "Fernando Manoel Athayde Reis",
+    "situacao": "Egresso",
     "lattes_id": "6610880835694055",
     "orcid": "",
     "google_scholar": "",
@@ -2234,6 +2437,7 @@
   },
   {
     "nome": "Fernando Renier Gibotti da Silva",
+    "situacao": "Egresso",
     "lattes_id": "0677942900182928",
     "orcid": "",
     "google_scholar": "",
@@ -2245,6 +2449,7 @@
   },
   {
     "nome": "Feruccio Bilich",
+    "situacao": "Egresso",
     "lattes_id": "9245405487222510",
     "orcid": "",
     "google_scholar": "",
@@ -2256,6 +2461,7 @@
   },
   {
     "nome": "Flávia Beatriz Rodrigues Prisco da Cunha",
+    "situacao": "Egresso",
     "lattes_id": "2361344348370916",
     "orcid": "",
     "google_scholar": "",
@@ -2267,6 +2473,7 @@
   },
   {
     "nome": "Flávia Beatriz Vasconcellos Rodrigues",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2278,6 +2485,7 @@
   },
   {
     "nome": "Flávia Costa Gomes de Mendonça",
+    "situacao": "Egresso",
     "lattes_id": "1413699954898626",
     "orcid": "",
     "google_scholar": "",
@@ -2289,6 +2497,7 @@
   },
   {
     "nome": "Flávia de Toledo Martins Bedê",
+    "situacao": "Egresso",
     "lattes_id": "3532895753681553",
     "orcid": "",
     "google_scholar": "",
@@ -2300,6 +2509,7 @@
   },
   {
     "nome": "Flávio Roberto Dias Velasco",
+    "situacao": "Egresso",
     "lattes_id": "0324377046544681",
     "orcid": "",
     "google_scholar": "",
@@ -2311,6 +2521,7 @@
   },
   {
     "nome": "Francisca Joamila Brito do Nascimento",
+    "situacao": "Egresso",
     "lattes_id": "3758802395321354",
     "orcid": "",
     "google_scholar": "",
@@ -2322,6 +2533,7 @@
   },
   {
     "nome": "Francisco de Assis Corrêa",
+    "situacao": "Egresso",
     "lattes_id": "9163304064337159",
     "orcid": "",
     "google_scholar": "",
@@ -2333,6 +2545,7 @@
   },
   {
     "nome": "Francisco de Assis Tavares Ferreira da Silva",
+    "situacao": "Egresso",
     "lattes_id": "0504582828060516",
     "orcid": "",
     "google_scholar": "",
@@ -2344,6 +2557,7 @@
   },
   {
     "nome": "Francisco Eduardo de Carvalho Viola",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2355,6 +2569,7 @@
   },
   {
     "nome": "Francisco Javier Tipan Salazar",
+    "situacao": "Egresso",
     "lattes_id": "3909705457793101",
     "orcid": "",
     "google_scholar": "",
@@ -2366,6 +2581,7 @@
   },
   {
     "nome": "Francisco Luís Pompéia Gioielli",
+    "situacao": "Egresso",
     "lattes_id": "2211696490307903",
     "orcid": "",
     "google_scholar": "",
@@ -2377,6 +2593,7 @@
   },
   {
     "nome": "Frank Moshé Cotacallapa Choque",
+    "situacao": "Egresso",
     "lattes_id": "5872327943756110",
     "orcid": "",
     "google_scholar": "",
@@ -2388,6 +2605,7 @@
   },
   {
     "nome": "Frank Tadeu Ávila",
+    "situacao": "Egresso",
     "lattes_id": "1642912733715519",
     "orcid": "",
     "google_scholar": "",
@@ -2399,6 +2617,7 @@
   },
   {
     "nome": "Frederico Augusto Bede Teotonio",
+    "situacao": "Egresso",
     "lattes_id": "9297742252463260",
     "orcid": "",
     "google_scholar": "",
@@ -2410,6 +2629,7 @@
   },
   {
     "nome": "Frederico Fabbri Ribeiro",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2421,6 +2641,7 @@
   },
   {
     "nome": "Fábio Belo Lopes",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2432,6 +2653,7 @@
   },
   {
     "nome": "Fábio Gavião Avelino de Méllo",
+    "situacao": "Egresso",
     "lattes_id": "5832079106399475",
     "orcid": "",
     "google_scholar": "",
@@ -2443,6 +2665,7 @@
   },
   {
     "nome": "Gabriel Augusto Lins Leal Pinheiro",
+    "situacao": "Egresso",
     "lattes_id": "3065903873888592",
     "orcid": "",
     "google_scholar": "",
@@ -2454,10 +2677,11 @@
   },
   {
     "nome": "Gabriel David dos Santos Alves",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "0665119351128231",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "gabrieldsa1609@gmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -2465,6 +2689,7 @@
   },
   {
     "nome": "Gabriel Dietzsch",
+    "situacao": "Ativo",
     "lattes_id": "5682349523594461",
     "orcid": "",
     "google_scholar": "",
@@ -2476,6 +2701,7 @@
   },
   {
     "nome": "Gabriel Fornari",
+    "situacao": "Egresso",
     "lattes_id": "8086526958304657",
     "orcid": "",
     "google_scholar": "",
@@ -2487,6 +2713,7 @@
   },
   {
     "nome": "Gabriel Koyama Alves",
+    "situacao": "Egresso",
     "lattes_id": "3660181264794328",
     "orcid": "",
     "google_scholar": "",
@@ -2498,10 +2725,11 @@
   },
   {
     "nome": "Gabriel Rocha Pinto",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "6532765027683945",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "gabriel.rocha.pinto@outlook.com",
     "email_alternativo": "",
     "instagram": "",
@@ -2509,6 +2737,7 @@
   },
   {
     "nome": "Gabriel Sansigolo",
+    "situacao": "Egresso e ativo",
     "lattes_id": "4094434844735694",
     "orcid": "",
     "google_scholar": "",
@@ -2520,10 +2749,11 @@
   },
   {
     "nome": "Gabriella Augusta de Oliveira Correa",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "2763267974067521",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "gabriela.augusta854@gmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -2531,10 +2761,11 @@
   },
   {
     "nome": "Gabrielly Vitória Camargo do Prado",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "1365593903295297",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "gabrielly120prado@gmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -2542,6 +2773,7 @@
   },
   {
     "nome": "Geraldo José de Souza",
+    "situacao": "Egresso",
     "lattes_id": "9220708681270389",
     "orcid": "",
     "google_scholar": "",
@@ -2553,6 +2785,7 @@
   },
   {
     "nome": "Geraldo Regis Mauri",
+    "situacao": "Egresso",
     "lattes_id": "7870111209439581",
     "orcid": "",
     "google_scholar": "",
@@ -2564,6 +2797,7 @@
   },
   {
     "nome": "Geraldo Ribeiro Filho",
+    "situacao": "Egresso",
     "lattes_id": "2354662228633167",
     "orcid": "",
     "google_scholar": "",
@@ -2575,6 +2809,7 @@
   },
   {
     "nome": "Germano de Souza Kienbaum",
+    "situacao": "Egresso",
     "lattes_id": "2655635733254789",
     "orcid": "",
     "google_scholar": "",
@@ -2586,6 +2821,7 @@
   },
   {
     "nome": "Gerson da Penha Neto",
+    "situacao": "Egresso",
     "lattes_id": "9441903297380731",
     "orcid": "",
     "google_scholar": "",
@@ -2597,6 +2833,7 @@
   },
   {
     "nome": "Gerson de Oliveira Barbosa",
+    "situacao": "Egresso",
     "lattes_id": "5531252237682065",
     "orcid": "",
     "google_scholar": "",
@@ -2608,6 +2845,7 @@
   },
   {
     "nome": "Gerônimo Gallarreta Zubiaurre Lemos",
+    "situacao": "Egresso e ativo",
     "lattes_id": "6290140872894499",
     "orcid": "",
     "google_scholar": "",
@@ -2619,6 +2857,7 @@
   },
   {
     "nome": "Giani Carla Ito",
+    "situacao": "Egresso",
     "lattes_id": "4727340593582933",
     "orcid": "",
     "google_scholar": "",
@@ -2630,6 +2869,7 @@
   },
   {
     "nome": "Giann Kenyd Correa",
+    "situacao": "Ativo",
     "lattes_id": "0643081455881078",
     "orcid": "",
     "google_scholar": "",
@@ -2641,6 +2881,7 @@
   },
   {
     "nome": "Gilberto Câmara Neto",
+    "situacao": "Egresso",
     "lattes_id": "0333390666972274",
     "orcid": "",
     "google_scholar": "",
@@ -2652,6 +2893,7 @@
   },
   {
     "nome": "Gilberto Ribeiro de Queiroz",
+    "situacao": "Egresso",
     "lattes_id": "9981634193003068",
     "orcid": "",
     "google_scholar": "",
@@ -2663,6 +2905,7 @@
   },
   {
     "nome": "Giovanni Guarnieri Soares",
+    "situacao": "Egresso e ativo",
     "lattes_id": "1181220331702027",
     "orcid": "",
     "google_scholar": "",
@@ -2674,6 +2917,7 @@
   },
   {
     "nome": "Giulia Katherine Romas Tomazeli",
+    "situacao": "Ativo",
     "lattes_id": "2145278611728231",
     "orcid": "",
     "google_scholar": "",
@@ -2685,6 +2929,7 @@
   },
   {
     "nome": "Glauco Antonio Santos da Silva",
+    "situacao": "Egresso",
     "lattes_id": "9992644919025348",
     "orcid": "",
     "google_scholar": "",
@@ -2696,6 +2941,7 @@
   },
   {
     "nome": "Glaydston Mattos Ribeiro",
+    "situacao": "Egresso",
     "lattes_id": "5401369683892150",
     "orcid": "",
     "google_scholar": "",
@@ -2707,6 +2953,7 @@
   },
   {
     "nome": "Gleber Nelson Marques",
+    "situacao": "Egresso",
     "lattes_id": "5222086307573756",
     "orcid": "",
     "google_scholar": "",
@@ -2718,6 +2965,7 @@
   },
   {
     "nome": "Gonçalo Renildo Lima Cerqueira",
+    "situacao": "Egresso",
     "lattes_id": "6505148908771591",
     "orcid": "",
     "google_scholar": "",
@@ -2729,6 +2977,7 @@
   },
   {
     "nome": "Griselda Esther Jara de Garrido",
+    "situacao": "Egresso",
     "lattes_id": "0232526330657129",
     "orcid": "",
     "google_scholar": "",
@@ -2740,6 +2989,7 @@
   },
   {
     "nome": "Guaraci José Erthal",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2751,6 +3001,7 @@
   },
   {
     "nome": "Guilherme Bittencourt",
+    "situacao": "Egresso",
     "lattes_id": "6959796173185352",
     "orcid": "",
     "google_scholar": "",
@@ -2762,6 +3013,7 @@
   },
   {
     "nome": "Guilherme Oliveira Chagas",
+    "situacao": "Egresso",
     "lattes_id": "3671312341626386",
     "orcid": "",
     "google_scholar": "",
@@ -2773,6 +3025,7 @@
   },
   {
     "nome": "Gustavo Augusto Mascarenhas Goltz",
+    "situacao": "Egresso",
     "lattes_id": "8288303170419323",
     "orcid": "",
     "google_scholar": "",
@@ -2784,6 +3037,7 @@
   },
   {
     "nome": "Gustavo Beltrami Rossi",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2795,6 +3049,7 @@
   },
   {
     "nome": "Gustavo Furtado de Oliveira Alves",
+    "situacao": "Egresso",
     "lattes_id": "0735032354574806",
     "orcid": "",
     "google_scholar": "",
@@ -2806,6 +3061,7 @@
   },
   {
     "nome": "Gutemberg Borges França",
+    "situacao": "Egresso",
     "lattes_id": "2544946020114873",
     "orcid": "",
     "google_scholar": "",
@@ -2817,6 +3073,7 @@
   },
   {
     "nome": "Heber José de Mauro",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2828,6 +3085,7 @@
   },
   {
     "nome": "Heiko Humann",
+    "situacao": "Egresso",
     "lattes_id": "3045233753320024",
     "orcid": "",
     "google_scholar": "",
@@ -2839,6 +3097,7 @@
   },
   {
     "nome": "Heitor Angelo Moraes Junior",
+    "situacao": "Egresso",
     "lattes_id": "3591150667553628",
     "orcid": "",
     "google_scholar": "",
@@ -2850,6 +3109,7 @@
   },
   {
     "nome": "Helaine Cristina Morais Furtado",
+    "situacao": "Egresso",
     "lattes_id": "1700545931391495",
     "orcid": "",
     "google_scholar": "",
@@ -2861,6 +3121,7 @@
   },
   {
     "nome": "Helcio Francisco Villa Nova",
+    "situacao": "Egresso",
     "lattes_id": "9771201880886942",
     "orcid": "",
     "google_scholar": "",
@@ -2872,6 +3133,7 @@
   },
   {
     "nome": "Helena Buschermöhle",
+    "situacao": "Ativo",
     "lattes_id": "5472016875787920",
     "orcid": "",
     "google_scholar": "",
@@ -2883,6 +3145,7 @@
   },
   {
     "nome": "Heloisa Galvão Villela Santos Borges",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2894,6 +3157,7 @@
   },
   {
     "nome": "Heloisa Maria Martins de A. Gonçalves",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2905,6 +3169,7 @@
   },
   {
     "nome": "Heloisa Musetti Ruivo",
+    "situacao": "Egresso",
     "lattes_id": "0815331928533801",
     "orcid": "",
     "google_scholar": "",
@@ -2916,6 +3181,7 @@
   },
   {
     "nome": "Heloneida de Carvalho Kataoka",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -2927,6 +3193,7 @@
   },
   {
     "nome": "Helvecio Bezerra Leal Neto",
+    "situacao": "Egresso",
     "lattes_id": "7196274083231131",
     "orcid": "",
     "google_scholar": "",
@@ -2938,6 +3205,7 @@
   },
   {
     "nome": "Henrique Lima do Nascimento",
+    "situacao": "Ativo",
     "lattes_id": "8178971506933436",
     "orcid": "",
     "google_scholar": "",
@@ -2949,6 +3217,7 @@
   },
   {
     "nome": "Henrique Mendes Castilho",
+    "situacao": "Egresso",
     "lattes_id": "7598908992461702",
     "orcid": "",
     "google_scholar": "",
@@ -2960,6 +3229,7 @@
   },
   {
     "nome": "Henrique Niwa",
+    "situacao": "Egresso",
     "lattes_id": "1398960120056570",
     "orcid": "",
     "google_scholar": "",
@@ -2971,6 +3241,7 @@
   },
   {
     "nome": "Henrique Otavio Queiroz de Aquino",
+    "situacao": "Egresso",
     "lattes_id": "6790488139967667",
     "orcid": "",
     "google_scholar": "",
@@ -2982,6 +3253,7 @@
   },
   {
     "nome": "Henrique Rennó de Azeredo Freitas",
+    "situacao": "Egresso",
     "lattes_id": "6700293516531228",
     "orcid": "",
     "google_scholar": "",
@@ -2993,6 +3265,7 @@
   },
   {
     "nome": "Hilcea Santos Ferreira",
+    "situacao": "Egresso",
     "lattes_id": "7388769857515061",
     "orcid": "",
     "google_scholar": "",
@@ -3004,6 +3277,7 @@
   },
   {
     "nome": "Horacio Hideki Yanasse",
+    "situacao": "Egresso",
     "lattes_id": "6187221670775160",
     "orcid": "",
     "google_scholar": "",
@@ -3015,6 +3289,7 @@
   },
   {
     "nome": "Horácio Aragonés Forjaz",
+    "situacao": "Egresso",
     "lattes_id": "0653304893431733",
     "orcid": "",
     "google_scholar": "",
@@ -3026,10 +3301,11 @@
   },
   {
     "nome": "Hugo da Silva Bernardes Gonçalves",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "7516176175384698",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "hugo.bernardes@gmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -3037,6 +3313,7 @@
   },
   {
     "nome": "Humberto Bertola de Almeida",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3048,6 +3325,7 @@
   },
   {
     "nome": "Hércules Carlos dos Santos Pereira",
+    "situacao": "Ativo",
     "lattes_id": "0820109440738651",
     "orcid": "",
     "google_scholar": "",
@@ -3059,6 +3337,7 @@
   },
   {
     "nome": "Iamara Virgínia de Mendonça Motta",
+    "situacao": "Egresso",
     "lattes_id": "6587855225823004",
     "orcid": "",
     "google_scholar": "",
@@ -3070,6 +3349,7 @@
   },
   {
     "nome": "Iberê Lucio Ronchetti Teixeira",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3081,6 +3361,7 @@
   },
   {
     "nome": "Igor Andrade Reis de Oliveira",
+    "situacao": "Ativo",
     "lattes_id": "8190362301416682",
     "orcid": "",
     "google_scholar": "",
@@ -3092,6 +3373,7 @@
   },
   {
     "nome": "Igor Kolesnikov",
+    "situacao": "Egresso",
     "lattes_id": "7270997826236736",
     "orcid": "",
     "google_scholar": "",
@@ -3103,6 +3385,7 @@
   },
   {
     "nome": "Iris Fabiana de Barcelos Tronto",
+    "situacao": "Egresso",
     "lattes_id": "8235957717242486",
     "orcid": "",
     "google_scholar": "",
@@ -3114,6 +3397,7 @@
   },
   {
     "nome": "Isabela Neves Drummond",
+    "situacao": "Egresso",
     "lattes_id": "2799879318334876",
     "orcid": "",
     "google_scholar": "",
@@ -3125,6 +3409,7 @@
   },
   {
     "nome": "Isolete Teresinha Dzendzik",
+    "situacao": "Egresso",
     "lattes_id": "2425002433217498",
     "orcid": "",
     "google_scholar": "",
@@ -3136,6 +3421,7 @@
   },
   {
     "nome": "Ivan Soares de Lucena",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3147,6 +3433,7 @@
   },
   {
     "nome": "Ivana Yoshie Sumida",
+    "situacao": "Egresso",
     "lattes_id": "9177203949863116",
     "orcid": "",
     "google_scholar": "",
@@ -3158,6 +3445,7 @@
   },
   {
     "nome": "Ivo Paixão de Medeiros",
+    "situacao": "Egresso",
     "lattes_id": "2701626369862194",
     "orcid": "",
     "google_scholar": "",
@@ -3169,6 +3457,7 @@
   },
   {
     "nome": "Ióris Ramalho Cortez",
+    "situacao": "Egresso",
     "lattes_id": "6821842511118303",
     "orcid": "",
     "google_scholar": "",
@@ -3180,6 +3469,7 @@
   },
   {
     "nome": "Jaciara Silva Carosia",
+    "situacao": "Egresso",
     "lattes_id": "6766571152282367",
     "orcid": "",
     "google_scholar": "",
@@ -3191,6 +3481,7 @@
   },
   {
     "nome": "Jacques Politi",
+    "situacao": "Egresso",
     "lattes_id": "2230382763584267",
     "orcid": "",
     "google_scholar": "",
@@ -3202,6 +3493,7 @@
   },
   {
     "nome": "Jaqueline Aparecida Jorge Papini Soares",
+    "situacao": "Egresso",
     "lattes_id": "4096476605463604",
     "orcid": "",
     "google_scholar": "",
@@ -3213,6 +3505,7 @@
   },
   {
     "nome": "Jefferson Gonçalves de Souza",
+    "situacao": "Egresso",
     "lattes_id": "3622347983126578",
     "orcid": "",
     "google_scholar": "",
@@ -3224,6 +3517,7 @@
   },
   {
     "nome": "Joanito de Andrade Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "6126296380583649",
     "orcid": "",
     "google_scholar": "",
@@ -3235,6 +3529,7 @@
   },
   {
     "nome": "Joao Pedro Diehl",
+    "situacao": "Ativo",
     "lattes_id": "3188479030463983",
     "orcid": "",
     "google_scholar": "",
@@ -3246,6 +3541,7 @@
   },
   {
     "nome": "Joao Vyctor Ferreira da Costa",
+    "situacao": "Ativo",
     "lattes_id": "7524396669976935",
     "orcid": "",
     "google_scholar": "",
@@ -3257,6 +3553,7 @@
   },
   {
     "nome": "Joel Neves Barreto",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3268,6 +3565,7 @@
   },
   {
     "nome": "Joelma Carla Santos",
+    "situacao": "Egresso",
     "lattes_id": "9216236348410986",
     "orcid": "",
     "google_scholar": "",
@@ -3279,6 +3577,7 @@
   },
   {
     "nome": "Joelma Choma",
+    "situacao": "Egresso",
     "lattes_id": "0295224635404422",
     "orcid": "",
     "google_scholar": "",
@@ -3290,6 +3589,7 @@
   },
   {
     "nome": "Johan Sebastian Duque Buitrago",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3301,6 +3601,7 @@
   },
   {
     "nome": "Joice Parmezani Staben Barbosa",
+    "situacao": "Egresso",
     "lattes_id": "5212138735274453",
     "orcid": "",
     "google_scholar": "",
@@ -3312,6 +3613,7 @@
   },
   {
     "nome": "Joice Seleme Mota",
+    "situacao": "Egresso",
     "lattes_id": "7777714279933344",
     "orcid": "",
     "google_scholar": "",
@@ -3323,6 +3625,7 @@
   },
   {
     "nome": "Jonas de Oliveira Júnior",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3334,6 +3637,7 @@
   },
   {
     "nome": "Jonas Ferreira de Oliveira",
+    "situacao": "Ativo",
     "lattes_id": "1320410294585028",
     "orcid": "",
     "google_scholar": "",
@@ -3345,6 +3649,7 @@
   },
   {
     "nome": "Jonas Henrique Mendonça",
+    "situacao": "Egresso",
     "lattes_id": "8073731810160654",
     "orcid": "",
     "google_scholar": "",
@@ -3356,6 +3661,7 @@
   },
   {
     "nome": "Jony Santellano",
+    "situacao": "Egresso",
     "lattes_id": "7367590287016265",
     "orcid": "",
     "google_scholar": "",
@@ -3367,6 +3673,7 @@
   },
   {
     "nome": "Jorge Alexandre Zaiden",
+    "situacao": "Egresso",
     "lattes_id": "5078140650609690",
     "orcid": "",
     "google_scholar": "",
@@ -3378,6 +3685,7 @@
   },
   {
     "nome": "Jorge Luiz Cerqueira",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3389,6 +3697,7 @@
   },
   {
     "nome": "Jose Iram Mota Barbosa",
+    "situacao": "Egresso",
     "lattes_id": "8381704257278264",
     "orcid": "",
     "google_scholar": "",
@@ -3400,6 +3709,7 @@
   },
   {
     "nome": "Josué Oliveira Silva",
+    "situacao": "Egresso",
     "lattes_id": "4402583338465212",
     "orcid": "",
     "google_scholar": "",
@@ -3411,6 +3721,7 @@
   },
   {
     "nome": "José Adelino de Souza Medeiros",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3422,6 +3733,7 @@
   },
   {
     "nome": "José Alberto Costacurta de Azevedo",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3433,6 +3745,7 @@
   },
   {
     "nome": "José Aldo Mastroliberti",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3444,6 +3757,7 @@
   },
   {
     "nome": "José Alexandre Junqueira Ribeiro",
+    "situacao": "Egresso",
     "lattes_id": "2137870992261584",
     "orcid": "",
     "google_scholar": "",
@@ -3455,6 +3769,7 @@
   },
   {
     "nome": "José Antonio Gonçalves Pereira",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3466,6 +3781,7 @@
   },
   {
     "nome": "José Antonio Scaramucci",
+    "situacao": "Egresso",
     "lattes_id": "8571006746515401",
     "orcid": "",
     "google_scholar": "",
@@ -3477,6 +3793,7 @@
   },
   {
     "nome": "José Augusto de Carvalho Cunha",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3488,6 +3805,7 @@
   },
   {
     "nome": "José Borges Escada Júnior",
+    "situacao": "Egresso",
     "lattes_id": "9234405694374600",
     "orcid": "",
     "google_scholar": "",
@@ -3499,6 +3817,7 @@
   },
   {
     "nome": "José Carlos de Paula Magalhães Costa",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3510,6 +3829,7 @@
   },
   {
     "nome": "José Carlos Lombardi",
+    "situacao": "Egresso",
     "lattes_id": "5920524861628819",
     "orcid": "",
     "google_scholar": "",
@@ -3521,6 +3841,7 @@
   },
   {
     "nome": "José Cláudio Mura",
+    "situacao": "Egresso",
     "lattes_id": "8981152353948408",
     "orcid": "",
     "google_scholar": "",
@@ -3532,6 +3853,7 @@
   },
   {
     "nome": "José Demisio Simões da Silva",
+    "situacao": "Egresso",
     "lattes_id": "3256284655278061",
     "orcid": "",
     "google_scholar": "",
@@ -3543,6 +3865,7 @@
   },
   {
     "nome": "José do Patrocínio Morais de Souza",
+    "situacao": "Egresso",
     "lattes_id": "5998981994702334",
     "orcid": "",
     "google_scholar": "",
@@ -3554,6 +3877,7 @@
   },
   {
     "nome": "José Eduardo Benevello de Castro",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3565,6 +3889,7 @@
   },
   {
     "nome": "José Ernesto de Araujo Filho",
+    "situacao": "Egresso",
     "lattes_id": "2039900917750691",
     "orcid": "",
     "google_scholar": "",
@@ -3576,6 +3901,7 @@
   },
   {
     "nome": "José Fernandes da Nóbrega",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3587,6 +3913,7 @@
   },
   {
     "nome": "José Francisco da Silva Filho",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3598,6 +3925,7 @@
   },
   {
     "nome": "José Iguelmar Miranda",
+    "situacao": "Egresso",
     "lattes_id": "8984235161816699",
     "orcid": "",
     "google_scholar": "",
@@ -3609,6 +3937,7 @@
   },
   {
     "nome": "José Jean Peixoto Negrão",
+    "situacao": "Egresso",
     "lattes_id": "5120381501031747",
     "orcid": "",
     "google_scholar": "",
@@ -3620,6 +3949,7 @@
   },
   {
     "nome": "José Liberato Junior",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3631,6 +3961,7 @@
   },
   {
     "nome": "José Luiz de Barros Aguirre",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3642,6 +3973,7 @@
   },
   {
     "nome": "José Mazzuco Júnior",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3653,6 +3985,7 @@
   },
   {
     "nome": "José Natal Figueiroa",
+    "situacao": "Egresso",
     "lattes_id": "8407052364561104",
     "orcid": "",
     "google_scholar": "",
@@ -3664,6 +3997,7 @@
   },
   {
     "nome": "José Olimpio Ferreira",
+    "situacao": "Egresso",
     "lattes_id": "4219212576554236",
     "orcid": "",
     "google_scholar": "",
@@ -3675,6 +4009,7 @@
   },
   {
     "nome": "José Oscar Fernandes",
+    "situacao": "Egresso",
     "lattes_id": "1227251277418025",
     "orcid": "",
     "google_scholar": "",
@@ -3686,6 +4021,7 @@
   },
   {
     "nome": "José Oscar Machado Alexandre",
+    "situacao": "Egresso",
     "lattes_id": "6639307429697872",
     "orcid": "",
     "google_scholar": "",
@@ -3697,6 +4033,7 @@
   },
   {
     "nome": "José Renato Garcia Braga",
+    "situacao": "Egresso",
     "lattes_id": "2377305216969381",
     "orcid": "",
     "google_scholar": "",
@@ -3708,6 +4045,7 @@
   },
   {
     "nome": "José Roberto Amaral Leite",
+    "situacao": "Egresso",
     "lattes_id": "8190956801531619",
     "orcid": "",
     "google_scholar": "",
@@ -3719,6 +4057,7 @@
   },
   {
     "nome": "José Roberto Motta Garcia",
+    "situacao": "Egresso",
     "lattes_id": "5953894048846311",
     "orcid": "",
     "google_scholar": "",
@@ -3730,6 +4069,7 @@
   },
   {
     "nome": "José Roberto Osses",
+    "situacao": "Egresso",
     "lattes_id": "0854561383433500",
     "orcid": "",
     "google_scholar": "",
@@ -3741,6 +4081,7 @@
   },
   {
     "nome": "José Roberto Reis",
+    "situacao": "Egresso",
     "lattes_id": "3679750349893638",
     "orcid": "",
     "google_scholar": "",
@@ -3752,6 +4093,7 @@
   },
   {
     "nome": "João Argemiro de Carvalho Paiva",
+    "situacao": "Egresso",
     "lattes_id": "0007362814849903",
     "orcid": "",
     "google_scholar": "",
@@ -3763,6 +4105,7 @@
   },
   {
     "nome": "João Bosco Schumam Cunha",
+    "situacao": "Egresso",
     "lattes_id": "0292778391448792",
     "orcid": "",
     "google_scholar": "",
@@ -3774,6 +4117,7 @@
   },
   {
     "nome": "João Camargo Neto",
+    "situacao": "Egresso",
     "lattes_id": "3272632366132727",
     "orcid": "",
     "google_scholar": "",
@@ -3785,6 +4129,7 @@
   },
   {
     "nome": "João Carlos Furtado",
+    "situacao": "Egresso",
     "lattes_id": "5916894709084624",
     "orcid": "",
     "google_scholar": "",
@@ -3796,6 +4141,7 @@
   },
   {
     "nome": "João Eduardo Oliveira da Silva",
+    "situacao": "Egresso",
     "lattes_id": "3981145605524371",
     "orcid": "",
     "google_scholar": "",
@@ -3807,6 +4153,7 @@
   },
   {
     "nome": "João Emile Louis",
+    "situacao": "Egresso",
     "lattes_id": "2264706683205045",
     "orcid": "",
     "google_scholar": "",
@@ -3818,6 +4165,7 @@
   },
   {
     "nome": "João Lopes de Albuquerque Montenegro",
+    "situacao": "Egresso",
     "lattes_id": "2445328467720884",
     "orcid": "",
     "google_scholar": "",
@@ -3829,6 +4177,7 @@
   },
   {
     "nome": "João Mello da Silva",
+    "situacao": "Egresso",
     "lattes_id": "6011676599306434",
     "orcid": "",
     "google_scholar": "",
@@ -3840,6 +4189,7 @@
   },
   {
     "nome": "João Pedro Cerveira Cordeiro",
+    "situacao": "Egresso",
     "lattes_id": "8916994738849803",
     "orcid": "",
     "google_scholar": "",
@@ -3851,6 +4201,7 @@
   },
   {
     "nome": "João Ricardo de Freitas Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "5067006506847859",
     "orcid": "",
     "google_scholar": "",
@@ -3862,6 +4213,7 @@
   },
   {
     "nome": "João Victor Cal Garcia",
+    "situacao": "Egresso",
     "lattes_id": "7131920754003820",
     "orcid": "",
     "google_scholar": "",
@@ -3873,6 +4225,7 @@
   },
   {
     "nome": "Juliana Aparecida Anochi",
+    "situacao": "Egresso",
     "lattes_id": "2720072834057575",
     "orcid": "",
     "google_scholar": "",
@@ -3884,6 +4237,7 @@
   },
   {
     "nome": "Juliana Cestari Lacerda",
+    "situacao": "Egresso",
     "lattes_id": "4906892236429846",
     "orcid": "",
     "google_scholar": "",
@@ -3895,6 +4249,7 @@
   },
   {
     "nome": "Juliana Cristina Braga",
+    "situacao": "Egresso",
     "lattes_id": "7111526592323456",
     "orcid": "",
     "google_scholar": "",
@@ -3906,6 +4261,7 @@
   },
   {
     "nome": "Juliana de Mattos Guerra Simões",
+    "situacao": "Egresso",
     "lattes_id": "3018328954113011",
     "orcid": "",
     "google_scholar": "",
@@ -3917,6 +4273,7 @@
   },
   {
     "nome": "Juliana Marino Balera",
+    "situacao": "Egresso",
     "lattes_id": "0112828204969930",
     "orcid": "",
     "google_scholar": "",
@@ -3928,6 +4285,7 @@
   },
   {
     "nome": "Juliano Carvalho Sansão",
+    "situacao": "Egresso",
     "lattes_id": "8159008194280292",
     "orcid": "",
     "google_scholar": "",
@@ -3939,6 +4297,7 @@
   },
   {
     "nome": "Juliano Elias Cardoso Cruz",
+    "situacao": "Egresso",
     "lattes_id": "7395734335001459",
     "orcid": "",
     "google_scholar": "",
@@ -3950,6 +4309,7 @@
   },
   {
     "nome": "Jun Tominaga",
+    "situacao": "Egresso",
     "lattes_id": "7205130325124418",
     "orcid": "",
     "google_scholar": "",
@@ -3961,6 +4321,7 @@
   },
   {
     "nome": "Jéssica Domingues Santos",
+    "situacao": "Egresso",
     "lattes_id": "5969868916083659",
     "orcid": "",
     "google_scholar": "",
@@ -3972,6 +4333,7 @@
   },
   {
     "nome": "Júlia Ascencio Cansado",
+    "situacao": "Ativo",
     "lattes_id": "4847345957237477",
     "orcid": "",
     "google_scholar": "",
@@ -3983,6 +4345,7 @@
   },
   {
     "nome": "Júlia Leocádia de Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -3994,6 +4357,7 @@
   },
   {
     "nome": "Júlia Sousa Gayotto",
+    "situacao": "Ativo",
     "lattes_id": "5812651842443603",
     "orcid": "",
     "google_scholar": "",
@@ -4005,6 +4369,7 @@
   },
   {
     "nome": "Júlio Malva Filho",
+    "situacao": "Egresso",
     "lattes_id": "2038757664348074",
     "orcid": "",
     "google_scholar": "",
@@ -4016,6 +4381,7 @@
   },
   {
     "nome": "Júlio Resende Ribeiro",
+    "situacao": "Egresso",
     "lattes_id": "1593623121798803",
     "orcid": "",
     "google_scholar": "",
@@ -4027,6 +4393,7 @@
   },
   {
     "nome": "Júnior Barrera",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4038,6 +4405,7 @@
   },
   {
     "nome": "Kamel Bensebaa",
+    "situacao": "Egresso",
     "lattes_id": "5638060038239782",
     "orcid": "",
     "google_scholar": "",
@@ -4049,6 +4417,7 @@
   },
   {
     "nome": "Karine Reis Ferreira Gomes",
+    "situacao": "Egresso",
     "lattes_id": "1014575950191035",
     "orcid": "",
     "google_scholar": "",
@@ -4060,6 +4429,7 @@
   },
   {
     "nome": "Karla Donato Fook",
+    "situacao": "Egresso",
     "lattes_id": "4637772374064396",
     "orcid": "",
     "google_scholar": "",
@@ -4071,6 +4441,7 @@
   },
   {
     "nome": "Kiyoshi Yoneda",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4082,6 +4453,7 @@
   },
   {
     "nome": "Klaus Steding-Jessen",
+    "situacao": "Egresso",
     "lattes_id": "0432029136914154",
     "orcid": "",
     "google_scholar": "",
@@ -4093,6 +4465,7 @@
   },
   {
     "nome": "Kleber de Mattos Dobrowolski",
+    "situacao": "Egresso",
     "lattes_id": "5224504785503327",
     "orcid": "",
     "google_scholar": "",
@@ -4104,6 +4477,7 @@
   },
   {
     "nome": "Ladislau José Nave da Silva",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4115,6 +4489,7 @@
   },
   {
     "nome": "Laurita dos Santos",
+    "situacao": "Egresso",
     "lattes_id": "7478013493888839",
     "orcid": "",
     "google_scholar": "",
@@ -4126,6 +4501,7 @@
   },
   {
     "nome": "Lauro Lage Filho",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4137,6 +4513,7 @@
   },
   {
     "nome": "Lauro Tadeu Guimaraes Fortes",
+    "situacao": "Egresso",
     "lattes_id": "7526490886119125",
     "orcid": "",
     "google_scholar": "",
@@ -4148,6 +4525,7 @@
   },
   {
     "nome": "Laércio Massaru Namikawa",
+    "situacao": "Egresso",
     "lattes_id": "0983590211329242",
     "orcid": "",
     "google_scholar": "",
@@ -4159,10 +4537,11 @@
   },
   {
     "nome": "Leandro Diniz de Jesus",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "2275077017488219",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "leandrodinizjesus.ld@gmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -4170,6 +4549,7 @@
   },
   {
     "nome": "Leandro Guarino de Vasconcelos",
+    "situacao": "Egresso",
     "lattes_id": "8626122636195184",
     "orcid": "",
     "google_scholar": "",
@@ -4181,6 +4561,7 @@
   },
   {
     "nome": "Leandro Luque",
+    "situacao": "Egresso",
     "lattes_id": "2934800737668564",
     "orcid": "",
     "google_scholar": "",
@@ -4192,6 +4573,7 @@
   },
   {
     "nome": "Leandro Toss Hoffmann",
+    "situacao": "Egresso",
     "lattes_id": "9275887475814104",
     "orcid": "",
     "google_scholar": "",
@@ -4203,6 +4585,7 @@
   },
   {
     "nome": "Leila Maria Garcia Fonseca",
+    "situacao": "Egresso",
     "lattes_id": "5123287769635741",
     "orcid": "",
     "google_scholar": "",
@@ -4214,6 +4597,7 @@
   },
   {
     "nome": "Leonardo Bacelar Lima Santos",
+    "situacao": "Egresso",
     "lattes_id": "9147853693310634",
     "orcid": "",
     "google_scholar": "",
@@ -4225,6 +4609,7 @@
   },
   {
     "nome": "Leonardo Dagnino Chiwiacowsky",
+    "situacao": "Egresso",
     "lattes_id": "2945278651389111",
     "orcid": "",
     "google_scholar": "",
@@ -4236,6 +4621,7 @@
   },
   {
     "nome": "Leonardo de Souza Vieira",
+    "situacao": "Egresso",
     "lattes_id": "8344430401118160",
     "orcid": "",
     "google_scholar": "",
@@ -4247,6 +4633,7 @@
   },
   {
     "nome": "Leonardo Sant'Anna Bins",
+    "situacao": "Egresso",
     "lattes_id": "9141807751298002",
     "orcid": "",
     "google_scholar": "",
@@ -4258,6 +4645,7 @@
   },
   {
     "nome": "Leonardo Sattler Cassará",
+    "situacao": "Egresso",
     "lattes_id": "3225510501135326",
     "orcid": "",
     "google_scholar": "",
@@ -4269,6 +4657,7 @@
   },
   {
     "nome": "Letícia Teixeira Cottini",
+    "situacao": "Egresso",
     "lattes_id": "5970350712026764",
     "orcid": "",
     "google_scholar": "",
@@ -4280,6 +4669,7 @@
   },
   {
     "nome": "Ligia Corrêa de Souza",
+    "situacao": "Egresso",
     "lattes_id": "2832475204932610",
     "orcid": "",
     "google_scholar": "",
@@ -4291,6 +4681,7 @@
   },
   {
     "nome": "Liliane dos Santos Machado",
+    "situacao": "Egresso",
     "lattes_id": "0240551533292579",
     "orcid": "",
     "google_scholar": "",
@@ -4302,6 +4693,7 @@
   },
   {
     "nome": "Lineu Fernando Stege Mialaret",
+    "situacao": "Egresso",
     "lattes_id": "6253477923609818",
     "orcid": "",
     "google_scholar": "",
@@ -4313,6 +4705,7 @@
   },
   {
     "nome": "Lise Christine Banon",
+    "situacao": "Egresso",
     "lattes_id": "4400719201352705",
     "orcid": "",
     "google_scholar": "",
@@ -4324,6 +4717,7 @@
   },
   {
     "nome": "Liu Yi Ling",
+    "situacao": "Egresso",
     "lattes_id": "0614521628049112",
     "orcid": "",
     "google_scholar": "",
@@ -4335,6 +4729,7 @@
   },
   {
     "nome": "Lorena Alves dos Santos",
+    "situacao": "Egresso",
     "lattes_id": "1866854311363027",
     "orcid": "",
     "google_scholar": "",
@@ -4346,6 +4741,7 @@
   },
   {
     "nome": "Lourdes Bernadete da Fonseca",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4357,6 +4753,7 @@
   },
   {
     "nome": "Luan Orion de Oliveira Baraúna Ferreira",
+    "situacao": "Egresso",
     "lattes_id": "2798762816398291",
     "orcid": "",
     "google_scholar": "",
@@ -4368,6 +4765,7 @@
   },
   {
     "nome": "Lucas de Oliveira Bauer",
+    "situacao": "Ativo",
     "lattes_id": "9092857659970079",
     "orcid": "",
     "google_scholar": "",
@@ -4379,6 +4777,7 @@
   },
   {
     "nome": "Luciana Akemi Burgareli",
+    "situacao": "Egresso",
     "lattes_id": "6933488649391757",
     "orcid": "",
     "google_scholar": "",
@@ -4390,6 +4789,7 @@
   },
   {
     "nome": "Luciana Brasil Rebelo dos Santos",
+    "situacao": "Egresso",
     "lattes_id": "4896052217878979",
     "orcid": "",
     "google_scholar": "",
@@ -4401,6 +4801,7 @@
   },
   {
     "nome": "Luciana de Souza Lopes",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4412,6 +4813,7 @@
   },
   {
     "nome": "Luciana Sêda Cardoso",
+    "situacao": "Egresso",
     "lattes_id": "8463491941462797",
     "orcid": "",
     "google_scholar": "",
@@ -4423,6 +4825,7 @@
   },
   {
     "nome": "Luciano Aparecido Magrini",
+    "situacao": "Egresso",
     "lattes_id": "0463783356255809",
     "orcid": "",
     "google_scholar": "",
@@ -4434,6 +4837,7 @@
   },
   {
     "nome": "Luciano Godoy Fagundes",
+    "situacao": "Ativo",
     "lattes_id": "5610956520536894",
     "orcid": "",
     "google_scholar": "",
@@ -4445,6 +4849,7 @@
   },
   {
     "nome": "Luciano Vieira Dutra",
+    "situacao": "Egresso",
     "lattes_id": "9840759640842299",
     "orcid": "",
     "google_scholar": "",
@@ -4456,6 +4861,7 @@
   },
   {
     "nome": "Lucila Olívia da Costa Prado",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4467,6 +4873,7 @@
   },
   {
     "nome": "Lucio Henrique Franco",
+    "situacao": "Egresso",
     "lattes_id": "7564306942213624",
     "orcid": "",
     "google_scholar": "",
@@ -4478,6 +4885,7 @@
   },
   {
     "nome": "Luigi Carli Marroni Aulicino",
+    "situacao": "Egresso",
     "lattes_id": "4482825279863945",
     "orcid": "",
     "google_scholar": "",
@@ -4489,6 +4897,7 @@
   },
   {
     "nome": "Luis Fernando Amorim França",
+    "situacao": "Egresso",
     "lattes_id": "9012680909223922",
     "orcid": "",
     "google_scholar": "",
@@ -4500,6 +4909,7 @@
   },
   {
     "nome": "Luis Fernando Salgueiro Romero",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4511,6 +4921,7 @@
   },
   {
     "nome": "Luiz Antonio Nogueira Lorena",
+    "situacao": "Egresso",
     "lattes_id": "7195702087655314",
     "orcid": "",
     "google_scholar": "",
@@ -4522,6 +4933,7 @@
   },
   {
     "nome": "Luiz Felipe Campos de Rezende",
+    "situacao": "Egresso",
     "lattes_id": "4555952412875598",
     "orcid": "",
     "google_scholar": "",
@@ -4533,6 +4945,7 @@
   },
   {
     "nome": "Luiz Fernando Borrego Filho",
+    "situacao": "Egresso",
     "lattes_id": "9163213067992367",
     "orcid": "",
     "google_scholar": "",
@@ -4544,6 +4957,7 @@
   },
   {
     "nome": "Luiz Fernando Capretz",
+    "situacao": "Egresso",
     "lattes_id": "9993854625149699",
     "orcid": "",
     "google_scholar": "",
@@ -4555,6 +4969,7 @@
   },
   {
     "nome": "Luiz Francisco de Macedo",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4566,10 +4981,11 @@
   },
   {
     "nome": "Luiz Gabriel Camilo Lucas",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "7026861566322930",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "gluizlg555@gmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -4577,6 +4993,7 @@
   },
   {
     "nome": "Luiz Guilherme Nadal Nunes",
+    "situacao": "Egresso",
     "lattes_id": "8905139393539858",
     "orcid": "",
     "google_scholar": "",
@@ -4588,6 +5005,7 @@
   },
   {
     "nome": "Luiz Gustavo Cunha Barbato",
+    "situacao": "Egresso",
     "lattes_id": "2826365778176260",
     "orcid": "",
     "google_scholar": "",
@@ -4599,6 +5017,7 @@
   },
   {
     "nome": "Luiz Gustavo Diniz de Oliveira Véras",
+    "situacao": "Egresso",
     "lattes_id": "1335485763929476",
     "orcid": "",
     "google_scholar": "",
@@ -4610,6 +5029,7 @@
   },
   {
     "nome": "Luiz Otávio Duarte",
+    "situacao": "Egresso",
     "lattes_id": "8954719144336750",
     "orcid": "",
     "google_scholar": "",
@@ -4621,6 +5041,7 @@
   },
   {
     "nome": "Luiz Paulo Tavares",
+    "situacao": "Egresso",
     "lattes_id": "6276322146512616",
     "orcid": "",
     "google_scholar": "",
@@ -4632,6 +5053,7 @@
   },
   {
     "nome": "Luiz Roberto Ferreira da Costa",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4643,6 +5065,7 @@
   },
   {
     "nome": "Luís Eduardo Sales do Nascimento",
+    "situacao": "Egresso e ativo",
     "lattes_id": "7543277961533017",
     "orcid": "",
     "google_scholar": "",
@@ -4654,6 +5077,7 @@
   },
   {
     "nome": "Luís Marcelo Achite",
+    "situacao": "Egresso",
     "lattes_id": "8766216473063595",
     "orcid": "",
     "google_scholar": "",
@@ -4665,6 +5089,7 @@
   },
   {
     "nome": "Luís Ricardo Arantes Filho",
+    "situacao": "Egresso",
     "lattes_id": "2796582215218356",
     "orcid": "",
     "google_scholar": "",
@@ -4676,6 +5101,7 @@
   },
   {
     "nome": "Luísa Mirelle Costa dos Santos",
+    "situacao": "Ativo",
     "lattes_id": "0300209367448693",
     "orcid": "0000-0001-5895-3160",
     "google_scholar": "",
@@ -4687,6 +5113,7 @@
   },
   {
     "nome": "Lília de Sá Silva",
+    "situacao": "Egresso",
     "lattes_id": "2417056565366433",
     "orcid": "",
     "google_scholar": "",
@@ -4698,6 +5125,7 @@
   },
   {
     "nome": "Lúbia Vinhas",
+    "situacao": "Egresso",
     "lattes_id": "6187040703676041",
     "orcid": "",
     "google_scholar": "",
@@ -4709,6 +5137,7 @@
   },
   {
     "nome": "Mag Pachego",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4720,6 +5149,7 @@
   },
   {
     "nome": "Magda Aparecida Silvério Miyashiro",
+    "situacao": "Egresso",
     "lattes_id": "8557867072756445",
     "orcid": "",
     "google_scholar": "",
@@ -4731,6 +5161,7 @@
   },
   {
     "nome": "Mamdouh Mahmoud Mostafa",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4742,6 +5173,7 @@
   },
   {
     "nome": "Manoel Baptista da Silva Junior",
+    "situacao": "Egresso",
     "lattes_id": "6258057792238040",
     "orcid": "",
     "google_scholar": "",
@@ -4753,6 +5185,7 @@
   },
   {
     "nome": "Manoel de Araújo Sousa Júnior",
+    "situacao": "Egresso",
     "lattes_id": "7229572371807677",
     "orcid": "",
     "google_scholar": "",
@@ -4764,6 +5197,7 @@
   },
   {
     "nome": "Marcelino Pereira dos Santos Silva",
+    "situacao": "Egresso",
     "lattes_id": "7817033448036400",
     "orcid": "",
     "google_scholar": "",
@@ -4775,6 +5209,7 @@
   },
   {
     "nome": "Marcelly Homem Coelho",
+    "situacao": "Egresso",
     "lattes_id": "3716904119976902",
     "orcid": "",
     "google_scholar": "",
@@ -4786,6 +5221,7 @@
   },
   {
     "nome": "Marcelo Gonçalves Narciso",
+    "situacao": "Egresso",
     "lattes_id": "1175679097609016",
     "orcid": "",
     "google_scholar": "",
@@ -4797,6 +5233,7 @@
   },
   {
     "nome": "Marcelo Henrique Peixoto Caetano Chaves",
+    "situacao": "Egresso",
     "lattes_id": "4370476012271211",
     "orcid": "",
     "google_scholar": "",
@@ -4808,6 +5245,7 @@
   },
   {
     "nome": "Marcelo Ladeira",
+    "situacao": "Egresso",
     "lattes_id": "2507980325174728",
     "orcid": "",
     "google_scholar": "",
@@ -4819,6 +5257,7 @@
   },
   {
     "nome": "Marcelo Módolo",
+    "situacao": "Egresso",
     "lattes_id": "4200452462649871",
     "orcid": "",
     "google_scholar": "",
@@ -4830,6 +5269,7 @@
   },
   {
     "nome": "Marcelo Saraiva Limeira",
+    "situacao": "Egresso",
     "lattes_id": "6611139763553149",
     "orcid": "",
     "google_scholar": "",
@@ -4841,6 +5281,7 @@
   },
   {
     "nome": "Marcio Azeredo",
+    "situacao": "Egresso",
     "lattes_id": "0778787290718573",
     "orcid": "",
     "google_scholar": "",
@@ -4852,6 +5293,7 @@
   },
   {
     "nome": "Marcio Nogueira Barbosa",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4863,6 +5305,7 @@
   },
   {
     "nome": "Marco Antonio Banzato",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4874,6 +5317,7 @@
   },
   {
     "nome": "Marco Antônio de Ulhôa Cintra",
+    "situacao": "Egresso",
     "lattes_id": "2146325346749501",
     "orcid": "",
     "google_scholar": "",
@@ -4885,6 +5329,7 @@
   },
   {
     "nome": "Marcos Alberto da Silva",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4896,6 +5341,7 @@
   },
   {
     "nome": "Marcos Antonio Pereira",
+    "situacao": "Egresso",
     "lattes_id": "9386730770147178",
     "orcid": "",
     "google_scholar": "",
@@ -4907,6 +5353,7 @@
   },
   {
     "nome": "Marcos Antônio Timbó Elmiro",
+    "situacao": "Egresso",
     "lattes_id": "6956968845038843",
     "orcid": "",
     "google_scholar": "",
@@ -4918,6 +5365,7 @@
   },
   {
     "nome": "Marcos Aurélio Santos da Silva",
+    "situacao": "Egresso",
     "lattes_id": "5701578011158777",
     "orcid": "",
     "google_scholar": "",
@@ -4929,6 +5377,7 @@
   },
   {
     "nome": "Marcos Daniel Nogueira Maia",
+    "situacao": "Egresso",
     "lattes_id": "5283661065432531",
     "orcid": "",
     "google_scholar": "",
@@ -4940,6 +5389,7 @@
   },
   {
     "nome": "Marcos de Figueiredo Cima",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4951,6 +5401,7 @@
   },
   {
     "nome": "Marcos Eduardo Gomes Borges",
+    "situacao": "Egresso",
     "lattes_id": "8216914793181349",
     "orcid": "",
     "google_scholar": "",
@@ -4962,6 +5413,7 @@
   },
   {
     "nome": "Marcos José de Aquino Pinto Pacca",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -4973,6 +5425,7 @@
   },
   {
     "nome": "Marcos Lima Rodrigues",
+    "situacao": "Egresso",
     "lattes_id": "0038580266579913",
     "orcid": "",
     "google_scholar": "",
@@ -4984,6 +5437,7 @@
   },
   {
     "nome": "Marcos Paulo Lobo de Candia",
+    "situacao": "Egresso",
     "lattes_id": "5598171613387590",
     "orcid": "",
     "google_scholar": "",
@@ -4995,6 +5449,7 @@
   },
   {
     "nome": "Marcos Regis Vescovi",
+    "situacao": "Egresso",
     "lattes_id": "1669942395173553",
     "orcid": "",
     "google_scholar": "",
@@ -5006,6 +5461,7 @@
   },
   {
     "nome": "Marcus Fabiano Silva Saldanha",
+    "situacao": "Egresso",
     "lattes_id": "3523881080691169",
     "orcid": "",
     "google_scholar": "",
@@ -5017,6 +5473,7 @@
   },
   {
     "nome": "Marcus Vinicius Pereira Pessôa",
+    "situacao": "Egresso",
     "lattes_id": "7279803072053809",
     "orcid": "",
     "google_scholar": "",
@@ -5028,6 +5485,7 @@
   },
   {
     "nome": "Marcus Vinícius Carneiro Martins",
+    "situacao": "Egresso",
     "lattes_id": "9705290738539434",
     "orcid": "",
     "google_scholar": "",
@@ -5039,6 +5497,7 @@
   },
   {
     "nome": "Maria Angela Campelo de Melo",
+    "situacao": "Egresso",
     "lattes_id": "2031295255174307",
     "orcid": "",
     "google_scholar": "",
@@ -5050,10 +5509,11 @@
   },
   {
     "nome": "Maria Clara de Souza Cruz",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "4986104425411140",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "mariaclara_souza01@hotmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -5061,6 +5521,7 @@
   },
   {
     "nome": "Maria Conceição de Andrade",
+    "situacao": "Egresso",
     "lattes_id": "7598265633241292",
     "orcid": "",
     "google_scholar": "",
@@ -5072,6 +5533,7 @@
   },
   {
     "nome": "Maria da Piedade Gomes de Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "8355899007771241",
     "orcid": "",
     "google_scholar": "",
@@ -5083,6 +5545,7 @@
   },
   {
     "nome": "Maria Elenita Menezes Nascimento",
+    "situacao": "Egresso",
     "lattes_id": "7119827278826264",
     "orcid": "",
     "google_scholar": "",
@@ -5094,6 +5557,7 @@
   },
   {
     "nome": "Maria Eugênia Sausen Welter",
+    "situacao": "Egresso",
     "lattes_id": "4865636850648467",
     "orcid": "",
     "google_scholar": "",
@@ -5105,6 +5569,7 @@
   },
   {
     "nome": "Maria José Pinto",
+    "situacao": "Egresso",
     "lattes_id": "5482331342897900",
     "orcid": "",
     "google_scholar": "",
@@ -5116,6 +5581,7 @@
   },
   {
     "nome": "Maria Suelena Santiago Barros",
+    "situacao": "Egresso",
     "lattes_id": "0112548142014331",
     "orcid": "",
     "google_scholar": "",
@@ -5127,6 +5593,7 @@
   },
   {
     "nome": "Maria Teodora Ferreira",
+    "situacao": "Egresso",
     "lattes_id": "1024298618876644",
     "orcid": "",
     "google_scholar": "",
@@ -5138,10 +5605,11 @@
   },
   {
     "nome": "Mariana Guimarães Montoro Morais",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "8331108244888422",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "marianaaaguimaraess@gmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -5149,6 +5617,7 @@
   },
   {
     "nome": "Mariana Pelissari Monteiro Aguiar Baroni",
+    "situacao": "Egresso",
     "lattes_id": "1455747602225273",
     "orcid": "",
     "google_scholar": "",
@@ -5160,6 +5629,7 @@
   },
   {
     "nome": "Marie Radi Maftoum",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5171,6 +5641,7 @@
   },
   {
     "nome": "Marilyn Menecucci Ibañez",
+    "situacao": "Egresso",
     "lattes_id": "5303306968929483",
     "orcid": "",
     "google_scholar": "",
@@ -5182,6 +5653,7 @@
   },
   {
     "nome": "Marina Laís da Silva Nascimento",
+    "situacao": "Egresso",
     "lattes_id": "2004461522031598",
     "orcid": "",
     "google_scholar": "",
@@ -5193,6 +5665,7 @@
   },
   {
     "nome": "Marinalva Dias Soares",
+    "situacao": "Egresso",
     "lattes_id": "6047184744431931",
     "orcid": "",
     "google_scholar": "",
@@ -5204,6 +5677,7 @@
   },
   {
     "nome": "Marisa da Mota",
+    "situacao": "Egresso",
     "lattes_id": "7827224829865079",
     "orcid": "",
     "google_scholar": "",
@@ -5215,6 +5689,7 @@
   },
   {
     "nome": "Marize Corrêa Simões",
+    "situacao": "Egresso",
     "lattes_id": "7108111951013688",
     "orcid": "",
     "google_scholar": "",
@@ -5226,6 +5701,7 @@
   },
   {
     "nome": "Marlon da Silva",
+    "situacao": "Egresso",
     "lattes_id": "9331509602982993",
     "orcid": "",
     "google_scholar": "",
@@ -5237,6 +5713,7 @@
   },
   {
     "nome": "Marluce da Cruz Scarabello",
+    "situacao": "Egresso",
     "lattes_id": "1269506050291866",
     "orcid": "",
     "google_scholar": "",
@@ -5248,6 +5725,7 @@
   },
   {
     "nome": "Marta Carvalho Humann",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5259,6 +5737,7 @@
   },
   {
     "nome": "Martha Adriana Dias Abdala",
+    "situacao": "Egresso",
     "lattes_id": "2842909587405234",
     "orcid": "",
     "google_scholar": "",
@@ -5270,6 +5749,7 @@
   },
   {
     "nome": "Masao Murata",
+    "situacao": "Egresso",
     "lattes_id": "1491993930184344",
     "orcid": "",
     "google_scholar": "",
@@ -5281,6 +5761,7 @@
   },
   {
     "nome": "Mateus de Souza Miranda",
+    "situacao": "Egresso e ativo",
     "lattes_id": "2824146679184873",
     "orcid": "",
     "google_scholar": "",
@@ -5292,6 +5773,7 @@
   },
   {
     "nome": "Matheus Cavassan Zaglia",
+    "situacao": "Egresso",
     "lattes_id": "3929020208436774",
     "orcid": "",
     "google_scholar": "",
@@ -5303,6 +5785,7 @@
   },
   {
     "nome": "Matheus Corrêa Domingos",
+    "situacao": "Egresso e ativo",
     "lattes_id": "7277732428942776",
     "orcid": "",
     "google_scholar": "",
@@ -5314,6 +5797,7 @@
   },
   {
     "nome": "Matheus Monteiro Mariano",
+    "situacao": "Egresso",
     "lattes_id": "7074181888782869",
     "orcid": "",
     "google_scholar": "",
@@ -5325,6 +5809,7 @@
   },
   {
     "nome": "Matheus Pereira Bento da Costa",
+    "situacao": "Egresso",
     "lattes_id": "8462580817359819",
     "orcid": "",
     "google_scholar": "",
@@ -5336,6 +5821,7 @@
   },
   {
     "nome": "Mauro de Mesquita Spínola",
+    "situacao": "Egresso",
     "lattes_id": "2571665347578383",
     "orcid": "",
     "google_scholar": "",
@@ -5347,6 +5833,7 @@
   },
   {
     "nome": "Mauro Guimarães",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5358,6 +5845,7 @@
   },
   {
     "nome": "Mauro Lúcio Rodrigues de Assis",
+    "situacao": "Egresso",
     "lattes_id": "8972791019847345",
     "orcid": "",
     "google_scholar": "",
@@ -5369,6 +5857,7 @@
   },
   {
     "nome": "Mauro Moraes Queiroz",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5380,6 +5869,7 @@
   },
   {
     "nome": "Maurício Gonçalves Vieira Ferreira",
+    "situacao": "Egresso",
     "lattes_id": "1304704585952173",
     "orcid": "",
     "google_scholar": "",
@@ -5391,6 +5881,7 @@
   },
   {
     "nome": "Maurício Marengoni",
+    "situacao": "Egresso",
     "lattes_id": "1974791787566027",
     "orcid": "",
     "google_scholar": "",
@@ -5402,6 +5893,7 @@
   },
   {
     "nome": "Maurício Pozzobon Martins",
+    "situacao": "Egresso",
     "lattes_id": "7834785256965010",
     "orcid": "",
     "google_scholar": "",
@@ -5413,6 +5905,7 @@
   },
   {
     "nome": "Michael Douglas Lemes dos Santos",
+    "situacao": "Egresso",
     "lattes_id": "4867794655466155",
     "orcid": "",
     "google_scholar": "",
@@ -5424,6 +5917,7 @@
   },
   {
     "nome": "Michelle de Oliveira Parreira",
+    "situacao": "Egresso",
     "lattes_id": "0380237710168437",
     "orcid": "",
     "google_scholar": "",
@@ -5435,6 +5929,7 @@
   },
   {
     "nome": "Miguel José Bersano",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5446,6 +5941,7 @@
   },
   {
     "nome": "Milton Borges da Silva",
+    "situacao": "Egresso",
     "lattes_id": "1461519597537331",
     "orcid": "",
     "google_scholar": "",
@@ -5457,6 +5953,7 @@
   },
   {
     "nome": "Mirna Felicia Ramos de Oliveira Petrusanis",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5468,6 +5965,7 @@
   },
   {
     "nome": "Misae Odo Bueno de Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5479,6 +5977,7 @@
   },
   {
     "nome": "Missae Yamamoto",
+    "situacao": "Egresso",
     "lattes_id": "9156355272138298",
     "orcid": "",
     "google_scholar": "",
@@ -5490,6 +5989,7 @@
   },
   {
     "nome": "Moacir Pereira Barros",
+    "situacao": "Egresso",
     "lattes_id": "3504646383638014",
     "orcid": "",
     "google_scholar": "",
@@ -5501,6 +6001,7 @@
   },
   {
     "nome": "Moacyr Gonçalves Cereja Junior",
+    "situacao": "Egresso",
     "lattes_id": "9421320709053858",
     "orcid": "",
     "google_scholar": "",
@@ -5512,6 +6013,7 @@
   },
   {
     "nome": "Murilo da Silva Dantas",
+    "situacao": "Egresso",
     "lattes_id": "3188890226171961",
     "orcid": "",
     "google_scholar": "",
@@ -5523,6 +6025,7 @@
   },
   {
     "nome": "Márcia Aparecida Monteiro",
+    "situacao": "Egresso",
     "lattes_id": "3280285948628782",
     "orcid": "",
     "google_scholar": "",
@@ -5534,6 +6037,7 @@
   },
   {
     "nome": "Márcia Rodrigues Campos",
+    "situacao": "Egresso",
     "lattes_id": "1402454875424545",
     "orcid": "",
     "google_scholar": "",
@@ -5545,6 +6049,7 @@
   },
   {
     "nome": "Márcio Nunes de Miranda",
+    "situacao": "Egresso",
     "lattes_id": "4090371865067691",
     "orcid": "",
     "google_scholar": "",
@@ -5556,6 +6061,7 @@
   },
   {
     "nome": "Márcio Roberto Larega Lapa",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5567,6 +6073,7 @@
   },
   {
     "nome": "Mário Rocco Pettinati",
+    "situacao": "Egresso",
     "lattes_id": "9421249777566834",
     "orcid": "",
     "google_scholar": "",
@@ -5578,6 +6085,7 @@
   },
   {
     "nome": "Míriam Célia Bergue Alves",
+    "situacao": "Egresso",
     "lattes_id": "1824599016684063",
     "orcid": "",
     "google_scholar": "",
@@ -5589,6 +6097,7 @@
   },
   {
     "nome": "Mônica Maria De Marchi",
+    "situacao": "Egresso",
     "lattes_id": "5134781619983724",
     "orcid": "",
     "google_scholar": "",
@@ -5600,6 +6109,7 @@
   },
   {
     "nome": "Múcio Roberto Dias",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5611,6 +6121,7 @@
   },
   {
     "nome": "Müller Moreira Souza Lopes",
+    "situacao": "Egresso",
     "lattes_id": "3841500441111957",
     "orcid": "",
     "google_scholar": "",
@@ -5622,6 +6133,7 @@
   },
   {
     "nome": "Naiallen Carolyne Rodrigues Lima Carvalho",
+    "situacao": "Egresso",
     "lattes_id": "6623250388268135",
     "orcid": "",
     "google_scholar": "",
@@ -5633,6 +6145,7 @@
   },
   {
     "nome": "Nair Borsato",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5644,6 +6157,7 @@
   },
   {
     "nome": "Nanci Naomi Arai",
+    "situacao": "Egresso",
     "lattes_id": "6856262543421695",
     "orcid": "",
     "google_scholar": "",
@@ -5655,6 +6169,7 @@
   },
   {
     "nome": "Nandamudi Lankalapalli Vijaykumar",
+    "situacao": "Egresso",
     "lattes_id": "9922863822347014",
     "orcid": "",
     "google_scholar": "",
@@ -5666,6 +6181,7 @@
   },
   {
     "nome": "Neelakshi Joshi",
+    "situacao": "Egresso",
     "lattes_id": "1227710944088232",
     "orcid": "",
     "google_scholar": "",
@@ -5677,6 +6193,7 @@
   },
   {
     "nome": "Nei Cardoso Cardenuto",
+    "situacao": "Egresso",
     "lattes_id": "0566454895155610",
     "orcid": "",
     "google_scholar": "",
@@ -5688,6 +6205,7 @@
   },
   {
     "nome": "Nei Yoshihiro Soma",
+    "situacao": "Egresso",
     "lattes_id": "6696856383237372",
     "orcid": "",
     "google_scholar": "",
@@ -5699,6 +6217,7 @@
   },
   {
     "nome": "Nelson Pereira Filho",
+    "situacao": "Egresso",
     "lattes_id": "0521330062523369",
     "orcid": "",
     "google_scholar": "",
@@ -5710,6 +6229,7 @@
   },
   {
     "nome": "Newton Marcos Vasconcellos",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5721,6 +6241,7 @@
   },
   {
     "nome": "Nilson Sant'Anna",
+    "situacao": "Egresso",
     "lattes_id": "4347210161034226",
     "orcid": "",
     "google_scholar": "",
@@ -5732,6 +6253,7 @@
   },
   {
     "nome": "Nuno César da Rocha Ferreira",
+    "situacao": "Egresso",
     "lattes_id": "0880944085541912",
     "orcid": "",
     "google_scholar": "",
@@ -5743,6 +6265,7 @@
   },
   {
     "nome": "Nívea Teixeira Batista",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5754,6 +6277,7 @@
   },
   {
     "nome": "Odwaldo Bueno Netto Júnior",
+    "situacao": "Egresso",
     "lattes_id": "0951568784456161",
     "orcid": "",
     "google_scholar": "",
@@ -5765,6 +6289,7 @@
   },
   {
     "nome": "Olga Maria de Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5776,6 +6301,7 @@
   },
   {
     "nome": "Olga Regina Fradico de Oliveira Bittencourt",
+    "situacao": "Egresso",
     "lattes_id": "7615862677866434",
     "orcid": "",
     "google_scholar": "",
@@ -5787,6 +6313,7 @@
   },
   {
     "nome": "Orion de Oliveira Silva",
+    "situacao": "Egresso",
     "lattes_id": "6165282018255889",
     "orcid": "",
     "google_scholar": "",
@@ -5798,6 +6325,7 @@
   },
   {
     "nome": "Oscar Henrique C. de Velloso Vianna",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5809,6 +6337,7 @@
   },
   {
     "nome": "Oscar Pereira Dias Júnior",
+    "situacao": "Egresso",
     "lattes_id": "6050226132909333",
     "orcid": "",
     "google_scholar": "",
@@ -5820,6 +6349,7 @@
   },
   {
     "nome": "Osvaldo Villela Dias",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5831,6 +6361,7 @@
   },
   {
     "nome": "Oswaldo Runha Filho",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5842,6 +6373,7 @@
   },
   {
     "nome": "Patricia Maria Pereira",
+    "situacao": "Egresso",
     "lattes_id": "2261472050017858",
     "orcid": "",
     "google_scholar": "",
@@ -5853,6 +6385,7 @@
   },
   {
     "nome": "Patricia Moreno Simões Veiga",
+    "situacao": "Egresso",
     "lattes_id": "7752246036974754",
     "orcid": "",
     "google_scholar": "",
@@ -5864,6 +6397,7 @@
   },
   {
     "nome": "Paulo Adão de Castro Theobald",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5875,6 +6409,7 @@
   },
   {
     "nome": "Paulo César Pereira Guerra",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5886,6 +6421,7 @@
   },
   {
     "nome": "Paulo de Oliveira Lima Júnior",
+    "situacao": "Egresso",
     "lattes_id": "4826999848494424",
     "orcid": "",
     "google_scholar": "",
@@ -5897,6 +6433,7 @@
   },
   {
     "nome": "Paulo Eduardo Cardoso",
+    "situacao": "Egresso",
     "lattes_id": "6251491464883195",
     "orcid": "",
     "google_scholar": "",
@@ -5908,6 +6445,7 @@
   },
   {
     "nome": "Paulo Giovani de Faria Zeferino",
+    "situacao": "Egresso",
     "lattes_id": "2831040847816293",
     "orcid": "",
     "google_scholar": "",
@@ -5919,6 +6457,7 @@
   },
   {
     "nome": "Paulo Henrique Barchi",
+    "situacao": "Egresso",
     "lattes_id": "1289869993059448",
     "orcid": "",
     "google_scholar": "",
@@ -5930,6 +6469,7 @@
   },
   {
     "nome": "Paulo Nolberto dos Santos Alarcon",
+    "situacao": "Egresso",
     "lattes_id": "8936783646635240",
     "orcid": "",
     "google_scholar": "",
@@ -5941,6 +6481,7 @@
   },
   {
     "nome": "Paulo Ouvera Simoni",
+    "situacao": "Egresso",
     "lattes_id": "5749326908774131",
     "orcid": "",
     "google_scholar": "",
@@ -5952,6 +6493,7 @@
   },
   {
     "nome": "Paulo Roberto Malinski",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5963,6 +6505,7 @@
   },
   {
     "nome": "Paulo Roberto Nascimento Travassos",
+    "situacao": "Egresso",
     "lattes_id": "6880433324654152",
     "orcid": "",
     "google_scholar": "",
@@ -5974,6 +6517,7 @@
   },
   {
     "nome": "Paulo Roberto Rio da Cunha",
+    "situacao": "Egresso",
     "lattes_id": "6960374055864296",
     "orcid": "",
     "google_scholar": "",
@@ -5985,6 +6529,7 @@
   },
   {
     "nome": "Paulo Seiji Nakaya",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -5996,6 +6541,7 @@
   },
   {
     "nome": "Paulo Tromboni de Souza Nascimento",
+    "situacao": "Egresso",
     "lattes_id": "4449341784424105",
     "orcid": "",
     "google_scholar": "",
@@ -6007,6 +6553,7 @@
   },
   {
     "nome": "Pedro Alexandre dos Santos",
+    "situacao": "Egresso",
     "lattes_id": "0534303936465298",
     "orcid": "",
     "google_scholar": "",
@@ -6018,10 +6565,11 @@
   },
   {
     "nome": "Pedro Augusto Borges dos Santos",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "2434808022670693",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "pabsantos21@gmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -6029,6 +6577,7 @@
   },
   {
     "nome": "Pedro Falcão Gonçalves",
+    "situacao": "Egresso",
     "lattes_id": "9576409698575240",
     "orcid": "",
     "google_scholar": "",
@@ -6040,6 +6589,7 @@
   },
   {
     "nome": "Pedro Gandolla",
+    "situacao": "Egresso",
     "lattes_id": "3327741354416462",
     "orcid": "",
     "google_scholar": "",
@@ -6051,6 +6601,7 @@
   },
   {
     "nome": "Pedro Helvécio Maranhão",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6062,6 +6613,7 @@
   },
   {
     "nome": "Pedro Paulo Balbi de Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "9556738277476279",
     "orcid": "",
     "google_scholar": "",
@@ -6073,6 +6625,7 @@
   },
   {
     "nome": "Pedro Ribeiro de Andrade Neto",
+    "situacao": "Egresso",
     "lattes_id": "3800022078311584",
     "orcid": "",
     "google_scholar": "",
@@ -6084,6 +6637,7 @@
   },
   {
     "nome": "Pedro Vinícius da Silva Brito",
+    "situacao": "Ativo",
     "lattes_id": "2946714997867399",
     "orcid": "",
     "google_scholar": "",
@@ -6095,6 +6649,7 @@
   },
   {
     "nome": "Peterson Lima Sarmento",
+    "situacao": "Egresso",
     "lattes_id": "7023647412214405",
     "orcid": "",
     "google_scholar": "",
@@ -6106,6 +6661,7 @@
   },
   {
     "nome": "Petrônio Osório Costa",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6117,6 +6673,7 @@
   },
   {
     "nome": "Pettras Leonardo Bueno dos Santos",
+    "situacao": "Egresso",
     "lattes_id": "2849917345113775",
     "orcid": "",
     "google_scholar": "",
@@ -6128,6 +6685,7 @@
   },
   {
     "nome": "Phyllipe de Souza Lima Francisco",
+    "situacao": "Egresso",
     "lattes_id": "3622864350804940",
     "orcid": "",
     "google_scholar": "",
@@ -6139,6 +6697,7 @@
   },
   {
     "nome": "Primavera Botelho de Souza",
+    "situacao": "Egresso",
     "lattes_id": "7409930611743712",
     "orcid": "",
     "google_scholar": "",
@@ -6150,6 +6709,7 @@
   },
   {
     "nome": "Rafael Marinho de Andrade",
+    "situacao": "Egresso",
     "lattes_id": "4682129139227457",
     "orcid": "",
     "google_scholar": "",
@@ -6161,6 +6721,7 @@
   },
   {
     "nome": "Rafael Monteiro Mariano",
+    "situacao": "Egresso",
     "lattes_id": "8304346706615896",
     "orcid": "",
     "google_scholar": "",
@@ -6172,6 +6733,7 @@
   },
   {
     "nome": "Raian Vargas Maretto",
+    "situacao": "Egresso",
     "lattes_id": "7874296760531038",
     "orcid": "",
     "google_scholar": "",
@@ -6183,6 +6745,7 @@
   },
   {
     "nome": "Raimundo de Souza Rêgo",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6194,6 +6757,7 @@
   },
   {
     "nome": "RAJI IDOWU",
+    "situacao": "Ativo",
     "lattes_id": "9004647121382180",
     "orcid": "",
     "google_scholar": "",
@@ -6205,6 +6769,7 @@
   },
   {
     "nome": "Ramon Morais de Freitas",
+    "situacao": "Egresso",
     "lattes_id": "1332820060598155",
     "orcid": "",
     "google_scholar": "",
@@ -6216,6 +6781,7 @@
   },
   {
     "nome": "Raul dos Santos Barbeiro Gonçalves da Silva",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6227,6 +6793,7 @@
   },
   {
     "nome": "Raul dos Santos Gonçalves Barbeiro",
+    "situacao": "Egresso",
     "lattes_id": "5858545750044934",
     "orcid": "",
     "google_scholar": "",
@@ -6238,6 +6805,7 @@
   },
   {
     "nome": "Rebeca Rúbia Honório Pinafo",
+    "situacao": "Ativo",
     "lattes_id": "8358082230740222",
     "orcid": "",
     "google_scholar": "",
@@ -6249,6 +6817,7 @@
   },
   {
     "nome": "Reinaldo Gen Ichiro Arakaki",
+    "situacao": "Egresso",
     "lattes_id": "2075406788034578",
     "orcid": "",
     "google_scholar": "",
@@ -6260,6 +6829,7 @@
   },
   {
     "nome": "Renata Sampaio da Rocha Ruiz",
+    "situacao": "Egresso",
     "lattes_id": "6593994541517752",
     "orcid": "",
     "google_scholar": "",
@@ -6271,6 +6841,7 @@
   },
   {
     "nome": "Renato da Veiga Guadagnin",
+    "situacao": "Egresso",
     "lattes_id": "7091513065379000",
     "orcid": "",
     "google_scholar": "",
@@ -6282,6 +6853,7 @@
   },
   {
     "nome": "Renato de Sousa Maximiano",
+    "situacao": "Egresso",
     "lattes_id": "1945825460200477",
     "orcid": "",
     "google_scholar": "",
@@ -6293,6 +6865,7 @@
   },
   {
     "nome": "Rennan de Freitas Bezerra Marujo",
+    "situacao": "Egresso",
     "lattes_id": "1967339602343455",
     "orcid": "",
     "google_scholar": "",
@@ -6304,6 +6877,7 @@
   },
   {
     "nome": "René Antonio Novaes",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6315,6 +6889,7 @@
   },
   {
     "nome": "Reuel Junqueira de Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "4686536732756097",
     "orcid": "",
     "google_scholar": "",
@@ -6326,6 +6901,7 @@
   },
   {
     "nome": "Reynier Hernández Torres",
+    "situacao": "Egresso",
     "lattes_id": "9732945233432684",
     "orcid": "",
     "google_scholar": "",
@@ -6337,6 +6913,7 @@
   },
   {
     "nome": "Rhuan Edson Caldini Costa",
+    "situacao": "Egresso",
     "lattes_id": "3710008197061720",
     "orcid": "",
     "google_scholar": "",
@@ -6348,6 +6925,7 @@
   },
   {
     "nome": "Ricardo Acerbi",
+    "situacao": "Egresso",
     "lattes_id": "7487153552220625",
     "orcid": "",
     "google_scholar": "",
@@ -6359,6 +6937,7 @@
   },
   {
     "nome": "Ricardo Corrêa de Oliveira Martins",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6370,6 +6949,7 @@
   },
   {
     "nome": "Ricardo de Paula Monteiro",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6381,6 +6961,7 @@
   },
   {
     "nome": "Ricardo Rodrigues Rangel",
+    "situacao": "Egresso",
     "lattes_id": "6214522645498224",
     "orcid": "",
     "google_scholar": "",
@@ -6392,6 +6973,7 @@
   },
   {
     "nome": "Ricardo Varela Corrêa",
+    "situacao": "Egresso",
     "lattes_id": "0304491358206504",
     "orcid": "",
     "google_scholar": "",
@@ -6403,6 +6985,7 @@
   },
   {
     "nome": "Rita de Cássia Meneses Rodrigues",
+    "situacao": "Egresso",
     "lattes_id": "1161682301970625",
     "orcid": "",
     "google_scholar": "",
@@ -6414,6 +6997,7 @@
   },
   {
     "nome": "Roberta Panzera Tavares",
+    "situacao": "Egresso",
     "lattes_id": "3773134767477512",
     "orcid": "",
     "google_scholar": "",
@@ -6425,6 +7009,7 @@
   },
   {
     "nome": "Roberto Affonso da Costa Júnior",
+    "situacao": "Egresso",
     "lattes_id": "3592593288261517",
     "orcid": "",
     "google_scholar": "",
@@ -6436,6 +7021,7 @@
   },
   {
     "nome": "Roberto Fagundes Carvalho",
+    "situacao": "Egresso",
     "lattes_id": "6430662760030926",
     "orcid": "",
     "google_scholar": "",
@@ -6447,6 +7033,7 @@
   },
   {
     "nome": "Roberto Luiz Galski",
+    "situacao": "Egresso",
     "lattes_id": "8427569272485063",
     "orcid": "",
     "google_scholar": "",
@@ -6458,6 +7045,7 @@
   },
   {
     "nome": "Roberto Neves Salles",
+    "situacao": "Egresso",
     "lattes_id": "1079339034274017",
     "orcid": "",
     "google_scholar": "",
@@ -6469,6 +7057,7 @@
   },
   {
     "nome": "Roberto Pinto Souto",
+    "situacao": "Egresso",
     "lattes_id": "1471432563506193",
     "orcid": "",
     "google_scholar": "",
@@ -6480,6 +7069,7 @@
   },
   {
     "nome": "Roberto Yuji Tanaka",
+    "situacao": "Egresso",
     "lattes_id": "5700220176674203",
     "orcid": "",
     "google_scholar": "",
@@ -6491,6 +7081,7 @@
   },
   {
     "nome": "Rodolfo Georjute Lotte",
+    "situacao": "Egresso",
     "lattes_id": "1266066639045233",
     "orcid": "",
     "google_scholar": "",
@@ -6502,6 +7093,7 @@
   },
   {
     "nome": "Rodolfo Maduro Almeida",
+    "situacao": "Egresso",
     "lattes_id": "1527651015984510",
     "orcid": "",
     "google_scholar": "",
@@ -6513,6 +7105,7 @@
   },
   {
     "nome": "Rodolfo Ranck Junior",
+    "situacao": "Egresso",
     "lattes_id": "8442317526564427",
     "orcid": "",
     "google_scholar": "",
@@ -6524,6 +7117,7 @@
   },
   {
     "nome": "Rodrigo Augusto Rebouças",
+    "situacao": "Egresso",
     "lattes_id": "4734945113670253",
     "orcid": "",
     "google_scholar": "",
@@ -6535,6 +7129,7 @@
   },
   {
     "nome": "Rodrigo de Sales da Silva Adeu",
+    "situacao": "Egresso",
     "lattes_id": "0598507155916298",
     "orcid": "",
     "google_scholar": "",
@@ -6546,6 +7141,7 @@
   },
   {
     "nome": "Rodrigo Monteiro Mariano",
+    "situacao": "Egresso",
     "lattes_id": "6008336609780536",
     "orcid": "",
     "google_scholar": "",
@@ -6557,6 +7153,7 @@
   },
   {
     "nome": "Rodrigo Rocha Silva",
+    "situacao": "Egresso",
     "lattes_id": "4299160485531892",
     "orcid": "",
     "google_scholar": "",
@@ -6568,6 +7165,7 @@
   },
   {
     "nome": "Rodrigo Takeshi Seo",
+    "situacao": "Egresso",
     "lattes_id": "9266344337177125",
     "orcid": "",
     "google_scholar": "",
@@ -6579,6 +7177,7 @@
   },
   {
     "nome": "Roger Allan",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6590,6 +7189,7 @@
   },
   {
     "nome": "Rogério Costa de Oliveira Junior",
+    "situacao": "Ativo",
     "lattes_id": "4790897019254005",
     "orcid": "0009-0009-8453-9188",
     "google_scholar": "",
@@ -6601,6 +7201,7 @@
   },
   {
     "nome": "Rogério da Silva Batista",
+    "situacao": "Egresso e ativo",
     "lattes_id": "6192649210073101",
     "orcid": "",
     "google_scholar": "",
@@ -6612,6 +7213,7 @@
   },
   {
     "nome": "Rogério de Carvalho Brito",
+    "situacao": "Egresso",
     "lattes_id": "1026672150363806",
     "orcid": "",
     "google_scholar": "",
@@ -6623,6 +7225,7 @@
   },
   {
     "nome": "Rogério Galante Negri",
+    "situacao": "Egresso",
     "lattes_id": "8201805132981288",
     "orcid": "",
     "google_scholar": "",
@@ -6634,6 +7237,7 @@
   },
   {
     "nome": "Rogério Marinke",
+    "situacao": "Egresso",
     "lattes_id": "5201254729952245",
     "orcid": "",
     "google_scholar": "",
@@ -6645,6 +7249,7 @@
   },
   {
     "nome": "Rogério Thomé",
+    "situacao": "Egresso",
     "lattes_id": "0567775244933703",
     "orcid": "",
     "google_scholar": "",
@@ -6656,6 +7261,7 @@
   },
   {
     "nome": "Rolf Ezequiel de Oliveira Simões",
+    "situacao": "Egresso",
     "lattes_id": "3441488230835922",
     "orcid": "",
     "google_scholar": "",
@@ -6667,6 +7273,7 @@
   },
   {
     "nome": "Ronei Marcos de Moraes",
+    "situacao": "Egresso",
     "lattes_id": "7925449690046513",
     "orcid": "",
     "google_scholar": "",
@@ -6678,6 +7285,7 @@
   },
   {
     "nome": "Rose Mary Salazar Anaya",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6689,6 +7297,7 @@
   },
   {
     "nome": "Rosângela Follmann Bageston",
+    "situacao": "Egresso",
     "lattes_id": "3001244376926346",
     "orcid": "",
     "google_scholar": "",
@@ -6700,6 +7309,7 @@
   },
   {
     "nome": "Rosângela Saher Corrêa Cintra",
+    "situacao": "Egresso",
     "lattes_id": "8185155301349092",
     "orcid": "",
     "google_scholar": "",
@@ -6711,6 +7321,7 @@
   },
   {
     "nome": "Rovedy Aparecida Busquim e Silva",
+    "situacao": "Egresso",
     "lattes_id": "5136148570998750",
     "orcid": "",
     "google_scholar": "",
@@ -6722,6 +7333,7 @@
   },
   {
     "nome": "Rozane da Fonseca e Silva",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6733,6 +7345,7 @@
   },
   {
     "nome": "Rubens Andreas Sautter",
+    "situacao": "Egresso",
     "lattes_id": "1516156899877865",
     "orcid": "",
     "google_scholar": "",
@@ -6744,6 +7357,7 @@
   },
   {
     "nome": "Rubens Cruz Gatto",
+    "situacao": "Egresso",
     "lattes_id": "2405013143815023",
     "orcid": "",
     "google_scholar": "",
@@ -6755,6 +7369,7 @@
   },
   {
     "nome": "Rudinei Martins de Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "5646106475123143",
     "orcid": "",
     "google_scholar": "",
@@ -6766,6 +7381,7 @@
   },
   {
     "nome": "Rui Nelson Taborda de Almeida",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6777,10 +7393,11 @@
   },
   {
     "nome": "Ryan Alves de Quadros",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "6846940203777056",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "ryan246.contato@gmail.com",
     "email_alternativo": "",
     "instagram": "",
@@ -6788,6 +7405,7 @@
   },
   {
     "nome": "Sabrina Bérgoch Monteiro Sambatti",
+    "situacao": "Egresso",
     "lattes_id": "8584137507032098",
     "orcid": "",
     "google_scholar": "",
@@ -6799,6 +7417,7 @@
   },
   {
     "nome": "Sabrina Guilherme Marques",
+    "situacao": "Egresso",
     "lattes_id": "3017870897194561",
     "orcid": "",
     "google_scholar": "",
@@ -6810,6 +7429,7 @@
   },
   {
     "nome": "Salatiel Abraão Avelar Jordão",
+    "situacao": "Ativo",
     "lattes_id": "4730895962906475",
     "orcid": "",
     "google_scholar": "",
@@ -6821,6 +7441,7 @@
   },
   {
     "nome": "Samira Rachid da Costa",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6832,6 +7453,7 @@
   },
   {
     "nome": "Samuel Roberto Ximenes Costa",
+    "situacao": "Egresso",
     "lattes_id": "2799502655016920",
     "orcid": "",
     "google_scholar": "",
@@ -6843,6 +7465,7 @@
   },
   {
     "nome": "Sandra Aparecida Sandri",
+    "situacao": "Egresso",
     "lattes_id": "8594179234801599",
     "orcid": "",
     "google_scholar": "",
@@ -6854,10 +7477,11 @@
   },
   {
     "nome": "Sandro de Sena Machado",
-    "lattes_id": "",
+    "situacao": "Ativo",
+    "lattes_id": "2370099884125817",
     "orcid": "",
     "google_scholar": "",
-    "foto_tipo": "pendente",
+    "foto_tipo": "real",
     "email": "sandrosena@alumni.usp.br",
     "email_alternativo": "",
     "instagram": "",
@@ -6865,6 +7489,7 @@
   },
   {
     "nome": "Sandy Moreira Pôrto",
+    "situacao": "Egresso",
     "lattes_id": "8707473792725178",
     "orcid": "",
     "google_scholar": "",
@@ -6876,6 +7501,7 @@
   },
   {
     "nome": "Saymon Henrique Santos Santana",
+    "situacao": "Egresso",
     "lattes_id": "0550548327276659",
     "orcid": "",
     "google_scholar": "",
@@ -6887,6 +7513,7 @@
   },
   {
     "nome": "Sdnei de Brito Alves",
+    "situacao": "Egresso",
     "lattes_id": "0000565598534943",
     "orcid": "",
     "google_scholar": "",
@@ -6898,6 +7525,7 @@
   },
   {
     "nome": "Sergio Rosim",
+    "situacao": "Egresso",
     "lattes_id": "2442547278150847",
     "orcid": "",
     "google_scholar": "",
@@ -6909,6 +7537,7 @@
   },
   {
     "nome": "Sheila Ferreira",
+    "situacao": "Egresso",
     "lattes_id": "0005704101185578",
     "orcid": "",
     "google_scholar": "",
@@ -6920,6 +7549,7 @@
   },
   {
     "nome": "Silene de Freitas Fernandes",
+    "situacao": "Egresso",
     "lattes_id": "7110525234881119",
     "orcid": "",
     "google_scholar": "",
@@ -6931,6 +7561,7 @@
   },
   {
     "nome": "Silvely Nogueira de Almeida Salomão",
+    "situacao": "Egresso",
     "lattes_id": "1425414477166657",
     "orcid": "",
     "google_scholar": "",
@@ -6942,6 +7573,7 @@
   },
   {
     "nome": "Silvia de Oliveira Barcellos",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -6953,6 +7585,7 @@
   },
   {
     "nome": "Silvia Maria Fonseca Silveira Massruhá",
+    "situacao": "Egresso",
     "lattes_id": "0950718064055473",
     "orcid": "",
     "google_scholar": "",
@@ -6964,6 +7597,7 @@
   },
   {
     "nome": "Silvia Shizue Leonardi",
+    "situacao": "Egresso",
     "lattes_id": "9090502635298372",
     "orcid": "",
     "google_scholar": "",
@@ -6975,6 +7609,7 @@
   },
   {
     "nome": "Silvio Chagas da Silva",
+    "situacao": "Egresso",
     "lattes_id": "8555501378283015",
     "orcid": "",
     "google_scholar": "",
@@ -6986,6 +7621,7 @@
   },
   {
     "nome": "Silvio Luiz Castro Silva",
+    "situacao": "Egresso",
     "lattes_id": "2171799811274304",
     "orcid": "",
     "google_scholar": "",
@@ -6997,6 +7633,7 @@
   },
   {
     "nome": "Simone Shizue Tomita Lima",
+    "situacao": "Egresso",
     "lattes_id": "3076090205280493",
     "orcid": "",
     "google_scholar": "",
@@ -7008,6 +7645,7 @@
   },
   {
     "nome": "Sirley Conde de Figueiredo Cima",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7019,6 +7657,7 @@
   },
   {
     "nome": "Sofia Sena Tavares",
+    "situacao": "Ativo",
     "lattes_id": "4000600506794328",
     "orcid": "",
     "google_scholar": "",
@@ -7030,6 +7669,7 @@
   },
   {
     "nome": "Solon Venâncio de Carvalho",
+    "situacao": "Egresso",
     "lattes_id": "3368137994024629",
     "orcid": "",
     "google_scholar": "",
@@ -7041,6 +7681,7 @@
   },
   {
     "nome": "Stephan Stephany",
+    "situacao": "Egresso",
     "lattes_id": "1446664587151293",
     "orcid": "",
     "google_scholar": "",
@@ -7052,6 +7693,7 @@
   },
   {
     "nome": "Synval Delano Motta Runha",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7063,6 +7705,7 @@
   },
   {
     "nome": "Sérgio Alves Perilo",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7074,6 +7717,7 @@
   },
   {
     "nome": "Sérgio Aparecido Braga da Cruz",
+    "situacao": "Egresso",
     "lattes_id": "0631189939749830",
     "orcid": "",
     "google_scholar": "",
@@ -7085,6 +7729,7 @@
   },
   {
     "nome": "Sérgio Donizete Faria",
+    "situacao": "Egresso",
     "lattes_id": "4291462690681682",
     "orcid": "",
     "google_scholar": "",
@@ -7096,6 +7741,7 @@
   },
   {
     "nome": "Sérgio Donizetti Fischer",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7107,6 +7753,7 @@
   },
   {
     "nome": "Sérgio França",
+    "situacao": "Egresso",
     "lattes_id": "2256729021697631",
     "orcid": "",
     "google_scholar": "",
@@ -7118,6 +7765,7 @@
   },
   {
     "nome": "Sérgio Gonçalves",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7129,6 +7777,7 @@
   },
   {
     "nome": "Sérgio Martins Vianna",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7140,6 +7789,7 @@
   },
   {
     "nome": "Sérgio Norio Itami",
+    "situacao": "Egresso",
     "lattes_id": "4253787973043842",
     "orcid": "",
     "google_scholar": "",
@@ -7151,6 +7801,7 @@
   },
   {
     "nome": "Sérgio Roberto Matiello Pellegrino",
+    "situacao": "Egresso",
     "lattes_id": "9168300738858574",
     "orcid": "",
     "google_scholar": "",
@@ -7162,6 +7813,7 @@
   },
   {
     "nome": "Sérgio Souza Costa",
+    "situacao": "Egresso",
     "lattes_id": "2073311645132958",
     "orcid": "",
     "google_scholar": "",
@@ -7173,6 +7825,7 @@
   },
   {
     "nome": "Sérgio Suren Kurkdjian",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7184,6 +7837,7 @@
   },
   {
     "nome": "Sóstenes Pereira Gomes",
+    "situacao": "Egresso",
     "lattes_id": "4804847828228300",
     "orcid": "",
     "google_scholar": "",
@@ -7195,6 +7849,7 @@
   },
   {
     "nome": "Sônia Mara de Souza",
+    "situacao": "Egresso",
     "lattes_id": "5744625385030859",
     "orcid": "",
     "google_scholar": "",
@@ -7206,6 +7861,7 @@
   },
   {
     "nome": "Sônia Regina Massaro",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7217,6 +7873,7 @@
   },
   {
     "nome": "Taciana de Lemos Dias",
+    "situacao": "Egresso",
     "lattes_id": "0535178144031059",
     "orcid": "",
     "google_scholar": "",
@@ -7228,6 +7885,7 @@
   },
   {
     "nome": "Talita Oliveira Assis",
+    "situacao": "Egresso",
     "lattes_id": "9839053937681580",
     "orcid": "",
     "google_scholar": "",
@@ -7239,6 +7897,7 @@
   },
   {
     "nome": "Tantravahi Venkata Aditya",
+    "situacao": "Egresso",
     "lattes_id": "6975289441149678",
     "orcid": "",
     "google_scholar": "",
@@ -7250,6 +7909,7 @@
   },
   {
     "nome": "TELMO DOS SANTOS KLIPP",
+    "situacao": "Egresso",
     "lattes_id": "5328418500093343",
     "orcid": "",
     "google_scholar": "",
@@ -7261,6 +7921,7 @@
   },
   {
     "nome": "Thaina Daniele Lopes",
+    "situacao": "Ativo",
     "lattes_id": "7809004490426250",
     "orcid": "",
     "google_scholar": "",
@@ -7272,6 +7933,7 @@
   },
   {
     "nome": "Thales Sehn Körting",
+    "situacao": "Egresso",
     "lattes_id": "8609036872819243",
     "orcid": "",
     "google_scholar": "",
@@ -7283,6 +7945,7 @@
   },
   {
     "nome": "Thalita Biazzúz Veronese",
+    "situacao": "Egresso",
     "lattes_id": "1740093316970974",
     "orcid": "",
     "google_scholar": "",
@@ -7294,6 +7957,7 @@
   },
   {
     "nome": "Thiago Ferreira Lopes",
+    "situacao": "Egresso",
     "lattes_id": "1204707454250357",
     "orcid": "",
     "google_scholar": "",
@@ -7305,6 +7969,7 @@
   },
   {
     "nome": "Thiago Henrique Rizzi Donato",
+    "situacao": "Egresso",
     "lattes_id": "4062679435659084",
     "orcid": "",
     "google_scholar": "",
@@ -7316,6 +7981,7 @@
   },
   {
     "nome": "Thiago Luís Viana de Santana",
+    "situacao": "Egresso",
     "lattes_id": "3840748054764912",
     "orcid": "",
     "google_scholar": "",
@@ -7327,6 +7993,7 @@
   },
   {
     "nome": "Tiago Garcia de Senna Carneiro",
+    "situacao": "Egresso",
     "lattes_id": "4579376264162079",
     "orcid": "",
     "google_scholar": "",
@@ -7338,6 +8005,7 @@
   },
   {
     "nome": "Toni Roberto Gomes Pimentel",
+    "situacao": "Egresso",
     "lattes_id": "4504081896548622",
     "orcid": "",
     "google_scholar": "",
@@ -7349,6 +8017,7 @@
   },
   {
     "nome": "Ubirajara Moura de Freitas",
+    "situacao": "Egresso",
     "lattes_id": "0174582101174353",
     "orcid": "",
     "google_scholar": "",
@@ -7360,6 +8029,7 @@
   },
   {
     "nome": "Ubiratan Santos Freitas",
+    "situacao": "Egresso",
     "lattes_id": "2448913475359248",
     "orcid": "",
     "google_scholar": "",
@@ -7371,6 +8041,7 @@
   },
   {
     "nome": "Valdemir Silva Souza",
+    "situacao": "Egresso",
     "lattes_id": "1936928649320996",
     "orcid": "",
     "google_scholar": "",
@@ -7382,6 +8053,7 @@
   },
   {
     "nome": "Valdir Gil Pillat",
+    "situacao": "Egresso",
     "lattes_id": "1106857072073407",
     "orcid": "",
     "google_scholar": "",
@@ -7393,6 +8065,7 @@
   },
   {
     "nome": "Valdivino Alexandre de Santiago Júnior",
+    "situacao": "Egresso",
     "lattes_id": "5039690360728170",
     "orcid": "",
     "google_scholar": "",
@@ -7404,6 +8077,7 @@
   },
   {
     "nome": "Valentin Novackoski",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7415,6 +8089,7 @@
   },
   {
     "nome": "Valeska Pivoto Patta Marcondes",
+    "situacao": "Egresso",
     "lattes_id": "1182428754312116",
     "orcid": "",
     "google_scholar": "",
@@ -7426,6 +8101,7 @@
   },
   {
     "nome": "Valéria Maria Barros de Andrade",
+    "situacao": "Egresso",
     "lattes_id": "9973453169372875",
     "orcid": "",
     "google_scholar": "",
@@ -7437,6 +8113,7 @@
   },
   {
     "nome": "Vander Luís de Souza Freitas",
+    "situacao": "Egresso",
     "lattes_id": "5339877279308939",
     "orcid": "",
     "google_scholar": "",
@@ -7448,6 +8125,7 @@
   },
   {
     "nome": "Vanessa Colla Paspaltzis",
+    "situacao": "Egresso",
     "lattes_id": "3625217571915594",
     "orcid": "",
     "google_scholar": "",
@@ -7459,6 +8137,7 @@
   },
   {
     "nome": "Vanessa Cristina Oliveira de Souza",
+    "situacao": "Egresso",
     "lattes_id": "1661283751157601",
     "orcid": "",
     "google_scholar": "",
@@ -7470,6 +8149,7 @@
   },
   {
     "nome": "Vantier Veronezi Bagli",
+    "situacao": "Egresso",
     "lattes_id": "4668055299744148",
     "orcid": "",
     "google_scholar": "",
@@ -7481,6 +8161,7 @@
   },
   {
     "nome": "Vera Helena de Ávila Duarte",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7492,6 +8173,7 @@
   },
   {
     "nome": "Vinicius Schmidt Monego",
+    "situacao": "Egresso",
     "lattes_id": "1175145401785658",
     "orcid": "",
     "google_scholar": "",
@@ -7503,6 +8185,7 @@
   },
   {
     "nome": "Viny Cesar Pereira",
+    "situacao": "Egresso",
     "lattes_id": "0172416050340182",
     "orcid": "",
     "google_scholar": "",
@@ -7514,6 +8197,7 @@
   },
   {
     "nome": "Virginia Ragoni de Moraes Correia",
+    "situacao": "Egresso",
     "lattes_id": "1644823227092147",
     "orcid": "",
     "google_scholar": "",
@@ -7525,6 +8209,7 @@
   },
   {
     "nome": "Virgílio Antonio do Amaral César",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7536,6 +8221,7 @@
   },
   {
     "nome": "Vitor Conrado Faria Gomes",
+    "situacao": "Egresso",
     "lattes_id": "2864513791602949",
     "orcid": "",
     "google_scholar": "",
@@ -7547,6 +8233,7 @@
   },
   {
     "nome": "Vitor Hirota Makiyama",
+    "situacao": "Egresso",
     "lattes_id": "9896034881034788",
     "orcid": "",
     "google_scholar": "",
@@ -7558,6 +8245,7 @@
   },
   {
     "nome": "Wagner da Silva Billa",
+    "situacao": "Egresso",
     "lattes_id": "9433253664298574",
     "orcid": "",
     "google_scholar": "",
@@ -7569,6 +8257,7 @@
   },
   {
     "nome": "Walter Celaschi",
+    "situacao": "Egresso",
     "lattes_id": "5450359136095784",
     "orcid": "",
     "google_scholar": "",
@@ -7580,6 +8269,7 @@
   },
   {
     "nome": "Wanderson Gomes de Almeida",
+    "situacao": "Egresso",
     "lattes_id": "5829759204403507",
     "orcid": "",
     "google_scholar": "",
@@ -7591,6 +8281,7 @@
   },
   {
     "nome": "Wanderson Santos Costa",
+    "situacao": "Egresso",
     "lattes_id": "3700081997386296",
     "orcid": "",
     "google_scholar": "",
@@ -7602,6 +8293,7 @@
   },
   {
     "nome": "Wanessa da Silva",
+    "situacao": "Egresso",
     "lattes_id": "3294086005240137",
     "orcid": "",
     "google_scholar": "",
@@ -7613,6 +8305,7 @@
   },
   {
     "nome": "Warley Rodrigues de Almeida",
+    "situacao": "Egresso",
     "lattes_id": "9591718684178358",
     "orcid": "",
     "google_scholar": "",
@@ -7624,6 +8317,7 @@
   },
   {
     "nome": "Welton Carlos Ramos",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7635,6 +8329,7 @@
   },
   {
     "nome": "Wendell Pereira da Silva",
+    "situacao": "Egresso",
     "lattes_id": "6198885129044687",
     "orcid": "",
     "google_scholar": "",
@@ -7646,6 +8341,7 @@
   },
   {
     "nome": "Wesley Gomes de Almeida",
+    "situacao": "Egresso",
     "lattes_id": "7282418444276881",
     "orcid": "",
     "google_scholar": "",
@@ -7657,6 +8353,7 @@
   },
   {
     "nome": "Willian Vieira de Oliveira",
+    "situacao": "Egresso",
     "lattes_id": "2871558777519200",
     "orcid": "",
     "google_scholar": "",
@@ -7668,6 +8365,7 @@
   },
   {
     "nome": "Wilson Carlos Duarte Delfino",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7679,6 +8377,7 @@
   },
   {
     "nome": "Wilson Masami Miashiro",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7690,6 +8389,7 @@
   },
   {
     "nome": "Wilson Porto Filho",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7701,6 +8401,7 @@
   },
   {
     "nome": "Yasuo Kono",
+    "situacao": "Egresso",
     "lattes_id": "5708396834415975",
     "orcid": "",
     "google_scholar": "",
@@ -7712,6 +8413,7 @@
   },
   {
     "nome": "Yuri Domaradzki Moreira Nunes",
+    "situacao": "Egresso",
     "lattes_id": "2595025617719982",
     "orcid": "",
     "google_scholar": "",
@@ -7723,6 +8425,7 @@
   },
   {
     "nome": "Yutaka Habe",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",
@@ -7734,6 +8437,7 @@
   },
   {
     "nome": "Álvaro Luiz Fazenda",
+    "situacao": "Egresso",
     "lattes_id": "7606159905559544",
     "orcid": "",
     "google_scholar": "",
@@ -7745,6 +8449,7 @@
   },
   {
     "nome": "Émerson Jean da Silva",
+    "situacao": "Egresso",
     "lattes_id": "4667280124351593",
     "orcid": "",
     "google_scholar": "",
@@ -7756,6 +8461,7 @@
   },
   {
     "nome": "Érica Ferreira de Souza",
+    "situacao": "Egresso",
     "lattes_id": "8904855809524041",
     "orcid": "",
     "google_scholar": "",
@@ -7767,6 +8473,7 @@
   },
   {
     "nome": "Érica Josiane Coelho Gouvêa",
+    "situacao": "Egresso",
     "lattes_id": "4246951236029687",
     "orcid": "",
     "google_scholar": "",
@@ -7778,6 +8485,7 @@
   },
   {
     "nome": "Ícaro da Silva Martins",
+    "situacao": "Egresso",
     "lattes_id": "",
     "orcid": "",
     "google_scholar": "",

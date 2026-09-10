@@ -2,6 +2,7 @@ const corpo = document.querySelector("#registros");
 const modelo = document.querySelector("#linha-registro");
 const busca = document.querySelector("#busca");
 const apenasPendentes = document.querySelector("#apenas-pendentes");
+const filtroSituacao = document.querySelector("#situacao");
 const resumo = document.querySelector("#resumo");
 const graficoSankey = document.querySelector("#grafico-sankey");
 const botoesOrdenar = [...document.querySelectorAll(".ordenar")];
@@ -18,6 +19,7 @@ const socialUrl = (value, prefix) => /^https?:\/\//i.test(value) ? value : `${pr
 
 function pendencias(perfil) { return CAMPOS.filter(([campo]) => !perfil[campo]).map(([, rotulo]) => rotulo); }
 function marcar(celula, valor, url = "", texto = valor) {
+  if (valor && (texto === "✓" || !url)) celula.classList.add("checkmark");
   if (valor && url) { const link = document.createElement("a"); link.href = url; link.target = "_blank"; link.rel = "noreferrer"; link.textContent = texto; celula.append(link); }
   else { celula.textContent = valor ? "✓" : "FALTA"; celula.classList.add(valor ? "presente" : "ausente"); }
 }
@@ -37,6 +39,13 @@ function criarLinha(perfil) {
   buscaGoogle.rel = "noreferrer";
   buscaGoogle.textContent = perfil.nome;
   nome.append(buscaGoogle);
+  if (perfil.situacao === "Ativo" || perfil.situacao === "Egresso e ativo") {
+    const marcador = document.createElement("span");
+    marcador.textContent = " (*)";
+    marcador.className = "marcador-ativo";
+    marcador.setAttribute("aria-label", "Matrícula ativa conforme a base de dados");
+    nome.append(marcador);
+  }
   const [rotuloFoto, classeFoto] = FOTOS[perfil.foto_tipo] || FOTOS.pendente;
   const foto = linha.querySelector(".foto-status");
   foto.textContent = rotuloFoto;
@@ -146,22 +155,25 @@ function desenharSankey(registros) {
 }
 function atualizar() {
   const termo = normalizar(busca.value.trim());
-  const visiveis = perfis.filter((perfil) => (!termo || normalizar(perfil.nome).includes(termo)) && (!apenasPendentes.checked || pendencias(perfil).length)).sort(comparar);
+  const visiveis = perfis.filter((perfil) => (!termo || normalizar(perfil.nome).includes(termo)) && (!filtroSituacao.value || perfil.situacao === filtroSituacao.value) && (!apenasPendentes.checked || pendencias(perfil).length)).sort(comparar);
   corpo.replaceChildren(...visiveis.map(criarLinha));
   const completos = perfis.filter((perfil) => !pendencias(perfil).length).length;
   resumo.textContent = `${visiveis.length} de ${perfis.length} perfis · ${completos} completos`;
   atualizarTotais(visiveis);
   atualizarCabecalhos();
+  desenharSankey(visiveis);
 }
 async function iniciar() {
-  const resposta = await fetch("data/pendencias.json");
-  if (!resposta.ok) throw new Error("Não foi possível carregar os perfis.");
+  const [resposta, respostaMeta] = await Promise.all([fetch("data/pendencias.json"), fetch("data/pendencias-meta.json")]);
+  if (!resposta.ok || !respostaMeta.ok) throw new Error("Não foi possível carregar os perfis e a data da base.");
+  const metadados = await respostaMeta.json();
+  document.querySelector("#legenda-ativos").textContent = `(*) Ativo de acordo com a base de dados de ${metadados.data_mdb}`;
   perfis = await resposta.json();
   atualizar();
-  desenharSankey(perfis);
 }
 busca.addEventListener("input", atualizar);
 apenasPendentes.addEventListener("change", atualizar);
+filtroSituacao.addEventListener("change", atualizar);
 botoesOrdenar.forEach((botao) => botao.addEventListener("click", () => {
   if (campoOrdem === botao.dataset.campo) direcao = direcao === "crescente" ? "decrescente" : "crescente";
   else { campoOrdem = botao.dataset.campo; direcao = "crescente"; }
