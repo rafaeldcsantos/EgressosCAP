@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Estatísticas dos egressos da PGCAP/INPE por ano e nível de formação.">
+    <meta name="theme-color" content="#0b253e">
+    <title>PGCAP — Estatísticas</title>
+    <link rel="icon" href="assets/images/favicon.ico" sizes="any">
+    <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
+    <link rel="stylesheet" href="css/estatisticas.css">
+    <link rel="stylesheet" href="css/cabecalho.css">
+  </head>
+  <body>
+    <header class="topo">
+      <a class="marca" href="index.html"><img class="logo-cap" src="assets/images/LogoCAP.svg" alt="Logo CAP"><span class="marca-titulo">PGCAP <span>·</span> Catálogo de Egressos</span></a>
+    </header>
+    <main>
+      <h1>Estatísticas</h1>
+      <div class="grade-graficos">
+        <section class="painel-grafico" aria-labelledby="titulo-egressos-ano">
+          <div class="cabecalho-grafico">
+            <h2 id="titulo-egressos-ano">Egressos por ano</h2>
+            <label>Exibir <select id="nivel-grafico"><option value="">Ambos</option><option value="Mestrado">Mestrado</option><option value="Doutorado">Doutorado</option></select></label>
+          </div>
+          <p id="resumo-grafico" class="resumo" aria-live="polite">Carregando dados…</p>
+          <div id="grafico-egressos-ano" class="grafico" role="img" aria-label="Egressos por ano de conclusão, com barras empilhadas de mestrado e doutorado." aria-describedby="nota-contagem"></div>
+          <p id="nota-contagem" class="nota">Cada pessoa conta uma vez por ano e nível de conclusão. Quem concluiu mestrado e doutorado aparece nas respectivas conclusões. Em “Ambos”, a barra soma os dois níveis.</p>
+          <noscript>Ative o JavaScript para visualizar os gráficos.</noscript>
+        </section>
+        <section class="painel-grafico" aria-labelledby="titulo-acumulado">
+          <div class="cabecalho-grafico">
+            <h2 id="titulo-acumulado">Egressos únicos acumulados</h2>
+          </div>
+          <p id="resumo-acumulado" class="resumo" aria-live="polite">Carregando dados…</p>
+          <div id="grafico-acumulado" class="grafico" role="img" aria-label="Total acumulado de egressos únicos em períodos de cinco anos." aria-describedby="nota-acumulado"></div>
+          <p id="nota-acumulado" class="nota">Cada pessoa entra no acumulado na primeira conclusão registrada, sem ser contada novamente ao concluir outro nível. Os períodos são de cinco anos; o último é parcial quando os dados ainda não cobrem seu ano final.</p>
+          <noscript>Ative o JavaScript para visualizar os gráficos.</noscript>
+        </section>
+      </div>
+    </main>
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+    <script src="js/estatisticas.js"></script>
+  </body>
+</html>
