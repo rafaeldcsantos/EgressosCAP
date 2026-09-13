@@ -1,0 +1,52 @@
+:root {
+  --largura-area: min(1568px, calc(100% - 32px));
+  --altura-barra: 76px;
+}
+body { min-width: 0; }
+.topo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: var(--largura-area);
+  height: var(--altura-barra);
+  min-height: var(--altura-barra);
+  margin: 0 auto;
+  padding: 0 12px;
+  gap: 12px;
+}
+.topo .marca {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  height: 90%;
+  min-width: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: .03em;
+}
+.topo .logo-cap {
+  display: block;
+  height: 100%;
+  width: auto;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.topo .marca-titulo { color: inherit; }
+main, main.conteudo {
+  width: var(--largura-area);
+  max-width: none;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+.acessos { max-width: none; }
+.galeria { width: 100% !important; }
+.filtros { width: 100%; flex-wrap: wrap; gap: 12px; }
+.filtros .ordenacao, .filtros .botao-reset { margin-left: 0; }
+@media (max-width: 760px) {
+  .topo { gap: 8px; padding: 0 8px; }
+  .topo .marca { gap: 8px; }
+  .topo .marca-titulo { font-size: .7rem; }
+  .topo .voltar { flex-shrink: 0; font-size: .65rem; }
+}

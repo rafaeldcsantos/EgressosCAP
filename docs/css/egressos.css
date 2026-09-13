@@ -78,6 +78,10 @@ h1 {
 .botao-reset { height: 36px; margin-bottom: 0; margin-left: 114px; padding: 0 12px; color: var(--azul-profundo); background: transparent; border: 1px solid #8fa6aa; border-radius: 0; font: inherit; font-size: .72rem; font-weight: 700; cursor: pointer; }
 .botao-reset:hover { color: #fff; border-color: var(--azul-profundo); background: var(--azul-profundo); }
 .resultado { margin: 0 0 9px auto; color: var(--azul-profundo); font-size: .8rem; font-weight: 700; }
+.resultado span { display: block; color: inherit; font: inherit; letter-spacing: normal; text-transform: none; line-height: 1.4; }
+.resultado { display: grid; grid-template-columns: max-content max-content; column-gap: 8px; }
+.resultado .resultado-linha { display: contents; }
+.resultado .resultado-numero { text-align: left; font-variant-numeric: tabular-nums; }
 
 .galeria {
   width: var(--largura-grade) !important;
@@ -88,7 +92,7 @@ h1 {
 .card-egresso {
   overflow: hidden;
   width: 180px;
-  height: 372px;
+  min-height: 372px;
   margin: 0 8px 16px;
   background: #fff;
   border: 1px solid var(--linha);
@@ -114,18 +118,19 @@ h1 {
 .foto-placeholder.sem-foto { color: #4e616d; background: #e7edf0; }
 .foto-placeholder.sem-foto .iniciais { color: #f6f8f8; background: #637882; }
 
-.card-corpo { display: grid; grid-template-rows: 13px 54px 17px 23px; row-gap: 5px; height: 146px; padding: 13px 13px 11px; }
+.card-corpo { display: grid; grid-template-columns: minmax(0, 1fr); grid-template-rows: auto minmax(54px, auto) auto auto; row-gap: 5px; min-height: 146px; padding: 13px 13px 11px; }
 .nivel { margin: 0; color: var(--azul); font-size: .64rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
 
-h2 { display: -webkit-box; height: 54px; margin: 0; overflow: hidden; color: var(--azul-profundo); font-size: .9rem; font-weight: 400; line-height: 1.24; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
+h2 { min-width: 0; margin: 0; overflow-wrap: anywhere; color: var(--azul-profundo); font-size: .9rem; font-weight: 400; line-height: 1.24; }
 .conclusao { margin: 0; color: #66767d; font-size: .7rem; }
 
-.contatos { display: flex; gap: 4px; }
+.contatos { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 4px; min-width: 0; }
 .contatos a, .contatos .indisponivel {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 27px;
+  width: 100%;
+  min-width: 0;
   height: 23px;
   padding: 0;
   border: 1px solid currentColor;

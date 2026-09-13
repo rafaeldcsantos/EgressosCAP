@@ -1,5 +1,6 @@
 [
   {
+    "perfil_id": "p000002",
     "nome": "Abner Ernâni dos Anjos",
     "nivel": "Mestrado",
     "lattes_id": "6255653411853439",
@@ -12,6 +13,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000003",
     "nome": "Acioli Antonio de Olivo",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -24,6 +26,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000004",
     "nome": "Acácio Feliciano Neto",
     "nivel": "Mestrado",
     "ano_conclusao": 1982,
@@ -36,6 +39,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000005",
     "nome": "Adair Santa Catarina",
     "nivel": "Doutorado",
     "lattes_id": "7041836941307184",
@@ -48,6 +52,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000006",
     "nome": "Adeline Marinho Maciel",
     "nivel": "Doutorado",
     "lattes_id": "9198589807862587",
@@ -60,6 +65,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000007",
     "nome": "Ademar Muraro Júnior",
     "nivel": "Doutorado",
     "lattes_id": "3352469933652327",
@@ -72,6 +78,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000008",
     "nome": "Adenilson Roberto Carvalho",
     "nivel": "Doutorado",
     "lattes_id": "1524045883602172",
@@ -84,6 +91,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000009",
     "nome": "Adriana Carniello",
     "nivel": "Doutorado",
     "lattes_id": "1499255840548015",
@@ -96,6 +104,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000009",
     "nome": "Adriana Carniello",
     "nivel": "Mestrado",
     "ano_conclusao": 2008,
@@ -108,6 +117,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000010",
     "nome": "Adriana Cristina Ferrari dos Santos",
     "nivel": "Doutorado",
     "lattes_id": "2262290755400077",
@@ -120,6 +130,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000011",
     "nome": "Adriana Cursino Thomé",
     "nivel": "Mestrado",
     "lattes_id": "7449255451182360",
@@ -132,6 +143,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000011",
     "nome": "Adriana Cursino Thomé",
     "nivel": "Doutorado",
     "lattes_id": "7449255451182360",
@@ -144,6 +156,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000013",
     "nome": "Adriana Prest Mattedi",
     "nivel": "Doutorado",
     "lattes_id": "6337740924268263",
@@ -156,6 +169,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000013",
     "nome": "Adriana Prest Mattedi",
     "nivel": "Mestrado",
     "ano_conclusao": 1990,
@@ -168,6 +182,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000014",
     "nome": "Adriana Silva Nakahara",
     "nivel": "Mestrado",
     "lattes_id": "8302163109925177",
@@ -180,6 +195,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000018",
     "nome": "Adriano Luiz de Paula",
     "nivel": "Mestrado",
     "lattes_id": "4208059581884620",
@@ -192,6 +208,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000019",
     "nome": "Adriano Pereira Almeida",
     "nivel": "Mestrado",
     "lattes_id": "7223840348193655",
@@ -204,6 +221,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000019",
     "nome": "Adriano Pereira Almeida",
     "nivel": "Doutorado",
     "lattes_id": "7223840348193655",
@@ -216,6 +234,7 @@
     "ano_conclusao": 2026
   },
   {
+    "perfil_id": "p000022",
     "nome": "Alaor Bianco Rodrigues",
     "nivel": "Mestrado",
     "lattes_id": "8488338140268180",
@@ -228,6 +247,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000023",
     "nome": "Alberto Frederico Maranhão",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -240,6 +260,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000025",
     "nome": "Alejandro Cesar Frery Orgambide",
     "nivel": "Doutorado",
     "lattes_id": "6935433850568144",
@@ -252,6 +273,7 @@
     "ano_conclusao": 1993
   },
   {
+    "perfil_id": "p000026",
     "nome": "Alessandra Marli Maria Morais",
     "nivel": "Mestrado",
     "lattes_id": "1874607068493252",
@@ -264,6 +286,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000027",
     "nome": "Alessandro Oliveira Arantes",
     "nivel": "Mestrado",
     "lattes_id": "8987845029899480",
@@ -276,6 +299,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000027",
     "nome": "Alessandro Oliveira Arantes",
     "nivel": "Doutorado",
     "lattes_id": "8987845029899480",
@@ -288,6 +312,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000028",
     "nome": "Alex de Almeida Fernandes",
     "nivel": "Mestrado",
     "lattes_id": "8245589012231536",
@@ -300,6 +325,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000029",
     "nome": "Alex Sandro Aguiar Pessoa",
     "nivel": "Mestrado",
     "lattes_id": "2681016875171472",
@@ -312,6 +338,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000029",
     "nome": "Alex Sandro Aguiar Pessoa",
     "nivel": "Doutorado",
     "lattes_id": "2681016875171472",
@@ -324,6 +351,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000031",
     "nome": "Alexandre Copertino Jardim",
     "nivel": "Mestrado",
     "lattes_id": "3808235682713305",
@@ -336,6 +364,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000031",
     "nome": "Alexandre Copertino Jardim",
     "nivel": "Doutorado",
     "lattes_id": "3808235682713305",
@@ -348,6 +377,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000032",
     "nome": "Alexandre César Muniz de Oliveira",
     "nivel": "Doutorado",
     "lattes_id": "5225588855422632",
@@ -360,6 +390,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000034",
     "nome": "Alexandre Donizeti Alves",
     "nivel": "Doutorado",
     "lattes_id": "2994979403174851",
@@ -372,6 +403,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000036",
     "nome": "Alexandre Franco de Magalhães",
     "nivel": "Mestrado",
     "lattes_id": "9352779706217366",
@@ -384,6 +416,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000037",
     "nome": "Alexandre Guirland Nowosad",
     "nivel": "Doutorado",
     "lattes_id": "0504720587589323",
@@ -396,6 +429,7 @@
     "ano_conclusao": 2001
   },
   {
+    "perfil_id": "p000039",
     "nome": "Alexandre Linhares",
     "nivel": "Doutorado",
     "lattes_id": "7478644810461246",
@@ -408,6 +442,7 @@
     "ano_conclusao": 2001
   },
   {
+    "perfil_id": "p000040",
     "nome": "Alexandre Magno Gonzaga da Silva",
     "nivel": "Mestrado",
     "lattes_id": "8666348916725423",
@@ -420,6 +455,7 @@
     "ano_conclusao": 2001
   },
   {
+    "perfil_id": "p000041",
     "nome": "Alexandre Nogueira Barbosa",
     "nivel": "Doutorado",
     "lattes_id": "0709324690400457",
@@ -432,6 +468,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000041",
     "nome": "Alexandre Nogueira Barbosa",
     "nivel": "Mestrado",
     "ano_conclusao": 2013,
@@ -444,6 +481,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000042",
     "nome": "Alexandre Siqueira Dias",
     "nivel": "Mestrado",
     "lattes_id": "1734704378338822",
@@ -456,6 +494,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000043",
     "nome": "Alexsandro Cândido de Oliveira Silva",
     "nivel": "Doutorado",
     "lattes_id": "2852334711449650",
@@ -468,6 +507,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000044",
     "nome": "Alfred Sitindjak",
     "nivel": "Mestrado",
     "ano_conclusao": 1975,
@@ -480,6 +520,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000045",
     "nome": "Aline Andrade do Nascimento",
     "nivel": "Mestrado",
     "lattes_id": "6772568452628330",
@@ -492,6 +533,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000046",
     "nome": "Aline Cristina Soterroni",
     "nivel": "Mestrado",
     "lattes_id": "8083779845939712",
@@ -504,6 +546,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000046",
     "nome": "Aline Cristina Soterroni",
     "nivel": "Doutorado",
     "lattes_id": "8083779845939712",
@@ -516,6 +559,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000050",
     "nome": "Amarisio da Silva Araujo",
     "nivel": "Doutorado",
     "lattes_id": "9203454048400403",
@@ -528,6 +572,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000051",
     "nome": "Amita Muralikrishna",
     "nivel": "Mestrado",
     "lattes_id": "0684819088538697",
@@ -540,6 +585,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000051",
     "nome": "Amita Muralikrishna",
     "nivel": "Doutorado",
     "lattes_id": "0684819088538697",
@@ -552,6 +598,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000052",
     "nome": "Amâncio Fernando Pulchério",
     "nivel": "Mestrado",
     "ano_conclusao": 1971,
@@ -564,6 +611,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000053",
     "nome": "Amândio Ferreira Balcão Filho",
     "nivel": "Mestrado",
     "lattes_id": "5891652594120801",
@@ -576,6 +624,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000055",
     "nome": "Ana Clara da Mota",
     "nivel": "Mestrado",
     "ano_conclusao": 1990,
@@ -588,6 +637,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000057",
     "nome": "Ana Isabel Bezerra Cavalcanti",
     "nivel": "Mestrado",
     "ano_conclusao": 1979,
@@ -600,6 +650,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000058",
     "nome": "Ana Lúcia Bezerra Candeias",
     "nivel": "Doutorado",
     "lattes_id": "4950530398212920",
@@ -612,6 +663,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000059",
     "nome": "Ana Maria Ambrosio",
     "nivel": "Doutorado",
     "lattes_id": "6217509029802638",
@@ -624,6 +676,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000059",
     "nome": "Ana Maria Ambrosio",
     "nivel": "Mestrado",
     "ano_conclusao": 1988,
@@ -636,6 +689,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000061",
     "nome": "Ana Paula Abrantes de Castro",
     "nivel": "Mestrado",
     "lattes_id": "9162672829956114",
@@ -648,6 +702,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000061",
     "nome": "Ana Paula Abrantes de Castro",
     "nivel": "Doutorado",
     "lattes_id": "9162672829956114",
@@ -660,6 +715,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000063",
     "nome": "Ana Silvia Martins Serra do Amaral",
     "nivel": "Mestrado",
     "lattes_id": "5820341638044556",
@@ -672,6 +728,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000065",
     "nome": "Andre Luiz Rosa Mayoral",
     "nivel": "Mestrado",
     "lattes_id": "5192935920266043",
@@ -684,6 +741,7 @@
     "ano_conclusao": 1990
   },
   {
+    "perfil_id": "p000067",
     "nome": "Andreia Carniello",
     "nivel": "Doutorado",
     "lattes_id": "7238676641856131",
@@ -696,6 +754,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000068",
     "nome": "Andres Fernando Paredes Horna",
     "nivel": "Mestrado",
     "lattes_id": "2586571097096430",
@@ -708,6 +767,7 @@
     "ano_conclusao": 1990
   },
   {
+    "perfil_id": "p000070",
     "nome": "Andriana Susana Lopes de Oliveira Campanharo",
     "nivel": "Mestrado",
     "lattes_id": "4947092280690606",
@@ -720,6 +780,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000070",
     "nome": "Andriana Susana Lopes de Oliveira Campanharo",
     "nivel": "Doutorado",
     "lattes_id": "4947092280690606",
@@ -732,6 +793,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000071",
     "nome": "André Chiarelli",
     "nivel": "Mestrado",
     "lattes_id": "5002279890831176",
@@ -744,6 +806,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000071",
     "nome": "André Chiarelli",
     "nivel": "Mestrado",
     "ano_conclusao": 2013,
@@ -756,6 +819,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000075",
     "nome": "André Ricardo Abed Grégio",
     "nivel": "Mestrado",
     "lattes_id": "2712714707900090",
@@ -768,6 +832,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000076",
     "nome": "André Ricardo Fazanaro Martinon",
     "nivel": "Mestrado",
     "lattes_id": "2885508157298419",
@@ -780,6 +845,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000076",
     "nome": "André Ricardo Fazanaro Martinon",
     "nivel": "Doutorado",
     "lattes_id": "2885508157298419",
@@ -792,6 +858,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000078",
     "nome": "André Vilaça dos Santos",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -804,6 +871,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000080",
     "nome": "Andréa Marques Leão Doescher",
     "nivel": "Mestrado",
     "lattes_id": "0440854881429269",
@@ -816,6 +884,7 @@
     "ano_conclusao": 2000
   },
   {
+    "perfil_id": "p000084",
     "nome": "Anna Karina Fontes Gomes",
     "nivel": "Mestrado",
     "lattes_id": "2240834435918735",
@@ -828,6 +897,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000084",
     "nome": "Anna Karina Fontes Gomes",
     "nivel": "Doutorado",
     "lattes_id": "2240834435918735",
@@ -840,6 +910,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000085",
     "nome": "Antonio Augusto da Rocha Filho",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -852,6 +923,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000086",
     "nome": "Antonio de Oliveira Dias",
     "nivel": "Mestrado",
     "lattes_id": "4500186215517960",
@@ -864,6 +936,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000088",
     "nome": "Antonio Egydio São Thiago Graça",
     "nivel": "Mestrado",
     "lattes_id": "0858832006050432",
@@ -876,6 +949,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000091",
     "nome": "Antonio José Ferreira Machado e Silva",
     "nivel": "Mestrado",
     "ano_conclusao": 1988,
@@ -888,6 +962,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000092",
     "nome": "Antonio Manuel Marques Guedes da Cruz",
     "nivel": "Mestrado",
     "ano_conclusao": 1988,
@@ -900,6 +975,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000094",
     "nome": "Antonio Mauricio Zarzur",
     "nivel": "Mestrado",
     "lattes_id": "4509195431569906",
@@ -912,6 +988,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000095",
     "nome": "Antônio Augusto Chaves",
     "nivel": "Doutorado",
     "lattes_id": "4973949421738244",
@@ -924,6 +1001,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000096",
     "nome": "Antônio Miguel Vieira Monteiro",
     "nivel": "Mestrado",
     "ano_conclusao": 1988,
@@ -936,6 +1014,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000082",
     "nome": "Aníbal Evaristo Fernandes",
     "nivel": "Mestrado",
     "lattes_id": "0929751972236350",
@@ -948,6 +1027,7 @@
     "ano_conclusao": 1996
   },
   {
+    "perfil_id": "p000097",
     "nome": "Aritana Pinheiro Falconi",
     "nivel": "Mestrado",
     "lattes_id": "0567573016503037",
@@ -960,6 +1040,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000098",
     "nome": "Arley Ferreira de Souza",
     "nivel": "Mestrado",
     "lattes_id": "3013376353724630",
@@ -972,6 +1053,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000098",
     "nome": "Arley Ferreira de Souza",
     "nivel": "Doutorado",
     "lattes_id": "3013376353724630",
@@ -984,6 +1066,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000099",
     "nome": "Arnildo Ananias de Oliveira",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -996,6 +1079,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000100",
     "nome": "Arry Carlos Buss Filho",
     "nivel": "Mestrado",
     "ano_conclusao": 1973,
@@ -1008,6 +1092,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000102",
     "nome": "Arthur Tórgo Gómez",
     "nivel": "Doutorado",
     "lattes_id": "3090969413342098",
@@ -1020,6 +1105,7 @@
     "ano_conclusao": 1996
   },
   {
+    "perfil_id": "p000102",
     "nome": "Arthur Tórgo Gómez",
     "nivel": "Mestrado",
     "ano_conclusao": 1988,
@@ -1032,6 +1118,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000103",
     "nome": "Artur Aparecido Valério Coutinho",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -1044,6 +1131,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000104",
     "nome": "Artur Costa Steiner",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -1056,6 +1144,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000105",
     "nome": "Artur Milhomem Neto",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -1068,6 +1157,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000107",
     "nome": "Asiel Bomfin Junior",
     "nivel": "Mestrado",
     "lattes_id": "2411740023518965",
@@ -1080,6 +1170,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000108",
     "nome": "Aurelienne Aparecida Souza Jorge",
     "nivel": "Mestrado",
     "lattes_id": "4229146217472337",
@@ -1092,6 +1183,7 @@
     "ano_conclusao": 2022
   },
   {
+    "perfil_id": "p000109",
     "nome": "Aurélio Gomes Ferreira",
     "nivel": "Mestrado",
     "ano_conclusao": 1978,
@@ -1104,6 +1196,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000110",
     "nome": "Baggio Luiz de Castro e Silva",
     "nivel": "Mestrado",
     "lattes_id": "4816443925174561",
@@ -1116,6 +1209,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000111",
     "nome": "Barbara Maximino da Fonseca Reis",
     "nivel": "Mestrado",
     "lattes_id": "2541435662667555",
@@ -1128,6 +1222,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000112",
     "nome": "Benicio Pereira de Carvalho Filho",
     "nivel": "Mestrado",
     "lattes_id": "2509016357866084",
@@ -1140,6 +1235,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000116",
     "nome": "Bianca Maria Pedrosa",
     "nivel": "Doutorado",
     "lattes_id": "5512756726602398",
@@ -1152,6 +1248,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000117",
     "nome": "Bolis Rodrigues Petrusanis",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -1164,6 +1261,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000120",
     "nome": "Bruno Aloís Forlin Roth",
     "nivel": "Mestrado",
     "lattes_id": "9217862594845907",
@@ -1176,6 +1274,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000121",
     "nome": "Bruno Bustamante Ferreira Leonor",
     "nivel": "Mestrado",
     "lattes_id": "2086346145569786",
@@ -1188,6 +1287,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000121",
     "nome": "Bruno Bustamante Ferreira Leonor",
     "nivel": "Doutorado",
     "lattes_id": "2086346145569786",
@@ -1200,6 +1300,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000122",
     "nome": "Bruno Hideo Casillo",
     "nivel": "Mestrado",
     "lattes_id": "4171658398116695",
@@ -1212,6 +1313,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000125",
     "nome": "Caio Eduardo Dias",
     "nivel": "Mestrado",
     "lattes_id": "0118361839591021",
@@ -1224,6 +1326,7 @@
     "ano_conclusao": 2026
   },
   {
+    "perfil_id": "p000126",
     "nome": "Camila Pereira Sales",
     "nivel": "Mestrado",
     "lattes_id": "6070405174226330",
@@ -1236,6 +1339,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000127",
     "nome": "Camilo Mussi",
     "nivel": "Mestrado",
     "lattes_id": "9622764718055590",
@@ -1248,6 +1352,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000129",
     "nome": "Carlos Alberto de Oliveira",
     "nivel": "Doutorado",
     "lattes_id": "3647793721071645",
@@ -1260,6 +1365,7 @@
     "ano_conclusao": 1990
   },
   {
+    "perfil_id": "p000130",
     "nome": "Carlos Alberto Felgueiras",
     "nivel": "Doutorado",
     "lattes_id": "2916855460918534",
@@ -1272,6 +1378,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000130",
     "nome": "Carlos Alberto Felgueiras",
     "nivel": "Mestrado",
     "ano_conclusao": 1987,
@@ -1284,6 +1391,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000134",
     "nome": "Carlos Antonio Marques Nogueira",
     "nivel": "Mestrado",
     "ano_conclusao": 1988,
@@ -1296,6 +1404,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000135",
     "nome": "Carlos Augusto Guimarães Júnior",
     "nivel": "Mestrado",
     "lattes_id": "6476350469165378",
@@ -1308,6 +1417,7 @@
     "ano_conclusao": 2022
   },
   {
+    "perfil_id": "p000140",
     "nome": "Carlos Frederico de Sá Volotão",
     "nivel": "Doutorado",
     "lattes_id": "7979345517691427",
@@ -1320,6 +1430,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000141",
     "nome": "Carlos Henrique Bôto Gois",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -1332,6 +1443,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000142",
     "nome": "Carlos Henrique Netto Lahoz",
     "nivel": "Mestrado",
     "lattes_id": "2473719255532612",
@@ -1344,6 +1456,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000143",
     "nome": "Carlos Henrique Peixoto Caetano Chaves",
     "nivel": "Mestrado",
     "lattes_id": "7603625174744118",
@@ -1356,6 +1469,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000144",
     "nome": "Carlos Ho Shih Ning",
     "nivel": "Mestrado",
     "ano_conclusao": 1988,
@@ -1368,6 +1482,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000145",
     "nome": "Carlos Renato de Souza",
     "nivel": "Mestrado",
     "lattes_id": "2349556260957146",
@@ -1380,6 +1495,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000146",
     "nome": "Carlos Renato Seabra de Almeida Júnior",
     "nivel": "Mestrado",
     "lattes_id": "0010283517576726",
@@ -1392,6 +1508,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000147",
     "nome": "Carmen Lucia Ruybal dos Santos",
     "nivel": "Mestrado",
     "ano_conclusao": 1985,
@@ -1404,6 +1521,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000149",
     "nome": "Catia Souza Do Nascimento Sepetauskas",
     "nivel": "Doutorado",
     "lattes_id": "4833115415298367",
@@ -1416,6 +1534,7 @@
     "ano_conclusao": 2025
   },
   {
+    "perfil_id": "p000151",
     "nome": "Cecilia de Azevedo Castro Cesar",
     "nivel": "Doutorado",
     "lattes_id": "2229860377382126",
@@ -1428,6 +1547,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000152",
     "nome": "Celio Costa Vaz",
     "nivel": "Mestrado",
     "ano_conclusao": 1989,
@@ -1440,6 +1560,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000153",
     "nome": "Celso Athayde",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -1452,6 +1573,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000154",
     "nome": "Celso Bernardo da Nobrega de Freitas",
     "nivel": "Doutorado",
     "lattes_id": "6677187050655324",
@@ -1464,6 +1586,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000155",
     "nome": "Cesar Arturo Sanchez Pena",
     "nivel": "Doutorado",
     "lattes_id": "0732596313239418",
@@ -1476,6 +1599,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000156",
     "nome": "Cesar Augusto de Moraes Costa",
     "nivel": "Mestrado",
     "lattes_id": "7794983265465580",
@@ -1488,6 +1612,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000157",
     "nome": "Cesar Strauss",
     "nivel": "Doutorado",
     "lattes_id": "1228313832666346",
@@ -1500,6 +1625,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000159",
     "nome": "Cintia Pereira de Freitas",
     "nivel": "Mestrado",
     "lattes_id": "9232847817073786",
@@ -1512,6 +1638,7 @@
     "ano_conclusao": 2022
   },
   {
+    "perfil_id": "p000167",
     "nome": "Claudia Alvares da Silva Velloso Ferrera",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -1524,6 +1651,7 @@
     "ano_conclusao": 1992
   },
   {
+    "perfil_id": "p000160",
     "nome": "Claudia Robbi",
     "nivel": "Doutorado",
     "lattes_id": "7467359757638128",
@@ -1536,6 +1664,7 @@
     "ano_conclusao": 2000
   },
   {
+    "perfil_id": "p000161",
     "nome": "Claudinei Walker da Silva",
     "nivel": "Doutorado",
     "lattes_id": "2782183585992593",
@@ -1548,6 +1677,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000164",
     "nome": "Clovis Perin Filho",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -1560,6 +1690,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000165",
     "nome": "Clovis Torres Fernandes",
     "nivel": "Mestrado",
     "ano_conclusao": 1983,
@@ -1572,6 +1703,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000166",
     "nome": "Cláudia Santos da Silva",
     "nivel": "Mestrado",
     "lattes_id": "3007794913443606",
@@ -1584,18 +1716,7 @@
     "ano_conclusao": 2005
   },
   {
-    "nome": "Cláudia Álvares da Silva Velloso Ferreira",
-    "nivel": "Mestrado",
-    "ano_conclusao": 1992,
-    "lattes_id": "",
-    "foto_tipo": "pendente",
-    "orcid": "",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
+    "perfil_id": "p000162",
     "nome": "Cláudio Correa",
     "nivel": "Mestrado",
     "lattes_id": "9931295892888889",
@@ -1608,6 +1729,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000168",
     "nome": "Cláudio Faria",
     "nivel": "Mestrado",
     "lattes_id": "8435311517599740",
@@ -1620,6 +1742,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000168",
     "nome": "Cláudio Faria",
     "nivel": "Doutorado",
     "lattes_id": "8435311517599740",
@@ -1632,6 +1755,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000170",
     "nome": "Corina da Costa Freitas Yanasse",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -1644,6 +1768,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000173",
     "nome": "Cristiane Pires Camilo",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -1656,6 +1781,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000174",
     "nome": "Cristiano Emanoel Pereira Reis",
     "nivel": "Mestrado",
     "lattes_id": "0755520137064537",
@@ -1668,6 +1794,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000175",
     "nome": "Cristiano Strieder",
     "nivel": "Mestrado",
     "lattes_id": "5495364420117687",
@@ -1680,6 +1807,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000176",
     "nome": "Cristine Hoepers",
     "nivel": "Doutorado",
     "lattes_id": "2215364890309488",
@@ -1692,6 +1820,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000178",
     "nome": "César Antonio Gonçalves",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -1704,6 +1833,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000179",
     "nome": "Dalila Ribeiro Serpa",
     "nivel": "Mestrado",
     "lattes_id": "7823015064082512",
@@ -1716,6 +1846,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000180",
     "nome": "Damaceno Dal Bianco",
     "nivel": "Mestrado",
     "ano_conclusao": 1979,
@@ -1728,6 +1859,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000187",
     "nome": "Daniel Massaru Katsurayama",
     "nivel": "Mestrado",
     "lattes_id": "3723124745578916",
@@ -1740,6 +1872,7 @@
     "ano_conclusao": 2001
   },
   {
+    "perfil_id": "p000187",
     "nome": "Daniel Massaru Katsurayama",
     "nivel": "Doutorado",
     "lattes_id": "3723124745578916",
@@ -1752,6 +1885,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000188",
     "nome": "Daniel Merli Lamosa",
     "nivel": "Mestrado",
     "lattes_id": "1255820168935649",
@@ -1764,6 +1898,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000191",
     "nome": "Daniela Eloise Flôr",
     "nivel": "Doutorado",
     "lattes_id": "7560936930373791",
@@ -1776,6 +1911,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000193",
     "nome": "Danilo Mori Palomo",
     "nivel": "Mestrado",
     "lattes_id": "2338080285741014",
@@ -1788,6 +1924,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000194",
     "nome": "David de Souza França",
     "nivel": "Mestrado",
     "lattes_id": "8689438518153418",
@@ -1800,6 +1937,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000199",
     "nome": "Denise Nunes Rotondi Azevedo",
     "nivel": "Mestrado",
     "lattes_id": "2310056530681316",
@@ -1812,6 +1950,7 @@
     "ano_conclusao": 2001
   },
   {
+    "perfil_id": "p000201",
     "nome": "Deoclides Francisco de Souza Filho",
     "nivel": "Mestrado",
     "lattes_id": "3562580384516053",
@@ -1824,6 +1963,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000202",
     "nome": "Diego Benincasa F. Cavalcanti de Almeida",
     "nivel": "Mestrado",
     "lattes_id": "8475829110502190",
@@ -1836,18 +1976,7 @@
     "ano_conclusao": 2017
   },
   {
-    "nome": "Diego Benincasa Fernandes Cavalcanti de Almeida",
-    "nivel": "Mestrado",
-    "ano_conclusao": 2017,
-    "lattes_id": "8475829110502190",
-    "foto_tipo": "real",
-    "orcid": "",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
+    "perfil_id": "p000203",
     "nome": "Diego Guimarães de Brito Costa",
     "nivel": "Mestrado",
     "lattes_id": "0209870086086583",
@@ -1860,6 +1989,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000204",
     "nome": "Diego Herbin Stalder Díaz",
     "nivel": "Mestrado",
     "lattes_id": "3021413107688004",
@@ -1872,6 +2002,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000204",
     "nome": "Diego Herbín Stalder Díaz",
     "nivel": "Doutorado",
     "lattes_id": "3021413107688004",
@@ -1884,6 +2015,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000205",
     "nome": "Diego Vilela Monteiro",
     "nivel": "Mestrado",
     "lattes_id": "8945818702352385",
@@ -1896,6 +2028,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000206",
     "nome": "Dimítri Vladímirovitch Fédorov",
     "nivel": "Mestrado",
     "lattes_id": "5757447540249685",
@@ -1908,6 +2041,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000208",
     "nome": "Douglas Messias Uba",
     "nivel": "Mestrado",
     "lattes_id": "4295384125347429",
@@ -1920,6 +2054,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000209",
     "nome": "Douglas Rodrigues Oliveira",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -1932,6 +2067,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000210",
     "nome": "Edgar Toshiro Yano",
     "nivel": "Mestrado",
     "ano_conclusao": 1987,
@@ -1944,6 +2080,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000211",
     "nome": "Edgard Dias Batista Junior",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -1956,6 +2093,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000213",
     "nome": "Edson Alves Ribeiro",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -1968,6 +2106,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000215",
     "nome": "Edson Luiz França Senne",
     "nivel": "Doutorado",
     "ano_conclusao": 1987,
@@ -1980,6 +2119,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000216",
     "nome": "Eduardo Batista de Moraes Barbosa",
     "nivel": "Mestrado",
     "lattes_id": "8920905542032636",
@@ -1992,6 +2132,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000217",
     "nome": "Eduardo Charles Vasconcellos",
     "nivel": "Mestrado",
     "lattes_id": "9622415604083776",
@@ -2004,6 +2145,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000218",
     "nome": "Eduardo Furlan Miranda",
     "nivel": "Mestrado",
     "lattes_id": "3103925764927851",
@@ -2016,6 +2158,7 @@
     "ano_conclusao": 2022
   },
   {
+    "perfil_id": "p000219",
     "nome": "Eduardo Fávero Pacheco da Luz",
     "nivel": "Mestrado",
     "lattes_id": "6485164320743340",
@@ -2028,6 +2171,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000219",
     "nome": "Eduardo Fávero Pacheco da Luz",
     "nivel": "Doutorado",
     "lattes_id": "6485164320743340",
@@ -2040,6 +2184,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000220",
     "nome": "Eduardo Gomes de Barros",
     "nivel": "Mestrado",
     "lattes_id": "4950959042542211",
@@ -2052,6 +2197,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000220",
     "nome": "Eduardo Gomes de Barros",
     "nivel": "Doutorado",
     "lattes_id": "4950959042542211",
@@ -2064,6 +2210,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000221",
     "nome": "Eduardo Hidenori Enari",
     "nivel": "Mestrado",
     "lattes_id": "1599509809687079",
@@ -2076,6 +2223,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000221",
     "nome": "Eduardo Hidenori Enari",
     "nivel": "Doutorado",
     "lattes_id": "1599509809687079",
@@ -2088,6 +2236,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000222",
     "nome": "Eduardo Lessa Bonelli",
     "nivel": "Mestrado",
     "lattes_id": "4850035146730325",
@@ -2100,6 +2249,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000224",
     "nome": "Eduardo Pereira de Sousa",
     "nivel": "Mestrado",
     "lattes_id": "1740501453922409",
@@ -2112,6 +2262,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000225",
     "nome": "Eduardo Quesado Filgueiras",
     "nivel": "Mestrado",
     "lattes_id": "0736007907156876",
@@ -2124,6 +2275,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000226",
     "nome": "Eduardo Rocha Rodrigues",
     "nivel": "Mestrado",
     "lattes_id": "8441527555085287",
@@ -2136,6 +2288,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000227",
     "nome": "Eduardo Rohde Eras",
     "nivel": "Mestrado",
     "lattes_id": "4404234627216005",
@@ -2148,6 +2301,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000227",
     "nome": "Eduardo Rohde Eras",
     "nivel": "Doutorado",
     "lattes_id": "4404234627216005",
@@ -2160,6 +2314,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000229",
     "nome": "Egidio Arai",
     "nivel": "Mestrado",
     "lattes_id": "0049390900009593",
@@ -2172,6 +2327,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000230",
     "nome": "Elcio Hideiti Shiguemori",
     "nivel": "Mestrado",
     "lattes_id": "7243145638158319",
@@ -2184,6 +2340,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000230",
     "nome": "Elcio Hideiti Shiguemori",
     "nivel": "Doutorado",
     "lattes_id": "7243145638158319",
@@ -2196,6 +2353,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000231",
     "nome": "Elcio Pasqualucci",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -2208,6 +2366,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000232",
     "nome": "Elder Figueiredo",
     "nivel": "Mestrado",
     "lattes_id": "5322003519160429",
@@ -2220,6 +2379,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000233",
     "nome": "Eliana Pantaleão",
     "nivel": "Doutorado",
     "lattes_id": "9522811596351113",
@@ -2232,6 +2392,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000234",
     "nome": "Eliane D'Ippolito",
     "nivel": "Mestrado",
     "ano_conclusao": 1983,
@@ -2244,6 +2405,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000235",
     "nome": "Elias Bortolotto",
     "nivel": "Mestrado",
     "lattes_id": "0136489879218268",
@@ -2256,6 +2418,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000236",
     "nome": "Elias Canhadas Genvigir",
     "nivel": "Mestrado",
     "lattes_id": "6084795630657031",
@@ -2268,6 +2431,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000236",
     "nome": "Elias Canhadas Genvigir",
     "nivel": "Doutorado",
     "lattes_id": "6084795630657031",
@@ -2280,6 +2444,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000238",
     "nome": "Elizabeth Schutzer",
     "nivel": "Mestrado",
     "ano_conclusao": 1990,
@@ -2292,6 +2457,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000241",
     "nome": "Emanuel Fernandes",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -2304,6 +2470,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000243",
     "nome": "Emerson Magnus de Araújo Xavier",
     "nivel": "Mestrado",
     "lattes_id": "2547861136067097",
@@ -2316,6 +2483,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000246",
     "nome": "Eni Alvim de Oliveira",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -2328,6 +2496,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000248",
     "nome": "Eric Silva Abreu",
     "nivel": "Mestrado",
     "lattes_id": "7434663488205538",
@@ -2340,6 +2509,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000249",
     "nome": "Erico Luiz Rempel",
     "nivel": "Mestrado",
     "lattes_id": "2490233702308461",
@@ -2352,6 +2522,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000249",
     "nome": "Erico Luiz Rempel",
     "nivel": "Doutorado",
     "lattes_id": "2490233702308461",
@@ -2364,6 +2535,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000250",
     "nome": "Erwin Doescher",
     "nivel": "Doutorado",
     "lattes_id": "9388430460339927",
@@ -2376,6 +2548,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000253",
     "nome": "Eugênio Sper de Almeida",
     "nivel": "Doutorado",
     "lattes_id": "0676191681641372",
@@ -2388,6 +2561,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000254",
     "nome": "Eunice Gomes de Siqueira",
     "nivel": "Mestrado",
     "lattes_id": "2284943947339694",
@@ -2400,6 +2574,7 @@
     "ano_conclusao": 2001
   },
   {
+    "perfil_id": "p000255",
     "nome": "Eunice Kinuyo Odashima",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -2412,6 +2587,7 @@
     "ano_conclusao": 1990
   },
   {
+    "perfil_id": "p000256",
     "nome": "Evaldinolia Gilbertoni Moreira",
     "nivel": "Doutorado",
     "lattes_id": "8545196200418432",
@@ -2424,6 +2600,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000257",
     "nome": "Evaldo Santos Pinheiro",
     "nivel": "Mestrado",
     "ano_conclusao": 1975,
@@ -2436,6 +2613,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000258",
     "nome": "Fabiana Ferreira Paes",
     "nivel": "Mestrado",
     "lattes_id": "4261792535819079",
@@ -2448,6 +2626,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000258",
     "nome": "Fabiana Ferreira Paes",
     "nivel": "Doutorado",
     "lattes_id": "4261792535819079",
@@ -2460,6 +2639,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000260",
     "nome": "Fabiana Zioti",
     "nivel": "Mestrado",
     "lattes_id": "2581104447215356",
@@ -2472,6 +2652,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000262",
     "nome": "Fabiano Luis de Sousa",
     "nivel": "Doutorado",
     "lattes_id": "4675810813756485",
@@ -2484,6 +2665,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000264",
     "nome": "Fabio Dall' Cortivo",
     "nivel": "Doutorado",
     "lattes_id": "2843177061335707",
@@ -2496,6 +2678,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000265",
     "nome": "Fabrício de Novaes Kucinskis",
     "nivel": "Mestrado",
     "lattes_id": "0258534785530414",
@@ -2508,6 +2691,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000267",
     "nome": "Fabrício Lacerda Biajoli",
     "nivel": "Mestrado",
     "lattes_id": "9437897363207909",
@@ -2520,6 +2704,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000269",
     "nome": "Fabrício Pereira Härter",
     "nivel": "Doutorado",
     "lattes_id": "9865056179221557",
@@ -2532,6 +2717,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000272",
     "nome": "Felipe Carvalho de Souza",
     "nivel": "Mestrado",
     "lattes_id": "1585234010491395",
@@ -2544,6 +2730,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000273",
     "nome": "Felipe Castro da Silva",
     "nivel": "Mestrado",
     "lattes_id": "8138220414943597",
@@ -2556,6 +2743,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000275",
     "nome": "Felipe Leonardo Lobo Medeiros",
     "nivel": "Mestrado",
     "lattes_id": "8148486577673949",
@@ -2568,6 +2756,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000275",
     "nome": "Felipe Leonardo Lôbo Medeiros",
     "nivel": "Doutorado",
     "lattes_id": "8148486577673949",
@@ -2580,6 +2769,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000276",
     "nome": "Felipe Menino Carlos",
     "nivel": "Mestrado",
     "lattes_id": "1671507766861221",
@@ -2592,6 +2782,7 @@
     "ano_conclusao": 2022
   },
   {
+    "perfil_id": "p000277",
     "nome": "Felipe Rodolfo Santos Corrêa",
     "nivel": "Mestrado",
     "lattes_id": "4041739735524875",
@@ -2604,6 +2795,7 @@
     "ano_conclusao": 2015
   },
   {
+    "perfil_id": "p000278",
     "nome": "Fernando Antonio Araujo Mota",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -2616,6 +2808,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000279",
     "nome": "Fernando Augusto Mitsuo Ii",
     "nivel": "Mestrado",
     "ano_conclusao": 1985,
@@ -2628,6 +2821,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000281",
     "nome": "Fernando Cossetin",
     "nivel": "Mestrado",
     "lattes_id": "1144475005201309",
@@ -2640,6 +2834,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000283",
     "nome": "Fernando de Oliveira Pereira",
     "nivel": "Mestrado",
     "lattes_id": "7766243015529175",
@@ -2652,6 +2847,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000283",
     "nome": "Fernando de Oliveira Pereira",
     "nivel": "Doutorado",
     "lattes_id": "7766243015529175",
@@ -2664,6 +2860,7 @@
     "ano_conclusao": 2025
   },
   {
+    "perfil_id": "p000285",
     "nome": "Fernando Manoel Athayde Reis",
     "nivel": "Mestrado",
     "ano_conclusao": 1980,
@@ -2676,6 +2873,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000287",
     "nome": "Fernando Renier Gibotti da Silva",
     "nivel": "Doutorado",
     "lattes_id": "0677942900182928",
@@ -2688,6 +2886,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000288",
     "nome": "Feruccio Bilich",
     "nivel": "Mestrado",
     "ano_conclusao": 1971,
@@ -2700,6 +2899,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000289",
     "nome": "Flavia Beatriz Rodrigues Prisco da Cunha",
     "nivel": "Doutorado",
     "lattes_id": "2361344348370916",
@@ -2712,6 +2912,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000289",
     "nome": "Flávia Beatriz Rodrigues Prisco da Cunha",
     "nivel": "Mestrado",
     "lattes_id": "2361344348370916",
@@ -2724,6 +2925,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000290",
     "nome": "Flávia Beatriz Vasconcellos Rodrigues",
     "nivel": "Mestrado",
     "ano_conclusao": 1998,
@@ -2736,6 +2938,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000291",
     "nome": "Flávia Costa Gomes de Mendonça",
     "nivel": "Mestrado",
     "lattes_id": "1413699954898626",
@@ -2748,6 +2951,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000292",
     "nome": "Flávia de Toledo Martins",
     "nivel": "Mestrado",
     "lattes_id": "3532895753681553",
@@ -2760,6 +2964,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000292",
     "nome": "Flávia de Toledo Martins Bedê",
     "nivel": "Doutorado",
     "lattes_id": "3532895753681553",
@@ -2772,6 +2977,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000294",
     "nome": "Flávio Roberto Dias Velasco",
     "nivel": "Doutorado",
     "ano_conclusao": 1977,
@@ -2784,6 +2990,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000295",
     "nome": "Francisca Joamila Brito do Nascimento",
     "nivel": "Mestrado",
     "lattes_id": "3758802395321354",
@@ -2796,6 +3003,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000297",
     "nome": "Francisco de Assis Corrêa",
     "nivel": "Doutorado",
     "lattes_id": "9163304064337159",
@@ -2808,6 +3016,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000298",
     "nome": "Francisco de Assis Tavares Ferreira da Silva",
     "nivel": "Doutorado",
     "lattes_id": "0504582828060516",
@@ -2820,6 +3029,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000299",
     "nome": "Francisco Eduardo de Carvalho Viola",
     "nivel": "Mestrado",
     "ano_conclusao": 1980,
@@ -2832,6 +3042,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000300",
     "nome": "Francisco Javier Tipan Salazar",
     "nivel": "Doutorado",
     "lattes_id": "3909705457793101",
@@ -2844,6 +3055,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000301",
     "nome": "Francisco Luís Pompéia Gioielli",
     "nivel": "Mestrado",
     "lattes_id": "2211696490307903",
@@ -2856,6 +3068,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000303",
     "nome": "Frank Moshé Cotacallapa Choque",
     "nivel": "Doutorado",
     "lattes_id": "5872327943756110",
@@ -2868,6 +3081,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000304",
     "nome": "Frank Tadeu Ávila",
     "nivel": "Mestrado",
     "ano_conclusao": 1978,
@@ -2880,6 +3094,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000305",
     "nome": "Frederico Augusto Bede Teotonio",
     "nivel": "Mestrado",
     "lattes_id": "9297742252463260",
@@ -2892,6 +3107,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000306",
     "nome": "Frederico Fabbri Ribeiro",
     "nivel": "Mestrado",
     "ano_conclusao": 1975,
@@ -2904,6 +3120,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000307",
     "nome": "Fábio Belo Lopes",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -2916,6 +3133,7 @@
     "ano_conclusao": 1992
   },
   {
+    "perfil_id": "p000308",
     "nome": "Fábio Gavião Avelino de Mello",
     "nivel": "Mestrado",
     "lattes_id": "5832079106399475",
@@ -2928,6 +3146,7 @@
     "ano_conclusao": 1996
   },
   {
+    "perfil_id": "p000309",
     "nome": "Gabriel Augusto Lins Leal Pinheiro",
     "nivel": "Mestrado",
     "lattes_id": "3065903873888592",
@@ -2940,6 +3159,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000313",
     "nome": "Gabriel Fornari",
     "nivel": "Mestrado",
     "lattes_id": "8086526958304657",
@@ -2952,6 +3172,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000313",
     "nome": "Gabriel Fornari",
     "nivel": "Doutorado",
     "lattes_id": "8086526958304657",
@@ -2964,6 +3185,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000314",
     "nome": "Gabriel Koyama Alves",
     "nivel": "Mestrado",
     "lattes_id": "3660181264794328",
@@ -2976,6 +3198,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000317",
     "nome": "Gabriel Sansigolo",
     "nivel": "Mestrado",
     "lattes_id": "4094434844735694",
@@ -2988,6 +3211,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000322",
     "nome": "Geraldo José de Souza",
     "nivel": "Mestrado",
     "lattes_id": "9220708681270389",
@@ -3000,6 +3224,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000323",
     "nome": "Geraldo Regis Mauri",
     "nivel": "Mestrado",
     "lattes_id": "7870111209439581",
@@ -3012,6 +3237,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000323",
     "nome": "Geraldo Regis Mauri",
     "nivel": "Doutorado",
     "lattes_id": "7870111209439581",
@@ -3024,6 +3250,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000324",
     "nome": "Geraldo Ribeiro Filho",
     "nivel": "Mestrado",
     "lattes_id": "2354662228633167",
@@ -3036,6 +3263,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000324",
     "nome": "Geraldo Ribeiro Filho",
     "nivel": "Doutorado",
     "lattes_id": "2354662228633167",
@@ -3048,6 +3276,7 @@
     "ano_conclusao": 2000
   },
   {
+    "perfil_id": "p000325",
     "nome": "Germano de Souza Kienbaum",
     "nivel": "Mestrado",
     "ano_conclusao": 1989,
@@ -3060,6 +3289,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000326",
     "nome": "Gerson da Penha Neto",
     "nivel": "Mestrado",
     "lattes_id": "9441903297380731",
@@ -3072,6 +3302,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000326",
     "nome": "Gerson da Penha Neto",
     "nivel": "Doutorado",
     "lattes_id": "9441903297380731",
@@ -3084,6 +3315,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000327",
     "nome": "Gerson de Oliveira Barbosa",
     "nivel": "Mestrado",
     "lattes_id": "5531252237682065",
@@ -3096,6 +3328,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000328",
     "nome": "Gerônimo Gallarreta Zubiaurre Lemos",
     "nivel": "Mestrado",
     "lattes_id": "6290140872894499",
@@ -3108,6 +3341,7 @@
     "ano_conclusao": 2026
   },
   {
+    "perfil_id": "p000330",
     "nome": "Giani Carla Ito",
     "nivel": "Doutorado",
     "lattes_id": "4727340593582933",
@@ -3120,6 +3354,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000332",
     "nome": "Gilberto Câmara Neto",
     "nivel": "Doutorado",
     "lattes_id": "0333390666972274",
@@ -3132,6 +3367,7 @@
     "ano_conclusao": 1995
   },
   {
+    "perfil_id": "p000332",
     "nome": "Gilberto Câmara Neto",
     "nivel": "Mestrado",
     "ano_conclusao": 1982,
@@ -3144,6 +3380,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000334",
     "nome": "Gilberto Ribeiro de Queiroz",
     "nivel": "Mestrado",
     "lattes_id": "9981634193003068",
@@ -3156,6 +3393,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000334",
     "nome": "Gilberto Ribeiro de Queiroz",
     "nivel": "Doutorado",
     "lattes_id": "9981634193003068",
@@ -3168,6 +3406,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000337",
     "nome": "Giovanni Guarnieri Soares",
     "nivel": "Mestrado",
     "lattes_id": "1181220331702027",
@@ -3180,6 +3419,7 @@
     "ano_conclusao": 2022
   },
   {
+    "perfil_id": "p000341",
     "nome": "Glauco Antonio Santos da Silva",
     "nivel": "Mestrado",
     "lattes_id": "9992644919025348",
@@ -3192,6 +3432,7 @@
     "ano_conclusao": 2001
   },
   {
+    "perfil_id": "p000342",
     "nome": "Glaydston Mattos Ribeiro",
     "nivel": "Doutorado",
     "lattes_id": "5401369683892150",
@@ -3204,6 +3445,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000343",
     "nome": "Gleber Nelson Marques",
     "nivel": "Doutorado",
     "lattes_id": "5222086307573756",
@@ -3216,6 +3458,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000345",
     "nome": "Gonçalo Renildo Lima Cerqueira",
     "nivel": "Doutorado",
     "lattes_id": "6505148908771591",
@@ -3228,6 +3471,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000346",
     "nome": "Griselda Esther Jara de Garrido",
     "nivel": "Doutorado",
     "lattes_id": "0232526330657129",
@@ -3240,6 +3484,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000347",
     "nome": "Guaraci José Erthal",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -3252,6 +3497,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000348",
     "nome": "Guilherme Bittencourt",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -3264,6 +3510,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000349",
     "nome": "Guilherme Oliveira Chagas",
     "nivel": "Doutorado",
     "lattes_id": "3671312341626386",
@@ -3276,6 +3523,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000350",
     "nome": "Gustavo Augusto Mascarenhas Goltz",
     "nivel": "Mestrado",
     "lattes_id": "8288303170419323",
@@ -3288,6 +3536,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000351",
     "nome": "Gustavo Beltrami Rossi",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -3300,6 +3549,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000353",
     "nome": "Gustavo Furtado de Oliveira Alves",
     "nivel": "Mestrado",
     "lattes_id": "0735032354574806",
@@ -3312,6 +3562,7 @@
     "ano_conclusao": 2015
   },
   {
+    "perfil_id": "p000356",
     "nome": "Gutemberg Borges França",
     "nivel": "Mestrado",
     "ano_conclusao": 1988,
@@ -3324,6 +3575,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000357",
     "nome": "Heber José de Mauro",
     "nivel": "Mestrado",
     "ano_conclusao": 1975,
@@ -3336,6 +3588,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000358",
     "nome": "Heiko Humann",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -3348,6 +3601,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000359",
     "nome": "Heitor Angelo Moraes Junior",
     "nivel": "Mestrado",
     "lattes_id": "3591150667553628",
@@ -3360,6 +3614,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000360",
     "nome": "Helaine Cristina Moraes Furtado",
     "nivel": "Doutorado",
     "lattes_id": "1700545931391495",
@@ -3372,6 +3627,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000360",
     "nome": "Helaine Cristina Morais Furtado",
     "nivel": "Mestrado",
     "lattes_id": "1700545931391495",
@@ -3384,18 +3640,7 @@
     "ano_conclusao": 2008
   },
   {
-    "nome": "Helaine Cristina Morais Furtado",
-    "nivel": "Doutorado",
-    "ano_conclusao": 2012,
-    "lattes_id": "1700545931391495",
-    "foto_tipo": "real",
-    "orcid": "",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
+    "perfil_id": "p000361",
     "nome": "Helcio Francisco Villa Nova",
     "nivel": "Doutorado",
     "lattes_id": "9771201880886942",
@@ -3408,6 +3653,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000364",
     "nome": "Heloisa Galvão Villela Santos Borges",
     "nivel": "Mestrado",
     "ano_conclusao": 1979,
@@ -3420,6 +3666,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000365",
     "nome": "Heloisa Maria Martins de A. Gonçalves",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -3432,6 +3679,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000366",
     "nome": "Heloisa Musetti Ruivo",
     "nivel": "Mestrado",
     "lattes_id": "0815331928533801",
@@ -3444,6 +3692,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000366",
     "nome": "Heloisa Musetti Ruivo",
     "nivel": "Doutorado",
     "lattes_id": "0815331928533801",
@@ -3456,6 +3705,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000367",
     "nome": "Heloneida de Carvalho Kataoka",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -3468,6 +3718,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000368",
     "nome": "Helvecio Bezerra Leal Neto",
     "nivel": "Mestrado",
     "lattes_id": "7196274083231131",
@@ -3480,6 +3731,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000368",
     "nome": "Helvecio Bezerra Leal Neto",
     "nivel": "Doutorado",
     "lattes_id": "7196274083231131",
@@ -3492,6 +3744,7 @@
     "ano_conclusao": 2025
   },
   {
+    "perfil_id": "p000370",
     "nome": "Henrique Mendes Castilho",
     "nivel": "Doutorado",
     "lattes_id": "7598908992461702",
@@ -3504,6 +3757,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000371",
     "nome": "Henrique Niwa",
     "nivel": "Mestrado",
     "lattes_id": "1398960120056570",
@@ -3516,6 +3770,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000372",
     "nome": "Henrique Otavio Queiroz de Aquino",
     "nivel": "Mestrado",
     "lattes_id": "6790488139967667",
@@ -3528,6 +3783,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000373",
     "nome": "Henrique Rennó de Azeredo Freitas",
     "nivel": "Mestrado",
     "lattes_id": "6700293516531228",
@@ -3540,6 +3796,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000373",
     "nome": "Henrique Rennó de Azeredo Freitas",
     "nivel": "Doutorado",
     "lattes_id": "6700293516531228",
@@ -3552,6 +3809,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000375",
     "nome": "Hilcea Santos Ferreira",
     "nivel": "Mestrado",
     "ano_conclusao": 1989,
@@ -3564,6 +3822,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000376",
     "nome": "Horacio Hideki Yanasse",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -3576,6 +3835,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000378",
     "nome": "Horácio Aragonés Forjaz",
     "nivel": "Mestrado",
     "ano_conclusao": 1980,
@@ -3588,6 +3848,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000380",
     "nome": "Humberto Bertola de Almeida",
     "nivel": "Mestrado",
     "ano_conclusao": 1980,
@@ -3600,6 +3861,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000382",
     "nome": "Iamara Virgínia de Mendonça Motta",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -3612,6 +3874,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000384",
     "nome": "Iberê Lucio Ronchetti Teixeira",
     "nivel": "Mestrado",
     "ano_conclusao": 1973,
@@ -3624,6 +3887,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000386",
     "nome": "Igor Kolesnikov",
     "nivel": "Mestrado",
     "lattes_id": "7270997826236736",
@@ -3636,6 +3900,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000386",
     "nome": "Igor Kolesnikov",
     "nivel": "Doutorado",
     "lattes_id": "7270997826236736",
@@ -3648,6 +3913,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000388",
     "nome": "Iris Fabiana de Barcelos Tronto",
     "nivel": "Doutorado",
     "lattes_id": "8235957717242486",
@@ -3660,6 +3926,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000389",
     "nome": "Isabela Neves Drummond",
     "nivel": "Mestrado",
     "lattes_id": "2799879318334876",
@@ -3672,6 +3939,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000389",
     "nome": "Isabela Neves Drummond",
     "nivel": "Doutorado",
     "lattes_id": "2799879318334876",
@@ -3684,6 +3952,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000391",
     "nome": "Isolete Teresinha Dzendzik",
     "nivel": "Mestrado",
     "lattes_id": "2425002433217498",
@@ -3696,6 +3965,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000393",
     "nome": "Ivan Soares de Lucena",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -3708,6 +3978,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000394",
     "nome": "Ivana Yoshie Sumida",
     "nivel": "Mestrado",
     "lattes_id": "9177203949863116",
@@ -3720,6 +3991,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000394",
     "nome": "Ivana Yoshie Sumida",
     "nivel": "Doutorado",
     "lattes_id": "9177203949863116",
@@ -3732,6 +4004,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000395",
     "nome": "Ivo Paixão de Medeiros",
     "nivel": "Doutorado",
     "lattes_id": "2701626369862194",
@@ -3744,6 +4017,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000397",
     "nome": "Ióris Ramalho Cortez",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -3756,6 +4030,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000398",
     "nome": "Jaciara Silva Carosia",
     "nivel": "Mestrado",
     "lattes_id": "6766571152282367",
@@ -3768,6 +4043,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000399",
     "nome": "Jacques Politi",
     "nivel": "Mestrado",
     "lattes_id": "2230382763584267",
@@ -3780,6 +4056,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000401",
     "nome": "Jaqueline Aparecida Jorge Papini Soares",
     "nivel": "Doutorado",
     "lattes_id": "4096476605463604",
@@ -3792,6 +4069,7 @@
     "ano_conclusao": 2025
   },
   {
+    "perfil_id": "p000402",
     "nome": "Jefferson Gonçalves de Souza",
     "nivel": "Mestrado",
     "lattes_id": "3622347983126578",
@@ -3804,6 +4082,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000405",
     "nome": "Joanito de Andrade Oliveira",
     "nivel": "Mestrado",
     "lattes_id": "6126296380583649",
@@ -3816,6 +4095,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000408",
     "nome": "Joel Neves Barreto",
     "nivel": "Mestrado",
     "ano_conclusao": 1979,
@@ -3828,6 +4108,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000409",
     "nome": "Joelma Carla Santos",
     "nivel": "Mestrado",
     "lattes_id": "9216236348410986",
@@ -3840,6 +4121,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000410",
     "nome": "Joelma Choma",
     "nivel": "Doutorado",
     "lattes_id": "0295224635404422",
@@ -3852,6 +4134,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000411",
     "nome": "Johan Sebastian Duque Buitrago",
     "nivel": "Doutorado",
     "lattes_id": "",
@@ -3864,6 +4147,7 @@
     "ano_conclusao": 2026
   },
   {
+    "perfil_id": "p000412",
     "nome": "Joice Parmezani Staben Barbosa",
     "nivel": "Mestrado",
     "lattes_id": "5212138735274453",
@@ -3876,6 +4160,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000413",
     "nome": "Joice Seleme Mota",
     "nivel": "Doutorado",
     "lattes_id": "7777714279933344",
@@ -3888,6 +4173,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000414",
     "nome": "Jonas de Oliveira Júnior",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -3900,6 +4186,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000416",
     "nome": "Jonas Henrique Mendonça",
     "nivel": "Mestrado",
     "lattes_id": "8073731810160654",
@@ -3912,6 +4199,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000417",
     "nome": "Jony Santellano",
     "nivel": "Mestrado",
     "ano_conclusao": 1985,
@@ -3924,6 +4212,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000419",
     "nome": "Jorge Alexandre Zaiden",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -3936,6 +4225,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000420",
     "nome": "Jorge Luiz Cerqueira",
     "nivel": "Mestrado",
     "ano_conclusao": 1982,
@@ -3948,6 +4238,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000421",
     "nome": "Jose Iram Mota Barbosa",
     "nivel": "Mestrado",
     "ano_conclusao": 1985,
@@ -3960,6 +4251,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000422",
     "nome": "Josué Oliveira Silva",
     "nivel": "Mestrado",
     "lattes_id": "4402583338465212",
@@ -3972,6 +4264,7 @@
     "ano_conclusao": 2000
   },
   {
+    "perfil_id": "p000423",
     "nome": "José Adelino de Souza Medeiros",
     "nivel": "Mestrado",
     "ano_conclusao": 1982,
@@ -3984,6 +4277,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000424",
     "nome": "José Alberto Costacurta de Azevedo",
     "nivel": "Mestrado",
     "ano_conclusao": 1971,
@@ -3996,6 +4290,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000425",
     "nome": "José Aldo Mastroliberti",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -4008,6 +4303,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000426",
     "nome": "José Alexandre Junqueira Ribeiro",
     "nivel": "Mestrado",
     "lattes_id": "2137870992261584",
@@ -4020,6 +4316,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000428",
     "nome": "José Antonio Gonçalves Pereira",
     "nivel": "Doutorado",
     "ano_conclusao": 1982,
@@ -4032,6 +4329,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000428",
     "nome": "José Antonio Gonçalves Pereira",
     "nivel": "Mestrado",
     "ano_conclusao": 1973,
@@ -4044,6 +4342,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000429",
     "nome": "José Antonio Scaramucci",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -4056,6 +4355,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000430",
     "nome": "José Augusto de Carvalho Cunha",
     "nivel": "Mestrado",
     "ano_conclusao": 1978,
@@ -4068,6 +4368,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000431",
     "nome": "José Borges Escada Júnior",
     "nivel": "Mestrado",
     "ano_conclusao": 1985,
@@ -4080,6 +4381,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000432",
     "nome": "José Carlos de Paula Magalhães Costa",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -4092,6 +4394,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000435",
     "nome": "José Carlos Lombardi",
     "nivel": "Doutorado",
     "lattes_id": "5920524861628819",
@@ -4104,6 +4407,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000435",
     "nome": "José Carlos Lombardi",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -4116,6 +4420,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000436",
     "nome": "José Cláudio Mura",
     "nivel": "Doutorado",
     "lattes_id": "8981152353948408",
@@ -4128,6 +4433,7 @@
     "ano_conclusao": 2000
   },
   {
+    "perfil_id": "p000437",
     "nome": "José Demisio Simões da Silva",
     "nivel": "Doutorado",
     "lattes_id": "3256284655278061",
@@ -4140,6 +4446,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000438",
     "nome": "José do Patrocínio Morais de Souza",
     "nivel": "Mestrado",
     "ano_conclusao": 1988,
@@ -4152,6 +4459,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000439",
     "nome": "José Eduardo Benevello de Castro",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -4164,6 +4472,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000441",
     "nome": "José Ernesto de Araujo Filho",
     "nivel": "Doutorado",
     "lattes_id": "2039900917750691",
@@ -4176,6 +4485,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000442",
     "nome": "José Fernandes da Nóbrega",
     "nivel": "Mestrado",
     "ano_conclusao": 2006,
@@ -4188,6 +4498,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000443",
     "nome": "José Francisco da Silva Filho",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -4200,6 +4511,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000445",
     "nome": "José Iguelmar Miranda",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -4212,6 +4524,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000446",
     "nome": "José Jean Peixoto Negrão",
     "nivel": "Mestrado",
     "lattes_id": "5120381501031747",
@@ -4224,6 +4537,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000447",
     "nome": "José Liberato Junior",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -4236,6 +4550,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000448",
     "nome": "José Luiz de Barros Aguirre",
     "nivel": "Mestrado",
     "ano_conclusao": 1983,
@@ -4248,6 +4563,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000449",
     "nome": "José Mazzuco Júnior",
     "nivel": "Mestrado",
     "ano_conclusao": 1980,
@@ -4260,6 +4576,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000450",
     "nome": "José Natal Figueiroa",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -4272,6 +4589,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000451",
     "nome": "José Olimpio Ferreira",
     "nivel": "Mestrado",
     "lattes_id": "4219212576554236",
@@ -4284,6 +4602,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000451",
     "nome": "José Olimpio Ferreira",
     "nivel": "Doutorado",
     "lattes_id": "4219212576554236",
@@ -4296,6 +4615,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000452",
     "nome": "José Oscar Fernandes",
     "nivel": "Mestrado",
     "lattes_id": "1227251277418025",
@@ -4308,6 +4628,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000453",
     "nome": "José Oscar Machado Alexandre",
     "nivel": "Mestrado",
     "ano_conclusao": 1981,
@@ -4320,6 +4641,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000455",
     "nome": "José Renato Garcia Braga",
     "nivel": "Doutorado",
     "lattes_id": "2377305216969381",
@@ -4332,6 +4654,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000456",
     "nome": "José Roberto Amaral Leite",
     "nivel": "Mestrado",
     "ano_conclusao": 1981,
@@ -4344,6 +4667,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000457",
     "nome": "José Roberto Motta Garcia",
     "nivel": "Mestrado",
     "lattes_id": "5953894048846311",
@@ -4356,6 +4680,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000457",
     "nome": "José Roberto Motta Garcia",
     "nivel": "Doutorado",
     "lattes_id": "5953894048846311",
@@ -4368,6 +4693,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000458",
     "nome": "José Roberto Osses",
     "nivel": "Mestrado",
     "lattes_id": "0854561383433500",
@@ -4380,6 +4706,7 @@
     "ano_conclusao": 2000
   },
   {
+    "perfil_id": "p000459",
     "nome": "José Roberto Reis",
     "nivel": "Mestrado",
     "ano_conclusao": 1975,
@@ -4392,6 +4719,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000461",
     "nome": "João Argemiro de Carvalho Paiva",
     "nivel": "Mestrado",
     "lattes_id": "0007362814849903",
@@ -4404,6 +4732,7 @@
     "ano_conclusao": 1994
   },
   {
+    "perfil_id": "p000462",
     "nome": "João Bosco Schumam Cunha",
     "nivel": "Doutorado",
     "lattes_id": "0292778391448792",
@@ -4416,6 +4745,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000463",
     "nome": "João Camargo Neto",
     "nivel": "Mestrado",
     "lattes_id": "3272632366132727",
@@ -4428,6 +4758,7 @@
     "ano_conclusao": 1995
   },
   {
+    "perfil_id": "p000465",
     "nome": "João Carlos Furtado",
     "nivel": "Mestrado",
     "lattes_id": "5916894709084624",
@@ -4440,6 +4771,7 @@
     "ano_conclusao": 1995
   },
   {
+    "perfil_id": "p000465",
     "nome": "João Carlos Furtado",
     "nivel": "Doutorado",
     "lattes_id": "5916894709084624",
@@ -4452,6 +4784,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000466",
     "nome": "João Eduardo Oliveira da Silva",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -4464,6 +4797,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000468",
     "nome": "João Emile Louis",
     "nivel": "Mestrado",
     "lattes_id": "2264706683205045",
@@ -4476,6 +4810,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000469",
     "nome": "João Lopes de Albuquerque Montenegro",
     "nivel": "Mestrado",
     "ano_conclusao": 1971,
@@ -4488,6 +4823,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000470",
     "nome": "João Mello da Silva",
     "nivel": "Mestrado",
     "ano_conclusao": 1971,
@@ -4500,6 +4836,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000471",
     "nome": "João Pedro Cerveira Cordeiro",
     "nivel": "Mestrado",
     "lattes_id": "8916994738849803",
@@ -4512,6 +4849,7 @@
     "ano_conclusao": 1989
   },
   {
+    "perfil_id": "p000473",
     "nome": "João Ricardo de Freitas Oliveira",
     "nivel": "Doutorado",
     "lattes_id": "5067006506847859",
@@ -4524,6 +4862,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000474",
     "nome": "João Victor Cal Garcia",
     "nivel": "Mestrado",
     "lattes_id": "7131920754003820",
@@ -4536,6 +4875,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000474",
     "nome": "João Victor Cal Garcia",
     "nivel": "Doutorado",
     "lattes_id": "7131920754003820",
@@ -4548,6 +4888,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000476",
     "nome": "Juliana Aparecida Anochi",
     "nivel": "Mestrado",
     "lattes_id": "2720072834057575",
@@ -4560,6 +4901,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000476",
     "nome": "Juliana Aparecida Anochi",
     "nivel": "Doutorado",
     "lattes_id": "2720072834057575",
@@ -4572,6 +4914,7 @@
     "ano_conclusao": 2015
   },
   {
+    "perfil_id": "p000477",
     "nome": "Juliana Cestari Lacerda",
     "nivel": "Mestrado",
     "lattes_id": "4906892236429846",
@@ -4584,6 +4927,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000477",
     "nome": "Juliana Cestari Lacerda",
     "nivel": "Doutorado",
     "lattes_id": "4906892236429846",
@@ -4596,6 +4940,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000478",
     "nome": "Juliana Cristina Braga",
     "nivel": "Doutorado",
     "lattes_id": "7111526592323456",
@@ -4608,6 +4953,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000479",
     "nome": "Juliana de Mattos Guerra Simões",
     "nivel": "Mestrado",
     "lattes_id": "3018328954113011",
@@ -4620,6 +4966,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000480",
     "nome": "Juliana Marino Balera",
     "nivel": "Mestrado",
     "lattes_id": "0112828204969930",
@@ -4632,6 +4979,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000480",
     "nome": "Juliana Marino Balera",
     "nivel": "Doutorado",
     "lattes_id": "0112828204969930",
@@ -4644,6 +4992,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000482",
     "nome": "Juliano Carvalho Sansão",
     "nivel": "Mestrado",
     "lattes_id": "8159008194280292",
@@ -4656,6 +5005,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000483",
     "nome": "Juliano Elias Cardoso Cruz",
     "nivel": "Mestrado",
     "lattes_id": "7395734335001459",
@@ -4668,6 +5018,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000483",
     "nome": "Juliano Elias Cardoso Cruz",
     "nivel": "Doutorado",
     "lattes_id": "7395734335001459",
@@ -4680,6 +5031,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000487",
     "nome": "Jun Tominaga",
     "nivel": "Mestrado",
     "lattes_id": "7205130325124418",
@@ -4692,6 +5044,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000489",
     "nome": "Jéssica Domingues Santos",
     "nivel": "Mestrado",
     "lattes_id": "5969868916083659",
@@ -4704,6 +5057,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000491",
     "nome": "Júlia Leocádia de Oliveira",
     "nivel": "Mestrado",
     "ano_conclusao": 1981,
@@ -4716,6 +5070,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000493",
     "nome": "Júlio Malva Filho",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -4728,6 +5083,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000494",
     "nome": "Júlio Resende Ribeiro",
     "nivel": "Mestrado",
     "lattes_id": "1593623121798803",
@@ -4740,6 +5096,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000495",
     "nome": "Júnior Barrera",
     "nivel": "Mestrado",
     "ano_conclusao": 1987,
@@ -4752,6 +5109,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000496",
     "nome": "Kamel Bensebaa",
     "nivel": "Doutorado",
     "lattes_id": "5638060038239782",
@@ -4764,6 +5122,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000497",
     "nome": "Karine Reis Ferreira",
     "nivel": "Mestrado",
     "lattes_id": "1014575950191035",
@@ -4776,18 +5135,7 @@
     "ano_conclusao": 2003
   },
   {
-    "nome": "Karine Reis Ferreira",
-    "nivel": "Doutorado",
-    "ano_conclusao": 2012,
-    "lattes_id": "1014575950191035",
-    "foto_tipo": "real",
-    "orcid": "",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
+    "perfil_id": "p000497",
     "nome": "Karine Reis Ferreira Gomes",
     "nivel": "Doutorado",
     "lattes_id": "1014575950191035",
@@ -4800,6 +5148,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000498",
     "nome": "Karla Donato Fook",
     "nivel": "Doutorado",
     "lattes_id": "4637772374064396",
@@ -4812,6 +5161,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000502",
     "nome": "Kiyoshi Yoneda",
     "nivel": "Mestrado",
     "ano_conclusao": 1980,
@@ -4824,6 +5174,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000503",
     "nome": "Klaus Steding-Jessen",
     "nivel": "Doutorado",
     "lattes_id": "0432029136914154",
@@ -4836,6 +5187,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000504",
     "nome": "Kleber de Mattos Dobrowolski",
     "nivel": "Mestrado",
     "lattes_id": "5224504785503327",
@@ -4848,6 +5200,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000505",
     "nome": "Ladislau José Nave da Silva",
     "nivel": "Mestrado",
     "ano_conclusao": 1982,
@@ -4860,6 +5213,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000506",
     "nome": "Laurita dos Santos",
     "nivel": "Mestrado",
     "lattes_id": "7478013493888839",
@@ -4872,6 +5226,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000506",
     "nome": "Laurita dos Santos",
     "nivel": "Doutorado",
     "lattes_id": "7478013493888839",
@@ -4884,6 +5239,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000507",
     "nome": "Lauro Lage Filho",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -4896,6 +5252,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000508",
     "nome": "Lauro Tadeu Guimaraes Fortes",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -4908,6 +5265,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000509",
     "nome": "Laércio Massaru Namikawa",
     "nivel": "Mestrado",
     "lattes_id": "0983590211329242",
@@ -4920,6 +5278,7 @@
     "ano_conclusao": 1995
   },
   {
+    "perfil_id": "p000511",
     "nome": "Leandro Guarino de Vasconcelos",
     "nivel": "Doutorado",
     "lattes_id": "8626122636195184",
@@ -4932,6 +5291,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000512",
     "nome": "Leandro Luque",
     "nivel": "Mestrado",
     "lattes_id": "2934800737668564",
@@ -4944,6 +5304,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000513",
     "nome": "Leandro Toss Hoffmann",
     "nivel": "Mestrado",
     "lattes_id": "9275887475814104",
@@ -4956,6 +5317,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000514",
     "nome": "Leila Maria Garcia Fonseca",
     "nivel": "Doutorado",
     "lattes_id": "5123287769635741",
@@ -4968,6 +5330,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000517",
     "nome": "Leonardo Bacelar Lima Santos",
     "nivel": "Mestrado",
     "lattes_id": "9147853693310634",
@@ -4980,6 +5343,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000517",
     "nome": "Leonardo Bacelar Lima Santos",
     "nivel": "Doutorado",
     "lattes_id": "9147853693310634",
@@ -4992,6 +5356,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000518",
     "nome": "Leonardo Dagnino Chiwiacowsky",
     "nivel": "Doutorado",
     "lattes_id": "2945278651389111",
@@ -5004,6 +5369,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000519",
     "nome": "Leonardo de Souza Vieira",
     "nivel": "Mestrado",
     "lattes_id": "8344430401118160",
@@ -5016,6 +5382,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000519",
     "nome": "Leonardo de Souza Vieira",
     "nivel": "Doutorado",
     "lattes_id": "8344430401118160",
@@ -5028,6 +5395,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000521",
     "nome": "Leonardo Sant'Anna Bins",
     "nivel": "Mestrado",
     "ano_conclusao": 1988,
@@ -5040,6 +5408,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000522",
     "nome": "Leonardo Sattler Cassará",
     "nivel": "Doutorado",
     "lattes_id": "3225510501135326",
@@ -5052,6 +5421,7 @@
     "ano_conclusao": 2025
   },
   {
+    "perfil_id": "p000525",
     "nome": "Letícia Teixeira Cottini",
     "nivel": "Mestrado",
     "lattes_id": "5970350712026764",
@@ -5064,6 +5434,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000526",
     "nome": "Ligia Corrêa de Souza",
     "nivel": "Mestrado",
     "lattes_id": "2832475204932610",
@@ -5076,6 +5447,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000527",
     "nome": "Liliane dos Santos Machado",
     "nivel": "Mestrado",
     "lattes_id": "0240551533292579",
@@ -5088,6 +5460,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000528",
     "nome": "Lineu Fernando Stege Mialaret",
     "nivel": "Mestrado",
     "ano_conclusao": 1990,
@@ -5100,6 +5473,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000529",
     "nome": "Lise Christine Banon",
     "nivel": "Mestrado",
     "lattes_id": "4400719201352705",
@@ -5112,6 +5486,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000530",
     "nome": "Liu Yi Ling",
     "nivel": "Mestrado",
     "lattes_id": "0614521628049112",
@@ -5124,6 +5499,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000531",
     "nome": "Lorena Alves dos Santos",
     "nivel": "Doutorado",
     "lattes_id": "1866854311363027",
@@ -5136,6 +5512,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000532",
     "nome": "Lourdes Bernadete da Fonseca",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -5148,6 +5525,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000535",
     "nome": "Luan Orion de Oliveira Baraúna Ferreira",
     "nivel": "Doutorado",
     "lattes_id": "2798762816398291",
@@ -5160,6 +5538,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000537",
     "nome": "Luciana Akemi Burgareli",
     "nivel": "Mestrado",
     "lattes_id": "6933488649391757",
@@ -5172,6 +5551,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000538",
     "nome": "Luciana Brasil Rebelo dos Santos",
     "nivel": "Doutorado",
     "lattes_id": "4896052217878979",
@@ -5184,6 +5564,7 @@
     "ano_conclusao": 2015
   },
   {
+    "perfil_id": "p000539",
     "nome": "Luciana de Souza Lopes",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -5196,6 +5577,7 @@
     "ano_conclusao": 1995
   },
   {
+    "perfil_id": "p000540",
     "nome": "Luciana Sêda Cardoso",
     "nivel": "Mestrado",
     "lattes_id": "8463491941462797",
@@ -5208,6 +5590,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000542",
     "nome": "Luciano Aparecido Magrini",
     "nivel": "Doutorado",
     "lattes_id": "0463783356255809",
@@ -5220,6 +5603,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000545",
     "nome": "Luciano Vieira Dutra",
     "nivel": "Doutorado",
     "ano_conclusao": 1989,
@@ -5232,6 +5616,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000545",
     "nome": "Luciano Vieira Dutra",
     "nivel": "Mestrado",
     "ano_conclusao": 1981,
@@ -5244,6 +5629,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000546",
     "nome": "Lucila Olívia da Costa Prado",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -5256,6 +5642,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000548",
     "nome": "Lucio Henrique Franco",
     "nivel": "Mestrado",
     "lattes_id": "7564306942213624",
@@ -5268,6 +5655,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000550",
     "nome": "Luigi Carli Marroni Aulicino",
     "nivel": "Mestrado",
     "lattes_id": "4482825279863945",
@@ -5280,6 +5668,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000552",
     "nome": "Luis Fernando Amorim França",
     "nivel": "Mestrado",
     "lattes_id": "9012680909223922",
@@ -5292,6 +5681,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000552",
     "nome": "Luis Fernando Amorim França",
     "nivel": "Doutorado",
     "lattes_id": "9012680909223922",
@@ -5304,6 +5694,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000553",
     "nome": "Luis Fernando Salgueiro Romero",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -5316,6 +5707,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000583",
     "nome": "Luis Ricardo Arantes Filho",
     "nivel": "Mestrado",
     "lattes_id": "2796582215218356",
@@ -5328,6 +5720,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000557",
     "nome": "Luiz Antonio Nogueira Lorena",
     "nivel": "Mestrado",
     "ano_conclusao": 1979,
@@ -5340,6 +5733,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000559",
     "nome": "Luiz Felipe Campos de Rezende",
     "nivel": "Mestrado",
     "lattes_id": "4555952412875598",
@@ -5352,6 +5746,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000560",
     "nome": "Luiz Fernando Borrego Filho",
     "nivel": "Mestrado",
     "lattes_id": "9163213067992367",
@@ -5364,6 +5759,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000561",
     "nome": "Luiz Fernando Capretz",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -5376,6 +5772,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000564",
     "nome": "Luiz Francisco de Macedo",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -5388,6 +5785,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000567",
     "nome": "Luiz Guilherme Nadal Nunes",
     "nivel": "Doutorado",
     "lattes_id": "8905139393539858",
@@ -5400,6 +5798,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000568",
     "nome": "Luiz Gustavo Cunha Barbato",
     "nivel": "Mestrado",
     "lattes_id": "2826365778176260",
@@ -5412,6 +5811,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000568",
     "nome": "Luiz Gustavo Cunha Barbato",
     "nivel": "Doutorado",
     "lattes_id": "2826365778176260",
@@ -5424,6 +5824,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000569",
     "nome": "Luiz Gustavo Diniz de Oliveira Véras",
     "nivel": "Mestrado",
     "lattes_id": "1335485763929476",
@@ -5436,6 +5837,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000569",
     "nome": "Luiz Gustavo Diniz de Oliveira Véras",
     "nivel": "Doutorado",
     "lattes_id": "1335485763929476",
@@ -5448,6 +5850,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000573",
     "nome": "Luiz Otávio Duarte",
     "nivel": "Mestrado",
     "lattes_id": "8954719144336750",
@@ -5460,6 +5863,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000574",
     "nome": "Luiz Paulo Tavares",
     "nivel": "Mestrado",
     "ano_conclusao": 1975,
@@ -5472,6 +5876,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000575",
     "nome": "Luiz Roberto Ferreira da Costa",
     "nivel": "Mestrado",
     "ano_conclusao": 1971,
@@ -5484,6 +5889,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000578",
     "nome": "Luís Eduardo Sales do Nascimento",
     "nivel": "Mestrado",
     "lattes_id": "7543277961533017",
@@ -5496,6 +5902,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000581",
     "nome": "Luís Marcelo Achite",
     "nivel": "Mestrado",
     "lattes_id": "8766216473063595",
@@ -5508,6 +5915,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000583",
     "nome": "Luís Ricardo Arantes Filho",
     "nivel": "Doutorado",
     "lattes_id": "2796582215218356",
@@ -5520,6 +5928,7 @@
     "ano_conclusao": 2022
   },
   {
+    "perfil_id": "p000585",
     "nome": "Lília de Sá Silva",
     "nivel": "Mestrado",
     "lattes_id": "2417056565366433",
@@ -5532,6 +5941,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000585",
     "nome": "Lília de Sá Silva",
     "nivel": "Doutorado",
     "lattes_id": "2417056565366433",
@@ -5544,6 +5954,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000586",
     "nome": "Lúbia Vinhas",
     "nivel": "Mestrado",
     "lattes_id": "6187040703676041",
@@ -5556,6 +5967,7 @@
     "ano_conclusao": 1994
   },
   {
+    "perfil_id": "p000586",
     "nome": "Lúbia Vinhas",
     "nivel": "Doutorado",
     "lattes_id": "6187040703676041",
@@ -5568,6 +5980,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000587",
     "nome": "Mag Pachego",
     "nivel": "Mestrado",
     "ano_conclusao": 1980,
@@ -5580,6 +5993,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000588",
     "nome": "Magda Aparecida Silvério Miyashiro",
     "nivel": "Mestrado",
     "lattes_id": "8557867072756445",
@@ -5592,6 +6006,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000590",
     "nome": "Mamdouh Mahmoud Mostafa",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -5604,6 +6019,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000591",
     "nome": "Manoel Baptista da Silva Junior",
     "nivel": "Mestrado",
     "lattes_id": "6258057792238040",
@@ -5616,6 +6032,7 @@
     "ano_conclusao": 2015
   },
   {
+    "perfil_id": "p000592",
     "nome": "Manoel de Araújo Sousa Júnior",
     "nivel": "Doutorado",
     "lattes_id": "7229572371807677",
@@ -5628,6 +6045,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000593",
     "nome": "Marcelino Pereira dos Santos Silva",
     "nivel": "Doutorado",
     "lattes_id": "7817033448036400",
@@ -5640,6 +6058,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000594",
     "nome": "Marcelly Homem Coelho",
     "nivel": "Mestrado",
     "lattes_id": "3716904119976902",
@@ -5652,6 +6071,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000596",
     "nome": "Marcelo Gonçalves Narciso",
     "nivel": "Mestrado",
     "lattes_id": "1175679097609016",
@@ -5664,6 +6084,7 @@
     "ano_conclusao": 1994
   },
   {
+    "perfil_id": "p000596",
     "nome": "Marcelo Gonçalves Narciso",
     "nivel": "Doutorado",
     "lattes_id": "1175679097609016",
@@ -5676,6 +6097,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000597",
     "nome": "Marcelo Henrique Peixoto Caetano Chaves",
     "nivel": "Mestrado",
     "lattes_id": "4370476012271211",
@@ -5688,6 +6110,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000598",
     "nome": "Marcelo Ladeira",
     "nivel": "Mestrado",
     "ano_conclusao": 1981,
@@ -5700,6 +6123,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000599",
     "nome": "Marcelo Módolo",
     "nivel": "Doutorado",
     "lattes_id": "4200452462649871",
@@ -5712,6 +6136,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000600",
     "nome": "Marcelo Saraiva Limeira",
     "nivel": "Mestrado",
     "lattes_id": "6611139763553149",
@@ -5724,6 +6149,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000600",
     "nome": "Marcelo Saraiva Limeira",
     "nivel": "Doutorado",
     "lattes_id": "6611139763553149",
@@ -5736,6 +6162,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000601",
     "nome": "Marcio Azeredo",
     "nivel": "Mestrado",
     "lattes_id": "0778787290718573",
@@ -5748,6 +6175,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000601",
     "nome": "Marcio Azeredo",
     "nivel": "Doutorado",
     "lattes_id": "0778787290718573",
@@ -5760,6 +6188,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000602",
     "nome": "Marcio Nogueira Barbosa",
     "nivel": "Mestrado",
     "ano_conclusao": 1975,
@@ -5772,6 +6201,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000605",
     "nome": "Marco Antonio Banzato",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -5784,6 +6214,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000606",
     "nome": "Marco Antônio de Ulhôa Cintra",
     "nivel": "Doutorado",
     "lattes_id": "2146325346749501",
@@ -5796,6 +6227,7 @@
     "ano_conclusao": 2026
   },
   {
+    "perfil_id": "p000607",
     "nome": "Marcos Alberto da Silva",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -5808,6 +6240,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000608",
     "nome": "Marcos Antonio Pereira",
     "nivel": "Doutorado",
     "lattes_id": "9386730770147178",
@@ -5820,6 +6253,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000609",
     "nome": "Marcos Antônio Timbó Elmiro",
     "nivel": "Doutorado",
     "lattes_id": "6956968845038843",
@@ -5832,6 +6266,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000610",
     "nome": "Marcos Aurélio Santos da Silva",
     "nivel": "Mestrado",
     "lattes_id": "5701578011158777",
@@ -5844,6 +6279,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000611",
     "nome": "Marcos Daniel Nogueira Maia",
     "nivel": "Doutorado",
     "lattes_id": "5283661065432531",
@@ -5856,6 +6292,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000612",
     "nome": "Marcos de Figueiredo Cima",
     "nivel": "Mestrado",
     "ano_conclusao": 1975,
@@ -5868,6 +6305,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000613",
     "nome": "Marcos Eduardo Gomes Borges",
     "nivel": "Mestrado",
     "lattes_id": "8216914793181349",
@@ -5880,6 +6318,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000614",
     "nome": "Marcos José de Aquino Pinto Pacca",
     "nivel": "Mestrado",
     "ano_conclusao": 1971,
@@ -5892,6 +6331,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000615",
     "nome": "Marcos Lima Rodrigues",
     "nivel": "Mestrado",
     "lattes_id": "0038580266579913",
@@ -5904,6 +6344,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000615",
     "nome": "Marcos Lima Rodrigues",
     "nivel": "Doutorado",
     "lattes_id": "0038580266579913",
@@ -5916,6 +6357,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000616",
     "nome": "Marcos Paulo Lobo de Candia",
     "nivel": "Mestrado",
     "lattes_id": "5598171613387590",
@@ -5928,6 +6370,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000617",
     "nome": "Marcos Regis Vescovi",
     "nivel": "Mestrado",
     "ano_conclusao": 1987,
@@ -5940,6 +6383,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000619",
     "nome": "Marcus Fabiano Silva Saldanha",
     "nivel": "Doutorado",
     "lattes_id": "3523881080691169",
@@ -5952,6 +6396,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000620",
     "nome": "Marcus Vinicius Pereira Pessôa",
     "nivel": "Mestrado",
     "lattes_id": "7279803072053809",
@@ -5964,6 +6409,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000621",
     "nome": "Marcus Vinícius Carneiro Martins",
     "nivel": "Mestrado",
     "lattes_id": "9705290738539434",
@@ -5976,6 +6422,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000622",
     "nome": "Maria Angela Campelo de Melo",
     "nivel": "Mestrado",
     "ano_conclusao": 1999,
@@ -5988,6 +6435,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000625",
     "nome": "Maria Conceição de Andrade",
     "nivel": "Mestrado",
     "lattes_id": "7598265633241292",
@@ -6000,6 +6448,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000626",
     "nome": "Maria da Piedade Gomes de Oliveira",
     "nivel": "Doutorado",
     "lattes_id": "8355899007771241",
@@ -6012,6 +6461,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000627",
     "nome": "Maria Elenita Menezes Nascimento",
     "nivel": "Mestrado",
     "ano_conclusao": 1981,
@@ -6024,6 +6474,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000628",
     "nome": "Maria Eugênia Sausen Welter",
     "nivel": "Mestrado",
     "lattes_id": "4865636850648467",
@@ -6036,6 +6487,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000629",
     "nome": "Maria José Pinto",
     "nivel": "Doutorado",
     "lattes_id": "5482331342897900",
@@ -6048,6 +6500,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000632",
     "nome": "Maria Suelena Santiago Barros",
     "nivel": "Doutorado",
     "lattes_id": "0112548142014331",
@@ -6060,6 +6513,7 @@
     "ano_conclusao": 1986
   },
   {
+    "perfil_id": "p000632",
     "nome": "Maria Suelena Santiago Barros",
     "nivel": "Mestrado",
     "ano_conclusao": 2004,
@@ -6072,6 +6526,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000633",
     "nome": "Maria Teodora Ferreira",
     "nivel": "Doutorado",
     "lattes_id": "1024298618876644",
@@ -6084,6 +6539,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000635",
     "nome": "Mariana Pelissari Monteiro Aguiar Baroni",
     "nivel": "Mestrado",
     "lattes_id": "1455747602225273",
@@ -6096,6 +6552,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000635",
     "nome": "Mariana Pelissari Monteiro Aguiar Baroni",
     "nivel": "Doutorado",
     "lattes_id": "1455747602225273",
@@ -6108,6 +6565,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000636",
     "nome": "Marie Radi Maftoum",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -6120,6 +6578,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000638",
     "nome": "Marilyn Menecucci Ibañez",
     "nivel": "Mestrado",
     "lattes_id": "5303306968929483",
@@ -6132,6 +6591,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000638",
     "nome": "Marilyn Minicucci Ibañez",
     "nivel": "Doutorado",
     "lattes_id": "5303306968929483",
@@ -6144,6 +6604,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000639",
     "nome": "Marina Laís da Silva Nascimento",
     "nivel": "Mestrado",
     "ano_conclusao": 2014,
@@ -6156,6 +6617,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000641",
     "nome": "Marinalva Dias Soares",
     "nivel": "Doutorado",
     "lattes_id": "6047184744431931",
@@ -6168,6 +6630,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000642",
     "nome": "Marisa da Mota",
     "nivel": "Mestrado",
     "lattes_id": "7827224829865079",
@@ -6180,6 +6643,7 @@
     "ano_conclusao": 1990
   },
   {
+    "perfil_id": "p000643",
     "nome": "Marize Corrêa Simões",
     "nivel": "Mestrado",
     "lattes_id": "7108111951013688",
@@ -6192,6 +6656,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000644",
     "nome": "Marlon da Silva",
     "nivel": "Mestrado",
     "lattes_id": "9331509602982993",
@@ -6204,6 +6669,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000644",
     "nome": "Marlon da Silva",
     "nivel": "Doutorado",
     "lattes_id": "9331509602982993",
@@ -6216,6 +6682,7 @@
     "ano_conclusao": 2015
   },
   {
+    "perfil_id": "p000645",
     "nome": "Marluce da Cruz Scarabello",
     "nivel": "Doutorado",
     "lattes_id": "1269506050291866",
@@ -6228,6 +6695,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000646",
     "nome": "Marta Carvalho Humann",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -6240,6 +6708,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000647",
     "nome": "Martha Adriana Dias Abdala",
     "nivel": "Mestrado",
     "lattes_id": "2842909587405234",
@@ -6252,6 +6721,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000649",
     "nome": "Masao Murata",
     "nivel": "Mestrado",
     "ano_conclusao": 1985,
@@ -6264,6 +6734,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000650",
     "nome": "Mateus de Souza Miranda",
     "nivel": "Mestrado",
     "lattes_id": "2824146679184873",
@@ -6276,6 +6747,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000652",
     "nome": "Matheus Cavassan Zaglia",
     "nivel": "Mestrado",
     "lattes_id": "3929020208436774",
@@ -6288,6 +6760,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000653",
     "nome": "Matheus Corrêa Domingos",
     "nivel": "Mestrado",
     "lattes_id": "7277732428942776",
@@ -6300,6 +6773,7 @@
     "ano_conclusao": 2026
   },
   {
+    "perfil_id": "p000657",
     "nome": "Matheus Monteiro Mariano",
     "nivel": "Mestrado",
     "lattes_id": "7074181888782869",
@@ -6312,6 +6786,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000658",
     "nome": "Matheus Pereira Bento da Costa",
     "nivel": "Mestrado",
     "lattes_id": "8462580817359819",
@@ -6324,6 +6799,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000660",
     "nome": "Mauro de Mesquita Spínola",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -6336,6 +6812,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000661",
     "nome": "Mauro Guimarães",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -6348,6 +6825,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000662",
     "nome": "Mauro Lúcio Rodrigues de Assis",
     "nivel": "Mestrado",
     "lattes_id": "8972791019847345",
@@ -6360,6 +6838,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000663",
     "nome": "Mauro Moraes Queiroz",
     "nivel": "Mestrado",
     "ano_conclusao": 1975,
@@ -6372,6 +6851,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000664",
     "nome": "Maurício Gonçalves Vieira Ferreira",
     "nivel": "Mestrado",
     "lattes_id": "1304704585952173",
@@ -6384,6 +6864,7 @@
     "ano_conclusao": 1996
   },
   {
+    "perfil_id": "p000664",
     "nome": "Maurício Gonçalves Vieira Ferreira",
     "nivel": "Doutorado",
     "lattes_id": "1304704585952173",
@@ -6396,6 +6877,7 @@
     "ano_conclusao": 2001
   },
   {
+    "perfil_id": "p000665",
     "nome": "Maurício Marengoni",
     "nivel": "Mestrado",
     "lattes_id": "1974791787566027",
@@ -6408,6 +6890,7 @@
     "ano_conclusao": 1992
   },
   {
+    "perfil_id": "p000667",
     "nome": "Maurício Pozzobon Martins",
     "nivel": "Mestrado",
     "lattes_id": "7834785256965010",
@@ -6420,6 +6903,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000668",
     "nome": "Michael Douglas Lemes dos Santos",
     "nivel": "Mestrado",
     "lattes_id": "4867794655466155",
@@ -6432,6 +6916,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000670",
     "nome": "Michelle de Oliveira Parreira",
     "nivel": "Doutorado",
     "lattes_id": "0380237710168437",
@@ -6444,6 +6929,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000671",
     "nome": "Miguel José Bersano",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -6456,6 +6942,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000676",
     "nome": "Milton Borges da Silva",
     "nivel": "Mestrado",
     "lattes_id": "1461519597537331",
@@ -6468,6 +6955,7 @@
     "ano_conclusao": 2025
   },
   {
+    "perfil_id": "p000680",
     "nome": "Mirna Felicia Ramos de Oliveira Petrusanis",
     "nivel": "Mestrado",
     "ano_conclusao": 1983,
@@ -6480,6 +6968,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000681",
     "nome": "Misae Odo Bueno de Oliveira",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -6492,6 +6981,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000682",
     "nome": "Missae Yamamoto",
     "nivel": "Mestrado",
     "lattes_id": "9156355272138298",
@@ -6504,6 +6994,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000682",
     "nome": "Missae Yamamoto",
     "nivel": "Doutorado",
     "lattes_id": "9156355272138298",
@@ -6516,6 +7007,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000683",
     "nome": "Moacir Pereira Barros",
     "nivel": "Mestrado",
     "ano_conclusao": 1989,
@@ -6528,6 +7020,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000684",
     "nome": "Moacyr Gonçalves Cereja Junior",
     "nivel": "Mestrado",
     "lattes_id": "9421320709053858",
@@ -6540,6 +7033,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000685",
     "nome": "Murilo da Silva Dantas",
     "nivel": "Doutorado",
     "lattes_id": "3188890226171961",
@@ -6552,6 +7046,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000685",
     "nome": "Murilo da Silva Dantas",
     "nivel": "Mestrado",
     "lattes_id": "3188890226171961",
@@ -6564,6 +7059,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000686",
     "nome": "Márcia Aparecida Monteiro",
     "nivel": "Doutorado",
     "lattes_id": "3280285948628782",
@@ -6576,6 +7072,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000687",
     "nome": "Márcia Rodrigues Campos",
     "nivel": "Mestrado",
     "lattes_id": "1402454875424545",
@@ -6588,6 +7085,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000688",
     "nome": "Márcio Nunes de Miranda",
     "nivel": "Mestrado",
     "lattes_id": "4090371865067691",
@@ -6600,6 +7098,7 @@
     "ano_conclusao": 1996
   },
   {
+    "perfil_id": "p000690",
     "nome": "Márcio Roberto Larega Lapa",
     "nivel": "Mestrado",
     "ano_conclusao": 1973,
@@ -6612,6 +7111,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000693",
     "nome": "Mário Rocco Pettinati",
     "nivel": "Mestrado",
     "lattes_id": "9421249777566834",
@@ -6624,6 +7124,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000694",
     "nome": "Míriam Célia Bergue Alves",
     "nivel": "Doutorado",
     "lattes_id": "1824599016684063",
@@ -6636,6 +7137,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000695",
     "nome": "Mônica Maria De Marchi",
     "nivel": "Doutorado",
     "lattes_id": "5134781619983724",
@@ -6648,6 +7150,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000695",
     "nome": "Mônica Maria De Marchi",
     "nivel": "Mestrado",
     "ano_conclusao": 1990,
@@ -6660,6 +7163,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000696",
     "nome": "Múcio Roberto Dias",
     "nivel": "Mestrado",
     "ano_conclusao": 1973,
@@ -6672,6 +7176,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000697",
     "nome": "Müller Moreira Souza Lopes",
     "nivel": "Mestrado",
     "lattes_id": "3841500441111957",
@@ -6684,6 +7189,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000697",
     "nome": "Müller Moreira Souza Lopes",
     "nivel": "Doutorado",
     "lattes_id": "3841500441111957",
@@ -6696,6 +7202,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000698",
     "nome": "Naiallen Carolyne Rodrigues Lima Carvalho",
     "nivel": "Doutorado",
     "lattes_id": "6623250388268135",
@@ -6708,6 +7215,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000699",
     "nome": "Nair Borsato",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -6720,6 +7228,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000700",
     "nome": "Nanci Naomi Arai",
     "nivel": "Mestrado",
     "lattes_id": "6856262543421695",
@@ -6732,6 +7241,7 @@
     "ano_conclusao": 2001
   },
   {
+    "perfil_id": "p000701",
     "nome": "Nandamudi Lankalapalli Vijaykumar",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -6744,6 +7254,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000703",
     "nome": "Neelakshi Joshi",
     "nivel": "Doutorado",
     "lattes_id": "1227710944088232",
@@ -6756,6 +7267,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000704",
     "nome": "Nei Cardoso Cardenuto",
     "nivel": "Doutorado",
     "lattes_id": "0566454895155610",
@@ -6768,6 +7280,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000705",
     "nome": "Nei Yoshihiro Soma",
     "nivel": "Mestrado",
     "ano_conclusao": 1985,
@@ -6780,6 +7293,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000706",
     "nome": "Nelson Pereira Filho",
     "nivel": "Doutorado",
     "lattes_id": "0521330062523369",
@@ -6792,6 +7306,7 @@
     "ano_conclusao": 2000
   },
   {
+    "perfil_id": "p000707",
     "nome": "Newton Marcos Vasconcellos",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -6804,6 +7319,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000708",
     "nome": "Nilson Sant'Anna",
     "nivel": "Doutorado",
     "lattes_id": "4347210161034226",
@@ -6816,6 +7332,7 @@
     "ano_conclusao": 2000
   },
   {
+    "perfil_id": "p000708",
     "nome": "Nilson Sant'Anna",
     "nivel": "Mestrado",
     "lattes_id": "4347210161034226",
@@ -6828,6 +7345,7 @@
     "ano_conclusao": 1993
   },
   {
+    "perfil_id": "p000710",
     "nome": "Nuno César da Rocha Ferreira",
     "nivel": "Mestrado",
     "ano_conclusao": 1983,
@@ -6840,6 +7358,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000711",
     "nome": "Nívea Teixeira Batista",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -6852,6 +7371,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000712",
     "nome": "Odwaldo Bueno Netto Júnior",
     "nivel": "Mestrado",
     "ano_conclusao": 1979,
@@ -6864,6 +7384,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000713",
     "nome": "Olga Maria de Oliveira",
     "nivel": "Mestrado",
     "ano_conclusao": 1981,
@@ -6876,6 +7397,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000714",
     "nome": "Olga Regina Fradico de Oliveira Bittencourt",
     "nivel": "Doutorado",
     "lattes_id": "7615862677866434",
@@ -6888,6 +7410,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000715",
     "nome": "Orion de Oliveira Silva",
     "nivel": "Doutorado",
     "ano_conclusao": 1983,
@@ -6900,6 +7423,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000716",
     "nome": "Oscar Henrique C. de Velloso Vianna",
     "nivel": "Mestrado",
     "ano_conclusao": 1983,
@@ -6912,6 +7436,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000717",
     "nome": "Oscar Pereira Dias Júnior",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -6924,6 +7449,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000718",
     "nome": "Osvaldo Villela Dias",
     "nivel": "Mestrado",
     "ano_conclusao": 1980,
@@ -6936,6 +7462,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000719",
     "nome": "Oswaldo Runha Filho",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -6948,6 +7475,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000722",
     "nome": "Patricia Maria Pereira",
     "nivel": "Mestrado",
     "lattes_id": "2261472050017858",
@@ -6960,6 +7488,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000723",
     "nome": "Patricia Moreno Simões Veiga",
     "nivel": "Mestrado",
     "lattes_id": "7752246036974754",
@@ -6972,6 +7501,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000725",
     "nome": "Paulo Adão de Castro Theobald",
     "nivel": "Mestrado",
     "ano_conclusao": 1975,
@@ -6984,6 +7514,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000726",
     "nome": "Paulo César Pereira Guerra",
     "nivel": "Mestrado",
     "ano_conclusao": 1981,
@@ -6996,6 +7527,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000727",
     "nome": "Paulo de Oliveira Lima Júnior",
     "nivel": "Mestrado",
     "lattes_id": "4826999848494424",
@@ -7008,6 +7540,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000728",
     "nome": "Paulo Eduardo Cardoso",
     "nivel": "Mestrado",
     "lattes_id": "6251491464883195",
@@ -7020,6 +7553,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000730",
     "nome": "Paulo Giovani de Faria Zeferino",
     "nivel": "Mestrado",
     "lattes_id": "2831040847816293",
@@ -7032,6 +7566,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000731",
     "nome": "Paulo Henrique Barchi",
     "nivel": "Doutorado",
     "lattes_id": "1289869993059448",
@@ -7044,6 +7579,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000733",
     "nome": "Paulo Nolberto dos Santos Alarcon",
     "nivel": "Mestrado",
     "lattes_id": "8936783646635240",
@@ -7056,6 +7592,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000734",
     "nome": "Paulo Ouvera Simoni",
     "nivel": "Doutorado",
     "ano_conclusao": 1986,
@@ -7068,6 +7605,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000736",
     "nome": "Paulo Roberto Malinski",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -7080,6 +7618,7 @@
     "ano_conclusao": 2000
   },
   {
+    "perfil_id": "p000737",
     "nome": "Paulo Roberto Nascimento Travassos",
     "nivel": "Mestrado",
     "lattes_id": "6880433324654152",
@@ -7092,6 +7631,7 @@
     "ano_conclusao": 2001
   },
   {
+    "perfil_id": "p000737",
     "nome": "Paulo Roberto Nascimento Travassos",
     "nivel": "Doutorado",
     "lattes_id": "6880433324654152",
@@ -7104,6 +7644,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000738",
     "nome": "Paulo Roberto Rio da Cunha",
     "nivel": "Mestrado",
     "ano_conclusao": 1972,
@@ -7116,6 +7657,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000740",
     "nome": "Paulo Seiji Nakaya",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -7128,6 +7670,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000742",
     "nome": "Paulo Tromboni de Souza Nascimento",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -7140,6 +7683,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000743",
     "nome": "Pedro Alexandre dos Santos",
     "nivel": "Doutorado",
     "lattes_id": "0534303936465298",
@@ -7152,6 +7696,7 @@
     "ano_conclusao": 2022
   },
   {
+    "perfil_id": "p000745",
     "nome": "Pedro Falcão Gonçalves",
     "nivel": "Mestrado",
     "lattes_id": "9576409698575240",
@@ -7164,6 +7709,7 @@
     "ano_conclusao": 1995
   },
   {
+    "perfil_id": "p000746",
     "nome": "Pedro Gandolla",
     "nivel": "Mestrado",
     "lattes_id": "3327741354416462",
@@ -7176,6 +7722,7 @@
     "ano_conclusao": 2001
   },
   {
+    "perfil_id": "p000747",
     "nome": "Pedro Helvécio Maranhão",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -7188,6 +7735,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000749",
     "nome": "Pedro Paulo Balbi de Oliveira",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -7200,6 +7748,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000750",
     "nome": "Pedro Ribeiro de Andrade Neto",
     "nivel": "Doutorado",
     "lattes_id": "3800022078311584",
@@ -7212,6 +7761,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000754",
     "nome": "Peterson Lima Sarmento",
     "nivel": "Mestrado",
     "lattes_id": "7023647412214405",
@@ -7224,6 +7774,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000755",
     "nome": "Petrônio Osório Costa",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -7236,6 +7787,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000756",
     "nome": "Pettras Leonardo Bueno dos Santos",
     "nivel": "Mestrado",
     "lattes_id": "2849917345113775",
@@ -7248,6 +7800,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000757",
     "nome": "Phyllipe de Souza Lima Francisco",
     "nivel": "Doutorado",
     "lattes_id": "3622864350804940",
@@ -7260,6 +7813,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000760",
     "nome": "Primavera Botelho de Souza",
     "nivel": "Mestrado",
     "lattes_id": "7409930611743712",
@@ -7272,6 +7826,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000760",
     "nome": "Primavera Botelho de Souza",
     "nivel": "Doutorado",
     "lattes_id": "7409930611743712",
@@ -7284,6 +7839,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000763",
     "nome": "Rafael Marinho de Andrade",
     "nivel": "Mestrado",
     "lattes_id": "4682129139227457",
@@ -7296,6 +7852,7 @@
     "ano_conclusao": 2022
   },
   {
+    "perfil_id": "p000763",
     "nome": "Rafael Marinho de Andrade",
     "nivel": "Doutorado",
     "lattes_id": "4682129139227457",
@@ -7308,6 +7865,7 @@
     "ano_conclusao": 2026
   },
   {
+    "perfil_id": "p000764",
     "nome": "Rafael Monteiro Mariano",
     "nivel": "Mestrado",
     "lattes_id": "8304346706615896",
@@ -7320,6 +7878,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000765",
     "nome": "Raian Vargas Maretto",
     "nivel": "Doutorado",
     "lattes_id": "7874296760531038",
@@ -7332,6 +7891,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000766",
     "nome": "Raimundo de Souza Rêgo",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -7344,6 +7904,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000768",
     "nome": "Ramon Morais de Freitas",
     "nivel": "Doutorado",
     "lattes_id": "1332820060598155",
@@ -7356,6 +7917,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000769",
     "nome": "Raul dos Santos Barbeiro Gonçalves da Silva",
     "nivel": "Mestrado",
     "ano_conclusao": 2001,
@@ -7368,6 +7930,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000770",
     "nome": "Raul dos Santos Gonçalves Barbeiro",
     "nivel": "Mestrado",
     "lattes_id": "5858545750044934",
@@ -7380,6 +7943,7 @@
     "ano_conclusao": 2001
   },
   {
+    "perfil_id": "p000775",
     "nome": "Reinaldo Gen Ichiro Arakaki",
     "nivel": "Doutorado",
     "lattes_id": "2075406788034578",
@@ -7392,6 +7956,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000778",
     "nome": "Renata Sampaio da Rocha",
     "nivel": "Mestrado",
     "lattes_id": "6593994541517752",
@@ -7404,18 +7969,7 @@
     "ano_conclusao": 2007
   },
   {
-    "nome": "Renata Sampaio da Rocha",
-    "nivel": "Doutorado",
-    "ano_conclusao": 2011,
-    "lattes_id": "6593994541517752",
-    "foto_tipo": "real",
-    "orcid": "",
-    "email": "",
-    "email_alternativo": "",
-    "instagram": "",
-    "linkedin": ""
-  },
-  {
+    "perfil_id": "p000778",
     "nome": "Renata Sampaio da Rocha Ruiz",
     "nivel": "Doutorado",
     "lattes_id": "6593994541517752",
@@ -7428,6 +7982,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000779",
     "nome": "Renato da Veiga Guadagnin",
     "nivel": "Mestrado",
     "ano_conclusao": 1971,
@@ -7440,6 +7995,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000780",
     "nome": "Renato de Sousa Maximiano",
     "nivel": "Mestrado",
     "lattes_id": "1945825460200477",
@@ -7452,6 +8008,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000783",
     "nome": "Rennan de Freitas Bezerra Marujo",
     "nivel": "Doutorado",
     "lattes_id": "1967339602343455",
@@ -7464,6 +8021,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000784",
     "nome": "René Antonio Novaes",
     "nivel": "Mestrado",
     "ano_conclusao": 1971,
@@ -7476,6 +8034,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000785",
     "nome": "Reuel Junqueira de Oliveira",
     "nivel": "Mestrado",
     "lattes_id": "4686536732756097",
@@ -7488,6 +8047,7 @@
     "ano_conclusao": 2026
   },
   {
+    "perfil_id": "p000786",
     "nome": "Reynier Hernández Torres",
     "nivel": "Doutorado",
     "lattes_id": "9732945233432684",
@@ -7500,6 +8060,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000788",
     "nome": "Rhuan Edson Caldini Costa",
     "nivel": "Mestrado",
     "lattes_id": "3710008197061720",
@@ -7512,6 +8073,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000789",
     "nome": "Ricardo Acerbi",
     "nivel": "Mestrado",
     "ano_conclusao": 1989,
@@ -7524,6 +8086,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000791",
     "nome": "Ricardo Corrêa de Oliveira Martins",
     "nivel": "Mestrado",
     "ano_conclusao": 1976,
@@ -7536,6 +8099,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000791",
     "nome": "Ricardo Corrêa de Oliveira Martins",
     "nivel": "Doutorado",
     "ano_conclusao": 1975,
@@ -7548,6 +8112,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000792",
     "nome": "Ricardo de Paula Monteiro",
     "nivel": "Mestrado",
     "ano_conclusao": 1975,
@@ -7560,6 +8125,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000793",
     "nome": "Ricardo Rodrigues Rangel",
     "nivel": "Mestrado",
     "lattes_id": "6214522645498224",
@@ -7572,6 +8138,7 @@
     "ano_conclusao": 1996
   },
   {
+    "perfil_id": "p000793",
     "nome": "Ricardo Rodrigues Rangel",
     "nivel": "Doutorado",
     "lattes_id": "6214522645498224",
@@ -7584,6 +8151,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000794",
     "nome": "Ricardo Varela Corrêa",
     "nivel": "Mestrado",
     "lattes_id": "0304491358206504",
@@ -7596,6 +8164,7 @@
     "ano_conclusao": 2000
   },
   {
+    "perfil_id": "p000794",
     "nome": "Ricardo Varela Corrêa",
     "nivel": "Doutorado",
     "lattes_id": "0304491358206504",
@@ -7608,6 +8177,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000796",
     "nome": "Rita de Cássia Meneses Rodrigues",
     "nivel": "Doutorado",
     "lattes_id": "1161682301970625",
@@ -7620,6 +8190,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000797",
     "nome": "Roberta Panzera Tavares",
     "nivel": "Mestrado",
     "lattes_id": "3773134767477512",
@@ -7632,6 +8203,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000798",
     "nome": "Roberto Affonso da Costa Júnior",
     "nivel": "Doutorado",
     "lattes_id": "3592593288261517",
@@ -7644,6 +8216,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000801",
     "nome": "Roberto Fagundes Carvalho",
     "nivel": "Mestrado",
     "lattes_id": "6430662760030926",
@@ -7656,6 +8229,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000802",
     "nome": "Roberto Luiz Galski",
     "nivel": "Doutorado",
     "lattes_id": "8427569272485063",
@@ -7668,6 +8242,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000804",
     "nome": "Roberto Neves Salles",
     "nivel": "Doutorado",
     "lattes_id": "1079339034274017",
@@ -7680,6 +8255,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000805",
     "nome": "Roberto Pinto Souto",
     "nivel": "Doutorado",
     "lattes_id": "1471432563506193",
@@ -7692,6 +8268,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000806",
     "nome": "Roberto Yuji Tanaka",
     "nivel": "Mestrado",
     "lattes_id": "5700220176674203",
@@ -7704,6 +8281,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000807",
     "nome": "Rodolfo Georjute Lotte",
     "nivel": "Mestrado",
     "lattes_id": "1266066639045233",
@@ -7716,6 +8294,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000808",
     "nome": "Rodolfo Maduro Almeida",
     "nivel": "Mestrado",
     "lattes_id": "1527651015984510",
@@ -7728,6 +8307,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000808",
     "nome": "Rodolfo Maduro Almeida",
     "nivel": "Doutorado",
     "lattes_id": "1527651015984510",
@@ -7740,6 +8320,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000809",
     "nome": "Rodolfo Ranck Junior",
     "nivel": "Mestrado",
     "lattes_id": "8442317526564427",
@@ -7752,6 +8333,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000809",
     "nome": "Rodolfo Ranck Junior",
     "nivel": "Doutorado",
     "lattes_id": "8442317526564427",
@@ -7764,6 +8346,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000810",
     "nome": "Rodrigo Augusto Rebouças",
     "nivel": "Mestrado",
     "lattes_id": "4734945113670253",
@@ -7776,6 +8359,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000813",
     "nome": "Rodrigo de Sales da Silva Adeu",
     "nivel": "Mestrado",
     "lattes_id": "0598507155916298",
@@ -7788,6 +8372,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000815",
     "nome": "Rodrigo Monteiro Mariano",
     "nivel": "Mestrado",
     "lattes_id": "6008336609780536",
@@ -7800,6 +8385,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000816",
     "nome": "Rodrigo Rocha Silva",
     "nivel": "Mestrado",
     "lattes_id": "4299160485531892",
@@ -7812,6 +8398,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000817",
     "nome": "Rodrigo Takeshi Seo",
     "nivel": "Mestrado",
     "lattes_id": "9266344337177125",
@@ -7824,6 +8411,7 @@
     "ano_conclusao": 2020
   },
   {
+    "perfil_id": "p000818",
     "nome": "Roger Allan",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -7836,6 +8424,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000820",
     "nome": "Rogério da Silva Batista",
     "nivel": "Mestrado",
     "lattes_id": "6192649210073101",
@@ -7848,6 +8437,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000821",
     "nome": "Rogério de Carvalho Brito",
     "nivel": "Mestrado",
     "lattes_id": "1026672150363806",
@@ -7860,6 +8450,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000823",
     "nome": "Rogério Galante Negri",
     "nivel": "Mestrado",
     "lattes_id": "8201805132981288",
@@ -7872,6 +8463,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000823",
     "nome": "Rogério Galante Negri",
     "nivel": "Doutorado",
     "lattes_id": "8201805132981288",
@@ -7884,6 +8476,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000824",
     "nome": "Rogério Marinke",
     "nivel": "Mestrado",
     "lattes_id": "5201254729952245",
@@ -7896,6 +8489,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000825",
     "nome": "Rogério Thomé",
     "nivel": "Mestrado",
     "lattes_id": "0567775244933703",
@@ -7908,6 +8502,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000826",
     "nome": "Rolf Ezequiel de Oliveira Simões",
     "nivel": "Doutorado",
     "lattes_id": "3441488230835922",
@@ -7920,6 +8515,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000829",
     "nome": "Ronei Marcos de Moraes",
     "nivel": "Doutorado",
     "lattes_id": "7925449690046513",
@@ -7932,6 +8528,7 @@
     "ano_conclusao": 1998
   },
   {
+    "perfil_id": "p000832",
     "nome": "Rosangela Saher Corrêa Cintra",
     "nivel": "Mestrado",
     "lattes_id": "8185155301349092",
@@ -7944,6 +8541,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000830",
     "nome": "Rose Mary Salazar Anaya",
     "nivel": "Mestrado",
     "ano_conclusao": 1982,
@@ -7956,6 +8554,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000831",
     "nome": "Rosângela Follmann Bageston",
     "nivel": "Doutorado",
     "lattes_id": "3001244376926346",
@@ -7968,6 +8567,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000832",
     "nome": "Rosângela Saher Corrêa Cintra",
     "nivel": "Doutorado",
     "lattes_id": "8185155301349092",
@@ -7980,6 +8580,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000833",
     "nome": "Rovedy Aparecida Busquim e Silva",
     "nivel": "Mestrado",
     "lattes_id": "5136148570998750",
@@ -7992,6 +8593,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000834",
     "nome": "Rozane da Fonseca e Silva",
     "nivel": "Mestrado",
     "ano_conclusao": 1986,
@@ -8004,6 +8606,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000836",
     "nome": "Rubens Andreas Sautter",
     "nivel": "Mestrado",
     "lattes_id": "1516156899877865",
@@ -8016,6 +8619,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000836",
     "nome": "Rubens Andreas Sautter",
     "nivel": "Doutorado",
     "lattes_id": "1516156899877865",
@@ -8028,6 +8632,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000837",
     "nome": "Rubens Cruz Gatto",
     "nivel": "Mestrado",
     "lattes_id": "2405013143815023",
@@ -8040,6 +8645,7 @@
     "ano_conclusao": 1994
   },
   {
+    "perfil_id": "p000839",
     "nome": "Rudinei Martins de Oliveira",
     "nivel": "Mestrado",
     "lattes_id": "5646106475123143",
@@ -8052,6 +8658,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000839",
     "nome": "Rudinei Martins de Oliveira",
     "nivel": "Doutorado",
     "lattes_id": "5646106475123143",
@@ -8064,6 +8671,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000840",
     "nome": "Rui Nelson Taborda de Almeida",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -8076,6 +8684,7 @@
     "ano_conclusao": 2000
   },
   {
+    "perfil_id": "p000843",
     "nome": "Sabrina Bérgoch Monteiro Sambatti",
     "nivel": "Mestrado",
     "lattes_id": "8584137507032098",
@@ -8088,6 +8697,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000843",
     "nome": "Sabrina Bérgoch Monteiro Sambatti",
     "nivel": "Doutorado",
     "lattes_id": "8584137507032098",
@@ -8100,6 +8710,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000844",
     "nome": "Sabrina Guilherme Marques",
     "nivel": "Mestrado",
     "lattes_id": "3017870897194561",
@@ -8112,6 +8723,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000846",
     "nome": "Samira Rachid da Costa",
     "nivel": "Mestrado",
     "lattes_id": "",
@@ -8124,6 +8736,7 @@
     "ano_conclusao": 2000
   },
   {
+    "perfil_id": "p000849",
     "nome": "Samuel Roberto Ximenes Costa",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -8136,6 +8749,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000850",
     "nome": "Sandra Aparecida Sandri",
     "nivel": "Mestrado",
     "ano_conclusao": 1985,
@@ -8148,6 +8762,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000852",
     "nome": "Sandy Moreira Pôrto",
     "nivel": "Mestrado",
     "lattes_id": "8707473792725178",
@@ -8160,6 +8775,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000852",
     "nome": "Sandy Moreira Pôrto",
     "nivel": "Doutorado",
     "lattes_id": "8707473792725178",
@@ -8172,6 +8788,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000854",
     "nome": "Saymon Henrique Santos Santana",
     "nivel": "Doutorado",
     "lattes_id": "0550548327276659",
@@ -8184,6 +8801,7 @@
     "ano_conclusao": 2015
   },
   {
+    "perfil_id": "p000855",
     "nome": "Sdnei de Brito Alves",
     "nivel": "Doutorado",
     "lattes_id": "0000565598534943",
@@ -8196,6 +8814,7 @@
     "ano_conclusao": 1992
   },
   {
+    "perfil_id": "p000876",
     "nome": "Sergio Donizete Faria",
     "nivel": "Doutorado",
     "lattes_id": "4291462690681682",
@@ -8208,6 +8827,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000857",
     "nome": "Sergio Rosim",
     "nivel": "Doutorado",
     "lattes_id": "2442547278150847",
@@ -8220,6 +8840,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000858",
     "nome": "Sheila Ferreira",
     "nivel": "Mestrado",
     "lattes_id": "0005704101185578",
@@ -8232,6 +8853,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000860",
     "nome": "Silene de Freitas Fernandes",
     "nivel": "Mestrado",
     "lattes_id": "7110525234881119",
@@ -8244,6 +8866,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000860",
     "nome": "Silene Fernandes Bicudo",
     "nivel": "Doutorado",
     "lattes_id": "7110525234881119",
@@ -8256,6 +8879,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000861",
     "nome": "Silvely Nogueira de Almeida Salomão",
     "nivel": "Doutorado",
     "lattes_id": "1425414477166657",
@@ -8268,6 +8892,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000862",
     "nome": "Silvia de Oliveira Barcellos",
     "nivel": "Mestrado",
     "ano_conclusao": 1981,
@@ -8280,6 +8905,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000863",
     "nome": "Silvia Maria Fonseca Silveira Massruhá",
     "nivel": "Doutorado",
     "lattes_id": "0950718064055473",
@@ -8292,6 +8918,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000864",
     "nome": "Silvia Shizue Leonardi",
     "nivel": "Mestrado",
     "lattes_id": "9090502635298372",
@@ -8304,6 +8931,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000865",
     "nome": "Silvio Chagas da Silva",
     "nivel": "Mestrado",
     "ano_conclusao": 1973,
@@ -8316,6 +8944,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000866",
     "nome": "Silvio Luiz Castro Silva",
     "nivel": "Mestrado",
     "lattes_id": "2171799811274304",
@@ -8328,6 +8957,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000867",
     "nome": "Simone Shizue Tomita Lima",
     "nivel": "Mestrado",
     "lattes_id": "3076090205280493",
@@ -8340,6 +8970,7 @@
     "ano_conclusao": 2004
   },
   {
+    "perfil_id": "p000869",
     "nome": "Sirley Conde de Figueiredo Cima",
     "nivel": "Mestrado",
     "ano_conclusao": 1975,
@@ -8352,6 +8983,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000871",
     "nome": "Solon Venâncio de Carvalho",
     "nivel": "Mestrado",
     "ano_conclusao": 1987,
@@ -8364,6 +8996,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000872",
     "nome": "Stephan Stephany",
     "nivel": "Doutorado",
     "lattes_id": "1446664587151293",
@@ -8376,6 +9009,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000873",
     "nome": "Synval Delano Motta Runha",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -8388,6 +9022,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000874",
     "nome": "Sérgio Alves Perilo",
     "nivel": "Mestrado",
     "ano_conclusao": 1987,
@@ -8400,6 +9035,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000875",
     "nome": "Sérgio Aparecido Braga da Cruz",
     "nivel": "Doutorado",
     "lattes_id": "0631189939749830",
@@ -8412,6 +9048,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000876",
     "nome": "Sérgio Donizete Faria",
     "nivel": "Mestrado",
     "lattes_id": "4291462690681682",
@@ -8424,6 +9061,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000877",
     "nome": "Sérgio Donizetti Fischer",
     "nivel": "Mestrado",
     "ano_conclusao": 1983,
@@ -8436,6 +9074,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000878",
     "nome": "Sérgio França",
     "nivel": "Mestrado",
     "lattes_id": "2256729021697631",
@@ -8448,6 +9087,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000879",
     "nome": "Sérgio Gonçalves",
     "nivel": "Mestrado",
     "ano_conclusao": 1987,
@@ -8460,6 +9100,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000881",
     "nome": "Sérgio Martins Vianna",
     "nivel": "Mestrado",
     "ano_conclusao": 1981,
@@ -8472,6 +9113,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000882",
     "nome": "Sérgio Norio Itami",
     "nivel": "Mestrado",
     "lattes_id": "4253787973043842",
@@ -8484,6 +9126,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000883",
     "nome": "Sérgio Roberto Matiello Pellegrino",
     "nivel": "Mestrado",
     "ano_conclusao": 1985,
@@ -8496,6 +9139,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000884",
     "nome": "Sérgio Souza Costa",
     "nivel": "Mestrado",
     "lattes_id": "2073311645132958",
@@ -8508,6 +9152,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000884",
     "nome": "Sérgio Souza Costa",
     "nivel": "Doutorado",
     "lattes_id": "2073311645132958",
@@ -8520,6 +9165,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000885",
     "nome": "Sérgio Suren Kurkdjian",
     "nivel": "Mestrado",
     "ano_conclusao": 2006,
@@ -8532,6 +9178,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000886",
     "nome": "Sóstenes Pereira Gomes",
     "nivel": "Mestrado",
     "lattes_id": "4804847828228300",
@@ -8544,6 +9191,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000886",
     "nome": "Sóstenes Pereira Gomes",
     "nivel": "Doutorado",
     "lattes_id": "4804847828228300",
@@ -8556,6 +9204,7 @@
     "ano_conclusao": 2015
   },
   {
+    "perfil_id": "p000887",
     "nome": "Sônia Mara de Souza",
     "nivel": "Mestrado",
     "lattes_id": "5744625385030859",
@@ -8568,6 +9217,7 @@
     "ano_conclusao": 1999
   },
   {
+    "perfil_id": "p000888",
     "nome": "Sônia Regina Massaro",
     "nivel": "Mestrado",
     "ano_conclusao": 1981,
@@ -8580,6 +9230,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000889",
     "nome": "Taciana de Lemos Dias",
     "nivel": "Doutorado",
     "lattes_id": "0535178144031059",
@@ -8592,6 +9243,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000890",
     "nome": "Talita Oliveira Assis",
     "nivel": "Mestrado",
     "lattes_id": "9839053937681580",
@@ -8604,6 +9256,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000891",
     "nome": "Tantravahi Venkata Aditya",
     "nivel": "Mestrado",
     "lattes_id": "6975289441149678",
@@ -8616,6 +9269,7 @@
     "ano_conclusao": 2003
   },
   {
+    "perfil_id": "p000893",
     "nome": "TELMO DOS SANTOS KLIPP",
     "nivel": "Doutorado",
     "lattes_id": "5328418500093343",
@@ -8628,6 +9282,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000896",
     "nome": "Thales Sehn Körting",
     "nivel": "Mestrado",
     "lattes_id": "8609036872819243",
@@ -8640,6 +9295,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000897",
     "nome": "Thalita Biazzúz Veronese",
     "nivel": "Mestrado",
     "lattes_id": "1740093316970974",
@@ -8652,6 +9308,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000897",
     "nome": "Thalita Biazzúz Veronese",
     "nivel": "Doutorado",
     "lattes_id": "1740093316970974",
@@ -8664,6 +9321,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000898",
     "nome": "Thiago Ferreira Lopes",
     "nivel": "Mestrado",
     "lattes_id": "1204707454250357",
@@ -8676,6 +9334,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000899",
     "nome": "Thiago Henrique Rizzi Donato",
     "nivel": "Mestrado",
     "lattes_id": "4062679435659084",
@@ -8688,6 +9347,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000900",
     "nome": "Thiago Luís Viana de Santana",
     "nivel": "Mestrado",
     "lattes_id": "3840748054764912",
@@ -8700,6 +9360,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000902",
     "nome": "Tiago Garcia de Senna Carneiro",
     "nivel": "Doutorado",
     "lattes_id": "4579376264162079",
@@ -8712,6 +9373,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000903",
     "nome": "Toni Roberto Gomes Pimentel",
     "nivel": "Mestrado",
     "lattes_id": "4504081896548622",
@@ -8724,6 +9386,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000905",
     "nome": "Ubirajara Moura de Freitas",
     "nivel": "Mestrado",
     "ano_conclusao": 1980,
@@ -8736,6 +9399,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000906",
     "nome": "Ubiratan Santos Freitas",
     "nivel": "Doutorado",
     "lattes_id": "2448913475359248",
@@ -8748,6 +9412,7 @@
     "ano_conclusao": 2006
   },
   {
+    "perfil_id": "p000908",
     "nome": "Valdemir Silva Souza",
     "nivel": "Mestrado",
     "lattes_id": "1936928649320996",
@@ -8760,6 +9425,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000909",
     "nome": "Valdir Gil Pillat",
     "nivel": "Doutorado",
     "lattes_id": "1106857072073407",
@@ -8772,6 +9438,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000910",
     "nome": "Valdivino Alexandre de Santiago Júnior",
     "nivel": "Doutorado",
     "lattes_id": "5039690360728170",
@@ -8784,6 +9451,7 @@
     "ano_conclusao": 2011
   },
   {
+    "perfil_id": "p000911",
     "nome": "Valentin Novackoski",
     "nivel": "Mestrado",
     "ano_conclusao": 1984,
@@ -8796,6 +9464,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000912",
     "nome": "Valeska Pivoto Patta Marcondes",
     "nivel": "Mestrado",
     "lattes_id": "1182428754312116",
@@ -8808,6 +9477,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000914",
     "nome": "Valéria Maria Barros de Andrade",
     "nivel": "Mestrado",
     "ano_conclusao": 1989,
@@ -8820,6 +9490,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000915",
     "nome": "Vander Luís de Souza Freitas",
     "nivel": "Mestrado",
     "lattes_id": "5339877279308939",
@@ -8832,6 +9503,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000915",
     "nome": "Vander Luís de Souza Freitas",
     "nivel": "Doutorado",
     "lattes_id": "5339877279308939",
@@ -8844,6 +9516,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000916",
     "nome": "Vanessa Colla Paspaltzis",
     "nivel": "Mestrado",
     "lattes_id": "3625217571915594",
@@ -8856,6 +9529,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000917",
     "nome": "Vanessa Cristina Oliveira de Souza",
     "nivel": "Doutorado",
     "lattes_id": "1661283751157601",
@@ -8868,6 +9542,7 @@
     "ano_conclusao": 2017
   },
   {
+    "perfil_id": "p000918",
     "nome": "Vantier Veronezi Bagli",
     "nivel": "Mestrado",
     "lattes_id": "4668055299744148",
@@ -8880,6 +9555,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000919",
     "nome": "Vera Helena de Ávila Duarte",
     "nivel": "Mestrado",
     "ano_conclusao": 1987,
@@ -8892,6 +9568,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000924",
     "nome": "Vinicius Schmidt Monego",
     "nivel": "Mestrado",
     "lattes_id": "1175145401785658",
@@ -8904,6 +9581,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000924",
     "nome": "Vinicius Schmidt Monego",
     "nivel": "Doutorado",
     "lattes_id": "1175145401785658",
@@ -8916,6 +9594,7 @@
     "ano_conclusao": 2025
   },
   {
+    "perfil_id": "p000926",
     "nome": "Viny Cesar Pereira",
     "nivel": "Mestrado",
     "lattes_id": "0172416050340182",
@@ -8928,6 +9607,7 @@
     "ano_conclusao": 2018
   },
   {
+    "perfil_id": "p000929",
     "nome": "Virginia Ragoni de Moraes Correia",
     "nivel": "Mestrado",
     "ano_conclusao": 1982,
@@ -8940,6 +9620,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000930",
     "nome": "Virgílio Antonio do Amaral César",
     "nivel": "Mestrado",
     "ano_conclusao": 1972,
@@ -8952,6 +9633,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000931",
     "nome": "Vitor Conrado Faria Gomes",
     "nivel": "Mestrado",
     "lattes_id": "2864513791602949",
@@ -8964,6 +9646,7 @@
     "ano_conclusao": 2012
   },
   {
+    "perfil_id": "p000931",
     "nome": "Vitor Conrado Faria Gomes",
     "nivel": "Doutorado",
     "lattes_id": "2864513791602949",
@@ -8976,6 +9659,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000933",
     "nome": "Vitor Hirota Makiyama",
     "nivel": "Mestrado",
     "lattes_id": "9896034881034788",
@@ -8988,6 +9672,7 @@
     "ano_conclusao": 2015
   },
   {
+    "perfil_id": "p000937",
     "nome": "Wagner da Silva Billa",
     "nivel": "Doutorado",
     "lattes_id": "9433253664298574",
@@ -9000,6 +9685,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000941",
     "nome": "Walter Celaschi",
     "nivel": "Mestrado",
     "ano_conclusao": 1982,
@@ -9012,6 +9698,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000942",
     "nome": "Wanderson Gomes de Almeida",
     "nivel": "Mestrado",
     "lattes_id": "5829759204403507",
@@ -9024,6 +9711,7 @@
     "ano_conclusao": 2013
   },
   {
+    "perfil_id": "p000943",
     "nome": "Wanderson Santos Costa",
     "nivel": "Mestrado",
     "lattes_id": "3700081997386296",
@@ -9036,6 +9724,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000943",
     "nome": "Wanderson Santos Costa",
     "nivel": "Doutorado",
     "lattes_id": "3700081997386296",
@@ -9048,6 +9737,7 @@
     "ano_conclusao": 2019
   },
   {
+    "perfil_id": "p000944",
     "nome": "Wanessa da Silva",
     "nivel": "Mestrado",
     "lattes_id": "3294086005240137",
@@ -9060,6 +9750,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000945",
     "nome": "Warley Rodrigues de Almeida",
     "nivel": "Mestrado",
     "lattes_id": "9591718684178358",
@@ -9072,6 +9763,7 @@
     "ano_conclusao": 2005
   },
   {
+    "perfil_id": "p000947",
     "nome": "Welton Carlos Ramos",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -9084,6 +9776,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000948",
     "nome": "Wendell Pereira da Silva",
     "nivel": "Mestrado",
     "lattes_id": "6198885129044687",
@@ -9096,6 +9789,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000949",
     "nome": "Wesley Gomes de Almeida",
     "nivel": "Mestrado",
     "lattes_id": "7282418444276881",
@@ -9108,6 +9802,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000949",
     "nome": "Wesley Gomes de Almeida",
     "nivel": "Doutorado",
     "lattes_id": "7282418444276881",
@@ -9120,6 +9815,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000950",
     "nome": "Willian Vieira de Oliveira",
     "nivel": "Doutorado",
     "lattes_id": "2871558777519200",
@@ -9132,6 +9828,7 @@
     "ano_conclusao": 2024
   },
   {
+    "perfil_id": "p000951",
     "nome": "Wilson Carlos Duarte Delfino",
     "nivel": "Mestrado",
     "ano_conclusao": 1971,
@@ -9144,6 +9841,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000952",
     "nome": "Wilson Masami Miashiro",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,
@@ -9156,6 +9854,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000953",
     "nome": "Wilson Porto Filho",
     "nivel": "Mestrado",
     "ano_conclusao": 1973,
@@ -9168,6 +9867,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000957",
     "nome": "Yasuo Kono",
     "nivel": "Mestrado",
     "lattes_id": "5708396834415975",
@@ -9180,6 +9880,7 @@
     "ano_conclusao": 2007
   },
   {
+    "perfil_id": "p000958",
     "nome": "Yuri Domaradzki Moreira Nunes",
     "nivel": "Mestrado",
     "lattes_id": "2595025617719982",
@@ -9192,6 +9893,7 @@
     "ano_conclusao": 2023
   },
   {
+    "perfil_id": "p000959",
     "nome": "Yutaka Habe",
     "nivel": "Mestrado",
     "ano_conclusao": 1974,
@@ -9204,6 +9906,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000048",
     "nome": "Álvaro Augusto Neto",
     "nivel": "Doutorado",
     "lattes_id": "4681602743000650",
@@ -9216,6 +9919,7 @@
     "ano_conclusao": 2009
   },
   {
+    "perfil_id": "p000961",
     "nome": "Álvaro Luiz Fazenda",
     "nivel": "Mestrado",
     "lattes_id": "7606159905559544",
@@ -9228,6 +9932,7 @@
     "ano_conclusao": 1997
   },
   {
+    "perfil_id": "p000961",
     "nome": "Álvaro Luiz Fazenda",
     "nivel": "Doutorado",
     "lattes_id": "7606159905559544",
@@ -9240,6 +9945,7 @@
     "ano_conclusao": 2002
   },
   {
+    "perfil_id": "p000962",
     "nome": "Émerson Jean da Silva",
     "nivel": "Mestrado",
     "lattes_id": "4667280124351593",
@@ -9252,6 +9958,7 @@
     "ano_conclusao": 2021
   },
   {
+    "perfil_id": "p000963",
     "nome": "Érica Ferreira de Souza",
     "nivel": "Mestrado",
     "lattes_id": "8904855809524041",
@@ -9264,6 +9971,7 @@
     "ano_conclusao": 2010
   },
   {
+    "perfil_id": "p000963",
     "nome": "Érica Ferreira de Souza",
     "nivel": "Doutorado",
     "lattes_id": "8904855809524041",
@@ -9276,6 +9984,7 @@
     "ano_conclusao": 2014
   },
   {
+    "perfil_id": "p000963",
     "nome": "Érica Ferreira de Souza",
     "nivel": "Doutorado",
     "ano_conclusao": 2013,
@@ -9288,6 +9997,7 @@
     "linkedin": ""
   },
   {
+    "perfil_id": "p000964",
     "nome": "Érica Josiane Coelho Gouvêa",
     "nivel": "Mestrado",
     "lattes_id": "4246951236029687",
@@ -9300,6 +10010,7 @@
     "ano_conclusao": 2008
   },
   {
+    "perfil_id": "p000964",
     "nome": "Érica Josiane Coelho Gouvêa",
     "nivel": "Doutorado",
     "lattes_id": "4246951236029687",
@@ -9312,6 +10023,7 @@
     "ano_conclusao": 2016
   },
   {
+    "perfil_id": "p000965",
     "nome": "Ícaro da Silva Martins",
     "nivel": "Mestrado",
     "ano_conclusao": 1977,

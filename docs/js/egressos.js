@@ -102,9 +102,24 @@ function aplicarFiltros() {
   lista.replaceChildren(fragmento);
   grade.reloadItems();
   grade.arrange({ filter: "*" });
-  const total = encontrados.length;
-  resultado.textContent = `${total} ${total === 1 ? "egresso encontrado" : "egressos encontrados"}`;
-  botaoMais.hidden = limite >= total;
+  const total = new Set(encontrados.map((egresso) => egresso.perfil_id)).size;
+  const porNivel = (nivel) => new Set(encontrados.filter((egresso) => egresso.nivel === nivel).map((egresso) => egresso.perfil_id)).size;
+  resultado.replaceChildren(...[
+    ["Total único de egressos:", total],
+    ["Egressos do mestrado:", porNivel("Mestrado")],
+    ["Egressos do doutorado:", porNivel("Doutorado")]
+  ].map(([rotulo, quantidade]) => {
+    const linha = document.createElement("span");
+    linha.className = "resultado-linha";
+    const texto = document.createElement("span");
+    texto.textContent = rotulo;
+    const numero = document.createElement("span");
+    numero.className = "resultado-numero";
+    numero.textContent = quantidade;
+    linha.append(texto, " ", numero);
+    return linha;
+  }));
+  botaoMais.hidden = limite >= encontrados.length;
 }
 
 function reiniciarFiltro() {

@@ -1,5 +1,6 @@
 [
   {
+    "perfil_id": "p000002",
     "nome": "Abner Ernâni dos Anjos",
     "nivel": "Doutorado",
     "lattes_id": "6255653411853439",
@@ -12,6 +13,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000028",
     "nome": "Alex de Almeida Fernandes",
     "nivel": "Doutorado",
     "lattes_id": "8245589012231536",
@@ -24,6 +26,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000045",
     "nome": "Aline Andrade do Nascimento",
     "nivel": "Doutorado",
     "lattes_id": "6772568452628330",
@@ -36,6 +39,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000066",
     "nome": "Andre Nogueira Sousa",
     "nivel": "Doutorado",
     "lattes_id": "3984358160547137",
@@ -48,6 +52,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000069",
     "nome": "Andreza Cristina Barbieri Serra",
     "nivel": "Doutorado",
     "lattes_id": "0579126005136959",
@@ -60,6 +65,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000110",
     "nome": "Baggio Luiz de Castro e Silva",
     "nivel": "Doutorado",
     "lattes_id": "4816443925174561",
@@ -72,6 +78,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000118",
     "nome": "Breno Coltro da Costa",
     "nivel": "Mestrado",
     "lattes_id": "4742263062955306",
@@ -84,6 +91,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000125",
     "nome": "Caio Eduardo Dias",
     "nivel": "Doutorado",
     "lattes_id": "0118361839591021",
@@ -96,6 +104,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000128",
     "nome": "Carla Aparecida de Almeida Paula",
     "nivel": "Mestrado",
     "lattes_id": "2582717189489245",
@@ -108,6 +117,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000136",
     "nome": "Carlos Eduardo Falandes",
     "nivel": "Mestrado",
     "lattes_id": "3579183651868833",
@@ -120,6 +130,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000145",
     "nome": "Carlos Renato de Souza",
     "nivel": "Doutorado",
     "lattes_id": "2349556260957146",
@@ -132,6 +143,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000156",
     "nome": "Cesar Augusto de Moraes Costa",
     "nivel": "Doutorado",
     "lattes_id": "7794983265465580",
@@ -144,6 +156,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000177",
     "nome": "Cândida Caroline Souza de Santana Leite",
     "nivel": "Doutorado",
     "lattes_id": "3782999174174809",
@@ -156,6 +169,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000183",
     "nome": "Daniel Farkat Alves Fontes",
     "nivel": "Mestrado",
     "lattes_id": "9365189948963466",
@@ -168,6 +182,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000184",
     "nome": "Daniel Fernandes Pereira",
     "nivel": "Mestrado",
     "lattes_id": "3036871400028170",
@@ -180,6 +195,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000190",
     "nome": "DANIEL WANDER FERREIRA MELO",
     "nivel": "Doutorado",
     "lattes_id": "5222219789076747",
@@ -192,6 +208,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000197",
     "nome": "Dener César Mendes",
     "nivel": "Doutorado",
     "lattes_id": "7737004124914003",
@@ -204,6 +221,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000214",
     "nome": "Edson Cláudio Tchivango Segunda",
     "nivel": "Mestrado",
     "lattes_id": "6713420060890295",
@@ -216,6 +234,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000218",
     "nome": "Eduardo Furlan Miranda",
     "nivel": "Doutorado",
     "lattes_id": "3103925764927851",
@@ -228,6 +247,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000240",
     "nome": "Elton Oliveira Ferreira",
     "nivel": "Doutorado",
     "lattes_id": "6961687940003298",
@@ -240,6 +260,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000245",
     "nome": "EMMANUEL INIOLUWA BABAJIDE",
     "nivel": "Doutorado",
     "lattes_id": "9242029201874316",
@@ -252,6 +273,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000270",
     "nome": "Fawaz Damola Shodipo",
     "nivel": "Mestrado",
     "lattes_id": "9281513593952367",
@@ -264,6 +286,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000272",
     "nome": "Felipe Carvalho de Souza",
     "nivel": "Doutorado",
     "lattes_id": "1585234010491395",
@@ -276,6 +299,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000310",
     "nome": "Gabriel David dos Santos Alves",
     "nivel": "Mestrado",
     "lattes_id": "0665119351128231",
@@ -288,6 +312,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000312",
     "nome": "Gabriel Dietzsch",
     "nivel": "Doutorado",
     "lattes_id": "5682349523594461",
@@ -300,6 +325,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000316",
     "nome": "Gabriel Rocha Pinto",
     "nivel": "Mestrado",
     "lattes_id": "6532765027683945",
@@ -312,6 +338,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000317",
     "nome": "Gabriel Sansigolo",
     "nivel": "Doutorado",
     "lattes_id": "4094434844735694",
@@ -324,6 +351,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000319",
     "nome": "Gabriella Augusta de Oliveira Correa",
     "nivel": "Mestrado",
     "lattes_id": "2763267974067521",
@@ -336,6 +364,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000321",
     "nome": "Gabrielly Vitória Camargo do Prado",
     "nivel": "Mestrado",
     "lattes_id": "1365593903295297",
@@ -348,6 +377,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000328",
     "nome": "Gerônimo Gallarreta Zubiaurre Lemos",
     "nivel": "Doutorado",
     "lattes_id": "6290140872894499",
@@ -360,6 +390,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000331",
     "nome": "Giann Kenyd Correa",
     "nivel": "Mestrado",
     "lattes_id": "0643081455881078",
@@ -372,6 +403,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000337",
     "nome": "Giovanni Guarnieri Soares",
     "nivel": "Doutorado",
     "lattes_id": "1181220331702027",
@@ -384,6 +416,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000340",
     "nome": "Giulia Katherine Romas Tomazeli",
     "nivel": "Mestrado",
     "lattes_id": "2145278611728231",
@@ -396,6 +429,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000362",
     "nome": "Helena Buschermöhle",
     "nivel": "Mestrado",
     "lattes_id": "5472016875787920",
@@ -408,6 +442,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000369",
     "nome": "Henrique Lima do Nascimento",
     "nivel": "Doutorado",
     "lattes_id": "8178971506933436",
@@ -420,6 +455,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000379",
     "nome": "Hugo da Silva Bernardes Gonçalves",
     "nivel": "Doutorado",
     "lattes_id": "7516176175384698",
@@ -432,6 +468,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000381",
     "nome": "Hércules Carlos dos Santos Pereira",
     "nivel": "Mestrado",
     "lattes_id": "0820109440738651",
@@ -444,6 +481,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000385",
     "nome": "Igor Andrade Reis de Oliveira",
     "nivel": "Doutorado",
     "lattes_id": "8190362301416682",
@@ -456,6 +494,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000406",
     "nome": "Joao Pedro Diehl",
     "nivel": "Mestrado",
     "lattes_id": "3188479030463983",
@@ -468,6 +507,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000407",
     "nome": "Joao Vyctor Ferreira da Costa",
     "nivel": "Mestrado",
     "lattes_id": "7524396669976935",
@@ -480,6 +520,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000415",
     "nome": "Jonas Ferreira de Oliveira",
     "nivel": "Doutorado",
     "lattes_id": "1320410294585028",
@@ -492,6 +533,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000490",
     "nome": "Júlia Ascencio Cansado",
     "nivel": "Mestrado",
     "lattes_id": "4847345957237477",
@@ -504,6 +546,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000492",
     "nome": "Júlia Sousa Gayotto",
     "nivel": "Mestrado",
     "lattes_id": "5812651842443603",
@@ -516,6 +559,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000510",
     "nome": "Leandro Diniz de Jesus",
     "nivel": "Doutorado",
     "lattes_id": "2275077017488219",
@@ -528,6 +572,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000536",
     "nome": "Lucas de Oliveira Bauer",
     "nivel": "Doutorado",
     "lattes_id": "9092857659970079",
@@ -540,6 +585,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000543",
     "nome": "Luciano Godoy Fagundes",
     "nivel": "Doutorado",
     "lattes_id": "5610956520536894",
@@ -552,6 +598,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000565",
     "nome": "Luiz Gabriel Camilo Lucas",
     "nivel": "Mestrado",
     "lattes_id": "7026861566322930",
@@ -564,6 +611,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000578",
     "nome": "Luís Eduardo Sales do Nascimento",
     "nivel": "Doutorado",
     "lattes_id": "7543277961533017",
@@ -576,6 +624,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000584",
     "nome": "Luísa Mirelle Costa dos Santos",
     "nivel": "Mestrado",
     "lattes_id": "0300209367448693",
@@ -588,6 +637,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000624",
     "nome": "Maria Clara de Souza Cruz",
     "nivel": "Mestrado",
     "lattes_id": "4986104425411140",
@@ -600,6 +650,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000634",
     "nome": "Mariana Guimarães Montoro Morais",
     "nivel": "Mestrado",
     "lattes_id": "8331108244888422",
@@ -612,6 +663,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000650",
     "nome": "Mateus de Souza Miranda",
     "nivel": "Doutorado",
     "lattes_id": "2824146679184873",
@@ -624,6 +676,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000653",
     "nome": "Matheus Corrêa Domingos",
     "nivel": "Doutorado",
     "lattes_id": "7277732428942776",
@@ -636,6 +689,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000744",
     "nome": "Pedro Augusto Borges dos Santos",
     "nivel": "Doutorado",
     "lattes_id": "2434808022670693",
@@ -648,6 +702,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000752",
     "nome": "Pedro Vinícius da Silva Brito",
     "nivel": "Doutorado",
     "lattes_id": "2946714997867399",
@@ -660,6 +715,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000767",
     "nome": "RAJI IDOWU",
     "nivel": "Doutorado",
     "lattes_id": "9004647121382180",
@@ -672,6 +728,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000772",
     "nome": "Rebeca Rúbia Honório Pinafo",
     "nivel": "Doutorado",
     "lattes_id": "8358082230740222",
@@ -684,6 +741,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000819",
     "nome": "Rogério Costa de Oliveira Junior",
     "nivel": "Doutorado",
     "lattes_id": "4790897019254005",
@@ -696,6 +754,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000820",
     "nome": "Rogério da Silva Batista",
     "nivel": "Doutorado",
     "lattes_id": "6192649210073101",
@@ -708,6 +767,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000841",
     "nome": "Ryan Alves de Quadros",
     "nivel": "Mestrado",
     "lattes_id": "6846940203777056",
@@ -720,6 +780,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000845",
     "nome": "Salatiel Abraão Avelar Jordão",
     "nivel": "Mestrado",
     "lattes_id": "4730895962906475",
@@ -732,6 +793,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000851",
     "nome": "Sandro de Sena Machado",
     "nivel": "Mestrado",
     "lattes_id": "2370099884125817",
@@ -744,6 +806,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000870",
     "nome": "Sofia Sena Tavares",
     "nivel": "Mestrado",
     "lattes_id": "4000600506794328",
@@ -756,6 +819,7 @@
     "situacao": "Matrícula ativa"
   },
   {
+    "perfil_id": "p000895",
     "nome": "Thaina Daniele Lopes",
     "nivel": "Mestrado",
     "lattes_id": "7809004490426250",
