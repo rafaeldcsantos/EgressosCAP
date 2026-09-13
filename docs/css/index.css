@@ -5,9 +5,9 @@ body { min-height: 100vh; margin: 0; color: var(--texto); background: var(--crem
 .marca { color: inherit; font-weight: 700; letter-spacing: .03em; text-decoration: none; }
 .marca span { color: var(--laranja); }
 main { display: flex; flex-direction: column; gap: 24px; align-items: flex-start; min-height: calc(100vh - 76px); max-width: 1200px; margin: 0 auto; padding: 32px 56px; }
-.fonte-dados { width: 100%; max-width: 1080px; margin: 0 auto; padding-top: 24px; border-top: 1px solid var(--linha); }
+.fonte-dados { width: 90%; max-width: 1080px; margin: 0 auto; padding-top: 24px; border-top: 1px solid var(--linha); }
 .fonte-dados h2 { margin: 0 0 16px; color: var(--azul-profundo); font-family: Georgia, "Times New Roman", serif; font-size: 1.5rem; font-weight: 400; }
-.fonte-dados p { max-width: 75ch; margin: 0 0 12px; line-height: 1.65; }
+.fonte-dados p { margin: 0 0 12px; line-height: 1.65; }
 .acessos { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; width: 100%; max-width: 1080px; margin: 0 auto; }
 .acesso { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; min-height: 100px; gap: 12px; padding: 16px 20px; color: var(--texto); background: #fff; border: 1px solid var(--linha); box-shadow: 0 9px 22px rgba(18, 45, 56, .06); text-decoration: none; transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease; }
 .acesso:hover { transform: translateY(-5px); border-color: var(--azul); box-shadow: 0 16px 30px rgba(18, 45, 56, .13); }
