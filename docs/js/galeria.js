@@ -1,3 +1,4 @@
+const paginaAtivos = document.body.dataset.galeria === "ativos";
 const POR_PAGINA = 48;
 
 const lista = document.querySelector("#lista-egressos");
@@ -36,7 +37,7 @@ function corresponde(egresso) {
   const termo = normalizar(busca.value.trim());
   return (!termo || normalizar(egresso.nome).includes(termo)) &&
     (!filtroNivel.value || egresso.nivel === filtroNivel.value) &&
-    (!filtroAno.value || String(egresso.ano_conclusao) === filtroAno.value);
+    (!filtroAno?.value || String(egresso.ano_conclusao) === filtroAno.value);
 }
 
 function comparar(a, b) {
@@ -74,7 +75,7 @@ function criarCard(egresso) {
   }
   card.querySelector(".nivel").textContent = egresso.nivel;
   card.querySelector("h2").textContent = egresso.nome;
-  card.querySelector(".conclusao").textContent = `Conclusão · ${egresso.ano_conclusao}`;
+  card.querySelector(".conclusao").textContent = paginaAtivos ? "Matrícula ativa" : `Conclusão · ${egresso.ano_conclusao}`;
   const contatos = card.querySelector(".contatos");
   links(egresso).forEach(([descricao, url, tipo]) => {
     const elemento = document.createElement(url ? "a" : "span");
@@ -105,9 +106,9 @@ function aplicarFiltros() {
   const total = new Set(encontrados.map((egresso) => egresso.perfil_id)).size;
   const porNivel = (nivel) => new Set(encontrados.filter((egresso) => egresso.nivel === nivel).map((egresso) => egresso.perfil_id)).size;
   resultado.replaceChildren(...[
-    ["Total único de egressos:", total],
-    ["Egressos do mestrado:", porNivel("Mestrado")],
-    ["Egressos do doutorado:", porNivel("Doutorado")]
+    [paginaAtivos ? "Total único de ativos:" : "Total único de egressos:", total],
+    [paginaAtivos ? "Ativos do mestrado:" : "Egressos do mestrado:", porNivel("Mestrado")],
+    [paginaAtivos ? "Ativos do doutorado:" : "Egressos do doutorado:", porNivel("Doutorado")]
   ].map(([rotulo, quantidade]) => {
     const linha = document.createElement("span");
     linha.className = "resultado-linha";
@@ -128,10 +129,10 @@ function reiniciarFiltro() {
 }
 
 async function iniciar() {
-  const resposta = await fetch("data/egressos.json");
-  if (!resposta.ok) throw new Error("Não foi possível carregar a lista de egressos.");
+  const resposta = await fetch(paginaAtivos ? "data/ativos.json" : "data/egressos.json");
+  if (!resposta.ok) throw new Error(paginaAtivos ? "Não foi possível carregar a lista de alunos ativos." : "Não foi possível carregar a lista de egressos.");
   egressos = await resposta.json();
-  [...new Set(egressos.map((egresso) => egresso.ano_conclusao))]
+  if (filtroAno) [...new Set(egressos.map((egresso) => egresso.ano_conclusao))]
     .sort((a, b) => b - a)
     .forEach((ano) => filtroAno.add(new Option(ano, ano)));
   grade = new Isotope(lista, { itemSelector: ".card-egresso", layoutMode: "fitRows", transitionDuration: "0.28s" });
@@ -144,7 +145,7 @@ async function iniciar() {
   "search",
   "keyup"
 ].forEach((evento) => busca.addEventListener(evento, reiniciarFiltro));
-[filtroNivel, filtroAno].forEach((controle) => controle.addEventListener("change", reiniciarFiltro));
+[filtroNivel, filtroAno].filter(Boolean).forEach((controle) => controle.addEventListener("change", reiniciarFiltro));
 botaoMais.addEventListener("click", () => { limite += POR_PAGINA; aplicarFiltros(); });
 botoesOrdem.forEach((botao) => botao.addEventListener("click", () => {
   campoOrdem = botao.dataset.campo;
@@ -155,7 +156,7 @@ botoesOrdem.forEach((botao) => botao.addEventListener("click", () => {
 botaoReset.addEventListener("click", () => {
   busca.value = "";
   filtroNivel.value = "";
-  filtroAno.value = "";
+  if (filtroAno) filtroAno.value = "";
   campoOrdem = "nome";
   direcaoOrdem = "crescente";
   botoesOrdem.forEach((botao) => botao.classList.toggle("ativo", botao.dataset.campo === "nome" && botao.dataset.direcao === "crescente"));
