@@ -164,7 +164,7 @@ function atualizar() {
   desenharSankey(visiveis);
 }
 async function iniciar() {
-  const [resposta, respostaMeta] = await Promise.all([fetch("data/pendencias.json"), fetch("data/pendencias-meta.json")]);
+  const [resposta, respostaMeta] = await Promise.all([fetch("data/pendencias.json", { cache: "no-cache" }), fetch("data/pendencias-meta.json")]);
   if (!resposta.ok || !respostaMeta.ok) throw new Error("Não foi possível carregar os perfis e a data da base.");
   const metadados = await respostaMeta.json();
   document.querySelector("#legenda-ativos").textContent = `(*) Ativo de acordo com a base de dados de ${metadados.data_mdb}`;

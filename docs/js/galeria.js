@@ -67,7 +67,7 @@ function criarCard(egresso) {
   const placeholder = card.querySelector(".foto-placeholder");
   card.__egresso = egresso;
   if (egresso.foto_tipo === "real") {
-    foto.src = `assets/photos/${egresso.lattes_id}.jpg`;
+    foto.src = `assets/photos/${egresso.lattes_id}.jpg${egresso.foto_versao ? `?v=${encodeURIComponent(egresso.foto_versao)}` : ""}`;
     foto.alt = `Retrato de ${egresso.nome}`;
     foto.onerror = () => mostrarPlaceholder(foto, placeholder, egresso, "pendente");
   } else {
@@ -129,7 +129,7 @@ function reiniciarFiltro() {
 }
 
 async function iniciar() {
-  const resposta = await fetch(paginaAtivos ? "data/ativos.json" : "data/egressos.json");
+  const resposta = await fetch(paginaAtivos ? "data/ativos.json" : "data/egressos.json", { cache: "no-cache" });
   if (!resposta.ok) throw new Error(paginaAtivos ? "Não foi possível carregar a lista de alunos ativos." : "Não foi possível carregar a lista de egressos.");
   egressos = await resposta.json();
   if (filtroAno) [...new Set(egressos.map((egresso) => egresso.ano_conclusao))]
