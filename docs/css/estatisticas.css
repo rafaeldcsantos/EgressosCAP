@@ -8,7 +8,7 @@ main { padding-top: 32px; padding-bottom: 56px; }
 h1, h2 { color: var(--azul-profundo); font-family: Georgia, "Times New Roman", serif; font-weight: 400; }
 h1 { margin: 0 0 24px; font-size: 2rem; }
 h2 { margin: 0; font-size: 1.4rem; }
-.grade-graficos { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: start; }
+.grade-graficos { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: stretch; }
 .painel-grafico { min-width: 0; padding: 20px; background: #fff; border: 1px solid var(--linha); box-shadow: 0 9px 22px rgba(18, 45, 56, .06); }
 .cabecalho-grafico { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
 .cabecalho-grafico label { display: flex; align-items: center; gap: 8px; font-size: .8rem; }
