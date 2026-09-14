@@ -7,6 +7,8 @@ const resumo = document.querySelector("#resumo");
 const graficoSankey = document.querySelector("#grafico-sankey");
 const botoesOrdenar = [...document.querySelectorAll(".ordenar")];
 const totais = Object.fromEntries(["nome", "foto", "lattes", "orcid", "google-scholar", "email", "email-alternativo", "instagram", "linkedin"].map((campo) => [campo, document.querySelector(`#total-${campo}`)]));
+const indiceAlfabetico = document.querySelector("#indice-alfabetico");
+let destinosPorLetra = new Map();
 let perfis = [];
 let campoOrdem = "nome";
 let direcao = "crescente";
@@ -153,10 +155,43 @@ function desenharSankey(registros) {
     font: { family: '"Avenir Next", Avenir, "Segoe UI", sans-serif', size: 12, color: "#18313e" }
   }, { displayModeBar: false, responsive: true });
 }
+function criarIndiceAlfabetico() {
+  const botoes = [..."ABCDEFGHIJKLMNOPQRSTUVWXYZ"].map((letra) => {
+    const botao = document.createElement("button");
+    botao.type = "button";
+    botao.textContent = letra;
+    botao.dataset.letra = letra;
+    botao.disabled = true;
+    botao.setAttribute("aria-label", `Ir ao primeiro nome com ${letra}`);
+    botao.addEventListener("click", () => {
+      const linha = destinosPorLetra.get(letra);
+      if (!linha) return;
+      linha.tabIndex = -1;
+      linha.focus({ preventScroll: true });
+      linha.scrollIntoView({ block: "start", inline: "start", behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+    });
+    return botao;
+  });
+  indiceAlfabetico.replaceChildren(...botoes);
+}
+
+function atualizarIndiceAlfabetico(registros) {
+  destinosPorLetra = new Map();
+  registros.forEach((perfil, indice) => {
+    const letra = normalizar(perfil.nome.trim()).charAt(0).toUpperCase();
+    if (!destinosPorLetra.has(letra)) destinosPorLetra.set(letra, corpo.children[indice]);
+  });
+  [...indiceAlfabetico.children].forEach((botao) => {
+    botao.disabled = !destinosPorLetra.has(botao.dataset.letra);
+    botao.title = botao.disabled ? `Nenhum nome com ${botao.dataset.letra} nos resultados` : `Ir ao primeiro nome com ${botao.dataset.letra}`;
+  });
+}
+
 function atualizar() {
   const termo = normalizar(busca.value.trim());
   const visiveis = perfis.filter((perfil) => (!termo || normalizar(perfil.nome).includes(termo)) && (!filtroSituacao.value || perfil.situacao === filtroSituacao.value) && (!apenasPendentes.checked || pendencias(perfil).length)).sort(comparar);
   corpo.replaceChildren(...visiveis.map(criarLinha));
+  atualizarIndiceAlfabetico(visiveis);
   const completos = perfis.filter((perfil) => !pendencias(perfil).length).length;
   resumo.textContent = `${visiveis.length} de ${perfis.length} perfis · ${completos} completos`;
   atualizarTotais(visiveis);
@@ -179,4 +214,5 @@ botoesOrdenar.forEach((botao) => botao.addEventListener("click", () => {
   else { campoOrdem = botao.dataset.campo; direcao = "crescente"; }
   atualizar();
 }));
+criarIndiceAlfabetico();
 iniciar().catch((erro) => { resumo.textContent = erro.message; });
