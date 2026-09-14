@@ -66,7 +66,7 @@ td a:hover { text-decoration: underline; }
 #grafico-sankey { min-height: 190px; }
 @media (max-width: 760px) { .topo { padding: 0 18px; } main { padding: 22px 18px 42px; } .cabecalho { align-items: start; flex-direction: column; gap: 8px; } .controles { align-items: start; flex-direction: column; gap: 9px; } }
 
-.indice-alfabetico { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 12px; padding: 10px 12px; background: #e9eeeb; border-left: 3px solid var(--laranja); }
+.indice-alfabetico { display: flex; flex-wrap: wrap; justify-content: center; gap: 5px; margin-bottom: 12px; padding: 10px 12px; background: #e9eeeb; border-left: 3px solid var(--laranja); }
 .indice-alfabetico button { min-width: 32px; min-height: 32px; padding: 5px 8px; color: var(--azul-profundo); background: #fff; border: 1px solid #becbc9; font: inherit; font-size: .75rem; font-weight: 700; cursor: pointer; }
 .indice-alfabetico button:hover:not(:disabled) { color: #fff; background: var(--azul); border-color: var(--azul); }
 .indice-alfabetico button:disabled { color: #8c999d; background: transparent; border-color: #d4ddda; cursor: default; }
