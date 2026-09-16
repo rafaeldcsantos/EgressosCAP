@@ -6,14 +6,14 @@ const filtroSituacao = document.querySelector("#situacao");
 const resumo = document.querySelector("#resumo");
 const graficoSankey = document.querySelector("#grafico-sankey");
 const botoesOrdenar = [...document.querySelectorAll(".ordenar")];
-const totais = Object.fromEntries(["nome", "foto", "lattes", "orcid", "google-scholar", "email", "email-alternativo", "instagram", "linkedin"].map((campo) => [campo, document.querySelector(`#total-${campo}`)]));
+const totais = Object.fromEntries(["nome", "foto", "lattes", "orcid", "google-scholar", "instagram", "linkedin"].map((campo) => [campo, document.querySelector(`#total-${campo}`)]));
 const indiceAlfabetico = document.querySelector("#indice-alfabetico");
 let destinosPorLetra = new Map();
 let perfis = [];
 let campoOrdem = "nome";
 let direcao = "crescente";
 
-const CAMPOS = [["lattes_id", "Lattes"], ["orcid", "ORCID"], ["google_scholar", "Google Scholar"], ["email", "e-mail"], ["email_alternativo", "e-mail alternativo"], ["instagram", "Instagram"], ["linkedin", "LinkedIn"]];
+const CAMPOS = [["lattes_id", "Lattes"], ["orcid", "ORCID"], ["google_scholar", "Google Scholar"], ["instagram", "Instagram"], ["linkedin", "LinkedIn"]];
 const FOTOS = { real: ["Existe", "foto-existe"], sem_foto: ["Inexiste", "foto-inexiste"], pendente: ["Não procurada", "foto-nao-procurada"] };
 const CORES_RESUMO = { Existe: "#006743", Inexiste: "#e23d3d", "Não procurada": "#8848e2", Informado: "#008f5d", FALTA: "#d91f26" };
 const normalizar = (texto) => texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase("pt-BR");
@@ -55,8 +55,6 @@ function criarLinha(perfil) {
   marcar(linha.querySelector(".lattes"), perfil.lattes_id, perfil.lattes_id && `http://lattes.cnpq.br/${perfil.lattes_id}`);
   marcar(linha.querySelector(".orcid"), perfil.orcid, perfil.orcid && perfilUrl(perfil.orcid, "https://orcid.org/"), "✓");
   marcar(linha.querySelector(".google-scholar"), perfil.google_scholar, perfil.google_scholar && scholarUrl(perfil.google_scholar), "✓");
-  marcar(linha.querySelector(".email"), perfil.email, perfil.email && `mailto:${perfil.email}`, "✓");
-  marcar(linha.querySelector(".email-alternativo"), perfil.email_alternativo, perfil.email_alternativo && `mailto:${perfil.email_alternativo}`, "✓");
   marcar(linha.querySelector(".instagram"), perfil.instagram, perfil.instagram && socialUrl(perfil.instagram, "https://instagram.com/"), "✓");
   marcar(linha.querySelector(".linkedin"), perfil.linkedin, perfil.linkedin && socialUrl(perfil.linkedin, "https://www.linkedin.com/in/"), "✓");
   return linha;
@@ -114,7 +112,7 @@ function resumoContagem(celula, titulo, valores) {
 function atualizarTotais(registros) {
   preencherResumo(totais.nome, "Nome", [`Total · ${registros.length}`]);
   resumoContagem(totais.foto, "Foto", { Existe: registros.filter((item) => item.foto_tipo === "real").length, Inexiste: registros.filter((item) => item.foto_tipo === "sem_foto").length, "Não procurada": registros.filter((item) => item.foto_tipo === "pendente").length });
-  [["lattes", "lattes_id", "ID Lattes"], ["orcid", "orcid", "ORCID"], ["google-scholar", "google_scholar", "Google Scholar"], ["email", "email", "E-mail"], ["email-alternativo", "email_alternativo", "E-mail alt."], ["instagram", "instagram", "Instagram"], ["linkedin", "linkedin", "LinkedIn"]].forEach(([target, campo, titulo]) => {
+  [["lattes", "lattes_id", "ID Lattes"], ["orcid", "orcid", "ORCID"], ["google-scholar", "google_scholar", "Google Scholar"], ["instagram", "instagram", "Instagram"], ["linkedin", "linkedin", "LinkedIn"]].forEach(([target, campo, titulo]) => {
     resumoContagem(totais[target], titulo, { Informado: registros.filter((item) => item[campo]).length, FALTA: registros.filter((item) => !item[campo]).length });
   });
 }

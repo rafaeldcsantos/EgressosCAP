@@ -124,7 +124,7 @@ h1 {
 h2 { min-width: 0; margin: 0; overflow-wrap: anywhere; color: var(--azul-profundo); font-size: .9rem; font-weight: 400; line-height: 1.24; }
 .conclusao { margin: 0; color: #66767d; font-size: .7rem; }
 
-.contatos { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 4px; min-width: 0; }
+.contatos { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 4px; min-width: 0; }
 .contatos a, .contatos .indisponivel {
   display: inline-flex;
   align-items: center;
@@ -145,14 +145,10 @@ h2 { min-width: 0; margin: 0; overflow-wrap: anywhere; color: var(--azul-profund
 .contatos a::after, .contatos .indisponivel::after { content: ""; display: block; width: 13px; height: 13px; background: currentColor; -webkit-mask: center / contain no-repeat; mask: center / contain no-repeat; }
 .contatos .icone-lattes { color: #b45a24; }
 .contatos .icone-orcid { color: #56863d; }
-.contatos .icone-email { color: #16718c; }
-.contatos .icone-email-alternativo { color: #4d7b57; }
 .contatos .icone-instagram { color: #a13477; }
 .contatos .icone-linkedin { color: #1666a3; }
 .contatos .icone-lattes::after { -webkit-mask-image: url("../assets/icons/lattes.svg"); mask-image: url("../assets/icons/lattes.svg"); }
 .contatos .icone-orcid::after { -webkit-mask-image: url("../assets/icons/orcid.svg"); mask-image: url("../assets/icons/orcid.svg"); }
-.contatos .icone-email::after { -webkit-mask-image: url("../assets/icons/email.svg"); mask-image: url("../assets/icons/email.svg"); }
-.contatos .icone-email-alternativo::after { -webkit-mask-image: url("../assets/icons/email.svg"); mask-image: url("../assets/icons/email.svg"); }
 .contatos .icone-instagram::after { -webkit-mask-image: url("../assets/icons/instagram.svg"); mask-image: url("../assets/icons/instagram.svg"); }
 .contatos .icone-linkedin::after { -webkit-mask-image: url("../assets/icons/linkedin.svg"); mask-image: url("../assets/icons/linkedin.svg"); }
 .contatos .indisponivel { color: #b9c1c3; border-color: #f0d4d4; background: #fff3f3; cursor: default; }
