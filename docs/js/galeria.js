@@ -67,7 +67,7 @@ function criarCard(egresso) {
   const placeholder = card.querySelector(".foto-placeholder");
   card.__egresso = egresso;
   if (egresso.foto_tipo === "real") {
-    foto.src = `assets/photos/${egresso.lattes_id}.jpg${egresso.foto_versao ? `?v=${encodeURIComponent(egresso.foto_versao)}` : ""}`;
+    foto.src = `assets/photos/${encodeURIComponent(egresso.foto_id || egresso.lattes_id)}.jpg${egresso.foto_versao ? `?v=${encodeURIComponent(egresso.foto_versao)}` : ""}`;
     foto.alt = `Retrato de ${egresso.nome}`;
     foto.onerror = () => mostrarPlaceholder(foto, placeholder, egresso, "pendente");
   } else {
