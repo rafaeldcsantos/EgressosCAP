@@ -120,6 +120,7 @@ h1 {
 
 .card-corpo { display: grid; grid-template-columns: minmax(0, 1fr); grid-template-rows: auto minmax(54px, auto) auto auto; row-gap: 5px; min-height: 146px; padding: 13px 13px 11px; }
 .nivel { margin: 0; color: var(--azul); font-size: .64rem; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.nivel[data-nivel="Doutorado"] { color: #175582; }
 
 h2 { min-width: 0; margin: 0; overflow-wrap: anywhere; color: var(--azul-profundo); font-size: .9rem; font-weight: 400; line-height: 1.24; }
 .conclusao { margin: 0; color: #66767d; font-size: .7rem; }

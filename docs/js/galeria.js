@@ -71,7 +71,9 @@ function criarCard(egresso) {
   } else {
     mostrarPlaceholder(foto, placeholder, egresso, egresso.foto_tipo);
   }
-  card.querySelector(".nivel").textContent = egresso.nivel;
+  const rotuloNivel = card.querySelector(".nivel");
+  rotuloNivel.textContent = egresso.nivel;
+  rotuloNivel.dataset.nivel = egresso.nivel;
   card.querySelector("h2").textContent = egresso.nome;
   card.querySelector(".conclusao").textContent = paginaAtivos ? "Matrícula ativa" : `Conclusão · ${egresso.ano_conclusao}`;
   const contatos = card.querySelector(".contatos");
