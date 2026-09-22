@@ -14,9 +14,42 @@
   </head>
   <body>
     <header class="topo">
-      <a class="marca" href="index.html"><img class="logo-cap" src="assets/images/LogoCAP.svg" alt="Logo CAP"><span class="marca-titulo">PGCAP <span>·</span> Catálogo de Egressos</span></a>
+      <a class="marca" href="index.html"><img class="logo-cap" src="assets/images/LogoPill.svg" alt="Logo CAP"><span class="marca-titulo">Catálogo de Egressos</span></a>
     </header>
     <main>
+      <div class="painel-resumo bloco-inicial" aria-labelledby="titulo-resumo">
+        <div class="cabecalho-dashboard">
+          <div>
+            <p class="sobretitulo-dashboard">Visão geral</p>
+            <h2 id="titulo-resumo">O catálogo em números</h2>
+          </div>
+          <p class="atualizacao-dashboard">Base atualizada em setembro de 2026</p>
+        </div>
+        <dl class="numeros-catalogo">
+          <div class="dado-geral"><dt>Egressos únicos</dt><dd id="total-egressos">—</dd></div>
+          <div class="dado-lattes"><dt>Egressos com Lattes</dt><dd id="total-lattes">—</dd></div>
+          <div class="dado-lattes"><dt>Com área de atuação</dt><dd id="total-area-atuacao">—</dd></div>
+          <div class="dado-lattes"><dt>Com publicações</dt><dd id="total-publicacoes">—</dd></div>
+          <div class="dado-identidade"><dt>Egressos com foto</dt><dd id="total-fotos">—</dd></div>
+          <div class="dado-link"><dt>Com ORCID</dt><dd id="total-orcid">—</dd></div>
+          <div class="dado-link"><dt>Com Google Scholar</dt><dd id="total-google-scholar">—</dd></div>
+          <div class="dado-link"><dt>Com LinkedIn</dt><dd id="total-linkedin">—</dd></div>
+          <div class="dado-link"><dt>Com Instagram</dt><dd id="total-instagram">—</dd></div>
+          <div class="dado-ativo"><dt>Alunos ativos</dt><dd id="total-ativos">—</dd></div>
+        </dl>
+        <div class="graficos-dashboard" aria-label="Indicadores visuais do catálogo">
+          <section class="grafico-dashboard" aria-labelledby="titulo-cobertura-basica">
+            <div class="titulo-grafico"><h3 id="titulo-cobertura-basica">Cobertura dos dados básicos</h3><p>Entre egressos únicos</p></div>
+            <div id="grafico-cobertura-basica" class="grafico-plotly" role="img" aria-label="Gráfico da cobertura de Lattes, área de atuação, publicações e foto."></div>
+          </section>
+          <section class="grafico-dashboard" aria-labelledby="titulo-links-publicos">
+            <div class="titulo-grafico"><h3 id="titulo-links-publicos">Links públicos</h3><p>Informações complementares</p></div>
+            <div id="grafico-links-publicos" class="grafico-plotly" role="img" aria-label="Gráfico da disponibilidade de ORCID, LinkedIn e Instagram."></div>
+          </section>
+        </div>
+        <p id="estado-resumo" role="status">Carregando estatísticas…</p>
+      </div>
+      <div class="bloco-inicial">
       <nav class="acessos" aria-label="Acessos principais">
         <a class="acesso egressos" href="egressos.html">
           <span class="conteudo-acesso"><strong>Egressos</strong><small>Explore os cartões, filtre por nível e ano de conclusão.</small></span>
@@ -34,8 +67,13 @@
           <span class="conteudo-acesso"><strong>Estatísticas</strong><small>Veja a distribuição dos egressos por ano e nível.</small></span>
           <span class="seta" aria-hidden="true">→</span>
         </a>
+        <a class="acesso coautorias" href="coautorias.html">
+          <span class="conteudo-acesso"><strong>Rede de coautorias</strong><small>Explore as conexões entre egressos e seus coautores.</small></span>
+          <span class="seta" aria-hidden="true">→</span>
+        </a>
       </nav>
-      <div class="fonte-dados" aria-labelledby="titulo-fonte-dados">
+      </div>
+      <div class="fonte-dados bloco-inicial" aria-labelledby="titulo-fonte-dados">
         <h2 id="titulo-fonte-dados">Fonte dos dados</h2>
         <!-- Substitua os textos entre colchetes pela explicação antes de publicar. -->
         <p>Este catálogo contém informações sobre os egressos e alunos ativos do 
@@ -47,5 +85,7 @@ Foi atualizada em <b>setembro de 2026</b>. O catálogo contém também os egress
       </p>
       </div>
     </main>
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+    <script src="js/index.js"></script>
   </body>
 </html>

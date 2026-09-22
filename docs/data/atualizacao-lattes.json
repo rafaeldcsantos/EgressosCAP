@@ -1,0 +1,41 @@
+{
+  "total_colecao": 687,
+  "com_datas": 685,
+  "sem_informacao": 2,
+  "coleta_inicio": "2026-09-09",
+  "coleta_fim": "2026-09-17",
+  "faixas": [
+    {
+      "rotulo": "Até 3 meses",
+      "quantidade": 122
+    },
+    {
+      "rotulo": "Mais de 3 até 6 meses",
+      "quantidade": 67
+    },
+    {
+      "rotulo": "Mais de 6 até 12 meses",
+      "quantidade": 73
+    },
+    {
+      "rotulo": "Mais de 1 até 2 anos",
+      "quantidade": 71
+    },
+    {
+      "rotulo": "Mais de 2 até 4 anos",
+      "quantidade": 77
+    },
+    {
+      "rotulo": "Mais de 4 até 8 anos",
+      "quantidade": 109
+    },
+    {
+      "rotulo": "Mais de 8 até 16 anos",
+      "quantidade": 117
+    },
+    {
+      "rotulo": "Mais de 16 anos",
+      "quantidade": 49
+    }
+  ]
+}

@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill-rule="evenodd" d="M64 0a64 64 0 1 0 0 128A64 64 0 0 0 64 0ZM39 31a7 7 0 1 1 0 14 7 7 0 0 1 0-14Zm-6 22h12v43H33V53Zm23 0h17c19 0 30 8 30 21s-11 22-30 22H56V53Zm12 11v21h5c11 0 17-4 17-11s-6-10-17-10h-5Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Border-Gray" serif:id="Border Gray" transform="matrix(1.00332,0,0,0.98756,-0.0065346,0.0581624)">
+        <path d="M61.801,8.042L61.801,56.647C61.801,60 59.122,62.722 55.821,62.722L7.948,62.722C4.647,62.722 1.968,60 1.968,56.647L1.968,8.042C1.968,4.689 4.647,1.966 7.948,1.966L55.821,1.966C59.122,1.966 61.801,4.689 61.801,8.042Z" style="fill:none;stroke:rgb(128,128,128);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1.375,0,0,1.375,10,10)">
+        <g id="Orcid">
+            <path d="M16,0C7.161,0 0,7.161 0,16C0,24.839 7.161,32 16,32C24.839,32 32,24.839 32,16C32,7.161 24.839,0 16,0ZM9.823,5.839C10.527,5.839 11.088,6.412 11.088,7.099C11.088,7.787 10.527,8.364 9.823,8.364C9.131,8.36 8.563,7.797 8.563,7.099C8.563,6.402 9.126,5.839 9.823,5.839ZM8.864,9.885L10.787,9.885L10.787,23.276L8.864,23.276L8.864,9.885ZM13.615,9.885L18.812,9.885C23.76,9.885 25.937,13.426 25.937,16.588C25.937,20.027 23.25,23.287 18.838,23.287L13.614,23.287L13.615,9.885ZM15.536,11.625L15.536,21.552L18.599,21.552C22.964,21.552 23.964,18.24 23.964,16.588C23.964,13.901 22.251,11.625 18.5,11.625L15.536,11.625Z" style="fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

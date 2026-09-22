@@ -1,0 +1,44 @@
+/* SVGs completos preservam cores e borda do desenho 64×64,
+   exibido em 36×36 CSS px. */
+.card-egresso .contatos {
+  display: grid;
+  grid-template-columns: repeat(4, 36px);
+  grid-template-rows: repeat(2, 36px);
+  justify-content: space-between;
+  align-items: center;
+  gap: 6px 2px;
+}
+.card-egresso .contatos > :is(a, span) {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 36px;
+  height: 36px;
+  min-width: 36px;
+  flex: 0 0 36px;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  border-radius: 5px;
+  background: transparent;
+  box-shadow: none;
+  text-decoration: none;
+}
+.card-egresso .contatos > :is(a, span)::after { content: none; }
+.card-egresso .contatos img {
+  display: block;
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+.card-egresso .contatos > a:hover { background: #edf5f6; }
+.card-egresso .contatos > a:focus-visible {
+  outline: 2px solid #176a82;
+  outline-offset: 3px;
+}
+.card-egresso .contatos > .indisponivel {
+  filter: grayscale(1);
+  opacity: .18;
+  cursor: default;
+}

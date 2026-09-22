@@ -1,0 +1,90 @@
+{
+  "total_colecao": 687,
+  "com_pais": 685,
+  "sem_informacao": 2,
+  "brasil": 655,
+  "outros_paises": 30,
+  "paises_fora_brasil": [
+    {
+      "pais": "Nigéria",
+      "quantidade": 3
+    },
+    {
+      "pais": "Peru",
+      "quantidade": 3
+    },
+    {
+      "pais": "Índia",
+      "quantidade": 3
+    },
+    {
+      "pais": "Argentina",
+      "quantidade": 2
+    },
+    {
+      "pais": "China",
+      "quantidade": 2
+    },
+    {
+      "pais": "Estados Unidos",
+      "quantidade": 2
+    },
+    {
+      "pais": "Formosa",
+      "quantidade": 2
+    },
+    {
+      "pais": "Angola",
+      "quantidade": 1
+    },
+    {
+      "pais": "Argélia",
+      "quantidade": 1
+    },
+    {
+      "pais": "Croácia",
+      "quantidade": 1
+    },
+    {
+      "pais": "Cuba",
+      "quantidade": 1
+    },
+    {
+      "pais": "Dinamarca",
+      "quantidade": 1
+    },
+    {
+      "pais": "Equador",
+      "quantidade": 1
+    },
+    {
+      "pais": "França",
+      "quantidade": 1
+    },
+    {
+      "pais": "Ilhas Santa Helena",
+      "quantidade": 1
+    },
+    {
+      "pais": "Japão",
+      "quantidade": 1
+    },
+    {
+      "pais": "Papua Nova Guiné",
+      "quantidade": 1
+    },
+    {
+      "pais": "Paraguai",
+      "quantidade": 1
+    },
+    {
+      "pais": "Rússia",
+      "quantidade": 1
+    },
+    {
+      "pais": "Ucrânia",
+      "quantidade": 1
+    }
+  ],
+  "descricao": "País de nascimento informado nos currículos Lattes da coleção de egressos deste projeto."
+}

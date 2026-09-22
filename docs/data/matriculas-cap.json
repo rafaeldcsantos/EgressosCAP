@@ -1,0 +1,46 @@
+{
+  "descricao": "Matrículas CAP atualmente ativas ou concluídas, agrupadas pelo ano de admissão no curso.",
+  "anos": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "mestrado": [
+    12,
+    10,
+    7,
+    10,
+    9,
+    6,
+    9,
+    6,
+    5,
+    11,
+    9,
+    14
+  ],
+  "doutorado": [
+    7,
+    12,
+    5,
+    4,
+    6,
+    7,
+    8,
+    9,
+    6,
+    12,
+    4,
+    8
+  ],
+  "total": 196
+}

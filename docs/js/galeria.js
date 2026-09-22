@@ -18,17 +18,41 @@ let direcaoOrdem = "crescente";
 
 const normalizar = (texto) => texto.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase("pt-BR");
 
-const links = (egresso) => [
-  ["Currículo Lattes", egresso.lattes_id && `http://lattes.cnpq.br/${egresso.lattes_id}`, "lattes"],
-  ["ORCID", socialUrl(egresso.orcid, "https://orcid.org/"), "orcid"],
-  ["Instagram", socialUrl(egresso.instagram, "https://instagram.com/"), "instagram"],
-  ["LinkedIn", socialUrl(egresso.linkedin, "https://www.linkedin.com/in/"), "linkedin"]
-];
+// SVGs completos com borda, em viewBox 64×64, exibidos em 36×36 px.
+// Posições reservadas usam empty.svg até a definição dos desenhos e destinos.
+const iconesCartao = {
+  lattes: { arquivo: "lattes.svg" },
+  info: { arquivo: "info.svg" },
+  stats: { arquivo: "stats.svg" },
+  coautorias: { arquivo: "grafo.svg" },
+  orcid: { arquivo: "orcid.svg" },
+  linkedin: { arquivo: "linkedin.svg" },
+  scholar: { arquivo: "scholar.svg" },
+  instagram: { arquivo: "instagram.svg" }
+};
 
-function socialUrl(value, prefix) {
-  const cleaned = (value || "").trim();
-  if (!cleaned) return "";
-  return /^https?:\/\//i.test(cleaned) ? cleaned : `${prefix}${cleaned.replace(/^@/, "")}`;
+function socialUrl(valor, prefixo) {
+  const endereco = String(valor || "").trim();
+  if (!endereco) return "";
+  return /^https?:\/\//i.test(endereco) ? endereco : prefixo + endereco.replace(/^@/, "");
+}
+
+function links(egresso) {
+  const lattes = String(egresso.lattes_id || "").trim();
+  const temLattes = /^\d{16}$/.test(lattes);
+  const faltaLattes = "Indisponível: Lattes não informado";
+  const faltaResumo = "Indisponível: resumo não informado no Lattes";
+  const reservado = "Em preparação";
+  return [
+    ["Lattes", temLattes ? `http://lattes.cnpq.br/${lattes}` : "", "lattes", faltaLattes],
+    ["Informações gerais", temLattes && egresso.tem_resumo ? `pessoa.html?lattes=${encodeURIComponent(lattes)}` : "", "info", temLattes ? faltaResumo : faltaLattes],
+    ["Estatísticas", temLattes && (egresso.tem_publicacoes || egresso.tem_orientacoes || egresso.tem_bancas) ? `estatistica-pessoa.html?lattes=${encodeURIComponent(lattes)}` : "", "stats", temLattes ? "Indisponível: sem publicações, orientações ou bancas anuais válidas no Lattes" : faltaLattes],
+    ["Rede", temLattes ? `coautorias.html?lattes=${encodeURIComponent(lattes)}&escopo=coautores` : "", "coautorias", faltaLattes],
+    ["ORCID", socialUrl(egresso.orcid, "https://orcid.org/"), "orcid", "Endereço não informado"],
+    ["LinkedIn", socialUrl(egresso.linkedin, "https://www.linkedin.com/in/"), "linkedin", "Endereço não informado"],
+    ["Google Scholar", "", "scholar", reservado],
+    ["Instagram", socialUrl(egresso.instagram, "https://instagram.com/"), "instagram", "Endereço não informado"]
+  ];
 }
 
 function corresponde(egresso) {
@@ -77,9 +101,9 @@ function criarCard(egresso) {
   card.querySelector("h2").textContent = egresso.nome;
   card.querySelector(".conclusao").textContent = paginaAtivos ? "Matrícula ativa" : `Conclusão · ${egresso.ano_conclusao}`;
   const contatos = card.querySelector(".contatos");
-  links(egresso).forEach(([descricao, url, tipo]) => {
+  links(egresso).forEach(([descricao, url, tipo, motivo]) => {
     const elemento = document.createElement(url ? "a" : "span");
-    elemento.title = url ? descricao : `${descricao} ainda não informado`;
+    elemento.title = url ? descricao : `${descricao} — ${motivo}`;
     elemento.className = `icone-${tipo} ${url ? "tem-dado" : "indisponivel"}`;
     if (url) {
       elemento.href = url;
@@ -87,9 +111,18 @@ function criarCard(egresso) {
       elemento.rel = "noreferrer";
       elemento.setAttribute("aria-label", descricao);
     } else {
-      elemento.setAttribute("aria-label", `${descricao} ainda não informado`);
+      elemento.setAttribute("aria-label", `${descricao} — ${motivo}`);
+      elemento.setAttribute("aria-disabled", "true");
       elemento.setAttribute("role", "img");
     }
+    const icone = iconesCartao[tipo];
+    elemento.classList.add("icone-completo");
+    const imagem = document.createElement("img");
+    imagem.src = "assets/icons/" + icone.arquivo;
+    imagem.alt = "";
+    imagem.width = imagem.height = 36;
+    imagem.setAttribute("aria-hidden", "true");
+    elemento.append(imagem);
     contatos.append(elemento);
   });
   return card;

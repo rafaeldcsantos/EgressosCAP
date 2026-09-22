@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Border-Gray" serif:id="Border Gray" transform="matrix(1.00332,0,0,0.98756,-0.0065346,0.0581624)">
+        <path d="M61.801,8.042L61.801,56.647C61.801,60 59.122,62.722 55.821,62.722L7.948,62.722C4.647,62.722 1.968,60 1.968,56.647L1.968,8.042C1.968,4.689 4.647,1.966 7.948,1.966L55.821,1.966C59.122,1.966 61.801,4.689 61.801,8.042Z" style="fill:none;stroke:rgb(128,128,128);stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(0.0982165,0,0,0.0982165,9.99951,9.99902)">
+        <g id="LinkedIn">
+            <path d="M100.28,448L7.4,448L7.4,148.9L100.28,148.9L100.28,448ZM53.79,108.1C24.09,108.1 0,83.5 0,53.8C-0,24.292 24.282,0.01 53.79,0.01C83.298,0.01 107.58,24.292 107.58,53.8C107.58,83.5 83.48,108.1 53.79,108.1ZM448,448L355.22,448L355.22,302.4C355.22,267.7 354.52,223.2 306.93,223.2C258.64,223.2 251.24,260.9 251.24,299.9L251.24,448L158.46,448L158.46,148.9L247.54,148.9L247.54,189.7L248.84,189.7C261.24,166.2 291.53,141.4 336.72,141.4C430.72,141.4 448,203.3 448,283.7L448,448Z" style="fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

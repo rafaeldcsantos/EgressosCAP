@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Explore a rede de coautorias dos currículos Lattes dos egressos da PGCAP/INPE.">
+    <meta name="theme-color" content="#0b253e">
+    <title>PGCAP — Rede de coautorias</title>
+    <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg">
+    <link rel="stylesheet" href="css/coautorias.css">
+    <link rel="stylesheet" href="css/cabecalho.css">
+  </head>
+  <body>
+    <header class="topo">
+      <a class="marca" href="index.html"><img class="logo-cap" src="assets/images/LogoPill.svg" alt="Logo CAP"><span class="marca-titulo">Rede de coautorias</span></a>
+    </header>
+    <main>
+      <div class="titulo-pagina"><h1>Rede de coautorias</h1></div>
+      <p class="introducao">Explore agrupamentos de colaboração e as pessoas que conectam diferentes grupos.</p>
+      <section id="como-extraido" class="como-extraido" aria-labelledby="titulo-como-extraido" hidden>
+        <h2 id="titulo-como-extraido">Como este grafo foi extraído</h2>
+        <p>As coautorias foram extraídas como arestas dirigidas, agregadas por publicação. Foram consideradas somente coautorias claramente identificadas por um ID Lattes válido de 16 dígitos. A partir da lista-base de egressos (A), esses IDs declarados diretamente em seus currículos formam a camada B de coautores diretos.</p>
+        <p>Os currículos da camada B foram lidos apenas para recuperar ligações internas entre A e B, sem expandir a rede novamente. Neste recorte pessoal, aparecem a pessoa central, seus coautores diretos e as ligações já registradas entre esses coautores. Os nomes são rótulos declarados nos currículos: não foram usados para identificar pessoas.</p>
+      </section>
+      <p class="nota">Use <em>Forças (ForceAtlas2)</em> para explorar agrupamentos, <em>Por comunidades</em> para separar grupos de colaboração e <em>Radial</em> para explorar as conexões de uma pessoa. <em>Circular</em> e <em>Grade</em> distribuem os nós regularmente; <em>Concêntrico</em> coloca as pessoas com mais coautores no centro. A pessoa selecionada aparece em magenta.</p>
+      <div class="ferramentas">
+        <div class="campo-busca">
+          <label for="busca-egresso">Buscar egresso por nome ou ID Lattes</label>
+          <input id="busca-egresso" type="search" autocomplete="off" placeholder="Digite para encontrar um egresso…" disabled aria-controls="resultados-busca">
+          <ul id="resultados-busca" aria-label="Egressos encontrados" hidden></ul>
+          <p id="status-busca" class="nota" aria-live="polite"></p>
+        </div>
+        <label class="campo-peso" for="peso-minimo">Peso mínimo
+          <input id="peso-minimo" type="number" min="1" step="1" value="1" disabled>
+        </label>
+        <label class="campo-layout" for="layout-rede">Layout
+          <select id="layout-rede" disabled>
+            <option value="forcas">Forças (ForceAtlas2)</option>
+            <option value="comunidades" selected>Por comunidades</option>
+            <option value="radial">Radial pela pessoa selecionada</option>
+            <option value="circular">Circular</option>
+            <option value="concentrico">Concêntrico por conexões</option>
+            <option value="grade">Grade</option>
+          </select>
+        </label>
+        <button id="limpar-selecao" type="button" disabled>Limpar destaque</button>
+        <button id="visao-geral" type="button" disabled>Visão geral</button>
+      </div>
+      <p id="resumo-rede" class="nota" role="status">Carregando rede…</p>
+      <p id="nota-layout" class="nota" aria-live="polite"></p>
+      <div class="area-rede">
+        <section class="painel-rede" aria-label="Visualização da rede">
+          <div class="legenda"><span><i class="cor-egresso" aria-hidden="true"></i>Egresso</span><span><i class="cor-externo" aria-hidden="true"></i>Coautor fora do catálogo de egressos</span><span><i class="cor-selecionado" aria-hidden="true"></i>Pessoa selecionada</span></div>
+          <div id="rede" role="img" aria-label="Grafo interativo de coautorias. Use a busca ou a lista de coautores para selecionar uma pessoa."></div>
+          <div id="tooltip-no" class="tooltip-no" role="tooltip" hidden>
+            <strong id="tooltip-no-nome"></strong>
+            <button id="copiar-lattes-id" type="button" title="Copiar ID Lattes"></button>
+          </div>
+          <p id="detalhe-aresta" class="detalhe-aresta" role="status">Passe o cursor sobre uma ligação para ver seu peso.</p>
+          <div class="navegacao"><button id="zoom-mais" type="button" disabled aria-label="Ampliar rede">+</button><button id="zoom-menos" type="button" disabled aria-label="Reduzir rede">−</button></div>
+          <p class="ajuda">Passe o cursor sobre uma pessoa para ver e copiar seu LattesID. Use os botões + e − para ampliar ou reduzir; arraste o fundo para navegar. Clique em uma pessoa para destacar suas ligações.</p>
+        </section>
+        <aside class="detalhes" aria-labelledby="titulo-detalhes">
+          <h2 id="titulo-detalhes">Pessoa selecionada</h2>
+          <p id="nome-selecionado" aria-live="polite">Busque um egresso ou clique em um nó.</p>
+          <p id="tipo-selecionado" class="nota"></p>
+          <a id="link-lattes" target="_blank" rel="noopener noreferrer" hidden>Abrir currículo Lattes ↗</a>
+          <h3>Coautores no filtro atual</h3>
+          <p id="resumo-coautores" class="nota"></p>
+          <ul id="lista-coautores"></ul>
+        </aside>
+      </div>
+      <p id="nota-fonte" class="nota"></p>
+      <p class="nota">O peso de cada ligação é o menor dos contadores quando o par aparece nos dois sentidos. Quando há apenas um sentido, usamos o contador disponível. A espessura usa uma escala logarítmica do peso, para tornar visíveis também as diferenças entre colaborações mais frequentes. Nomes de coautores não identificados no catálogo são substituídos pelo ID Lattes. A ausência de uma ligação não comprova ausência de colaboração.</p>
+      <noscript>Ative o JavaScript para explorar a rede de coautorias.</noscript>
+    </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/graphology/0.25.4/graphology.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sigma.js/2.4.0/sigma.min.js"></script>
+    <script type="module" src="js/coautorias.js"></script>
+  </body>
+</html>

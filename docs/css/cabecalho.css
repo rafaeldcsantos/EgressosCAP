@@ -31,7 +31,7 @@ body { min-width: 0; }
   flex-shrink: 0;
   object-fit: contain;
 }
-.topo .marca-titulo { color: inherit; }
+.topo .marca-titulo { color: inherit; font-size: 1.3rem; font-weight: 650; letter-spacing: .01em; }
 main, main.conteudo {
   width: var(--largura-area);
   max-width: none;
@@ -47,6 +47,6 @@ main, main.conteudo {
 @media (max-width: 760px) {
   .topo { gap: 8px; padding: 0 8px; }
   .topo .marca { gap: 8px; }
-  .topo .marca-titulo { font-size: .7rem; }
+  .topo .marca-titulo { font-size: 1rem; }
   .topo .voltar { flex-shrink: 0; font-size: .65rem; }
 }

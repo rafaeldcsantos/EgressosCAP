@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Estatísticas dos egressos da PGCAP/INPE por ano e nível de formação.">
+      <meta name="description" content="Estatísticas dos egressos da PGCAP/INPE por ano, nível de formação e país de nascimento.">
     <meta name="theme-color" content="#0b253e">
     <title>PGCAP — Estatísticas</title>
     <link rel="icon" href="assets/images/favicon.ico" sizes="any">
@@ -13,10 +13,29 @@
   </head>
   <body>
     <header class="topo">
-      <a class="marca" href="index.html"><img class="logo-cap" src="assets/images/LogoCAP.svg" alt="Logo CAP"><span class="marca-titulo">PGCAP <span>·</span> Catálogo de Egressos</span></a>
+      <a class="marca" href="index.html"><img class="logo-cap" src="assets/images/LogoPill.svg" alt="Logo CAP"><span class="marca-titulo">Estatísticas</span></a>
     </header>
     <main>
       <h1>Estatísticas</h1>
+      <section class="secao-discentes" aria-labelledby="titulo-discentes">
+        <div class="cabecalho-secao">
+          <div><h2 id="titulo-discentes">Discentes atuais</h2><p>Retrato da base pública de pessoas com matrícula ativa na CAP.</p></div>
+        </div>
+        <div id="cartoes-discentes" class="cartoes-discentes" aria-live="polite"></div>
+        <div class="grade-discentes">
+          <section class="painel-grafico" aria-labelledby="titulo-discentes-nivel">
+            <div class="cabecalho-grafico"><h3 id="titulo-discentes-nivel">Matrículas por nível</h3></div>
+            <p id="resumo-discentes-nivel" class="resumo">Carregando dados…</p>
+            <div id="grafico-discentes-nivel" class="grafico grafico-discentes" role="img" aria-label="Distribuição dos discentes atuais entre mestrado e doutorado."></div>
+          </section>
+          <section class="painel-grafico painel-matriculas" aria-labelledby="titulo-matriculas-ano">
+            <div class="cabecalho-grafico"><h3 id="titulo-matriculas-ano">Matrículas por ano</h3></div>
+            <p id="resumo-matriculas-ano" class="resumo">Carregando dados…</p>
+            <div id="grafico-matriculas-ano" class="grafico grafico-discentes" role="img" aria-label="Matrículas CAP ativas ou concluídas por ano de admissão, separadas entre mestrado e doutorado."></div>
+            <p class="nota">Cada barra representa vínculos ativos ou concluídos, agrupados pelo ano de admissão no curso. A série mostra os 12 anos mais recentes disponíveis na base.</p>
+          </section>
+        </div>
+      </section>
       <div class="grade-graficos">
         <section class="painel-grafico" aria-labelledby="titulo-egressos-ano">
           <div class="cabecalho-grafico">
@@ -35,6 +54,44 @@
           <p id="resumo-acumulado" class="resumo" aria-live="polite">Carregando dados…</p>
           <div id="grafico-acumulado" class="grafico" role="img" aria-label="Total acumulado de egressos únicos em períodos de cinco anos." aria-describedby="nota-acumulado"></div>
           <p id="nota-acumulado" class="nota">Cada pessoa entra no acumulado na primeira conclusão registrada, sem ser contada novamente ao concluir outro nível. Os períodos são de cinco anos; o último é parcial quando os dados ainda não cobrem seu ano final.</p>
+          <noscript>Ative o JavaScript para visualizar os gráficos.</noscript>
+        </section>
+        <section class="painel-grafico" aria-labelledby="titulo-pais-nascimento">
+          <div class="cabecalho-grafico">
+            <h2 id="titulo-pais-nascimento">País de nascimento</h2>
+          </div>
+          <p id="resumo-pais-nascimento" class="resumo" aria-live="polite">Carregando dados…</p>
+          <div id="grafico-pais-nascimento" class="grafico" role="img" aria-label="Distribuição dos egressos por nascimento no Brasil ou em outros países." aria-describedby="nota-pais-nascimento"></div>
+          <p id="nota-pais-nascimento" class="nota"></p>
+          <noscript>Ative o JavaScript para visualizar os gráficos.</noscript>
+        </section>
+        <section class="painel-grafico" aria-labelledby="titulo-outros-paises">
+          <div class="cabecalho-grafico">
+            <h2 id="titulo-outros-paises">País de nascimento — fora do Brasil</h2>
+          </div>
+          <p id="resumo-outros-paises" class="resumo" aria-live="polite">Carregando dados…</p>
+          <div id="grafico-outros-paises" class="grafico" role="img" aria-label="Distribuição por país de nascimento fora do Brasil." aria-describedby="nota-outros-paises"></div>
+          <ul id="legenda-outros-paises" class="legenda-paises" aria-label="Países, quantidades e percentuais"></ul>
+          <p id="nota-outros-paises" class="nota"></p>
+          <noscript>Ative o JavaScript para visualizar os gráficos.</noscript>
+        </section>
+        <section class="painel-grafico" aria-labelledby="titulo-atualizacao">
+          <div class="cabecalho-grafico">
+            <h2 id="titulo-atualizacao">Há quanto tempo os Lattes foram atualizados?</h2>
+          </div>
+          <p id="resumo-atualizacao" class="resumo" aria-live="polite">Carregando dados…</p>
+          <div id="grafico-atualizacao" class="grafico grafico-atualizacao" role="img" aria-label="Currículos por tempo desde a última atualização." aria-describedby="nota-atualizacao"></div>
+          <p id="nota-atualizacao" class="nota"></p>
+          <noscript>Ative o JavaScript para visualizar os gráficos.</noscript>
+        </section>
+        <section class="painel-grafico" aria-labelledby="titulo-publicacoes">
+          <div class="cabecalho-grafico">
+            <h2 id="titulo-publicacoes">Publicações registradas nos Lattes por ano</h2>
+            <label>Período <select id="periodo-publicacoes" disabled><option value="principal">Desde 1972</option><option value="completo">Todos os anos</option></select></label>
+          </div>
+          <p id="resumo-publicacoes" class="resumo" aria-live="polite">Carregando dados…</p>
+          <div id="grafico-publicacoes" class="grafico grafico-publicacoes" role="img" aria-label="Publicações por ano em três categorias." aria-describedby="nota-publicacoes"></div>
+          <p id="nota-publicacoes" class="nota"></p>
           <noscript>Ative o JavaScript para visualizar os gráficos.</noscript>
         </section>
       </div>
