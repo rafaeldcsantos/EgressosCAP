@@ -87,7 +87,9 @@ function criarCard(egresso) {
   const card = fragmento.querySelector(".card-egresso");
   const foto = card.querySelector(".foto");
   const placeholder = card.querySelector(".foto-placeholder");
+  const sinalFalecimento = card.querySelector(".sinal-falecimento");
   card.__egresso = egresso;
+  sinalFalecimento.hidden = !egresso.falecido;
   if (egresso.foto_tipo === "real") {
     foto.src = `assets/photos/${encodeURIComponent(egresso.foto_id || egresso.lattes_id)}.jpg${egresso.foto_versao ? `?v=${encodeURIComponent(egresso.foto_versao)}` : ""}`;
     foto.alt = `Retrato de ${egresso.nome}`;

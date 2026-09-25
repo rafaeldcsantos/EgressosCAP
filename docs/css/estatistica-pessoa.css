@@ -2,6 +2,9 @@ main.conteudo { max-width: 1400px; padding-top: 32px; padding-bottom: 56px; }
 .apresentacao { display: flex; align-items: center; gap: 24px; margin: 0 0 26px; }
 .apresentacao h1 { margin-bottom: 8px; overflow-wrap: anywhere; }
 .apresentacao p { color: #52676f; }
-#foto { width: 96px; height: 120px; object-fit: cover; object-position: top; }
+.area-retrato { position: relative; width: 96px; height: 120px; overflow: hidden; background: #dce3df; }
+#foto { display: block; width: 96px; height: 120px; object-fit: cover; object-position: top; }
+.area-retrato .sinal-falecimento { position: absolute; z-index: 1; top: -26px; right: 10px; width: 24px; height: 90px; border: 2px solid rgba(255, 255, 255, .92); background: rgba(23, 28, 31, .86); transform: rotate(-45deg); transform-origin: center; pointer-events: none; }
+.area-retrato .sinal-falecimento[hidden] { display: none; }
 .painel-grafico + .painel-grafico { margin-top: 22px; }
 @media (max-width: 540px) { .apresentacao { align-items: flex-start; flex-direction: column; } }

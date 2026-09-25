@@ -41,6 +41,9 @@ main, main.conteudo {
   padding-right: 0;
 }
 .acessos { max-width: none; }
+.rodape-site { width: var(--largura-area); margin: 36px auto 24px; text-align: center; color: #7c8588; }
+.rodape-site hr { width: 80%; margin: 0 auto 10px; border: 0; border-top: 1px solid #9ba3a5; }
+.rodape-site small { font-size: .76rem; }
 .galeria { width: 100% !important; }
 .filtros { width: 100%; flex-wrap: wrap; gap: 12px; }
 .filtros .ordenacao, .filtros .botao-reset { margin-left: 0; }

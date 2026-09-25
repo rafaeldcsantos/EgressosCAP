@@ -40,6 +40,7 @@ async function iniciarPessoa() {
     foto.onerror = () => { foto.hidden = true; };
     foto.src = "assets/photos/" + encodeURIComponent(comFoto.foto_id || comFoto.lattes_id) + ".jpg" + (comFoto.foto_versao ? "?v=" + encodeURIComponent(comFoto.foto_versao) : "");
     foto.hidden = false;
+    document.querySelector("#sinal-falecimento").hidden = !pessoa.falecido;
   }
   const vinculos = new Set(registros.map((registro) => registro.nivel + (registro.origem === "ativos" ? " · Matrícula ativa" : " · Conclusão em " + registro.ano_conclusao)));
   for (const texto of vinculos) {

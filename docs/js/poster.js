@@ -7,10 +7,11 @@ function selecionarFotos(registros) {
     const lattes = String(registro.lattes_id || "").trim();
     const temFoto = registro.foto_tipo === "real" && (registro.foto_id || registro.lattes_id);
     if (!existente) {
-      pessoas.set(chave, { nome: registro.nome, lattes, ano, foto: temFoto ? registro : null });
+      pessoas.set(chave, { nome: registro.nome, lattes, ano, foto: temFoto ? registro : null, falecido: Boolean(registro.falecido) });
     } else {
       if (lattes && (!existente.lattes || ano >= existente.ano)) existente.lattes = lattes;
       existente.ano = Math.max(existente.ano, ano);
+      existente.falecido ||= Boolean(registro.falecido);
       if (temFoto && (!existente.foto || ano >= Number(existente.foto.ano_conclusao))) existente.foto = registro;
     }
   }
@@ -38,6 +39,21 @@ function linkLattes(elemento, pessoa) {
   link.setAttribute("aria-label", "Abrir currículo Lattes de " + pessoa.nome);
   link.append(elemento);
   return link;
+}
+
+function itemPoster(elemento, pessoa) {
+  const item = document.createElement("span");
+  item.className = "poster-item";
+  item.append(elemento);
+  if (pessoa.falecido) {
+    const sinal = document.createElement("span");
+    sinal.className = "sinal-falecimento";
+    sinal.setAttribute("role", "img");
+    sinal.setAttribute("aria-label", "Pessoa falecida");
+    sinal.title = "Pessoa falecida";
+    item.append(sinal);
+  }
+  return item;
 }
 
 // Escolhe o maior tamanho de retrato que acomoda todas as pessoas na tela.
@@ -71,7 +87,7 @@ async function iniciarPoster() {
   const fragmento = document.createDocumentFragment();
   for (const pessoa of fotos) {
     const registro = pessoa.foto;
-    if (!registro) { fragmento.append(linkLattes(semFoto(pessoa), pessoa)); continue; }
+    if (!registro) { fragmento.append(itemPoster(linkLattes(semFoto(pessoa), pessoa), pessoa)); continue; }
     const imagem = document.createElement("img");
     imagem.alt = pessoa.nome + " — última graduação CAP em " + pessoa.ano;
     imagem.title = pessoa.lattes || pessoa.nome;
@@ -80,7 +96,7 @@ async function iniciarPoster() {
     imagem.decoding = "async";
     imagem.src = "assets/photos/" + encodeURIComponent(registro.foto_id || registro.lattes_id) + ".jpg" + (registro.foto_versao ? "?v=" + encodeURIComponent(registro.foto_versao) : "");
     imagem.onerror = () => imagem.replaceWith(semFoto(pessoa));
-    fragmento.append(linkLattes(imagem, pessoa));
+    fragmento.append(itemPoster(linkLattes(imagem, pessoa), pessoa));
   }
   document.querySelector("#poster").replaceChildren(fragmento);
   ajustarPoster();

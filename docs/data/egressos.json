@@ -17,6 +17,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -37,7 +38,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000004",
@@ -57,7 +59,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000005",
@@ -77,6 +80,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -97,6 +101,7 @@
     "google_scholar": "SopeJzQAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -117,6 +122,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -137,6 +143,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -157,6 +164,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "adriana-carniello-684339123",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -177,7 +185,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": "adriana-carniello-684339123"
+    "linkedin": "adriana-carniello-684339123",
+    "falecido": false
   },
   {
     "perfil_id": "p000010",
@@ -197,6 +206,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -217,6 +227,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -237,6 +248,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -257,6 +269,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -277,7 +290,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000014",
@@ -297,6 +311,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -317,6 +332,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -337,6 +353,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -357,6 +374,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -377,6 +395,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -397,7 +416,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000025",
@@ -417,6 +437,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1993
   },
   {
@@ -437,6 +458,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -457,6 +479,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -477,6 +500,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -497,6 +521,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -517,6 +542,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -537,6 +563,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -557,6 +584,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -577,6 +605,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -597,6 +626,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -617,6 +647,7 @@
     "google_scholar": "kesEufUAAAAJ",
     "instagram": "adalves172807",
     "linkedin": "alexandre-donizeti-alves-80064668",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -637,6 +668,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -657,6 +689,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2001
   },
   {
@@ -677,6 +710,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2001
   },
   {
@@ -697,6 +731,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2001
   },
   {
@@ -717,6 +752,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -737,7 +773,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000042",
@@ -757,6 +794,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -777,6 +815,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -797,7 +836,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000045",
@@ -817,6 +857,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -837,6 +878,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -857,6 +899,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -877,6 +920,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -897,6 +941,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -917,6 +962,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -937,7 +983,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000053",
@@ -957,6 +1004,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -977,7 +1025,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000057",
@@ -997,7 +1046,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000058",
@@ -1017,6 +1067,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -1037,6 +1088,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -1057,7 +1109,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000061",
@@ -1077,6 +1130,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -1097,6 +1151,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -1117,6 +1172,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -1137,6 +1193,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1990
   },
   {
@@ -1157,6 +1214,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -1177,6 +1235,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1990
   },
   {
@@ -1197,6 +1256,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -1217,6 +1277,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -1237,6 +1298,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -1257,7 +1319,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000072",
@@ -1277,6 +1340,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -1297,6 +1361,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "andré-grégio-05986a7",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -1317,6 +1382,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -1337,6 +1403,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -1357,7 +1424,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000081",
@@ -1377,6 +1445,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2000
   },
   {
@@ -1397,6 +1466,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -1417,6 +1487,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -1437,7 +1508,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000087",
@@ -1457,6 +1529,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "antonio-de-oliveira-dias-722401b",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -1477,6 +1550,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -1497,6 +1571,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -1517,7 +1592,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000094",
@@ -1537,7 +1613,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000096",
@@ -1557,6 +1634,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -1577,6 +1655,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -1597,7 +1676,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000083",
@@ -1617,6 +1697,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1996
   },
   {
@@ -1637,6 +1718,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "falconi",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -1657,6 +1739,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -1677,6 +1760,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -1697,7 +1781,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000102",
@@ -1717,7 +1802,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": "arry-carlos-buss-filho-20652569"
+    "linkedin": "arry-carlos-buss-filho-20652569",
+    "falecido": false
   },
   {
     "perfil_id": "p000104",
@@ -1737,6 +1823,7 @@
     "google_scholar": "ouNvDHkAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1996
   },
   {
@@ -1757,7 +1844,8 @@
     "orcid": "",
     "google_scholar": "ouNvDHkAAAAJ",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000105",
@@ -1777,7 +1865,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000106",
@@ -1797,7 +1886,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000107",
@@ -1817,7 +1907,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "arturmilhomemoficial",
-    "linkedin": "artur-milhomem-neto-832376343"
+    "linkedin": "artur-milhomem-neto-832376343",
+    "falecido": false
   },
   {
     "perfil_id": "p000109",
@@ -1837,6 +1928,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -1857,6 +1949,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2022
   },
   {
@@ -1877,6 +1970,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -1897,7 +1991,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000112",
@@ -1917,6 +2012,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -1937,6 +2033,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -1957,6 +2054,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "benicio-carvalho-3a6720a",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -1977,6 +2075,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -1997,7 +2096,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": "bolis-rodrigues-petrusanis-003b6a6"
+    "linkedin": "bolis-rodrigues-petrusanis-003b6a6",
+    "falecido": false
   },
   {
     "perfil_id": "p000122",
@@ -2017,6 +2117,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -2037,6 +2138,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -2057,6 +2159,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -2077,6 +2180,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -2097,6 +2201,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -2117,6 +2222,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -2137,6 +2243,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -2157,6 +2264,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1990
   },
   {
@@ -2177,6 +2285,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -2197,7 +2306,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000136",
@@ -2217,7 +2327,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000137",
@@ -2237,6 +2348,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2022
   },
   {
@@ -2257,6 +2369,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -2277,7 +2390,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000144",
@@ -2297,6 +2411,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -2317,6 +2432,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -2337,7 +2453,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": "carlos-ho-shih-ning-a92225"
+    "linkedin": "carlos-ho-shih-ning-a92225",
+    "falecido": false
   },
   {
     "perfil_id": "p000147",
@@ -2357,6 +2474,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -2377,6 +2495,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -2397,7 +2516,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000151",
@@ -2417,6 +2537,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2025
   },
   {
@@ -2437,6 +2558,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "cecilia-de-azevedo-castro-cesar-214ab72a3",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -2457,7 +2579,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000155",
@@ -2477,7 +2600,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000156",
@@ -2497,6 +2621,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -2517,6 +2642,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -2537,6 +2663,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -2557,6 +2684,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -2577,6 +2705,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2022
   },
   {
@@ -2597,6 +2726,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1992
   },
   {
@@ -2617,6 +2747,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2000
   },
   {
@@ -2637,6 +2768,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -2657,7 +2789,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000167",
@@ -2677,7 +2810,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000168",
@@ -2697,6 +2831,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -2717,6 +2852,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -2737,6 +2873,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -2757,6 +2894,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -2777,7 +2915,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000175",
@@ -2797,6 +2936,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -2817,6 +2957,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -2837,6 +2978,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -2857,6 +2999,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "cristine-hoepers-513b4a8",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -2877,7 +3020,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000181",
@@ -2897,6 +3041,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -2917,7 +3062,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000184",
@@ -2937,6 +3083,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -2957,6 +3104,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2001
   },
   {
@@ -2977,6 +3125,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -2997,6 +3146,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -3017,6 +3167,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -3037,6 +3188,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -3057,6 +3209,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -3077,6 +3230,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -3097,6 +3251,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2001
   },
   {
@@ -3117,6 +3272,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -3137,6 +3293,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -3157,6 +3314,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -3177,6 +3335,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -3197,6 +3356,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -3217,6 +3377,7 @@
     "google_scholar": "mlOAPaAAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -3237,6 +3398,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -3257,6 +3419,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -3277,6 +3440,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -3297,7 +3461,8 @@
     "orcid": "",
     "google_scholar": "qy8B8T0AAAAJ",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000213",
@@ -3317,7 +3482,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000215",
@@ -3337,7 +3503,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000217",
@@ -3357,7 +3524,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000218",
@@ -3377,6 +3545,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -3397,6 +3566,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -3417,6 +3587,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2022
   },
   {
@@ -3437,6 +3608,7 @@
     "google_scholar": "lskznMAAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -3457,6 +3629,7 @@
     "google_scholar": "lskznMAAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -3477,6 +3650,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "eduardo-gomes-de-barros-19a7bb32",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -3497,6 +3671,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "eduardo-gomes-de-barros-19a7bb32",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -3517,6 +3692,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -3537,6 +3713,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -3557,6 +3734,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -3577,6 +3755,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "edupsousa",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -3597,6 +3776,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -3617,6 +3797,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -3637,6 +3818,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -3657,6 +3839,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -3677,6 +3860,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -3697,6 +3881,7 @@
     "google_scholar": "yPfica0AAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -3717,6 +3902,7 @@
     "google_scholar": "yPfica0AAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -3737,7 +3923,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": "elcio-pasqualucci-3058b513a"
+    "linkedin": "elcio-pasqualucci-3058b513a",
+    "falecido": false
   },
   {
     "perfil_id": "p000234",
@@ -3757,6 +3944,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -3777,6 +3965,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -3797,7 +3986,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000237",
@@ -3817,6 +4007,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -3837,6 +4028,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "elias-canhadas-genvigir-15704869",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -3857,6 +4049,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "elias-canhadas-genvigir-15704869",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -3877,7 +4070,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000243",
@@ -3897,7 +4091,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000245",
@@ -3917,6 +4112,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -3937,7 +4133,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000250",
@@ -3957,6 +4154,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -3977,6 +4175,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -3997,6 +4196,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -4017,6 +4217,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -4037,6 +4238,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -4057,6 +4259,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2001
   },
   {
@@ -4077,6 +4280,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1990
   },
   {
@@ -4097,6 +4301,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -4117,7 +4322,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000260",
@@ -4137,6 +4343,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -4157,6 +4364,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -4177,6 +4385,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -4197,6 +4406,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -4217,6 +4427,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -4237,6 +4448,7 @@
     "google_scholar": "1aj-oysAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -4257,6 +4469,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -4277,6 +4490,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -4297,6 +4511,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -4317,6 +4532,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -4337,6 +4553,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -4357,6 +4574,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -4377,6 +4595,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -4397,6 +4616,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2022
   },
   {
@@ -4417,6 +4637,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2015
   },
   {
@@ -4437,7 +4658,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000282",
@@ -4457,7 +4679,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000284",
@@ -4477,6 +4700,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -4497,6 +4721,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -4517,6 +4742,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2025
   },
   {
@@ -4537,7 +4763,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000290",
@@ -4557,6 +4784,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -4577,7 +4805,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000292",
@@ -4597,6 +4826,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -4617,6 +4847,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -4637,7 +4868,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000294",
@@ -4657,6 +4889,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -4677,6 +4910,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -4697,6 +4931,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -4717,7 +4952,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000298",
@@ -4737,6 +4973,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -4757,6 +4994,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -4777,6 +5015,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -4797,7 +5036,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000303",
@@ -4817,6 +5057,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -4837,6 +5078,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -4857,6 +5099,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -4877,7 +5120,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000308",
@@ -4897,6 +5141,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -4917,7 +5162,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000310",
@@ -4937,6 +5183,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1992
   },
   {
@@ -4957,6 +5204,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1996
   },
   {
@@ -4977,6 +5225,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -4997,6 +5246,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -5017,6 +5267,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -5037,6 +5288,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -5057,6 +5309,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -5077,6 +5330,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -5097,6 +5351,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -5117,6 +5372,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -5137,6 +5393,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -5157,6 +5414,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2000
   },
   {
@@ -5177,7 +5435,8 @@
     "orcid": "",
     "google_scholar": "GdYydUAAAAAJ",
     "instagram": "",
-    "linkedin": "germano-kienbaum-04552231"
+    "linkedin": "germano-kienbaum-04552231",
+    "falecido": false
   },
   {
     "perfil_id": "p000329",
@@ -5197,6 +5456,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -5217,6 +5477,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -5237,6 +5498,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -5257,6 +5519,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -5277,6 +5540,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -5297,6 +5561,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1995
   },
   {
@@ -5317,7 +5582,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000337",
@@ -5337,6 +5603,7 @@
     "google_scholar": "pOBeBnsAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -5357,6 +5624,7 @@
     "google_scholar": "pOBeBnsAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -5377,6 +5645,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2022
   },
   {
@@ -5397,6 +5666,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2001
   },
   {
@@ -5417,6 +5687,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -5437,6 +5708,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -5457,6 +5729,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -5477,6 +5750,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -5497,7 +5771,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000351",
@@ -5517,7 +5792,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000352",
@@ -5537,6 +5813,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -5557,6 +5834,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -5577,6 +5855,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -5597,6 +5876,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2015
   },
   {
@@ -5617,7 +5897,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000360",
@@ -5637,7 +5918,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000361",
@@ -5657,7 +5939,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000362",
@@ -5677,6 +5960,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -5697,6 +5981,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -5717,6 +6002,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -5737,6 +6023,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -5757,7 +6044,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000368",
@@ -5777,7 +6065,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000369",
@@ -5797,6 +6086,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -5817,6 +6107,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -5837,7 +6128,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000371",
@@ -5857,6 +6149,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -5877,6 +6170,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2025
   },
   {
@@ -5897,6 +6191,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -5917,6 +6212,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -5937,6 +6233,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -5957,6 +6254,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -5977,6 +6275,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -5997,7 +6296,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000379",
@@ -6017,7 +6317,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000381",
@@ -6037,7 +6338,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000383",
@@ -6057,7 +6359,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000385",
@@ -6077,7 +6380,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000387",
@@ -6097,7 +6401,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000389",
@@ -6117,6 +6422,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "igorkolesnikov",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -6137,6 +6443,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "igorkolesnikov",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -6157,6 +6464,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -6177,6 +6485,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -6197,6 +6506,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -6217,6 +6527,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -6237,6 +6548,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -6257,6 +6569,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -6277,6 +6590,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -6297,6 +6611,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -6317,7 +6632,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000401",
@@ -6337,6 +6653,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -6357,6 +6674,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -6377,6 +6695,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2025
   },
   {
@@ -6397,6 +6716,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -6417,6 +6737,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -6437,7 +6758,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000412",
@@ -6457,6 +6779,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -6477,6 +6800,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -6497,6 +6821,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -6517,6 +6842,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -6537,6 +6863,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -6557,7 +6884,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000419",
@@ -6577,6 +6905,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -6597,7 +6926,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000422",
@@ -6617,7 +6947,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000423",
@@ -6637,7 +6968,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000424",
@@ -6657,7 +6989,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000425",
@@ -6677,6 +7010,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2000
   },
   {
@@ -6697,7 +7031,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000427",
@@ -6717,7 +7052,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000428",
@@ -6737,7 +7073,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000429",
@@ -6757,6 +7094,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -6777,7 +7115,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000431",
@@ -6797,7 +7136,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000432",
@@ -6817,7 +7157,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000433",
@@ -6837,7 +7178,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000434",
@@ -6857,7 +7199,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000435",
@@ -6877,7 +7220,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000438",
@@ -6897,6 +7241,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -6917,7 +7262,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000439",
@@ -6937,6 +7283,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2000
   },
   {
@@ -6951,12 +7298,13 @@
     "tem_resumo": true,
     "foto_id": "3256284655278061",
     "foto_alternativa": "",
-    "foto_tipo": "sem_foto",
-    "foto_versao": "6d0d161c811d5996",
+    "foto_tipo": "real",
+    "foto_versao": "26acdff70bbdcf68",
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": true,
     "ano_conclusao": 1999
   },
   {
@@ -6977,7 +7325,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000442",
@@ -6997,7 +7346,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000444",
@@ -7017,6 +7367,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -7037,7 +7388,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000446",
@@ -7057,7 +7409,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000448",
@@ -7077,7 +7430,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000449",
@@ -7097,6 +7451,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -7117,7 +7472,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000451",
@@ -7137,7 +7493,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000452",
@@ -7157,7 +7514,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000453",
@@ -7177,7 +7535,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000454",
@@ -7197,6 +7556,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -7217,6 +7577,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -7237,6 +7598,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -7257,7 +7619,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000458",
@@ -7277,6 +7640,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -7297,7 +7661,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000460",
@@ -7317,6 +7682,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -7337,6 +7703,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -7357,6 +7724,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2000
   },
   {
@@ -7377,7 +7745,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000464",
@@ -7397,6 +7766,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1994
   },
   {
@@ -7417,6 +7787,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -7437,6 +7808,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1995
   },
   {
@@ -7457,6 +7829,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1995
   },
   {
@@ -7477,6 +7850,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -7497,7 +7871,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000471",
@@ -7517,6 +7892,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -7537,7 +7913,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000473",
@@ -7557,7 +7934,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000474",
@@ -7577,6 +7955,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1989
   },
   {
@@ -7597,6 +7976,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -7617,6 +7997,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -7637,6 +8018,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -7657,6 +8039,7 @@
     "google_scholar": "1jbhZBoAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -7677,6 +8060,7 @@
     "google_scholar": "1jbhZBoAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2015
   },
   {
@@ -7697,6 +8081,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -7717,6 +8102,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -7737,6 +8123,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -7757,6 +8144,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -7777,6 +8165,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -7797,6 +8186,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -7817,6 +8207,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -7837,6 +8228,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -7857,6 +8249,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -7877,6 +8270,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -7897,6 +8291,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -7917,7 +8312,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000496",
@@ -7937,7 +8333,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000497",
@@ -7957,6 +8354,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -7977,7 +8375,8 @@
     "orcid": "0000-0003-0439-0475",
     "google_scholar": "FSrFOAMAAAAJ",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000499",
@@ -7997,6 +8396,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -8017,6 +8417,7 @@
     "google_scholar": "6kSBtcAAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -8037,6 +8438,7 @@
     "google_scholar": "6kSBtcAAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -8057,6 +8459,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -8077,7 +8480,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000506",
@@ -8097,6 +8501,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -8117,6 +8522,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -8137,7 +8543,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000509",
@@ -8157,6 +8564,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -8177,6 +8585,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -8197,7 +8606,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000511",
@@ -8217,7 +8627,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000512",
@@ -8237,6 +8648,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1995
   },
   {
@@ -8257,6 +8669,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -8277,6 +8690,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -8297,6 +8711,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -8317,6 +8732,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -8337,6 +8753,7 @@
     "google_scholar": "J2_iEs8AAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -8357,6 +8774,7 @@
     "google_scholar": "J2_iEs8AAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -8377,6 +8795,7 @@
     "google_scholar": "qBGfVD0AAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -8397,6 +8816,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -8417,6 +8837,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -8437,7 +8858,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000525",
@@ -8457,6 +8879,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2025
   },
   {
@@ -8477,6 +8900,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -8497,6 +8921,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -8517,6 +8942,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -8537,7 +8963,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000532",
@@ -8557,6 +8984,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -8577,6 +9005,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -8597,6 +9026,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -8617,7 +9047,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000536",
@@ -8637,6 +9068,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -8657,6 +9089,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -8677,6 +9110,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -8697,6 +9131,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2015
   },
   {
@@ -8717,6 +9152,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1995
   },
   {
@@ -8737,6 +9173,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -8757,6 +9194,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -8777,7 +9215,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000549",
@@ -8797,7 +9236,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000550",
@@ -8817,7 +9257,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000552",
@@ -8837,6 +9278,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -8857,6 +9299,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -8877,6 +9320,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -8897,6 +9341,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -8917,6 +9362,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -8937,6 +9383,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -8957,7 +9404,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000563",
@@ -8977,6 +9425,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -8997,6 +9446,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -9017,7 +9467,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000567",
@@ -9037,6 +9488,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2025
   },
   {
@@ -9057,6 +9509,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -9077,6 +9530,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -9097,6 +9551,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -9117,6 +9572,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -9137,6 +9593,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -9157,6 +9614,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -9177,6 +9635,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -9197,7 +9656,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000580",
@@ -9217,7 +9677,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000583",
@@ -9237,6 +9698,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -9257,6 +9719,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -9277,6 +9740,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2022
   },
   {
@@ -9297,6 +9761,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -9317,6 +9782,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -9337,6 +9803,7 @@
     "google_scholar": "fzl92yUAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1994
   },
   {
@@ -9357,6 +9824,7 @@
     "google_scholar": "fzl92yUAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -9377,7 +9845,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000593",
@@ -9397,6 +9866,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -9417,7 +9887,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000596",
@@ -9437,6 +9908,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2015
   },
   {
@@ -9457,6 +9929,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -9477,6 +9950,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -9497,6 +9971,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -9517,6 +9992,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1994
   },
   {
@@ -9537,6 +10013,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -9557,6 +10034,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -9577,7 +10055,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000604",
@@ -9597,6 +10076,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -9617,6 +10097,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -9637,6 +10118,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -9657,6 +10139,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -9677,6 +10160,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -9697,7 +10181,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000610",
@@ -9717,7 +10202,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000611",
@@ -9737,6 +10223,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -9757,7 +10244,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000613",
@@ -9777,6 +10265,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -9797,6 +10286,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -9817,6 +10307,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -9837,6 +10328,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -9857,7 +10349,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000618",
@@ -9877,6 +10370,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -9897,7 +10391,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000620",
@@ -9917,6 +10412,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -9937,6 +10433,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -9957,6 +10454,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -9977,7 +10475,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000624",
@@ -9997,6 +10496,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -10017,6 +10517,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -10037,6 +10538,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -10057,7 +10559,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000630",
@@ -10077,6 +10580,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -10097,6 +10601,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -10117,7 +10622,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000633",
@@ -10137,6 +10643,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -10157,6 +10664,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -10177,6 +10685,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1986
   },
   {
@@ -10197,7 +10706,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000638",
@@ -10217,6 +10727,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -10237,6 +10748,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -10257,6 +10769,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -10277,7 +10790,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000643",
@@ -10297,6 +10811,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "marilyn-minicuccci-ibañez-9aa92628",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -10317,6 +10832,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "marilyn-minicuccci-ibañez-9aa92628",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -10337,7 +10853,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000646",
@@ -10357,6 +10874,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -10377,6 +10895,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1990
   },
   {
@@ -10397,6 +10916,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -10417,6 +10937,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -10437,6 +10958,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2015
   },
   {
@@ -10457,6 +10979,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -10477,7 +11000,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000652",
@@ -10497,6 +11021,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -10517,7 +11042,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000655",
@@ -10537,6 +11063,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -10557,6 +11084,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -10577,6 +11105,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -10597,6 +11126,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -10617,6 +11147,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -10637,6 +11168,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -10657,7 +11189,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000666",
@@ -10677,7 +11210,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000667",
@@ -10697,6 +11231,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -10717,7 +11252,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000669",
@@ -10737,6 +11273,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1996
   },
   {
@@ -10757,6 +11294,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2001
   },
   {
@@ -10777,6 +11315,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1992
   },
   {
@@ -10797,6 +11336,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -10817,6 +11357,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -10837,6 +11378,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -10857,7 +11399,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000681",
@@ -10877,6 +11420,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2025
   },
   {
@@ -10897,7 +11441,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000686",
@@ -10917,7 +11462,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000687",
@@ -10937,6 +11483,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -10957,6 +11504,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -10977,7 +11525,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000689",
@@ -10997,6 +11546,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -11017,6 +11567,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -11037,6 +11588,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -11057,6 +11609,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -11077,6 +11630,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -11097,6 +11651,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1996
   },
   {
@@ -11117,7 +11672,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000698",
@@ -11137,6 +11693,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -11157,6 +11714,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -11177,6 +11735,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -11197,7 +11756,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000701",
@@ -11217,7 +11777,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000702",
@@ -11237,6 +11798,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -11257,6 +11819,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -11277,6 +11840,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -11297,7 +11861,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000705",
@@ -11317,6 +11882,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2001
   },
   {
@@ -11337,7 +11903,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000708",
@@ -11357,6 +11924,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -11377,6 +11945,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -11397,7 +11966,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000711",
@@ -11417,6 +11987,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2000
   },
   {
@@ -11437,7 +12008,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000713",
@@ -11457,6 +12029,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2000
   },
   {
@@ -11477,6 +12050,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1993
   },
   {
@@ -11497,7 +12071,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000716",
@@ -11517,7 +12092,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000717",
@@ -11537,7 +12113,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000718",
@@ -11557,7 +12134,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000719",
@@ -11577,6 +12155,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -11597,7 +12176,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": true
   },
   {
     "perfil_id": "p000721",
@@ -11617,7 +12197,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000722",
@@ -11637,7 +12218,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000723",
@@ -11657,7 +12239,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000724",
@@ -11677,7 +12260,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000727",
@@ -11697,6 +12281,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -11717,6 +12302,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -11737,7 +12323,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000731",
@@ -11757,7 +12344,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000732",
@@ -11777,6 +12365,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -11797,6 +12386,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -11817,6 +12407,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -11837,6 +12428,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -11857,6 +12449,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -11877,7 +12470,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000741",
@@ -11897,6 +12491,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2000
   },
   {
@@ -11917,6 +12512,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2001
   },
   {
@@ -11937,6 +12533,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -11957,7 +12554,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000745",
@@ -11977,7 +12575,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000747",
@@ -11997,7 +12596,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000748",
@@ -12017,6 +12617,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2022
   },
   {
@@ -12037,6 +12638,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1995
   },
   {
@@ -12057,6 +12659,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2001
   },
   {
@@ -12077,7 +12680,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000754",
@@ -12097,7 +12701,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000755",
@@ -12117,6 +12722,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -12137,6 +12743,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -12157,6 +12764,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -12177,7 +12785,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000761",
@@ -12197,6 +12806,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -12217,6 +12827,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -12237,6 +12848,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -12257,6 +12869,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -12277,6 +12890,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2022
   },
   {
@@ -12297,6 +12911,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -12317,6 +12932,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -12337,6 +12953,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -12357,7 +12974,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000773",
@@ -12377,6 +12995,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -12397,7 +13016,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000775",
@@ -12417,6 +13037,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2001
   },
   {
@@ -12437,6 +13058,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -12457,6 +13079,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -12477,6 +13100,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -12497,7 +13121,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000785",
@@ -12517,6 +13142,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -12537,6 +13163,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -12557,7 +13184,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000790",
@@ -12577,6 +13205,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -12597,6 +13226,7 @@
     "google_scholar": "HJtaN_QAAAAJ",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -12617,6 +13247,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -12637,7 +13268,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000796",
@@ -12657,7 +13289,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000796",
@@ -12677,7 +13310,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000797",
@@ -12697,7 +13331,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000798",
@@ -12717,6 +13352,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1996
   },
   {
@@ -12737,6 +13373,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -12757,6 +13394,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2000
   },
   {
@@ -12777,6 +13415,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -12797,6 +13436,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -12817,6 +13457,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -12837,6 +13478,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": true,
     "ano_conclusao": 2004
   },
   {
@@ -12857,6 +13499,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -12877,6 +13520,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -12897,6 +13541,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -12917,6 +13562,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -12937,6 +13583,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -12957,6 +13604,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -12977,6 +13625,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -12997,6 +13646,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -13017,6 +13667,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -13037,6 +13688,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -13057,6 +13709,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -13077,6 +13730,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -13097,6 +13751,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -13117,6 +13772,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -13137,6 +13793,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2020
   },
   {
@@ -13157,7 +13814,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000824",
@@ -13177,6 +13835,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2026
   },
   {
@@ -13197,6 +13856,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -13217,6 +13877,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -13237,6 +13898,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -13257,6 +13919,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -13277,6 +13940,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -13297,6 +13961,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -13317,6 +13982,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -13337,6 +14003,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1998
   },
   {
@@ -13357,6 +14024,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -13377,7 +14045,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000836",
@@ -13397,6 +14066,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -13417,6 +14087,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -13437,6 +14108,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -13457,7 +14129,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000841",
@@ -13477,6 +14150,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -13497,6 +14171,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -13517,6 +14192,7 @@
     "google_scholar": "",
     "instagram": "rubenscgatto",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1994
   },
   {
@@ -13537,6 +14213,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -13557,6 +14234,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -13577,6 +14255,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2000
   },
   {
@@ -13597,6 +14276,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -13617,6 +14297,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -13637,6 +14318,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -13657,6 +14339,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2000
   },
   {
@@ -13677,7 +14360,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000855",
@@ -13697,7 +14381,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000857",
@@ -13717,6 +14402,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -13737,6 +14423,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -13757,6 +14444,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2015
   },
   {
@@ -13777,6 +14465,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1992
   },
   {
@@ -13797,6 +14486,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -13817,6 +14507,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -13837,6 +14528,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -13857,6 +14549,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -13877,6 +14570,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -13897,6 +14591,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -13917,7 +14612,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000868",
@@ -13937,6 +14633,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -13957,6 +14654,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -13977,7 +14675,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000871",
@@ -13997,6 +14696,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -14017,6 +14717,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2004
   },
   {
@@ -14037,7 +14738,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000876",
@@ -14057,7 +14759,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000877",
@@ -14077,6 +14780,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -14097,7 +14801,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000879",
@@ -14117,7 +14822,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000880",
@@ -14137,6 +14843,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -14157,6 +14864,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -14177,7 +14885,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000883",
@@ -14197,6 +14906,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -14217,7 +14927,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000886",
@@ -14237,7 +14948,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000887",
@@ -14257,6 +14969,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -14277,7 +14990,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000889",
@@ -14297,6 +15011,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -14317,6 +15032,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -14337,7 +15053,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000891",
@@ -14357,6 +15074,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -14377,6 +15095,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2015
   },
   {
@@ -14397,6 +15116,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 1999
   },
   {
@@ -14417,7 +15137,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000894",
@@ -14437,6 +15158,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -14457,6 +15179,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -14477,6 +15200,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2003
   },
   {
@@ -14497,6 +15221,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -14517,6 +15242,7 @@
     "google_scholar": "",
     "instagram": "tkorting",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -14537,6 +15263,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -14557,6 +15284,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -14577,6 +15305,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -14597,6 +15326,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -14617,6 +15347,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -14637,6 +15368,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -14657,6 +15389,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -14677,7 +15410,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000911",
@@ -14697,6 +15431,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2006
   },
   {
@@ -14717,6 +15452,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -14737,6 +15473,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -14757,6 +15494,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2011
   },
   {
@@ -14777,7 +15515,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000917",
@@ -14797,6 +15536,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -14817,7 +15557,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000920",
@@ -14837,6 +15578,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -14857,6 +15599,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -14877,6 +15620,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -14897,6 +15641,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2017
   },
   {
@@ -14917,6 +15662,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -14937,7 +15683,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000929",
@@ -14957,6 +15704,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -14977,6 +15725,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2025
   },
   {
@@ -14997,6 +15746,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2018
   },
   {
@@ -15017,7 +15767,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000935",
@@ -15037,7 +15788,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000936",
@@ -15057,6 +15809,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2012
   },
   {
@@ -15077,6 +15830,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -15097,6 +15851,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2015
   },
   {
@@ -15117,6 +15872,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -15137,7 +15893,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": "walter-celaschi-9191722b"
+    "linkedin": "walter-celaschi-9191722b",
+    "falecido": false
   },
   {
     "perfil_id": "p000947",
@@ -15157,6 +15914,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2013
   },
   {
@@ -15177,6 +15935,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -15197,6 +15956,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2019
   },
   {
@@ -15217,6 +15977,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -15237,6 +15998,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2005
   },
   {
@@ -15257,7 +16019,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000953",
@@ -15277,6 +16040,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -15297,6 +16061,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -15317,6 +16082,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -15337,6 +16103,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2024
   },
   {
@@ -15357,7 +16124,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000957",
@@ -15377,7 +16145,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000958",
@@ -15397,7 +16166,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000962",
@@ -15417,6 +16187,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2007
   },
   {
@@ -15437,6 +16208,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2023
   },
   {
@@ -15457,7 +16229,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000048",
@@ -15477,6 +16250,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2009
   },
   {
@@ -15497,6 +16271,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "alvaro-fazenda-39379718",
+    "falecido": false,
     "ano_conclusao": 1997
   },
   {
@@ -15517,6 +16292,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "alvaro-fazenda-39379718",
+    "falecido": false,
     "ano_conclusao": 2002
   },
   {
@@ -15537,6 +16313,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2021
   },
   {
@@ -15557,6 +16334,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2010
   },
   {
@@ -15577,6 +16355,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2014
   },
   {
@@ -15597,7 +16376,8 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   },
   {
     "perfil_id": "p000969",
@@ -15617,6 +16397,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2008
   },
   {
@@ -15637,6 +16418,7 @@
     "google_scholar": "",
     "instagram": "",
     "linkedin": "",
+    "falecido": false,
     "ano_conclusao": 2016
   },
   {
@@ -15657,6 +16439,7 @@
     "orcid": "",
     "google_scholar": "",
     "instagram": "",
-    "linkedin": ""
+    "linkedin": "",
+    "falecido": false
   }
 ]

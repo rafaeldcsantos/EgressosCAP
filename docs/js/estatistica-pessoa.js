@@ -33,7 +33,7 @@ async function iniciar() {
   document.title = `${pessoa.nome} — Publicações · PGCAP`;
   document.querySelector("#nome").textContent = pessoa.nome;
   const foto = document.querySelector("#foto");
-  if (pessoa.foto_tipo === "real") { foto.src = `assets/photos/${encodeURIComponent(pessoa.foto_id || id)}.jpg`; foto.alt = `Retrato de ${pessoa.nome}`; foto.onerror = () => { foto.hidden = true; }; foto.hidden = false; }
+  if (pessoa.foto_tipo === "real") { foto.src = `assets/photos/${encodeURIComponent(pessoa.foto_id || id)}.jpg`; foto.alt = `Retrato de ${pessoa.nome}`; foto.onerror = () => { foto.hidden = true; }; foto.hidden = false; document.querySelector("#sinal-falecimento").hidden = !pessoa.falecido; }
   // Plotly mede o elemento no momento do desenho; o artigo não pode estar oculto.
   estado.hidden = true;
   document.querySelector("#perfil").hidden = false;

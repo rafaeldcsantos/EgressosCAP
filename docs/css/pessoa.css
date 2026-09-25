@@ -3,7 +3,9 @@ main.pessoa { max-width: 960px; padding-top: 32px; padding-bottom: 56px; }
 .pessoa a { color: var(--azul); }
 .pessoa a:focus-visible { outline: 2px solid var(--azul); outline-offset: 4px; }
 .apresentacao-pessoa { display: flex; align-items: center; gap: 28px; margin: 24px 0 36px; }
-#retrato { width: 144px; height: 180px; object-fit: cover; object-position: top; }
+.area-retrato { position: relative; width: 144px; height: 180px; overflow: hidden; background: #dce3df; }
+#retrato { display: block; width: 144px; height: 180px; object-fit: cover; object-position: top; }
+.area-retrato .sinal-falecimento { top: -26px; right: 10px; }
 .pessoa h1 { font-size: clamp(2rem, 5vw, 3.5rem); overflow-wrap: anywhere; }
 .pessoa h2 { font-size: 1.4rem; margin-bottom: 12px; }
 .pessoa section { padding: 24px; margin: 20px 0; border: 1px solid var(--linha); background: #fff; }
